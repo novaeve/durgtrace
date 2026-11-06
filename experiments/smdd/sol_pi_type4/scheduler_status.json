@@ -1,0 +1,34 @@
+{
+  "pid": 1271911,
+  "updated": 1791467841.5328455,
+  "state": "complete",
+  "concurrency_per_method": 8,
+  "gpu_pool": [
+    0,
+    1
+  ],
+  "active": {
+    "solpi": []
+  },
+  "blocked": {
+    "solpi": {}
+  },
+  "counts": {
+    "solpi": {
+      "total": 340,
+      "completed": 340,
+      "evaluation": {
+        "passed": 191,
+        "failed": 144,
+        "not_evaluated": 5
+      },
+      "agent": {
+        "complete": 340
+      },
+      "active": 0,
+      "waiting": 0,
+      "pilot_passed": true
+    }
+  },
+  "rescore_batch": "/yimin/zlc/sol_pi_type4_20261004/rescore5_20261008"
+}

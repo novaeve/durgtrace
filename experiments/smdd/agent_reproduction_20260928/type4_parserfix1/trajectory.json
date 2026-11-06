@@ -1,0 +1,49 @@
+[
+  {
+    "step": 0,
+    "parse_error": "Use separate Action: ID, Input: Python list, and optional Desc: lines",
+    "budget_used": {
+      "admet": 0,
+      "boltz": 0
+    }
+  },
+  {
+    "step": 1,
+    "action": "OPTIMIZE001",
+    "input": [
+      "MOL007",
+      "clearance"
+    ],
+    "output": "MOL008",
+    "metadata": {
+      "seed": 686579304,
+      "run_seed": 42,
+      "objective": "clearance",
+      "score_calls": 15,
+      "score_cap": 500,
+      "stop": "budget_exhausted:admet",
+      "scores": {
+        "Nc1ncnc2c1c(-c1ccc(Cl)c(O)c1)nn2C1CCC1": 0.49999921866166513,
+        "Oc1cc(-c2ccc(Cl)c(O)c2)ccc1Cl": 0.0018118146259906095,
+        "NC1=C(c2nn(C3CCC3)c3ncnc(N)c23)CNc2c1c(-c1ccc(Cl)c(O)c1)nn2C1CCC1": 0.9999999914563357,
+        "Nc1ccc(-c2nn(C3CCC3)c3ncnc(N)c23)cc1O": 0.990904756520746,
+        "Oc1ccccc1Cl": 4.230198311015646e-06,
+        "Nc1ncnc2c1c(-c1ccc(Cl)c(C3CCC3)c1)nn2C1CCC1": 0.9999989219787273,
+        "Nc1[nH]nc2c1c(-c1ccc(Cl)c(O)c1)nn2C1CCC1": 0.95498783523288,
+        "NC1NCNC2=C(Cl)C(O)=C(c3ccc(Cl)c(O)c3)C21": 0.9999665421474485,
+        "NC1NCNC2=CCC=C21": 0.9999999989386299,
+        "Nc1cc(-c2nn(C3CCC3)c3ncnc(N)c23)ccc1Cl": 0.9999705103098104,
+        "Nc1ncnc2c1c(C1=CC=C(c3nn(C4CCC4)c4ncnc(N)c34)C1)nn2C1CCC1": 0.9999999772588409,
+        "Nc1ncnc2c1c(-c1ccc(O)c(O)c1)nn2C1CCC1": 0.9980033697122538,
+        "NC1NCNC2C1=CC=NN2C1CCC1": 0.9999999758210635,
+        "Oc1cc(-c2ncnc3c2c(-c2ccc(Cl)c(O)c2)nn3C2CCC2)ccc1Cl": 0.9999139521110681,
+        "Oc1cc(-c2nn(C3CCC3)c3ncnc(O)c23)ccc1Cl": 0.17375763773685504
+      },
+      "vina_calls": 0
+    },
+    "budget_used": {
+      "admet": 15,
+      "boltz": 0
+    }
+  }
+]

@@ -1,0 +1,64 @@
+{
+  "benchmark_commit": "359ef1d7c042b85fc1c544662b4fd6fb381f346f",
+  "type4_task_count": 340,
+  "evaluator_image_id": "sha256:3155cd0309ef7b3de0f6e5826792de785d6adff50d472ce31a1482739cb16fcf",
+  "environments": {
+    "liddia": {
+      "python": "3.11.16 (main, Sep  2 2026, 23:39:52) [GCC 15.3.0]",
+      "torch": "2.3.1+cpu",
+      "numpy": "1.26.4",
+      "rdkit": "2023.9.6",
+      "rdkit-pypi": "2022.9.5",
+      "torch-geometric": "2.5.3",
+      "torch-scatter": "2.1.2+pt23cpu",
+      "torch-cluster": "1.6.3+pt23cpu",
+      "torch-sparse": "0.6.18+pt23cpu",
+      "openai": "3.19.2",
+      "pandas": "2.0.3",
+      "imported_rdkit": "2023.09.6",
+      "imported_numpy": "1.26.4"
+    },
+    "pocket_gpu": {
+      "python": "3.11.16 (main, Sep  2 2026, 23:39:52) [GCC 15.3.0]",
+      "torch": "2.7.1+cu128",
+      "numpy": "1.26.4",
+      "rdkit": "2024.9.6",
+      "boltz": "2.0.3",
+      "torch-geometric": "2.5.3",
+      "torch-scatter": "2.1.2+pt27cu128",
+      "torch-cluster": "1.6.3+pt27cu128",
+      "torch-sparse": "0.6.18+pt27cu128",
+      "openai": "1.109.1",
+      "pandas": "2.3.3",
+      "imported_rdkit": "2024.09.6",
+      "imported_numpy": "1.26.4"
+    },
+    "boltz_smdd": {
+      "python": "3.10.12 (main, Aug 31 2026, 10:18:17) [GCC 11.4.0]",
+      "torch": "2.13.0",
+      "numpy": "1.26.4",
+      "rdkit": "2024.9.6",
+      "rdkit-pypi": "2022.9.5",
+      "boltz": "2.2.1",
+      "openai": "3.6.0",
+      "pandas": "2.3.3",
+      "imported_rdkit": "2024.09.6",
+      "imported_numpy": "1.26.4"
+    }
+  },
+  "code_sha256": {
+    "run_liddia_type4.py": "589ea934e214421028dbf0415989a94e75361a69259e6e6f5d9784a6ddd2d183",
+    "smdd_liddia_tools.py": "9cb13c79a8d5fe3a92d82eb9eb22109430a096cc539ef07e6435b0f3bc5996a8",
+    "smdd_backends.py": "341301149c0886b9d416a2b0b993d68010621db56d3d3aa89a7e35fafdb46484",
+    "prepare_type4.py": "7cfd6519517072271a15b86e22cde80cae022d6e049da5b5c2d1c7a7fe904189",
+    "code_worker.py": "708da2224d4a5c4d1ee643a37f375097552913a3344411b8ca17128e75152ffa",
+    "evaluate_type4.py": "a29ec1cbef527d16adeb0e7bb4c57d96caa11cf1bc52390858af0c7b661376b5",
+    "smdd_eval_bridge.py": "f06f59483c346bebc841b86c169ddd6e766d0e9ec50b0006e9aec94ac1f6010d",
+    "launch_liddia_pilot.sh": "92468e367ef108c42c82c4152876327651615052c6bbd467df4d6b1b934b77eb"
+  },
+  "vina_enabled": false,
+  "pilot_task": "smdd_004_ABL1_1",
+  "batch_started": false,
+  "source_archive": "2b78bfd4e6529581fab9c4142cc32393c49b86e66d51257fb51326d9bc111914  /data2/chenfuxin/liddia_smdd_type4_20260928/migration/type4_source.tar.gz",
+  "image_archive": "d304b7ed7369add59dc163399163c12809353230aa8315bdc3295949df83afd4  /data2/chenfuxin/liddia_smdd_type4_20260928/migration/evaluator_rootfs.tar.gz"
+}

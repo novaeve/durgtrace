@@ -1,0 +1,64 @@
+{
+  "expected_per_method": 5600,
+  "expected_total": 22400,
+  "reference_sha256": "d118b671cfa62b74f5366eddbd2296e3c23fb7f0ac59f1ed49e4cb62aeefdccf",
+  "methods": {
+    "MolLingo_single": {
+      "processed": 5600,
+      "complete": 5600,
+      "statuses": {
+        "complete": 5600
+      },
+      "reused": 320,
+      "success": 4274,
+      "valid": 5504,
+      "final_success_rate": 0.7632142857142857,
+      "final_audit_passed": true
+    },
+    "MolClaw": {
+      "processed": 5600,
+      "complete": 5577,
+      "statuses": {
+        "complete": 5577,
+        "error": 23
+      },
+      "reused": 320,
+      "success": 4870,
+      "valid": 5396,
+      "final_success_rate": 0.8696428571428572,
+      "final_audit_passed": true
+    },
+    "SoL-pi": {
+      "processed": 5600,
+      "complete": 5316,
+      "statuses": {
+        "complete": 5316,
+        "provider_limit": 265,
+        "timeout": 19
+      },
+      "reused": 0,
+      "success": 4975,
+      "valid": 5313,
+      "final_success_rate": 0.8883928571428571,
+      "final_audit_passed": true
+    },
+    "Codex": {
+      "processed": 5600,
+      "complete": 5436,
+      "statuses": {
+        "complete": 5436,
+        "provider_limit": 139,
+        "error": 3,
+        "timeout": 22
+      },
+      "reused": 1273,
+      "success": 4606,
+      "valid": 5424,
+      "final_success_rate": 0.8225,
+      "final_audit_passed": true
+    }
+  },
+  "time": 1791870414.23816,
+  "processed_total": 22400,
+  "all_finished": true
+}

@@ -1,0 +1,11 @@
+# SoL-Pi: ChatDrug-MolEdit-28 and S²-miniMolOpt
+
+The frozen original dataset contains 5,600 ChatDrug cases (28 settings, 200 inputs each) and 1,500 S²-miniMolOpt cases (LogP/QED/MR, 500 each). Its SHA256 is 81b3bed3ac18d3befddbd60afea5076b4ebe041226bfe3de0b9f920413066e92. All original instructions and thresholds are retained.
+
+Generation uses the installed native SoL-Pi harness with all four mechanisms enabled. Both the main model and context reducer use deepseek-v4.1-flash, temperature 0, thinking disabled, and the existing private credential read in place. No new key is stored in this experiment directory. The harness receives one task at a time; dataset metadata, prior results and evaluators are not mounted in its workspace.
+
+Python/RDKit use the original benchmark environment (RDKit 2022.09.4). Tools may perform their own chemistry calculations. There is no benchmark scoring feedback during an episode. Only the final submitted molecule is scored, once, using the original evaluator, after the native episode ends. ChatDrug preserves original loose/strict amplitudes and Kekulize behavior. S²-miniMolOpt preserves the original strict directional property test. No common-task rescore, rewritten prompt, additional success filter, or best-of-trajectory selection is used.
+
+The native episode limit is 3,600 seconds with a 1,800-second idle guard, as in earlier SoL-Pi experiments. Provider max_tokens is omitted; its default applies. Native context management, tool use and internal call counts differ from other harnesses and are not claimed to match ChatDrug/AgentDrug internal caps. Concurrency is eight. Disk admission is checked before starting a case, outside its native time budget, with a 20 GiB floor. Workspaces and evidence are stored under /data/chenfuxin/sol_pi_chatdrug_molopt_20261007. Immutable rg/fd binaries are mounted read-only once, with per-case symlinks.
+
+Before the full run: verify all 34 original setting scorers against stored historical results; test evaluator isolation, RDKit parity, native fused tool execution, model/thinking settings and enabled mechanisms; then run one pilot case per benchmark. Pilot outputs are separate from the 7,100-case full-run denominator. No scored pilot outcome is selected to improve a full-run result.

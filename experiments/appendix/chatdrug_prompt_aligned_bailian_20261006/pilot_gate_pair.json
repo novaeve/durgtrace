@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "cases_per_method": 28,
+  "methods": [
+    "ChatDrug",
+    "DeepSeek_direct"
+  ],
+  "prompt_checked_in_real_requests": true,
+  "failures": [],
+  "updated_utc": "2026-10-06T12:58:00.166983+00:00"
+}

@@ -1,0 +1,32 @@
+id: smdd_002_Q9Y6K1_0
+name: Pharmacophore_DNMT3A
+description: 'You are given a protein receptor structure (receptor.pdb). The binding
+    pocket center is located at coordinates (107.474083, 45.398148, -2.547500) in
+    Angstroms with a pocket radius of 12 Angstroms. Your task is to identify the 3
+    most conserved pharmacophoric interaction points within this binding pocket. Each
+    point should be specified by its 3D coordinates (x, y, z) and one interaction
+    type. The valid interaction types are: Donor, Acceptor, Aromatic, Hydrophobic,
+    Cation, Anion. Output a CSV file titled ''solution.csv'' with columns x,y,z,type
+    containing exactly 3 rows (no header).'
+pocket_center:
+- 107.47408294677734
+- 45.39814758300781
+- -2.5475001335144043
+input_files:
+- receptor.pdb
+output_config:
+    file_path: solution.csv
+    format: csv
+evaluation:
+-   name: 3D Pharmacophore Match
+    module: metrics.pharmacophore_3d
+    function: evaluate_3d_pharmacophore
+    result_key: score
+    inputs:
+    -   source: output
+        arg: agent_solution_path
+    -   source: file
+        value: ground_truth.json
+        arg: ground_truth_path
+    condition:
+        eq: 1.0

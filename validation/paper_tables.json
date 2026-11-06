@@ -1,0 +1,69 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "table": "table_2",
+      "numeric_cells": 38,
+      "passed": true,
+      "differences": []
+    },
+    {
+      "table": "table_3",
+      "numeric_cells": 26,
+      "passed": true,
+      "differences": []
+    },
+    {
+      "table": "table_5",
+      "numeric_cells": 6,
+      "passed": true,
+      "differences": []
+    },
+    {
+      "table": "table_A2",
+      "numeric_cells": 119,
+      "passed": true,
+      "differences": []
+    },
+    {
+      "table": "table_A3",
+      "numeric_cells": 28,
+      "passed": true,
+      "differences": []
+    },
+    {
+      "table": "table_A4",
+      "numeric_cells": 21,
+      "passed": true,
+      "differences": []
+    },
+    {
+      "table": "table_A5",
+      "numeric_cells": 28,
+      "passed": true,
+      "differences": []
+    },
+    {
+      "table": "table_A6",
+      "numeric_cells": 56,
+      "passed": true,
+      "differences": []
+    },
+    {
+      "table": "table_B1",
+      "numeric_cells": 56,
+      "passed": true,
+      "differences": []
+    },
+    {
+      "table": "table_4",
+      "passed": true,
+      "method": "manual row transcription checked against PDF page 5"
+    },
+    {
+      "table": "table_A1",
+      "passed": true,
+      "method": "coverage matches 64 reported method/task combinations"
+    }
+  ]
+}

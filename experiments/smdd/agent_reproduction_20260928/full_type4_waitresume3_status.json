@@ -1,0 +1,701 @@
+{
+  "run": "full_type4_waitresume3",
+  "pid": 3099324,
+  "state": "running",
+  "total": 340,
+  "current": "smdd_004_BACE1_14",
+  "finished": {
+    "smdd_004_A2A_Adenosine_0": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 5
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-28T10:17:17.244668+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_A2A_Adenosine_0"
+    },
+    "smdd_004_A2A_Adenosine_1": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 2
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-28T10:30:08.030772+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_A2A_Adenosine_1"
+    },
+    "smdd_004_ABL1_0": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-29T08:19:11.326631+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_runtimefix2/smdd_004_ABL1_0"
+    },
+    "smdd_004_ABL1_1": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 1,
+        "boltz": 5
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-29T10:24:57.723921+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_runtimefix2/smdd_004_ABL1_1"
+    },
+    "smdd_004_ABL1_2": {
+      "agent_exit": null,
+      "evaluation_exit": 0,
+      "mode": "evaluation_only",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 0
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-29T07:43:55.554283+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_runtimefix2/smdd_004_ABL1_2"
+    },
+    "smdd_004_ACE_0": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 2
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-28T14:19:25.375196+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0"
+    },
+    "smdd_004_ACE_1": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 5
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-28T15:03:51.790994+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_1"
+    },
+    "smdd_004_ACE_10": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 1,
+        "boltz": 8
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-28T16:39:59.677375+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10"
+    },
+    "smdd_004_ACE_11": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-28T18:25:22.056240+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11"
+    },
+    "smdd_004_ACE_13": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 4
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-28T19:18:16.528215+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_13"
+    },
+    "smdd_004_ACE_14": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 1
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-28T19:34:53.214392+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_14"
+    },
+    "smdd_004_ACE_16": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 4
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-28T21:40:49.664911+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16"
+    },
+    "smdd_004_ACE_17": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 8
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-28T23:25:37.677217+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17"
+    },
+    "smdd_004_ACE_18": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 2
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-29T00:07:39.613626+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_18"
+    },
+    "smdd_004_ACE_2": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 3
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-29T00:38:24.073175+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_2"
+    },
+    "smdd_004_ACE_20": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-29T02:00:32.169995+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_20"
+    },
+    "smdd_004_ACE_21": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 0
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-29T02:34:50.976286+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_21"
+    },
+    "smdd_004_ACE_22": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-29T03:53:38.416367+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_22"
+    },
+    "smdd_004_ACE_5": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 3
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-29T05:05:53.704296+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_5"
+    },
+    "smdd_004_ABL1_11": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 2
+      },
+      "evaluation_status": "errored",
+      "time": "2026-09-29T16:22:18.595808+00:00"
+    },
+    "smdd_004_ABL1_3": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 1,
+        "boltz": 0
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-29T17:49:27.173271+00:00"
+    },
+    "smdd_004_ABL1_6": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 4
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-29T21:29:25.009255+00:00"
+    },
+    "smdd_004_ACE_15": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 1,
+        "boltz": 8
+      },
+      "evaluation_status": "passed",
+      "time": "2026-09-30T02:58:16.192252+00:00"
+    },
+    "smdd_004_ACE_3": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 4
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T04:17:52.324075+00:00"
+    },
+    "smdd_004_ACE_4": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 3,
+        "boltz": 8
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T05:43:48.933447+00:00"
+    },
+    "smdd_004_ACE_6": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 7
+      },
+      "evaluation_status": "errored",
+      "time": "2026-09-30T06:33:40.457480+00:00"
+    },
+    "smdd_004_ACE_7": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T07:34:10.787665+00:00"
+    },
+    "smdd_004_ACE_8": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 8
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T09:16:55.772192+00:00"
+    },
+    "smdd_004_ACE_9": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 0,
+        "boltz": 3
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T09:37:05.254789+00:00"
+    },
+    "smdd_004_ALK_0": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 3
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T10:16:44.575995+00:00"
+    },
+    "smdd_004_ALK_1": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 1
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T10:35:36.507367+00:00"
+    },
+    "smdd_004_ALK_13": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 2
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T11:30:37.738728+00:00"
+    },
+    "smdd_004_ALK_2": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 7
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T12:10:59.178259+00:00"
+    },
+    "smdd_004_ALK_3": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 2
+      },
+      "evaluation_status": "passed",
+      "time": "2026-09-30T12:42:33.753479+00:00"
+    },
+    "smdd_004_ALK_4": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 3
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T13:18:41.464889+00:00"
+    },
+    "smdd_004_ALK_5": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 1
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T13:28:00.507125+00:00"
+    },
+    "smdd_004_ALK_8": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 1
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T13:37:31.500927+00:00"
+    },
+    "smdd_004_Androgen_Receptor_0": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 2
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T13:52:51.969975+00:00"
+    },
+    "smdd_004_Androgen_Receptor_1": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 2
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T14:38:53.117130+00:00"
+    },
+    "smdd_004_Androgen_Receptor_13": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 6
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T15:06:13.193422+00:00"
+    },
+    "smdd_004_Androgen_Receptor_2": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 8
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T16:07:14.713226+00:00"
+    },
+    "smdd_004_Androgen_Receptor_3": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 1
+      },
+      "evaluation_status": "passed",
+      "time": "2026-09-30T16:27:53.165841+00:00"
+    },
+    "smdd_004_Androgen_Receptor_4": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 6
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T16:56:46.701472+00:00"
+    },
+    "smdd_004_Androgen_Receptor_5": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 2
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T17:19:27.879814+00:00"
+    },
+    "smdd_004_Androgen_Receptor_6": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 1
+      },
+      "evaluation_status": "passed",
+      "time": "2026-09-30T17:25:29.704526+00:00"
+    },
+    "smdd_004_Androgen_Receptor_7": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 3,
+        "boltz": 8
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T18:32:05.570209+00:00"
+    },
+    "smdd_004_Androgen_Receptor_8": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T19:13:56.383889+00:00"
+    },
+    "smdd_004_Aurora_A_0": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T20:14:05.235358+00:00"
+    },
+    "smdd_004_Aurora_A_1": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T20:34:43.061833+00:00"
+    },
+    "smdd_004_Aurora_A_2": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 6
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T21:22:26.673169+00:00"
+    },
+    "smdd_004_Aurora_A_3": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 2,
+        "boltz": 2
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T22:40:51.660802+00:00"
+    },
+    "smdd_004_BACE1_0": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 1
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T23:28:58.633021+00:00"
+    },
+    "smdd_004_BACE1_1": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "evaluation_status": "failed",
+      "time": "2026-10-01T00:10:21.741166+00:00"
+    },
+    "smdd_004_BACE1_10": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 6
+      },
+      "evaluation_status": "failed",
+      "time": "2026-10-01T00:51:07.513803+00:00"
+    },
+    "smdd_004_BACE1_11": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 5
+      },
+      "evaluation_status": "failed",
+      "time": "2026-10-01T01:31:48.589741+00:00"
+    },
+    "smdd_004_BACE1_12": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 0
+      },
+      "evaluation_status": "failed",
+      "time": "2026-10-01T01:55:00.191978+00:00"
+    },
+    "smdd_004_BACE1_13": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 1
+      },
+      "evaluation_status": "passed",
+      "time": "2026-10-01T02:04:18.217475+00:00"
+    }
+  },
+  "phase": "agent",
+  "updated": "2026-10-01T02:04:18.358594+00:00",
+  "completed": 57,
+  "remaining": 283,
+  "task_started": "2026-10-01T02:04:18.358565+00:00"
+}

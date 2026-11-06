@@ -1,0 +1,58 @@
+{
+  "method": "Codex",
+  "model": "deepseek-v4.1-flash",
+  "provider": "Bailian",
+  "provider_host": "ws-ucxu0ixh6lwfu9m0.cn-beijing.maas.aliyuncs.com",
+  "provider_base_path": "/compatible-mode/v1",
+  "setting": "2_s2_prompt_chatdrug",
+  "expected": 1600,
+  "properties": {
+    "LogP": 800,
+    "QED": 800
+  },
+  "workers": 16,
+  "pilot_cases": 8,
+  "harness_variant": "native_codex_loop_guard_v1",
+  "reference_root": "/data/chenfuxin/codex_chatdrug_molopt_loopguard_c16_20261010",
+  "prompt": "Byte-identical canonical S2 initialization from preceding agents. No explicit similar-molecule requirement.",
+  "evaluation": "Official S2 direction only; no amplitude, Kekulize or similarity cutoff; one final submitted molecule.",
+  "temperature": 0,
+  "enable_thinking": false,
+  "reasoning_effort": null,
+  "max_tokens": null,
+  "native_budget": {
+    "wall_seconds": 3600,
+    "idle_seconds": 1800,
+    "proxy_startup_excluded": true,
+    "upstream_max_tokens": "omitted; provider default"
+  },
+  "tools": "native Codex shell and file tools, RDKit 2022.09.4; case-local Responses transport adapter",
+  "loop_guard": {
+    "same_successful_tool_and_actual_output_and_workspace": true,
+    "warn_after": 3,
+    "request_final_and_tool_choice_none_after": 5,
+    "original_task_and_scoring_unchanged": true,
+    "prior_terminal_results_retained": true
+  },
+  "no_retained_generation_import": true,
+  "jobs_sha256": "c0df18eb2e59e6729c62669c8fce1be38b7eda58de982a306be45676143e50d0",
+  "cases_sha256": "d874f2dca6a28e6597b4d220e8c547b0c36f0fcc4636866b8d45efde91705f68",
+  "common_sha256": "b5472772b9cd5295b1964a616448e8594c5daa8b0fd18da963692b0b60f7be1c",
+  "native_codex_binary": "/data2/chenfuxin/smdd_codex_type2_bailian_20260929/bin/codex",
+  "native_codex_binary_sha256": "bbc3341e44c9ead340ed9570c17be936e37870f570751a941699ffd04d672827",
+  "frozen_harness": {
+    "run.py": "3548d79130eb714e19a05cf268c40d9b963a7ba49ac9e11eefa21021476f82d9",
+    "relay.py": "0b3433e03ab2e1a0fe4446f1ab1b2eb482cb06db1e5f891ad9cc963ca88f7cfd",
+    "legacy_relay.py": "e77ba0a92d8d09536cf1d7efd9ea5d7ebbcd1216398d90f58b303e462a1a0ec7",
+    "bridge.py": "eb359295b69875adc0f9e89d0bbd47156c31b59514624abcb1b9988664fb4f19",
+    "loop_control.py": "cd880e3204758e537a998534728e1c93a6f3d37461151e08e64483fab1161e5a",
+    "adaptive_gate.py": "6b72531ba8dae2db2b123509f07c3a0e3dd53e0769f9d1e7dc7461723d8a579e",
+    "process_cleanup.py": "b91b957b0c7788eac7b147b5618c506038ff7f27b536d0bc8a6ec7a9dce00852"
+  },
+  "wrapper_code_hashes": {
+    "setup.py": "b7710c69c27224b7e892f1abdebce43e884dd0e8d7928de2d1ba10407e02d305",
+    "offline.py": "70325b111a8f2a9abdc9a371d4a1bd635034977e429738a5e80bf725d17bc6d7",
+    "driver.py": "bb20e4b28a6af80354341d4e65ce9111680223e920353ed2db1fb09a55fdd72b",
+    "common.py": "b5472772b9cd5295b1964a616448e8594c5daa8b0fd18da963692b0b60f7be1c"
+  }
+}

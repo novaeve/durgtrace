@@ -1,0 +1,1507 @@
+{
+  "run": "full_type4_parallel3",
+  "pid": 3330381,
+  "state": "running",
+  "total": 340,
+  "concurrency": 3,
+  "workers": {
+    "1": {
+      "gpu": 1,
+      "task": "smdd_004_BChE_0",
+      "phase": "agent",
+      "pid": 436151
+    },
+    "4": {
+      "gpu": 4,
+      "task": "smdd_004_BRAF_3",
+      "phase": "evaluation",
+      "pid": 558128
+    },
+    "6": {
+      "gpu": 6,
+      "task": "smdd_004_BRAF_1",
+      "phase": "agent",
+      "pid": 465662
+    }
+  },
+  "finished": {
+    "smdd_004_A2A_Adenosine_0": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 5
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-28T10:17:17.244668+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_A2A_Adenosine_0"
+    },
+    "smdd_004_A2A_Adenosine_1": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 2
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-28T10:30:08.030772+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_A2A_Adenosine_1"
+    },
+    "smdd_004_ABL1_0": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-29T08:19:11.326631+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_runtimefix2/smdd_004_ABL1_0"
+    },
+    "smdd_004_ABL1_1": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 1,
+        "boltz": 5
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-29T10:24:57.723921+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_runtimefix2/smdd_004_ABL1_1"
+    },
+    "smdd_004_ABL1_2": {
+      "agent_exit": null,
+      "evaluation_exit": 0,
+      "mode": "evaluation_only",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 0
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-29T07:43:55.554283+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_runtimefix2/smdd_004_ABL1_2"
+    },
+    "smdd_004_ACE_0": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 2
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-28T14:19:25.375196+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0"
+    },
+    "smdd_004_ACE_1": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 5
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-28T15:03:51.790994+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_1"
+    },
+    "smdd_004_ACE_10": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 1,
+        "boltz": 8
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-28T16:39:59.677375+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10"
+    },
+    "smdd_004_ACE_11": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-28T18:25:22.056240+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11"
+    },
+    "smdd_004_ACE_13": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 4
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-28T19:18:16.528215+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_13"
+    },
+    "smdd_004_ACE_14": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 1
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-28T19:34:53.214392+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_14"
+    },
+    "smdd_004_ACE_16": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 4
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-28T21:40:49.664911+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16"
+    },
+    "smdd_004_ACE_17": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 8
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-28T23:25:37.677217+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17"
+    },
+    "smdd_004_ACE_18": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 2
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-29T00:07:39.613626+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_18"
+    },
+    "smdd_004_ACE_2": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 3
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-29T00:38:24.073175+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_2"
+    },
+    "smdd_004_ACE_20": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-29T02:00:32.169995+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_20"
+    },
+    "smdd_004_ACE_21": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 0
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-29T02:34:50.976286+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_21"
+    },
+    "smdd_004_ACE_22": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-29T03:53:38.416367+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_22"
+    },
+    "smdd_004_ACE_5": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 3
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-29T05:05:53.704296+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_5"
+    },
+    "smdd_004_ABL1_11": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 2
+      },
+      "evaluation_status": "errored",
+      "time": "2026-09-29T16:22:18.595808+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_ABL1_11"
+    },
+    "smdd_004_ABL1_3": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 1,
+        "boltz": 0
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-29T17:49:27.173271+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_ABL1_3"
+    },
+    "smdd_004_ABL1_6": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 4
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-29T21:29:25.009255+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_ABL1_6"
+    },
+    "smdd_004_ACE_15": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 1,
+        "boltz": 8
+      },
+      "evaluation_status": "passed",
+      "time": "2026-09-30T02:58:16.192252+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_ACE_15"
+    },
+    "smdd_004_ACE_3": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 4
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T04:17:52.324075+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_ACE_3"
+    },
+    "smdd_004_ACE_4": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 3,
+        "boltz": 8
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T05:43:48.933447+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_ACE_4"
+    },
+    "smdd_004_ACE_6": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 7
+      },
+      "evaluation_status": "errored",
+      "time": "2026-09-30T06:33:40.457480+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_ACE_6"
+    },
+    "smdd_004_ACE_7": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T07:34:10.787665+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_ACE_7"
+    },
+    "smdd_004_ACE_8": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 8
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T09:16:55.772192+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_ACE_8"
+    },
+    "smdd_004_ACE_9": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 0,
+        "boltz": 3
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T09:37:05.254789+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_ACE_9"
+    },
+    "smdd_004_ALK_0": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 3
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T10:16:44.575995+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_ALK_0"
+    },
+    "smdd_004_ALK_1": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 1
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T10:35:36.507367+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_ALK_1"
+    },
+    "smdd_004_ALK_13": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 2
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T11:30:37.738728+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_ALK_13"
+    },
+    "smdd_004_ALK_2": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 7
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T12:10:59.178259+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_ALK_2"
+    },
+    "smdd_004_ALK_3": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 2
+      },
+      "evaluation_status": "passed",
+      "time": "2026-09-30T12:42:33.753479+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_ALK_3"
+    },
+    "smdd_004_ALK_4": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 3
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T13:18:41.464889+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_ALK_4"
+    },
+    "smdd_004_ALK_5": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 1
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T13:28:00.507125+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_ALK_5"
+    },
+    "smdd_004_ALK_8": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 1
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T13:37:31.500927+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_ALK_8"
+    },
+    "smdd_004_Androgen_Receptor_0": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 2
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T13:52:51.969975+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_Androgen_Receptor_0"
+    },
+    "smdd_004_Androgen_Receptor_1": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 2
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T14:38:53.117130+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_Androgen_Receptor_1"
+    },
+    "smdd_004_Androgen_Receptor_13": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 6
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T15:06:13.193422+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_Androgen_Receptor_13"
+    },
+    "smdd_004_Androgen_Receptor_2": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 8
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T16:07:14.713226+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_Androgen_Receptor_2"
+    },
+    "smdd_004_Androgen_Receptor_3": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 1
+      },
+      "evaluation_status": "passed",
+      "time": "2026-09-30T16:27:53.165841+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_Androgen_Receptor_3"
+    },
+    "smdd_004_Androgen_Receptor_4": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 6
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T16:56:46.701472+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_Androgen_Receptor_4"
+    },
+    "smdd_004_Androgen_Receptor_5": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 2
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T17:19:27.879814+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_Androgen_Receptor_5"
+    },
+    "smdd_004_Androgen_Receptor_6": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 1
+      },
+      "evaluation_status": "passed",
+      "time": "2026-09-30T17:25:29.704526+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_Androgen_Receptor_6"
+    },
+    "smdd_004_Androgen_Receptor_7": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 3,
+        "boltz": 8
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T18:32:05.570209+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_Androgen_Receptor_7"
+    },
+    "smdd_004_Androgen_Receptor_8": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T19:13:56.383889+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_Androgen_Receptor_8"
+    },
+    "smdd_004_Aurora_A_0": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T20:14:05.235358+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_Aurora_A_0"
+    },
+    "smdd_004_Aurora_A_1": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T20:34:43.061833+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_Aurora_A_1"
+    },
+    "smdd_004_Aurora_A_2": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 6
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T21:22:26.673169+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_Aurora_A_2"
+    },
+    "smdd_004_Aurora_A_3": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 2,
+        "boltz": 2
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T22:40:51.660802+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_Aurora_A_3"
+    },
+    "smdd_004_BACE1_0": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 1
+      },
+      "evaluation_status": "failed",
+      "time": "2026-09-30T23:28:58.633021+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_BACE1_0"
+    },
+    "smdd_004_BACE1_1": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "evaluation_status": "failed",
+      "time": "2026-10-01T00:10:21.741166+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_BACE1_1"
+    },
+    "smdd_004_BACE1_10": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 6
+      },
+      "evaluation_status": "failed",
+      "time": "2026-10-01T00:51:07.513803+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_BACE1_10"
+    },
+    "smdd_004_BACE1_11": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 5
+      },
+      "evaluation_status": "failed",
+      "time": "2026-10-01T01:31:48.589741+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_BACE1_11"
+    },
+    "smdd_004_BACE1_12": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 0
+      },
+      "evaluation_status": "failed",
+      "time": "2026-10-01T01:55:00.191978+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_BACE1_12"
+    },
+    "smdd_004_BACE1_13": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 1
+      },
+      "evaluation_status": "passed",
+      "time": "2026-10-01T02:04:18.217475+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_BACE1_13"
+    },
+    "smdd_004_BACE1_14": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 2,
+        "boltz": 4
+      },
+      "evaluation_status": "failed",
+      "time": "2026-10-01T03:49:17.247442+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_BACE1_14"
+    },
+    "smdd_004_BACE1_15": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 0
+      },
+      "evaluation_status": "failed",
+      "time": "2026-10-01T04:24:44.797327+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_BACE1_15"
+    },
+    "smdd_004_BACE1_16": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 6
+      },
+      "evaluation_status": "passed",
+      "time": "2026-10-01T04:50:55.099583+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_BACE1_16"
+    },
+    "smdd_004_BACE1_17": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 0,
+        "boltz": 0
+      },
+      "evaluation_status": "failed",
+      "time": "2026-10-01T04:56:07.208737+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_BACE1_17"
+    },
+    "smdd_004_BACE1_18": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "mode": "agent_and_evaluation",
+      "agent_status": "submitted",
+      "budget_used": {
+        "admet": 2,
+        "boltz": 0
+      },
+      "evaluation_status": "failed",
+      "time": "2026-10-01T05:10:40.343624+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_BACE1_18"
+    },
+    "smdd_004_BACE1_2": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 1,
+        "boltz": 0
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T05:37:39.293407+00:00"
+    },
+    "smdd_004_BACE1_19": {
+      "agent_exit": null,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 8
+      },
+      "mode": "adopted_inflight",
+      "time": "2026-10-01T05:45:34.676134+00:00",
+      "reused_from": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_BACE1_19"
+    },
+    "smdd_004_BACE1_20": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T05:58:44.906511+00:00"
+    },
+    "smdd_004_BACE1_22": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 8
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T06:18:51.911799+00:00"
+    },
+    "smdd_004_BACE1_23": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 1,
+        "boltz": 8
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T06:49:26.341487+00:00"
+    },
+    "smdd_004_BACE1_21": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 6
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T06:53:05.515916+00:00"
+    },
+    "smdd_004_BACE1_5": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 3
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T07:10:43.763580+00:00"
+    },
+    "smdd_004_BACE1_4": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T07:13:25.340094+00:00"
+    },
+    "smdd_004_BACE1_7": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 3
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T07:37:11.973811+00:00"
+    },
+    "smdd_004_BACE1_3": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 1,
+        "boltz": 8
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T07:50:22.094408+00:00"
+    },
+    "smdd_004_BACE1_8": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T08:15:00.911117+00:00"
+    },
+    "smdd_004_BACE1_6": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 8
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T08:18:07.917723+00:00"
+    },
+    "smdd_004_BAZ2B_0": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "passed",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 5
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T08:31:58.231262+00:00"
+    },
+    "smdd_004_BAZ2B_1": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 0,
+        "boltz": 0
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T08:32:09.005817+00:00"
+    },
+    "smdd_004_BAZ2B_10": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 0
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T08:59:06.457233+00:00"
+    },
+    "smdd_004_BAZ2B_11": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 0
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T09:05:35.441604+00:00"
+    },
+    "smdd_004_BAZ2B_12": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 3
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T09:08:46.539749+00:00"
+    },
+    "smdd_004_BACE1_9": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 1,
+        "boltz": 8
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T09:15:15.779342+00:00"
+    },
+    "smdd_004_BAZ2B_14": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T09:22:44.505263+00:00"
+    },
+    "smdd_004_BAZ2B_15": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 2
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T09:25:51.736295+00:00"
+    },
+    "smdd_004_BAZ2B_13": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T09:33:21.196454+00:00"
+    },
+    "smdd_004_BAZ2B_17": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "passed",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 1
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T09:34:42.211393+00:00"
+    },
+    "smdd_004_BAZ2B_2": {
+      "agent_exit": 0,
+      "evaluation_exit": null,
+      "agent_status": "runtime_error",
+      "evaluation_status": null,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 2
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T09:56:07.698145+00:00"
+    },
+    "smdd_004_BAZ2B_22": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 7
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T09:56:14.014166+00:00"
+    },
+    "smdd_004_BAZ2B_16": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 4
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T09:57:02.734590+00:00"
+    },
+    "smdd_004_BAZ2B_23": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 1
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T10:05:54.340299+00:00"
+    },
+    "smdd_004_BAZ2B_5": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 0
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T10:08:58.098800+00:00"
+    },
+    "smdd_004_BAZ2B_7": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 1
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T10:14:16.820249+00:00"
+    },
+    "smdd_004_BAZ2B_3": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T10:26:50.001777+00:00"
+    },
+    "smdd_004_BAZ2B_8": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 1,
+        "boltz": 2
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T10:34:20.393930+00:00"
+    },
+    "smdd_004_BAZ2B_9": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 8
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T10:41:57.805092+00:00"
+    },
+    "smdd_004_BCL6_1": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 0,
+        "boltz": 0
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T10:43:39.145988+00:00"
+    },
+    "smdd_004_BAZ2B_4": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T10:46:16.564971+00:00"
+    },
+    "smdd_004_BCL6_10": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 2,
+        "boltz": 1
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T10:51:16.820139+00:00"
+    },
+    "smdd_004_BCL6_13": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 0
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T11:00:27.431447+00:00"
+    },
+    "smdd_004_BCL6_11": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 5,
+        "boltz": 8
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T11:10:06.608714+00:00"
+    },
+    "smdd_004_BCL6_14": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 8
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T11:21:16.650547+00:00"
+    },
+    "smdd_004_BCL6_16": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 0
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T11:24:11.003945+00:00"
+    },
+    "smdd_004_BCL6_17": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 5
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T11:39:06.456172+00:00"
+    },
+    "smdd_004_BCL6_0": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 6
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T11:39:46.975498+00:00"
+    },
+    "smdd_004_BCL6_18": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 2,
+        "boltz": 8
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T11:54:27.151549+00:00"
+    },
+    "smdd_004_BCL6_15": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T11:54:43.207686+00:00"
+    },
+    "smdd_004_BCL6_20": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 2
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T12:01:05.568622+00:00"
+    },
+    "smdd_004_BCL6_2": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "passed",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 2
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T12:04:48.186896+00:00"
+    },
+    "smdd_004_BCL6_21": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 1
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T12:05:36.754072+00:00"
+    },
+    "smdd_004_BCL6_22": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "passed",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 2
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T12:12:42.331680+00:00"
+    },
+    "smdd_004_BCL6_19": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 8
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T12:16:12.097270+00:00"
+    },
+    "smdd_004_BCL6_23": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 0
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T12:21:34.336484+00:00"
+    },
+    "smdd_004_BCL6_3": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T12:27:17.365708+00:00"
+    },
+    "smdd_004_BCL6_5": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 1
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T12:29:26.403524+00:00"
+    },
+    "smdd_004_BCL6_7": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "passed",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 1
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T12:34:15.676215+00:00"
+    },
+    "smdd_004_BCL6_4": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 4
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T12:34:19.866206+00:00"
+    },
+    "smdd_004_BCL6_6": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 2
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T12:39:01.648324+00:00"
+    },
+    "smdd_004_BCL6_9": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 0
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T12:42:50.171690+00:00"
+    },
+    "smdd_004_BCL6_8": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 4
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T12:50:28.661635+00:00"
+    },
+    "smdd_004_BRAF_0": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 2
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T13:17:33.675253+00:00"
+    },
+    "smdd_004_BRAF_2": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "budget_used": {
+        "admet": 15,
+        "boltz": 0
+      },
+      "mode": "agent_and_evaluation",
+      "time": "2026-10-01T13:23:00.279879+00:00"
+    }
+  },
+  "updated": "2026-10-01T13:26:36.905768+00:00",
+  "completed": 119,
+  "remaining": 221
+}

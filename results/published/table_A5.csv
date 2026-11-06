@@ -1,0 +1,8 @@
+Method,Original,Direction only,Direction only + new prompt,S²-miniMolOpt
+Baseline,29.20,44.25,44.79,63.13
+ChatDrug,64.23,68.20,69.82,82.33
+AgentDrug,69.13,72.68,73.23,88.47
+MolLingo,64.61,73.86,76.32,88.00
+MolClaw,55.16,72.23,86.96,96.93
+SoL-Pi,72.70,88.00,88.84,90.40
+Codex,60.89,78.05,82.25,87.40

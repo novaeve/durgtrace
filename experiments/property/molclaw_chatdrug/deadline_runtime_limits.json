@@ -1,0 +1,54 @@
+{
+  "time": 1791795871.6768684,
+  "processes": [
+    {
+      "name": "proxy",
+      "pid": 2096408,
+      "before": 1024,
+      "after": 65536,
+      "open_fds": 579
+    },
+    {
+      "name": "watchdog",
+      "pid": 2096488,
+      "before": 1024,
+      "after": 65536,
+      "open_fds": 3
+    },
+    {
+      "name": "worker",
+      "pid": 2096487,
+      "before": 1024,
+      "after": 65536,
+      "open_fds": 94
+    },
+    {
+      "name": "infra_retry",
+      "pid": 2126197,
+      "before": 1024,
+      "after": 65536,
+      "open_fds": 100
+    },
+    {
+      "name": "cpu_transfer",
+      "pid": 2305349,
+      "before": 1024,
+      "after": 65536,
+      "open_fds": 52
+    },
+    {
+      "name": "deadline_booster",
+      "pid": 2256028,
+      "before": 65536,
+      "after": 65536,
+      "open_fds": 813
+    },
+    {
+      "name": "deadline_booster_v2",
+      "pid": 2367855,
+      "before": 65536,
+      "after": 65536,
+      "open_fds": 493
+    }
+  ]
+}

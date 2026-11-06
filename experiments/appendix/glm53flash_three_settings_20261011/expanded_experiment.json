@@ -1,0 +1,17 @@
+{
+  "model": "glm-5.3-flash",
+  "methods": [
+    "ChatDrug",
+    "AgentDrug",
+    "MolLingo",
+    "MolClaw",
+    "SoL-Pi",
+    "Codex",
+    "GLM_direct"
+  ],
+  "expected_per_method": 4200,
+  "expected_total": 29400,
+  "new_generation": "Codex 4200; paired direct derives 4200 already recorded first-generation responses without duplicate API charges",
+  "direct_generation": "independent_single_response_no_harness",
+  "previous_paired_direct_excluded": true
+}

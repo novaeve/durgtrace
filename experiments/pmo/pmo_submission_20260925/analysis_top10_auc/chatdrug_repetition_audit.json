@@ -1,0 +1,205 @@
+{
+  "total_queries": 4433,
+  "query_counts": {
+    "new": 4408,
+    "duplicate": 23,
+    "invalid": 2
+  },
+  "query_sources": {
+    "initial_model_answer": {
+      "new": 23
+    },
+    "parent_feedback": {
+      "duplicate": 23
+    },
+    "candidate_feedback": {
+      "new": 29
+    },
+    "retrieval_feedback": {
+      "new": 4356
+    },
+    "final_output": {
+      "invalid": 2
+    }
+  },
+  "selected_outputs": {
+    "calls": 31,
+    "valid_selected": 29,
+    "repeated_selected": 0,
+    "empty_or_invalid": 2
+  },
+  "raw_output_mentions": {
+    "responses": 31,
+    "candidate_mentions": 155,
+    "valid_mentions": 154,
+    "same_as_seed": 26,
+    "repeat_within_response": 15,
+    "repeat_of_seed_or_previous_mentions_in_task": 31,
+    "responses_all_seed": 2,
+    "invalid_mentions": 1
+  },
+  "per_task": [
+    {
+      "task": "albuterol_similarity",
+      "queries": 1000,
+      "duplicates": 1,
+      "invalid": 0,
+      "new": 999
+    },
+    {
+      "task": "amlodipine_mpo",
+      "queries": 52,
+      "duplicates": 1,
+      "invalid": 0,
+      "new": 51
+    },
+    {
+      "task": "celecoxib_rediscovery",
+      "queries": 1000,
+      "duplicates": 1,
+      "invalid": 0,
+      "new": 999
+    },
+    {
+      "task": "deco_hop",
+      "queries": 3,
+      "duplicates": 1,
+      "invalid": 0,
+      "new": 2
+    },
+    {
+      "task": "drd2",
+      "queries": 6,
+      "duplicates": 1,
+      "invalid": 0,
+      "new": 5
+    },
+    {
+      "task": "fexofenadine_mpo",
+      "queries": 3,
+      "duplicates": 1,
+      "invalid": 0,
+      "new": 2
+    },
+    {
+      "task": "gsk3b",
+      "queries": 3,
+      "duplicates": 1,
+      "invalid": 0,
+      "new": 2
+    },
+    {
+      "task": "isomers_c7h8n2o2",
+      "queries": 17,
+      "duplicates": 1,
+      "invalid": 0,
+      "new": 16
+    },
+    {
+      "task": "isomers_c9h10n2o2pf2cl",
+      "queries": 5,
+      "duplicates": 1,
+      "invalid": 0,
+      "new": 4
+    },
+    {
+      "task": "jnk3",
+      "queries": 3,
+      "duplicates": 1,
+      "invalid": 0,
+      "new": 2
+    },
+    {
+      "task": "median1",
+      "queries": 1000,
+      "duplicates": 1,
+      "invalid": 0,
+      "new": 999
+    },
+    {
+      "task": "median2",
+      "queries": 3,
+      "duplicates": 1,
+      "invalid": 0,
+      "new": 2
+    },
+    {
+      "task": "mestranol_similarity",
+      "queries": 3,
+      "duplicates": 1,
+      "invalid": 0,
+      "new": 2
+    },
+    {
+      "task": "osimertinib_mpo",
+      "queries": 3,
+      "duplicates": 1,
+      "invalid": 0,
+      "new": 2
+    },
+    {
+      "task": "perindopril_mpo",
+      "queries": 3,
+      "duplicates": 1,
+      "invalid": 1,
+      "new": 1
+    },
+    {
+      "task": "qed",
+      "queries": 3,
+      "duplicates": 1,
+      "invalid": 0,
+      "new": 2
+    },
+    {
+      "task": "ranolazine_mpo",
+      "queries": 5,
+      "duplicates": 1,
+      "invalid": 0,
+      "new": 4
+    },
+    {
+      "task": "scaffold_hop",
+      "queries": 5,
+      "duplicates": 1,
+      "invalid": 0,
+      "new": 4
+    },
+    {
+      "task": "sitagliptin_mpo",
+      "queries": 12,
+      "duplicates": 1,
+      "invalid": 0,
+      "new": 11
+    },
+    {
+      "task": "thiothixene_rediscovery",
+      "queries": 1000,
+      "duplicates": 1,
+      "invalid": 0,
+      "new": 999
+    },
+    {
+      "task": "troglitazon_rediscovery",
+      "queries": 3,
+      "duplicates": 1,
+      "invalid": 1,
+      "new": 1
+    },
+    {
+      "task": "valsartan_smarts",
+      "queries": 298,
+      "duplicates": 1,
+      "invalid": 0,
+      "new": 297
+    },
+    {
+      "task": "zaleplon_mpo",
+      "queries": 3,
+      "duplicates": 1,
+      "invalid": 0,
+      "new": 2
+    }
+  ],
+  "dedup_scope": "within each method-target run; canonical RDKit; not across tasks"
+}

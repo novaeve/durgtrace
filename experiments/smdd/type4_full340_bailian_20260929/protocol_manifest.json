@@ -1,0 +1,137 @@
+{
+  "model": "deepseek-v4.1-flash",
+  "provider": "Alibaba Bailian",
+  "tasks": 340,
+  "task_manifest_sha256": "2ba2faefb31fb988895a0eb26687a818256169e1106c5604339a0fe82bbe99f6",
+  "key_location": "original GPU server only; SSH relay returns responses",
+  "budget_per_task": {
+    "admet": 15,
+    "boltz": 8,
+    "total_tokens": 10000000,
+    "harness_turns": 100
+  },
+  "chatdrug": {
+    "source": "existing SMDD ChatDrug ReDF adapter, with native generated-molecule similarity ranking",
+    "fingerprint": "Morgan radius 2 count fingerprint, Tanimoto descending",
+    "retrieval_similarity_cutoff": null,
+    "refinement_rounds": 2,
+    "temperature": 1,
+    "stop_on_no_reference": true
+  },
+  "agentdrug": {
+    "source": "existing AgentDrug core_fixed.py; new documented SMDD oracle adapter",
+    "max_generations": 5,
+    "max_output_tokens": 256,
+    "temperature": 0,
+    "continue_on_no_reference": true,
+    "last_generation_is_final": true,
+    "retrieval_similarity_cutoff": null
+  },
+  "retrieval": "same fixed 10000 molecule corpus, exact task input excluded; all learned oracle lookups charged to task budget",
+  "evaluation": "original smdd-evals:359ef1d7; retains final Tanimoto >=0.7; GPU bridge only",
+  "continuation": "scientific failure or budget exhaustion never stops batch; infrastructure errors recorded separately; denominator340 each",
+  "code_hashes": {
+    "batch.py": "e3713629a6601dee38953e72ea2706537c845e35782dc10cb4ccd06168edaf23",
+    "agentdrug_smdd.py": "4cda25dccc2581046319b449e484914ee418638201509e865c8684c64322b6dc",
+    "agentdrug_core_source.py": "27ea4dba5b24106e8ad60f42826ef7d554d523385710fb41005aa282372dfb9d",
+    "chatdrug_adapter.py": "46dd38768d9159af487a00b52bb773e8e89b14c037ce406c7667ddf85669926a",
+    "frozen_lead_optimization.py": "f0810391e5299d0e2f274b1c493338ecc03f26e236d7868e7e7a6a2dc7d5070f",
+    "transport_adapter.py": "6dcc1c557908b10dd4171a13fe996cf79e306afc91732e0459c1fca10ec2e368",
+    "gpu_transport.py": "359a2629b427bdfd121034b32cb05b383f1f80f02bca3ceb536a50efba6e6227",
+    "retrieval.csv": "1afbd924a27da85debd31859ffa0574d2f1cfc418760638b3ef59d03c7a56748"
+  },
+  "checks": {
+    "tasks": 340,
+    "public_files_only": [
+      "reference.sdf",
+      "complex.pdb"
+    ],
+    "provider_response_model": "deepseek-v4.1-flash",
+    "adapter_success": true,
+    "budget_guard_success": true,
+    "invalid_smiles_no_oracle_calls": true
+  },
+  "boltz_runtime": {
+    "numpy": "1.26.4",
+    "rdkit": "2025.09.4",
+    "torch": "2.13.0+cu130",
+    "isolated_dependency_directory": "/data2/chenfuxin/smdd_type4_full340_bailian_20260929/boltz_deps",
+    "real_10_sample_prediction_passed": true
+  },
+  "excluded_diagnostics": [
+    "recovery_attempts/numpy_environment_failure_20260929_163343"
+  ],
+  "resumptions": [
+    {
+      "time_utc": "2026-10-01T15:10:56.591265+00:00",
+      "reason": "CPU host reboot; supervisors absent",
+      "gpus": {
+        "chatdrug": 7,
+        "agentdrug": 6
+      },
+      "actions": [
+        {
+          "method": "chatdrug",
+          "task": "smdd_004_ALK_3",
+          "action": "restart_incomplete_generation",
+          "archived": "/home/chenfuxin/smdd-migration/smdd-assets/experiments/type4_full340_bailian_20260929/recovery_attempts/resume_20261001T151056Z/chatdrug/run/smdd_004_ALK_3"
+        },
+        {
+          "method": "agentdrug",
+          "task": "smdd_004_Androgen_Receptor_3",
+          "action": "reuse_submission_resume_evaluation"
+        }
+      ],
+      "completed_records_preserved": true
+    }
+  ],
+  "scheduling_changes": [
+    {
+      "time": 1790870528.4164655,
+      "backup": "/home/chenfuxin/smdd-migration/smdd-assets/experiments/type4_full340_bailian_20260929/recovery_attempts/gpu_pool_20261001T160207Z",
+      "gpu_pool": [
+        0,
+        5,
+        7
+      ],
+      "concurrency_per_method": 2,
+      "adopted": {
+        "chatdrug": [
+          {
+            "task": "smdd_004_ALK_8",
+            "index": 36,
+            "gpu": 7,
+            "pid": 34724,
+            "identity": "373529",
+            "started": 1790870484.7397497
+          }
+        ],
+        "agentdrug": [
+          {
+            "task": "smdd_004_Aurora_A_1",
+            "index": 48,
+            "gpu": 6,
+            "pid": 34132,
+            "identity": "366542",
+            "started": 1790870414.861957
+          }
+        ]
+      },
+      "source_hashes": {
+        "batch.py": "2629abc9dc53e51b5f3c3348817657f82d951f195194410f9447f918dbe630d3",
+        "gpu_transport.py": "1011c23b747a9979c026f3faf2c4fcb8b05ef6afb8429192c909d3de9e4816d8",
+        "parallel_cpu.py": "59ac6a3eb4fb920b22696d370ec2cba4c71146e0cefe22fe84b758ffdcd51947"
+      }
+    },
+    {
+      "time": 1790872172.6284356,
+      "reason": "Long-running scheduler recovery and SSH reconnect hardening",
+      "backup": "/home/chenfuxin/smdd-migration/smdd-assets/experiments/type4_full340_bailian_20260929/recovery_attempts/longrun_hardening_20261002",
+      "service": "smdd-type4-parallel.service",
+      "hashes": {
+        "parallel_cpu.py": "30876d98b464895e3c00915c1d1a46f473b24945c6ae2a627d51364dd52e175e",
+        "gpu_transport.py": "17300e639c6b57448503421b0b1adda8050899ad49b75bb9e01afca2a55a27f8"
+      }
+    }
+  ]
+}

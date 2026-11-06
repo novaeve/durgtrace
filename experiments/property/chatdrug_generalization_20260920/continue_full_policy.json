@@ -1,0 +1,7 @@
+{
+  "change": "Retain OUTPUT_TRUNCATED errors and skip them while continuing remaining cases; no further retries of existing errors.",
+  "original_sha256": "0998f12f5f4da4910606d6c2aca85befe91103775c7b9f64793fea99dbf7375d",
+  "wrapper_sha256": "fece0cc87b66eae9e1d34b83d8f99c973c8b71df1062e2e28e368083ad9a5939",
+  "scientific_parameters": "unchanged",
+  "completion": "Final errors remain explicit; cannot claim 7100 complete if errors persist."
+}

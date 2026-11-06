@@ -1,0 +1,280 @@
+{
+  "sha": "fb8470b81686c533fb3df1ad96cdb3405dae802d",
+  "url": "https://api.github.com/repos/chao1224/ChatDrug/git/trees/fb8470b81686c533fb3df1ad96cdb3405dae802d",
+  "tree": [
+    {
+      "path": "ChatDrug",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c5ae82b42652d6c532ac8a9c566911bda3597b94",
+      "url": "https://api.github.com/repos/chao1224/ChatDrug/git/trees/c5ae82b42652d6c532ac8a9c566911bda3597b94"
+    },
+    {
+      "path": "ChatDrug/TAPE_benchmark",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "cbb25a0c23c20667f428929bd7d253a6a370a4fe",
+      "url": "https://api.github.com/repos/chao1224/ChatDrug/git/trees/cbb25a0c23c20667f428929bd7d253a6a370a4fe"
+    },
+    {
+      "path": "ChatDrug/TAPE_benchmark/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b62f0486b0c673294a84e808a47a97c444c9b369",
+      "size": 315,
+      "url": "https://api.github.com/repos/chao1224/ChatDrug/git/blobs/b62f0486b0c673294a84e808a47a97c444c9b369"
+    },
+    {
+      "path": "ChatDrug/TAPE_benchmark/datasets.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "52e6c7c519c27e81b9e4900b43988a20a92d9cb9",
+      "size": 22443,
+      "url": "https://api.github.com/repos/chao1224/ChatDrug/git/blobs/52e6c7c519c27e81b9e4900b43988a20a92d9cb9"
+    },
+    {
+      "path": "ChatDrug/TAPE_benchmark/metrics.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9d4df1a4524c86a1cf31cb18f04ee1629b85f3d9",
+      "size": 3035,
+      "url": "https://api.github.com/repos/chao1224/ChatDrug/git/blobs/9d4df1a4524c86a1cf31cb18f04ee1629b85f3d9"
+    },
+    {
+      "path": "ChatDrug/TAPE_benchmark/models.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "246c28ece8f5c35ef1f1c818549911457a2a522a",
+      "size": 9861,
+      "url": "https://api.github.com/repos/chao1224/ChatDrug/git/blobs/246c28ece8f5c35ef1f1c818549911457a2a522a"
+    },
+    {
+      "path": "ChatDrug/TAPE_benchmark/trainer.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6fb345bea1756b1b54f3277f3f2d07d0b64601f5",
+      "size": 12752,
+      "url": "https://api.github.com/repos/chao1224/ChatDrug/git/blobs/6fb345bea1756b1b54f3277f3f2d07d0b64601f5"
+    },
+    {
+      "path": "ChatDrug/task_and_evaluation",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8b1ffce84c44bb60983c6dd918c28fb3cbd86f11",
+      "url": "https://api.github.com/repos/chao1224/ChatDrug/git/trees/8b1ffce84c44bb60983c6dd918c28fb3cbd86f11"
+    },
+    {
+      "path": "ChatDrug/task_and_evaluation/Conversational_LLMs_utils.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8d04b8c15465bfe64123a581d414094e0c0c4efc",
+      "size": 9860,
+      "url": "https://api.github.com/repos/chao1224/ChatDrug/git/blobs/8d04b8c15465bfe64123a581d414094e0c0c4efc"
+    },
+    {
+      "path": "ChatDrug/task_and_evaluation/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a66279d11f595648f257d6d03c4de67236fe3e7e",
+      "size": 3270,
+      "url": "https://api.github.com/repos/chao1224/ChatDrug/git/blobs/a66279d11f595648f257d6d03c4de67236fe3e7e"
+    },
+    {
+      "path": "ChatDrug/task_and_evaluation/peptide_editing.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0f9e4253dbaca6133f445ab8a10f34622db4c0d4",
+      "size": 5519,
+      "url": "https://api.github.com/repos/chao1224/ChatDrug/git/blobs/0f9e4253dbaca6133f445ab8a10f34622db4c0d4"
+    },
+    {
+      "path": "ChatDrug/task_and_evaluation/prompt_specification.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8d75e5a414083d738b43f44b880b9b47f22dae48",
+      "size": 12138,
+      "url": "https://api.github.com/repos/chao1224/ChatDrug/git/blobs/8d75e5a414083d738b43f44b880b9b47f22dae48"
+    },
+    {
+      "path": "ChatDrug/task_and_evaluation/protein_editing.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cf13a86ca6667163a27850b246b8dad3cc575e9e",
+      "size": 14768,
+      "url": "https://api.github.com/repos/chao1224/ChatDrug/git/blobs/cf13a86ca6667163a27850b246b8dad3cc575e9e"
+    },
+    {
+      "path": "ChatDrug/task_and_evaluation/small_molecule_editing.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9c7a335583ad0bb61d0b6a343d6b81b023c5a4ad",
+      "size": 9056,
+      "url": "https://api.github.com/repos/chao1224/ChatDrug/git/blobs/9c7a335583ad0bb61d0b6a343d6b81b023c5a4ad"
+    },
+    {
+      "path": "ChatDrug_demo.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d4c1163e26f7dbfadf598361cc5d6c693d944d77",
+      "size": 8881,
+      "url": "https://api.github.com/repos/chao1224/ChatDrug/git/blobs/d4c1163e26f7dbfadf598361cc5d6c693d944d77"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "140710e7272fbeff862c6da31cd1967b40d12bcd",
+      "size": 4719,
+      "url": "https://api.github.com/repos/chao1224/ChatDrug/git/blobs/140710e7272fbeff862c6da31cd1967b40d12bcd"
+    },
+    {
+      "path": "data",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7c11be8ce34a7606aa949ff09373551496944a61",
+      "url": "https://api.github.com/repos/chao1224/ChatDrug/git/trees/7c11be8ce34a7606aa949ff09373551496944a61"
+    },
+    {
+      "path": "data/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "03b2450046ac586602f8604f54ce6c6596d8a4b9",
+      "size": 3278,
+      "url": "https://api.github.com/repos/chao1224/ChatDrug/git/blobs/03b2450046ac586602f8604f54ce6c6596d8a4b9"
+    },
+    {
+      "path": "data/peptide",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "77fbda6e62b9d7d018d3b58fadc675b9c5b33f53",
+      "url": "https://api.github.com/repos/chao1224/ChatDrug/git/trees/77fbda6e62b9d7d018d3b58fadc675b9c5b33f53"
+    },
+    {
+      "path": "data/peptide/class1_pseudosequences.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b1847bb6820f6a16b0570970f8961b67d1b42923",
+      "size": 603964,
+      "url": "https://api.github.com/repos/chao1224/ChatDrug/git/blobs/b1847bb6820f6a16b0570970f8961b67d1b42923"
+    },
+    {
+      "path": "data/peptide/peptide_editing.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3b31087f75a4f73f1a353b7b0e8d94bdac38e3a4",
+      "size": 175959,
+      "url": "https://api.github.com/repos/chao1224/ChatDrug/git/blobs/3b31087f75a4f73f1a353b7b0e8d94bdac38e3a4"
+    },
+    {
+      "path": "data/peptide/peptide_editing_threshold.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c236caf47eb8c8586b131f0942a942e58861f2dc",
+      "size": 943,
+      "url": "https://api.github.com/repos/chao1224/ChatDrug/git/blobs/c236caf47eb8c8586b131f0942a942e58861f2dc"
+    },
+    {
+      "path": "data/peptide/preprocess_step_1_data_extraction.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "947024f50318ae9dc7f51b0f62bab1a05b018e37",
+      "size": 3171,
+      "url": "https://api.github.com/repos/chao1224/ChatDrug/git/blobs/947024f50318ae9dc7f51b0f62bab1a05b018e37"
+    },
+    {
+      "path": "data/peptide/preprocess_step_2_single_prop.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4b58f897742b762d9caf81e81f644ef5e00954e7",
+      "size": 1258,
+      "url": "https://api.github.com/repos/chao1224/ChatDrug/git/blobs/4b58f897742b762d9caf81e81f644ef5e00954e7"
+    },
+    {
+      "path": "data/peptide/preprocess_step_3_multi_prop.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "66f720dda1540bc9cea8f81db2b0e095cd240685",
+      "size": 1470,
+      "url": "https://api.github.com/repos/chao1224/ChatDrug/git/blobs/66f720dda1540bc9cea8f81db2b0e095cd240685"
+    },
+    {
+      "path": "data/peptide/selected_alleles.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "93cb44cb805fe80ec98ba62b0059fa232730485f",
+      "size": 360,
+      "url": "https://api.github.com/repos/chao1224/ChatDrug/git/blobs/93cb44cb805fe80ec98ba62b0059fa232730485f"
+    },
+    {
+      "path": "data/small_molecule",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "72b571ea500712a3d19d1d04c3a02d258dbfb3e0",
+      "url": "https://api.github.com/repos/chao1224/ChatDrug/git/trees/72b571ea500712a3d19d1d04c3a02d258dbfb3e0"
+    },
+    {
+      "path": "data/small_molecule/small_molecule_editing.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4b1ea9de59d41f968e827be61e5e82f592de69c4",
+      "size": 8417,
+      "url": "https://api.github.com/repos/chao1224/ChatDrug/git/blobs/4b1ea9de59d41f968e827be61e5e82f592de69c4"
+    },
+    {
+      "path": "figure",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "99e2fba8a2f1cb553545bc90f9f65f44d68ae70d",
+      "url": "https://api.github.com/repos/chao1224/ChatDrug/git/trees/99e2fba8a2f1cb553545bc90f9f65f44d68ae70d"
+    },
+    {
+      "path": "figure/final_demo.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4610a22433d616eca9cd7efd1f99a009aaf7bf30",
+      "size": 4399589,
+      "url": "https://api.github.com/repos/chao1224/ChatDrug/git/blobs/4610a22433d616eca9cd7efd1f99a009aaf7bf30"
+    },
+    {
+      "path": "figure/pipeline.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bf9f987dbd79296fc176ec502a7469ee4de6f6b3",
+      "size": 220270,
+      "url": "https://api.github.com/repos/chao1224/ChatDrug/git/blobs/bf9f987dbd79296fc176ec502a7469ee4de6f6b3"
+    },
+    {
+      "path": "main_ChatDrug.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "54b5b0ed5dcd00c5507cb343aede25f05a8ec227",
+      "size": 9997,
+      "url": "https://api.github.com/repos/chao1224/ChatDrug/git/blobs/54b5b0ed5dcd00c5507cb343aede25f05a8ec227"
+    },
+    {
+      "path": "main_InContext.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "90087afaacb8cc63b9cb4120120744b0b7fd686f",
+      "size": 4534,
+      "url": "https://api.github.com/repos/chao1224/ChatDrug/git/blobs/90087afaacb8cc63b9cb4120120744b0b7fd686f"
+    },
+    {
+      "path": "setup.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7451238109bd1a5492bbc9e9baec5f856c6995fb",
+      "size": 285,
+      "url": "https://api.github.com/repos/chao1224/ChatDrug/git/blobs/7451238109bd1a5492bbc9e9baec5f856c6995fb"
+    },
+    {
+      "path": "utils.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1a89ab4ad65380e1f2c27bd08178ea8aa1512543",
+      "size": 13702,
+      "url": "https://api.github.com/repos/chao1224/ChatDrug/git/blobs/1a89ab4ad65380e1f2c27bd08178ea8aa1512543"
+    }
+  ],
+  "truncated": false
+}

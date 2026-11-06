@@ -1,0 +1,501 @@
+index,Instruction,molecule,MR
+170246,Please optimize the molecule COc1cc(NS(=O)(=O)c2cc(Cl)ccc2C)ccc1NC(C)=O to have a higher MR value.,COc1cc(NS(=O)(=O)c2cc(Cl)ccc2C)ccc1NC(C)=O,94.29520000000004
+29525,Modify the molecule CC[NH+](CC)C[C@H](O)Cn1c2ccc(Cl)cc2c2cc(Cl)ccc21 to have a lower MR value.,CC[NH+](CC)C[C@H](O)Cn1c2ccc(Cl)cc2c2cc(Cl)ccc21,102.38250000000004
+48893,Optimize the molecule CC[C@@](C)(CO)NC(=O)Nc1cc(F)c(OC)cc1OC to have a lower MR value.,CC[C@@](C)(CO)NC(=O)Nc1cc(F)c(OC)cc1OC,77.44020000000003
+216275,Please modify the molecule Cc1nc2ccc(NC(=O)[C@H](C)Sc3ccccn3)cc2o1 to increase its MR value.,Cc1nc2ccc(NC(=O)[C@H](C)Sc3ccccn3)cc2o1,86.93170000000003
+156904,Optimize the molecule Cc1nn(C(C)(C)C)cc1[C@@H](C)[NH2+][C@@H](CC(F)(F)F)c1ccc(F)cc1 to have a higher MR value.,Cc1nn(C(C)(C)C)cc1[C@@H](C)[NH2+][C@@H](CC(F)(F)F)c1ccc(F)cc1,92.11340000000004
+156515,Modify the molecule O=C(/C=C/c1ccc(-n2ccnc2)cc1)N1CCC[C@H]1CN1CCOCC1 to have a higher MR value.,O=C(/C=C/c1ccc(-n2ccnc2)cc1)N1CCC[C@H]1CN1CCOCC1,104.59200000000006
+223901,Modify the molecule [NH3+]C1CC(OC(=O)Nc2ccccc2C(F)(F)F)C1 to have a higher MR value.,[NH3+]C1CC(OC(=O)Nc2ccccc2C(F)(F)F)C1,61.24580000000001
+193291,Please modify the molecule C#CCOc1ccc([C@@H]2NC(=O)[C@@H]3COCCN32)cc1OCC to decrease its MR value.,C#CCOc1ccc([C@@H]2NC(=O)[C@@H]3COCCN32)cc1OCC,84.13570000000004
+209076,Please modify the molecule CCc1ccc(CCC(=O)N2CC[C@H](C(=O)OC)c3ccccc32)cc1 to increase its MR value.,CCc1ccc(CCC(=O)N2CC[C@H](C(=O)OC)c3ccccc32)cc1,102.31000000000004
+230126,Modify the molecule CCCc1sc(C(=O)NN2C(=O)NC3(CCCCC3)C2=O)cc1CC to have a lower MR value.,CCCc1sc(C(=O)NN2C(=O)NC3(CCCCC3)C2=O)cc1CC,96.35190000000004
+49184,Please optimize the molecule C[C@H]1[C@H](c2ccccc2)OC[C@@H](C)N1Cc1cn(C)nc1-c1ccncc1 to have a lower MR value.,C[C@H]1[C@H](c2ccccc2)OC[C@@H](C)N1Cc1cn(C)nc1-c1ccncc1,106.04100000000004
+185341,Please optimize the molecule CC(C)N(C)C(=O)C1CCN(C(=O)Nc2ccc(OC(F)F)cc2)CC1 to have a lower MR value.,CC(C)N(C)C(=O)C1CCN(C(=O)Nc2ccc(OC(F)F)cc2)CC1,94.29570000000004
+138205,Optimize the molecule CCN(C(=O)c1ccsc1)c1cc(C)cc(C)c1 to have a lower MR value.,CCN(C(=O)c1ccsc1)c1cc(C)cc(C)c1,77.58550000000004
+57306,Please optimize the molecule COc1ccc2c(c1)CCCN2C(=O)CNc1cccc(C#N)c1 to have a lower MR value.,COc1ccc2c(c1)CCCN2C(=O)CNc1cccc(C#N)c1,93.31470000000004
+106377,Please modify the molecule COCc1nc(OC)c2c(C)c(C(=O)N(C)C[C@@H]3CCN(C(C)=O)C3)sc2n1 to increase its MR value.,COCc1nc(OC)c2c(C)c(C(=O)N(C)C[C@@H]3CCN(C(C)=O)C3)sc2n1,106.73850000000004
+94849,Modify the molecule N#CC1=C(SCC(=O)Nc2ccccc2)NC(=O)C[C@@H]1c1ccccc1 to have a higher MR value.,N#CC1=C(SCC(=O)Nc2ccccc2)NC(=O)C[C@@H]1c1ccccc1,102.1114
+55748,Modify the molecule CCC(=O)N1CCCC[C@H]1C(=O)NCc1cccc(OCC(F)F)n1 to have a lower MR value.,CCC(=O)N1CCCC[C@H]1C(=O)NCc1cccc(OCC(F)F)n1,87.22570000000005
+157154,Optimize the molecule CCN(CC(=O)N[C@H]1CCS(=O)(=O)C1)C(=O)Cc1cccc2ccccc12 to have a higher MR value.,CCN(CC(=O)N[C@H]1CCS(=O)(=O)C1)C(=O)Cc1cccc2ccccc12,105.10750000000004
+55554,Modify the molecule CCCC(=O)Nc1ccc(Cl)c(NC(=O)c2ccc(C)cc2)c1 to decrease its MR value.,CCCC(=O)Nc1ccc(Cl)c(NC(=O)c2ccc(C)cc2)c1,94.12190000000002
+243417,Optimize the molecule COc1ccc(COC(=O)c2ccc(-c3nc(C4CC4)no3)cc2)cn1 to have a lower MR value.,COc1ccc(COC(=O)c2ccc(-c3nc(C4CC4)no3)cc2)cn1,91.61750000000002
+112836,Optimize the molecule CCS[C@@H]1CC[C@H](N(C)c2nc3ccccn3c(=O)c2[N+](=O)[O-])C1 to have a lower MR value.,CCS[C@@H]1CC[C@H](N(C)c2nc3ccccn3c(=O)c2[N+](=O)[O-])C1,96.07840000000006
+217446,Please modify the molecule CCn1c(=O)n(CC(=O)NNc2cc(C#N)cc(Cl)n2)c2ccccc21 to decrease its MR value.,CCn1c(=O)n(CC(=O)NNc2cc(C#N)cc(Cl)n2)c2ccccc21,97.5994
+84416,Modify the molecule COc1cccc(/C=N\N2CCOCC2)c1O to increase its MR value.,COc1cccc(/C=N\N2CCOCC2)c1O,64.64480000000003
+227742,Please optimize the molecule N#Cc1cc(N)c(O)cc1C#N to have a higher MR value.,N#Cc1cc(N)c(O)cc1C#N,41.949200000000005
+192869,Optimize the molecule CCn1nc(C)c(NC(=O)N[C@@H]2CCCCc3ccccc32)c1C to have a higher MR value.,CCn1nc(C)c(NC(=O)N[C@@H]2CCCCc3ccccc32)c1C,96.26740000000004
+115851,Modify the molecule CC(C)COc1ccc(S(=O)(=O)Nc2cccc(N3CCCCC3=O)c2)cc1 to decrease its MR value.,CC(C)COc1ccc(S(=O)(=O)Nc2cccc(N3CCCCC3=O)c2)cc1,110.22950000000004
+1594,Modify the molecule CCOc1c(OC)cc(C[NH+]2CCNC(=O)[C@@H]2CC)cc1OC to have a lower MR value.,CCOc1c(OC)cc(C[NH+]2CCNC(=O)[C@@H]2CC)cc1OC,87.33740000000006
+47886,Please modify the molecule NC(=O)c1cnc(NC[C@H]([C@@H]2CCOC2)N2CCOCC2)c(Cl)c1 to decrease its MR value.,NC(=O)c1cnc(NC[C@H]([C@@H]2CCOC2)N2CCOCC2)c(Cl)c1,91.36060000000003
+7030,Please modify the molecule CCOc1cccc(NC(=O)N2CCC([C@@H](O)c3ccc(Cl)cc3)CC2)c1 to increase its MR value.,CCOc1cccc(NC(=O)N2CCC([C@@H](O)c3ccc(Cl)cc3)CC2)c1,107.33850000000002
+223864,Please optimize the molecule O=C([C@H](Cl)S(=O)(=O)c1ccccc1)N1CCOCC1 to have a lower MR value.,O=C([C@H](Cl)S(=O)(=O)c1ccccc1)N1CCOCC1,70.66780000000003
+190877,Modify the molecule COC(=O)c1cc(C)nn1-c1nnc(C)c([O-])n1 to increase its MR value.,COC(=O)c1cc(C)nn1-c1nnc(C)c([O-])n1,57.208500000000015
+6232,Please modify the molecule CC1=C(C)C[C@H](C(=O)NNC(=O)c2cccc(C)c2)[C@@H](C(=O)[O-])C1 to decrease its MR value.,CC1=C(C)C[C@H](C(=O)NNC(=O)c2cccc(C)c2)[C@@H](C(=O)[O-])C1,86.38290000000005
+223430,Modify the molecule Cc1cc(Br)ccc1NC(=O)COc1ccc([N+](=O)[O-])cc1C to have a lower MR value.,Cc1cc(Br)ccc1NC(=O)COc1ccc([N+](=O)[O-])cc1C,90.83710000000002
+119654,Optimize the molecule CCCn1c(=O)c2sccc2n2c(SCc3ccc(Br)cc3)nnc12 to have a lower MR value.,CCCn1c(=O)c2sccc2n2c(SCc3ccc(Br)cc3)nnc12,106.624
+174406,Please optimize the molecule Nc1ccc2c(c1)C[NH+](CC1CCCCC1)C2 to have a lower MR value.,Nc1ccc2c(c1)C[NH+](CC1CCCCC1)C2,70.66710000000003
+226824,Modify the molecule CN(C)C(=O)c1ccc(CNC(=O)C(=O)Nc2cccc(F)c2)cc1 to have a lower MR value.,CN(C)C(=O)c1ccc(CNC(=O)C(=O)Nc2cccc(F)c2)cc1,91.3359
+229294,Modify the molecule C[C@@H](NC(=O)c1ccccc1Cn1cccn1)c1cccc(C(F)(F)F)c1 to have a higher MR value.,C[C@@H](NC(=O)c1ccccc1Cn1cccn1)c1cccc(C(F)(F)F)c1,95.09620000000004
+44396,Modify the molecule CCCCc1ccc(Nc2ncnc(N3CCN(c4cccc[nH+]4)CC3)c2N)cc1 to have a higher MR value.,CCCCc1ccc(Nc2ncnc(N3CCN(c4cccc[nH+]4)CC3)c2N)cc1,122.20480000000003
+160003,Please optimize the molecule CN(C)C(=O)N1CCN(C(=O)c2ccc(N3CCC(O)CC3)cc2)CC1 to have a lower MR value.,CN(C)C(=O)N1CCN(C(=O)c2ccc(N3CCC(O)CC3)cc2)CC1,100.45530000000004
+77677,Please modify the molecule CC(C)c1nc2sc3c(NCCCO)ncnc3c2c2c1CCCC2 to increase its MR value.,CC(C)c1nc2sc3c(NCCCO)ncnc3c2c2c1CCCC2,103.63950000000004
+66874,Please modify the molecule CN(C)S(=O)(=O)c1cccc(C(=O)NNC(=O)CC2CCCC2)c1 to increase its MR value.,CN(C)S(=O)(=O)c1cccc(C(=O)NNC(=O)CC2CCCC2)c1,89.49870000000004
+143360,Optimize the molecule Cc1cc(=O)oc(C)c1C(=O)N1CCCC[C@H]1C to have a higher MR value.,Cc1cc(=O)oc(C)c1C(=O)N1CCCC[C@H]1C,68.80150000000003
+36305,Modify the molecule O=S(=O)(/N=C(\[O-])c1scnc1C1CC1)c1ccc2ccccc2c1 to increase its MR value.,O=S(=O)(/N=C(\[O-])c1scnc1C1CC1)c1ccc2ccccc2c1,91.75980000000004
+149650,Please optimize the molecule Cc1ccncc1NC(=O)N1CC=C(c2ccccc2Cl)CC1 to have a higher MR value.,Cc1ccncc1NC(=O)N1CC=C(c2ccccc2Cl)CC1,93.61170000000004
+164476,Modify the molecule O=C(CC1(O)CCCCC1)NNc1cccc(C(F)(F)F)n1 to have a lower MR value.,O=C(CC1(O)CCCCC1)NNc1cccc(C(F)(F)F)n1,73.65620000000003
+61109,Please optimize the molecule C[C@@H]1CCN(C(=O)COc2cccc(NC(=O)c3ccco3)c2)C[C@@H]1O to have a higher MR value.,C[C@@H]1CCN(C(=O)COc2cccc(NC(=O)c3ccco3)c2)C[C@@H]1O,94.96600000000004
+32022,Please modify the molecule Cc1ccc(C(=O)Nc2cc(C#N)ccc2Cl)s1 to increase its MR value.,Cc1ccc(C(=O)Nc2cc(C#N)ccc2Cl)s1,73.17620000000002
+113018,Optimize the molecule CC[C@H](C)[C@@H](NC(=O)c1ccc(Cl)cc1)C(=O)N1CCC[C@H](C)C1 to have a lower MR value.,CC[C@H](C)[C@@H](NC(=O)c1ccc(Cl)cc1)C(=O)N1CCC[C@H](C)C1,97.13920000000006
+203258,Modify the molecule CC[C@]1(C(=O)[O-])CC[NH+](Cc2ccc(CC(C)C)cc2)C1 to decrease its MR value.,CC[C@]1(C(=O)[O-])CC[NH+](Cc2ccc(CC(C)C)cc2)C1,81.73270000000005
+21237,Please optimize the molecule CC(C)(C)[C@H]1CCc2c(sc(NC(=O)CSc3nnnn3-c3ccccc3)c2C#N)C1 to have a higher MR value.,CC(C)(C)[C@H]1CCc2c(sc(NC(=O)CSc3nnnn3-c3ccccc3)c2C#N)C1,122.5117
+183701,Please optimize the molecule CC(=O)Nc1cccc(C(=O)N2Cc3ccccc3C[C@@H]2C(N)=O)c1 to have a lower MR value.,CC(=O)Nc1cccc(C(=O)N2Cc3ccccc3C[C@@H]2C(N)=O)c1,93.74760000000003
+101009,Please modify the molecule Nc1cccnc1-n1cnc2ccccc21 to decrease its MR value.,Nc1cccnc1-n1cnc2ccccc21,63.27740000000003
+144869,Optimize the molecule CCc1nc(CNc2cccc(C(=O)N3CCSCC3)c2C)no1 to have a lower MR value.,CCc1nc(CNc2cccc(C(=O)N3CCSCC3)c2C)no1,95.41020000000005
+56427,Modify the molecule O=C(NCCCCOc1ccccc1)c1ccc2c(c1)OCCCO2 to increase its MR value.,O=C(NCCCCOc1ccccc1)c1ccc2c(c1)OCCCO2,95.55320000000006
+206833,Please optimize the molecule CCNC(=O)c1ccc(CNC(=O)NC[C@H](C)c2ccsc2)cc1 to have a lower MR value.,CCNC(=O)c1ccc(CNC(=O)NC[C@H](C)c2ccsc2)cc1,97.42160000000004
+102319,Optimize the molecule CC/[NH+]=C(/NCc1[nH+]ccn1C)N1CC[C@@H](O)C1 to have a higher MR value.,CC/[NH+]=C(/NCc1[nH+]ccn1C)N1CC[C@@H](O)C1,67.51590000000003
+34288,Modify the molecule CNc1snc(C)c1C(=O)Nc1cccc(OC[C@@H]2CCCO2)c1 to decrease its MR value.,CNc1snc(C)c1C(=O)Nc1cccc(OC[C@@H]2CCCO2)c1,95.26190000000004
+10470,Modify the molecule COc1cc(/C=N\NC(=O)C(=O)Nc2cccc3ccccc23)cc(OC)c1OC to decrease its MR value.,COc1cc(/C=N\NC(=O)C(=O)Nc2cccc3ccccc23)cc(OC)c1OC,114.41240000000002
+41414,Modify the molecule O=C(N[C@H]1CCC[NH+](C2Cc3ccccc3C2)C1)[C@H]1N=NC2=C1CCCC2 to have a lower MR value.,O=C(N[C@H]1CCC[NH+](C2Cc3ccccc3C2)C1)[C@H]1N=NC2=C1CCCC2,103.63740000000006
+36935,Please optimize the molecule O=C1CN(C(=O)c2nn(Cc3ccccc3)c3c2CN(C(=O)[C@H]2CC24CCCCC4)CC3)CCN1 to have a higher MR value.,O=C1CN(C(=O)c2nn(Cc3ccccc3)c3c2CN(C(=O)[C@H]2CC24CCCCC4)CC3)CCN1,129.4302000000001
+101798,Modify the molecule N#Cc1ccccc1NC(=O)C(=O)NC[C@]1(O)CCOc2ccccc21 to have a higher MR value.,N#Cc1ccccc1NC(=O)C(=O)NC[C@]1(O)CCOc2ccccc21,93.24720000000002
+62413,Modify the molecule C[C@H]1C[C@H]1C(=O)N(CC#N)C1CCCC1 to have a lower MR value.,C[C@H]1C[C@H]1C(=O)N(CC#N)C1CCCC1,56.85300000000005
+167251,Please optimize the molecule Cc1[nH]c(CN[C@@H]2CCC[C@@H]3C2=CNN3c2ccc(C(C)(C)C)cc2)c[nH+]1 to have a lower MR value.,Cc1[nH]c(CN[C@@H]2CCC[C@@H]3C2=CNN3c2ccc(C(C)(C)C)cc2)c[nH+]1,109.19180000000004
+147254,Modify the molecule O=C([O-])[C@H]1CSCN1C(=O)Nc1ccc(F)cc1F to increase its MR value.,O=C([O-])[C@H]1CSCN1C(=O)Nc1ccc(F)cc1F,63.33570000000001
+81940,Please modify the molecule C=C(Cl)Cc1ccc(CC)cc1 to decrease its MR value.,C=C(Cl)Cc1ccc(CC)cc1,54.51700000000003
+74522,Optimize the molecule C[C@@H]1CCN(C(=O)Cc2ccon2)[C@H](C)C1 to have a higher MR value.,C[C@@H]1CCN(C(=O)Cc2ccon2)[C@H](C)C1,59.78000000000005
+78794,Modify the molecule CCOc1cccc2c1[C@@H](C)[C@H](C)[C@@H]2O to have a lower MR value.,CCOc1cccc2c1[C@@H](C)[C@H](C)[C@@H]2O,60.14980000000004
+91070,Optimize the molecule Cc1ccc2cccc(S(=O)(=O)NC3CC[NH+](Cc4ccccc4)CC3)c2n1 to have a higher MR value.,Cc1ccc2cccc(S(=O)(=O)NC3CC[NH+](Cc4ccccc4)CC3)c2n1,110.66620000000005
+132839,Optimize the molecule C[C@H](Sc1nnc(Nc2ccccc2)s1)c1nnnn1-c1ccccc1 to have a lower MR value.,C[C@H](Sc1nnc(Nc2ccccc2)s1)c1nnnn1-c1ccccc1,103.0597
+98141,Modify the molecule CC[C@]1(C)NC(=O)CCN(C[C@]2(C)CCCO2)C1=O to decrease its MR value.,CC[C@]1(C)NC(=O)CCN(C[C@]2(C)CCCO2)C1=O,71.62670000000004
+238754,Modify the molecule C[C@H]1C[NH+](C)CCN1C(=O)c1ccc(CN2CCCC2=O)cc1 to decrease its MR value.,C[C@H]1C[NH+](C)CCN1C(=O)c1ccc(CN2CCCC2=O)cc1,88.21220000000005
+203153,Please modify the molecule COc1ccc(-c2nc(-c3ccc(CCNS(C)(=O)=O)s3)cs2)cc1 to decrease its MR value.,COc1ccc(-c2nc(-c3ccc(CCNS(C)(=O)=O)s3)cs2)cc1,103.96550000000002
+191754,Optimize the molecule CC(C)[C@@H](CO)NC(=O)N[C@H]1CCO[C@H]1c1ccc(Cl)c(F)c1 to have a higher MR value.,CC(C)[C@@H](CO)NC(=O)N[C@H]1CCO[C@H]1c1ccc(Cl)c(F)c1,85.88720000000004
+206653,Modify the molecule [NH3+]Cc1nnc(SC[C@@H]2Cc3ccccc3S2)n1C1CC1 to decrease its MR value.,[NH3+]Cc1nnc(SC[C@@H]2Cc3ccccc3S2)n1C1CC1,85.40010000000004
+103817,Modify the molecule O=C1/C(=C\c2ccc(-c3cccc([N+](=O)[O-])c3)o2)SC(=S)N1c1cccc(F)c1 to have a lower MR value.,O=C1/C(=C\c2ccc(-c3cccc([N+](=O)[O-])c3)o2)SC(=S)N1c1cccc(F)c1,112.8504
+203383,Modify the molecule Cc1c(Cl)cccc1NC(=O)C(=O)NCc1ncn(C)n1 to have a higher MR value.,Cc1c(Cl)cccc1NC(=O)C(=O)NCc1ncn(C)n1,77.66840000000002
+165871,Please modify the molecule Nc1c(C[NH+]2CCCCCC2)c(=O)oc2ccccc12 to decrease its MR value.,Nc1c(C[NH+]2CCCCCC2)c(=O)oc2ccccc12,79.76510000000003
+125999,Optimize the molecule C[NH+]1CCC[C@H]1C(=O)N1CCN(Cc2ccc(O)cc2O)CC1 to have a lower MR value.,C[NH+]1CCC[C@H]1C(=O)N1CCN(Cc2ccc(O)cc2O)CC1,86.40430000000003
+180610,Modify the molecule CCn1nc(C)c(NC(=O)C(=O)N2CCC[C@H](Nc3ccccc3)C2)c1C to have a lower MR value.,CCn1nc(C)c(NC(=O)C(=O)N2CCC[C@H](Nc3ccccc3)C2)c1C,105.67140000000003
+119778,Modify the molecule C[C@H]1CCC[C@H](NC(=O)COC(=O)c2cccc3ccccc23)[C@@H]1C to increase its MR value.,C[C@H]1CCC[C@H](NC(=O)COC(=O)c2cccc3ccccc23)[C@@H]1C,98.34020000000008
+3562,Optimize the molecule Cc1ccc(=O)n(CC(=O)NCc2cccs2)n1 to have a higher MR value.,Cc1ccc(=O)n(CC(=O)NCc2cccs2)n1,69.39970000000002
+9939,Please optimize the molecule CC[C@H](C)N1C(=O)[C@@H](C)NC(=O)C1(C)C to have a lower MR value.,CC[C@H](C)N1C(=O)[C@@H](C)NC(=O)C1(C)C,58.28270000000004
+209624,Modify the molecule C[C@H]1CN(C(=O)c2cccc(Nc3cnn(C)c3)c2)c2ccccc2O1 to have a lower MR value.,C[C@H]1CN(C(=O)c2cccc(Nc3cnn(C)c3)c2)c2ccccc2O1,101.14120000000004
+118548,Modify the molecule c1cnc2c(c1)CC[C@H]2C[C@H]1CCC[NH2+]C1 to increase its MR value.,c1cnc2c(c1)CC[C@H]2C[C@H]1CCC[NH2+]C1,64.29940000000003
+120735,Modify the molecule CCCCNC(=O)[C@@H](C#N)C(=O)[C@H]1CCCN(C(=O)Nc2ccccc2)C1 to have a lower MR value.,CCCCNC(=O)[C@@H](C#N)C(=O)[C@H]1CCCN(C(=O)Nc2ccccc2)C1,101.78540000000004
+4014,Modify the molecule CCC[C@@](C)(CO)NC(=O)Nc1ccc(N2CCc3sccc3C2)cc1 to have a lower MR value.,CCC[C@@](C)(CO)NC(=O)Nc1ccc(N2CCc3sccc3C2)cc1,108.06820000000003
+47043,Optimize the molecule CC[C@@H](C)c1ccccc1Oc1nc(Cl)ncc1F to have a higher MR value.,CC[C@@H](C)c1ccccc1Oc1nc(Cl)ncc1F,72.22200000000004
+244978,Modify the molecule C[C@H]1[C@@H](c2ccccc2)OC[C@@H](C)N1Cc1cn(C)nc1-c1cccnc1 to decrease its MR value.,C[C@H]1[C@@H](c2ccccc2)OC[C@@H](C)N1Cc1cn(C)nc1-c1cccnc1,106.04100000000004
+138658,Please modify the molecule CC[C@H](C)Sc1nnc(N/N=C(\C)c2cccs2)[nH]1 to decrease its MR value.,CC[C@H](C)Sc1nnc(N/N=C(\C)c2cccs2)[nH]1,82.14540000000002
+205659,Please modify the molecule CCOC(=O)Nc1cccc(NC(=O)C#Cc2ccccc2)c1C to decrease its MR value.,CCOC(=O)Nc1cccc(NC(=O)C#Cc2ccccc2)c1C,93.77340000000002
+153365,Modify the molecule CC(C)c1nc(CC(=O)N2CCC[C@@H](O)C2)cs1 to decrease its MR value.,CC(C)c1nc(CC(=O)N2CCC[C@@H](O)C2)cs1,71.72780000000003
+66674,Modify the molecule COc1cccc(NC(=O)C2=C(C)NC(=S)N[C@H]2c2ccccc2F)c1 to have a lower MR value.,COc1cccc(NC(=O)C2=C(C)NC(=S)N[C@H]2c2ccccc2F)c1,102.3341
+130605,Please optimize the molecule CCC[NH+]1Cc2cccc(NC(=O)COc3cccc(C(C)=O)c3)c2C1 to have a lower MR value.,CCC[NH+]1Cc2cccc(NC(=O)COc3cccc(C(C)=O)c3)c2C1,100.54190000000006
+67289,Optimize the molecule O=[N+]([O-])c1ccc(CC[NH+]2CCN(c3cccc[nH+]3)CC2)cc1 to have a higher MR value.,O=[N+]([O-])c1ccc(CC[NH+]2CCN(c3cccc[nH+]3)CC2)cc1,87.57480000000005
+29905,Please modify the molecule NC(=O)C1CC[NH+]([C@@H]2CC(=O)N(CCc3ccccc3F)C2=O)CC1 to decrease its MR value.,NC(=O)C1CC[NH+]([C@@H]2CC(=O)N(CCc3ccccc3F)C2=O)CC1,87.84410000000004
+9784,Optimize the molecule Cc1ccc(CNC(=O)c2ccc(NC(=O)N3CCSc4ncccc43)cc2)o1 to have a higher MR value.,Cc1ccc(CNC(=O)c2ccc(NC(=O)N3CCSc4ncccc43)cc2)o1,112.3829
+6212,Modify the molecule CNC(=O)c1c(C)nc(N)nc1-c1ccc(Cl)cc1Cl to decrease its MR value.,CNC(=O)c1c(C)nc(N)nc1-c1ccc(Cl)cc1Cl,80.0276
+82581,Modify the molecule NC(=O)c1ccc(SCC(=O)N2CCc3cc(F)ccc3C2)c([N+](=O)[O-])c1 to have a higher MR value.,NC(=O)c1ccc(SCC(=O)N2CCc3cc(F)ccc3C2)c([N+](=O)[O-])c1,97.85930000000002
+61272,Please modify the molecule COC(=O)Cc1n[nH]c(/N=C(\[O-])C/C=C/c2ccc(C)cc2)n1 to increase its MR value.,COC(=O)Cc1n[nH]c(/N=C(\[O-])C/C=C/c2ccc(C)cc2)n1,84.02770000000004
+105090,Modify the molecule C[C@H](CNC(=O)Nc1ccccc1N1CC[NH+](C)CC1)N(C)c1ccccc1 to have a lower MR value.,C[C@H](CNC(=O)Nc1ccccc1N1CC[NH+](C)CC1)N(C)c1ccccc1,116.60410000000005
+210788,Modify the molecule C1=C[C@@H]2c3cccc(OCc4ccccc4)c3N[C@H](c3cccnc3)[C@H]2C1 to decrease its MR value.,C1=C[C@@H]2c3cccc(OCc4ccccc4)c3N[C@H](c3cccnc3)[C@H]2C1,107.80470000000004
+41598,Optimize the molecule O=C(C/C=C/c1ccc(F)cc1)N1CCC[C@@H](COc2ccccc2)C1 to have a higher MR value.,O=C(C/C=C/c1ccc(F)cc1)N1CCC[C@@H](COc2ccccc2)C1,101.29200000000004
+132040,Please optimize the molecule Nc1c(Cl)cc(-c2nn(C3CC[NH+](CCc4ccccc4)CC3)c(=O)o2)c2c1OCCO2 to have a higher MR value.,Nc1c(Cl)cc(-c2nn(C3CC[NH+](CCc4ccccc4)CC3)c(=O)o2)c2c1OCCO2,120.59210000000004
+110516,Modify the molecule O=C(OC1CCCCC1)c1ccccc1F to decrease its MR value.,O=C(OC1CCCCC1)c1ccccc1F,58.68850000000003
+111849,Modify the molecule CC1=c2cc(Cl)ccc2=[NH+][C@@H]1C(=O)NC[C@H]1Cc2cc(-c3nc(C)cnc3C)ccc2O1 to have a higher MR value.,CC1=c2cc(Cl)ccc2=[NH+][C@@H]1C(=O)NC[C@H]1Cc2cc(-c3nc(C)cnc3C)ccc2O1,121.70940000000002
+212537,Modify the molecule Fc1c([C@@H](Br)Cc2ccccn2)cccc1C(F)(F)F to decrease its MR value.,Fc1c([C@@H](Br)Cc2ccccn2)cccc1C(F)(F)F,71.01100000000001
+166192,Modify the molecule CCOc1ccc2c(c1)CN(C(=O)Nc1nc(-c3cccnc3)cs1)CC2 to increase its MR value.,CCOc1ccc2c(c1)CN(C(=O)Nc1nc(-c3cccnc3)cs1)CC2,106.08870000000002
+154201,Modify the molecule Cc1ccc(OC(=O)Cc2ccc(F)cc2)cc1 to increase its MR value.,Cc1ccc(OC(=O)Cc2ccc(F)cc2)cc1,66.91800000000002
+2685,Modify the molecule CCCn1/c(=N/C(C)=O)sc2cc3c(cc21)OCO3 to have a higher MR value.,CCCn1/c(=N/C(C)=O)sc2cc3c(cc21)OCO3,72.47300000000004
+62075,Modify the molecule CSC(=N/N=C(\Nc1ccccc1)c1ccc(N(C)C)cc1)SC to increase its MR value.,CSC(=N/N=C(\Nc1ccccc1)c1ccc(N(C)C)cc1)SC,111.83570000000005
+18228,Please modify the molecule O=C(NNc1cccc(Cl)c1)[C@H]1CCC[C@H](C(F)(F)F)C1 to decrease its MR value.,O=C(NNc1cccc(Cl)c1)[C@H]1CCC[C@H](C(F)(F)F)C1,74.72040000000003
+13430,Optimize the molecule Cc1ccc(S(C)(=O)=O)cc1[N-]S(=O)(=O)c1cc(Cl)ccc1Cl to have a higher MR value.,Cc1ccc(S(C)(=O)=O)cc1[N-]S(=O)(=O)c1cc(Cl)ccc1Cl,90.95560000000002
+74135,Modify the molecule C[C@H](O)CCC(=O)N[C@@H](C)c1ccc(NC(N)=O)cc1 to have a higher MR value.,C[C@H](O)CCC(=O)N[C@@H](C)c1ccc(NC(N)=O)cc1,77.12060000000004
+170901,Please modify the molecule C[C@@H](C(=O)NCCc1cccs1)N1CCN(C(=O)C2CC2)CC1 to decrease its MR value.,C[C@@H](C(=O)NCCc1cccs1)N1CCN(C(=O)C2CC2)CC1,91.37170000000005
+46806,Please modify the molecule CCS(=O)(=O)CCN(C)C(=O)[C@H](C)Oc1ccc(Cl)c(Cl)c1 to decrease its MR value.,CCS(=O)(=O)CCN(C)C(=O)[C@H](C)Oc1ccc(Cl)c(Cl)c1,88.51680000000005
+10527,Modify the molecule COc1ccccc1[C@@H]1CCCN1C(=O)Cc1c[nH]c2cc(F)ccc12 to have a higher MR value.,COc1ccccc1[C@@H]1CCCN1C(=O)Cc1c[nH]c2cc(F)ccc12,98.64270000000003
+99218,Please optimize the molecule CC(C)c1noc2nc(C3CC3)cc(C(=O)N3CC[C@@H]4CC[C@H](C3)[NH+]4C)c12 to have a higher MR value.,CC(C)c1noc2nc(C3CC3)cc(C(=O)N3CC[C@@H]4CC[C@H](C3)[NH+]4C)c12,102.08520000000009
+221868,Please optimize the molecule CCn1cnnc1CNC(=O)N1CCC[C@H]1c1nc2ccccc2[nH]1 to have a higher MR value.,CCn1cnnc1CNC(=O)N1CCC[C@H]1c1nc2ccccc2[nH]1,92.70640000000004
+101732,Modify the molecule C[C@H]1Cc2cc([C@@H](Cl)C3(C)CCCC3)ccc2O1 to increase its MR value.,C[C@H]1Cc2cc([C@@H](Cl)C3(C)CCCC3)ccc2O1,75.40500000000004
+64837,Please modify the molecule CC/C(=C/C(=O)N(C)C[C@H](C)C(=O)NC)c1ccc(C)cc1 to decrease its MR value.,CC/C(=C/C(=O)N(C)C[C@H](C)C(=O)NC)c1ccc(C)cc1,90.31470000000006
+160265,Please modify the molecule O=C(Cc1ccsc1)N1CCC[C@@H](O)C1 to decrease its MR value.,O=C(Cc1ccsc1)N1CCC[C@@H](O)C1,59.84380000000004
+141713,Modify the molecule CCOC(=O)c1cnn([C@@H]2CCCN(C(=O)c3ccncc3Cl)C2)c1 to have a higher MR value.,CCOC(=O)c1cnn([C@@H]2CCCN(C(=O)c3ccncc3Cl)C2)c1,91.60500000000005
+230921,Optimize the molecule Cc1cc2c(cc1C)O[C@H](C(=O)NC[C@@H]1CCCN(c3ncccn3)C1)C2 to have a lower MR value.,Cc1cc2c(cc1C)O[C@H](C(=O)NC[C@@H]1CCCN(c3ncccn3)C1)C2,104.01470000000003
+1135,Please optimize the molecule Cc1ccc(Oc2cccc(C(=O)Nc3nccs3)c2)nn1 to have a lower MR value.,Cc1ccc(Oc2cccc(C(=O)Nc3nccs3)c2)nn1,83.35220000000002
+26549,Optimize the molecule CN(C[C@@H]1CCCC[NH+]1C)C(=O)c1ccc[n+]([O-])c1 to have a lower MR value.,CN(C[C@@H]1CCCC[NH+]1C)C(=O)c1ccc[n+]([O-])c1,71.75520000000004
+64542,Please optimize the molecule C[C@@H](NC(=O)CN1CCCC1=O)c1cccc2ccccc12 to have a higher MR value.,C[C@@H](NC(=O)CN1CCCC1=O)c1cccc2ccccc12,86.31970000000005
+201615,Modify the molecule C[C@H](CC[NH+]1CCN(c2ccccc2)CC1)NC(=O)N1CCC(N2CCNC2=O)CC1 to decrease its MR value.,C[C@H](CC[NH+]1CCN(c2ccccc2)CC1)NC(=O)N1CCC(N2CCNC2=O)CC1,121.52910000000008
+116702,Modify the molecule COc1ccc2[nH]c3c(c2c1)CN(C(=O)Cn1ccc2ccccc21)CC3 to have a higher MR value.,COc1ccc2[nH]c3c(c2c1)CN(C(=O)Cn1ccc2ccccc21)CC3,105.90970000000004
+11605,Optimize the molecule CC(C)N1C[C@@]23C=C[C@@H](O2)[C@H](C(=O)Nc2ccc(N4CCCC4)c(F)c2)[C@@H]3C1=O to have a lower MR value.,CC(C)N1C[C@@]23C=C[C@@H](O2)[C@H](C(=O)Nc2ccc(N4CCCC4)c(F)c2)[C@@H]3C1=O,107.04970000000006
+175691,Please optimize the molecule O=C(Nc1ccncc1)C1CCN(S(=O)(=O)c2ccccc2C(F)(F)F)CC1 to have a higher MR value.,O=C(Nc1ccncc1)C1CCN(S(=O)(=O)c2ccccc2C(F)(F)F)CC1,95.79350000000004
+207577,Optimize the molecule COC(=O)[C@@H]1C[C@@H](NC(=O)c2ccccc2-n2cccn2)CN1C1Cc2ccccc2C1 to have a lower MR value.,COC(=O)[C@@H]1C[C@@H](NC(=O)c2ccccc2-n2cccn2)CN1C1Cc2ccccc2C1,119.58320000000003
+203182,Modify the molecule O=C(NCCCC[NH+]1CCN(c2ccccc2)CC1)N1CCSCC1 to have a lower MR value.,O=C(NCCCC[NH+]1CCN(c2ccccc2)CC1)N1CCSCC1,105.74940000000008
+57916,Please optimize the molecule COC[C@H](NC(=O)CC1(O)CCCCC1)c1ccc(F)c(F)c1 to have a higher MR value.,COC[C@H](NC(=O)CC1(O)CCCCC1)c1ccc(F)c(F)c1,81.76950000000004
+7957,Please optimize the molecule COC(=O)C1=C(C)Nc2nnnn2[C@H]1c1cccc(Oc2ccccc2)c1 to have a higher MR value.,COC(=O)C1=C(C)Nc2nnnn2[C@H]1c1cccc(Oc2ccccc2)c1,97.25270000000002
+143445,Optimize the molecule CCc1ccccc1N(CN1C(=O)c2ccccc2C1=O)C(C)=O to have a lower MR value.,CCc1ccccc1N(CN1C(=O)c2ccccc2C1=O)C(C)=O,90.78900000000006
+226967,Modify the molecule Cn1c(SCC(=O)N(CCC#N)c2ccccc2)nc2sccc2c1=O to have a lower MR value.,Cn1c(SCC(=O)N(CCC#N)c2ccccc2)nc2sccc2c1=O,104.61000000000004
+65253,Modify the molecule OCC1CC[NH+](Cc2cccc(NC3CCCCCC3)c2)CC1 to increase its MR value.,OCC1CC[NH+](Cc2cccc(NC3CCCCCC3)c2)CC1,95.76520000000006
+181741,Optimize the molecule CCCCN(C(=O)N[C@H](c1ccccc1)C1CCC1)[C@@H]1CCS(=O)(=O)C1 to have a lower MR value.,CCCCN(C(=O)N[C@H](c1ccccc1)C1CCC1)[C@@H]1CCS(=O)(=O)C1,103.72850000000008
+46851,Please modify the molecule O=C(NCCOC(=O)N(O)c1ccc(Cl)cc1)Oc1ccc(Cl)cc1Cl to decrease its MR value.,O=C(NCCOC(=O)N(O)c1ccc(Cl)cc1)Oc1ccc(Cl)cc1Cl,97.5542
+115816,Please modify the molecule O=C(NN1C(=O)/C(=C\c2cccc3ccccc23)SC1=S)c1ccccc1 to decrease its MR value.,O=C(NN1C(=O)/C(=C\c2cccc3ccccc23)SC1=S)c1ccccc1,112.8682
+220689,Modify the molecule CCc1nc2ccccc2n1C1CCN(C(=O)N[C@H]2CC(=O)N(C)C2)CC1 to decrease its MR value.,CCc1nc2ccccc2n1C1CCN(C(=O)N[C@H]2CC(=O)N(C)C2)CC1,103.52870000000006
+16580,Modify the molecule CCC(=O)N(C)c1ccccc1C(=O)Nc1ccc2c(c1)OCCO2 to increase its MR value.,CCC(=O)N(C)c1ccccc1C(=O)Nc1ccc2c(c1)OCCO2,95.52820000000006
+141511,Modify the molecule CC[C@@H]([NH2+][C@@H]1CCc2c(OC)cccc21)[C@H]1CCCO1 to have a higher MR value.,CC[C@@H]([NH2+][C@@H]1CCc2c(OC)cccc21)[C@H]1CCCO1,79.03440000000005
+172759,Modify the molecule CCOC(=O)c1ccoc1CSc1nc2c(c(C)c1C#N)CCC2 to increase its MR value.,CCOC(=O)c1ccoc1CSc1nc2c(c(C)c1C#N)CCC2,89.93950000000004
+53262,Please optimize the molecule Cc1nc2ccc(Cl)cc2cc1C(=O)N1CCC(C(=O)[O-])CC1 to have a lower MR value.,Cc1nc2ccc(Cl)cc2cc1C(=O)N1CCC(C(=O)[O-])CC1,85.12450000000003
+129941,Modify the molecule O=C(Nc1ccccc1C(=O)[O-])c1ccncc1 to increase its MR value.,O=C(Nc1ccccc1C(=O)[O-])c1ccncc1,62.96270000000002
+103167,Please modify the molecule Cc1ccc(C(=O)NCCc2ccc(O)cc2)cc1F to increase its MR value.,Cc1ccc(C(=O)NCCc2ccc(O)cc2)cc1F,75.28100000000003
+155497,Please optimize the molecule Nc1nnc(SCc2ccccc2)n1Cc1ccccc1 to have a higher MR value.,Nc1nnc(SCc2ccccc2)n1Cc1ccccc1,85.98140000000002
+48403,Modify the molecule CC(=O)CC(=O)Nc1ccc(Cl)cn1 to decrease its MR value.,CC(=O)CC(=O)Nc1ccc(Cl)cn1,53.174700000000016
+208125,Optimize the molecule CN(C)[C@@H](C[NH2+][C@@H]1CCCC1(C)C)c1ccccc1 to have a higher MR value.,CN(C)[C@@H](C[NH2+][C@@H]1CCCC1(C)C)c1ccccc1,81.08240000000006
+206259,Optimize the molecule CCOc1ccc(NC(=O)CCc2c(C)nn(-c3nc(C)cc(=O)[nH]3)c2C)cc1 to have a lower MR value.,CCOc1ccc(NC(=O)CCc2c(C)nn(-c3nc(C)cc(=O)[nH]3)c2C)cc1,110.75240000000002
+203948,Please modify the molecule C[C@@H](c1nnc(SCC(=O)Nc2sccc2C#N)n1-c1ccc(Cl)cc1)[NH+](C)C to decrease its MR value.,C[C@@H](c1nnc(SCC(=O)Nc2sccc2C#N)n1-c1ccc(Cl)cc1)[NH+](C)C,115.9824
+179072,Modify the molecule CC[C@H](C)CN1CC[NH2+]C[C@@H]1C#N to have a lower MR value.,CC[C@H](C)CN1CC[NH2+]C[C@@H]1C#N,52.08840000000004
+113576,Optimize the molecule C=CCn1c(SCC(=O)Nc2ccc(N(C)C)cc2)nc2sccc2c1=O to have a lower MR value.,C=CCn1c(SCC(=O)Nc2ccc(N(C)C)cc2)nc2sccc2c1=O,114.19970000000006
+183364,Please optimize the molecule CCN1CCO[C@@H](C(=O)Nc2ccccc2Cl)C1 to have a higher MR value.,CCN1CCO[C@@H](C(=O)Nc2ccccc2Cl)C1,71.93570000000004
+247392,Modify the molecule Cc1ccc(O)c(CN2CCN(C(=O)Cc3ccccc3C)CC2)c1 to decrease its MR value.,Cc1ccc(O)c(CN2CCN(C(=O)Cc3ccccc3C)CC2)c1,99.58380000000004
+176125,Modify the molecule CCCOc1ccc2cc(C(=O)Nc3ccc(C)c(C)c3)c(=O)oc2c1 to increase its MR value.,CCCOc1ccc2cc(C(=O)Nc3ccc(C)c(C)c3)c(=O)oc2c1,102.13920000000005
+164757,Modify the molecule CCN(CC)C(=O)c1cccc(NC(=O)N(C)Cc2ccccc2C)c1 to have a lower MR value.,CCN(CC)C(=O)c1cccc(NC(=O)N(C)Cc2ccccc2C)c1,105.35820000000004
+125399,Modify the molecule CC(=O)Nc1ccc(N2CCCCCC2)c(C(=O)[O-])c1 to have a lower MR value.,CC(=O)Nc1ccc(N2CCCCCC2)c(C(=O)[O-])c1,75.75720000000003
+174256,Modify the molecule CC[NH+]1CCN(c2ncnc(Nc3ccc(F)c(Cl)c3)c2N)CC1 to have a lower MR value.,CC[NH+]1CCN(c2ncnc(Nc3ccc(F)c(Cl)c3)c2N)CC1,94.58780000000004
+33170,Modify the molecule CC(=O)Nc1nc(C[NH+]2CCN(c3cccc(Cl)c3)CC2)cs1 to have a higher MR value.,CC(=O)Nc1nc(C[NH+]2CCN(c3cccc(Cl)c3)CC2)cs1,94.48340000000005
+90736,Please modify the molecule O=C(Cc1ccccc1F)N1CCN(CN2C(=O)[C@@H]3CC[C@H]2C3)CC1 to increase its MR value.,O=C(Cc1ccccc1F)N1CCN(CN2C(=O)[C@@H]3CC[C@H]2C3)CC1,91.09900000000005
+57312,Please optimize the molecule N#CCCCC[S@@](=O)Cc1csc(-c2ccc3c(c2)OCO3)n1 to have a lower MR value.,N#CCCCC[S@@](=O)Cc1csc(-c2ccc3c(c2)OCO3)n1,89.85040000000004
+4606,Please optimize the molecule O=C(CS)Nc1ccccn1 to have a lower MR value.,O=C(CS)Nc1ccccn1,46.71970000000002
+45424,Please modify the molecule C[C@@H]1c2ccsc2CCN1C(=O)CC[C@@H]1NC(=O)NC1=O to increase its MR value.,C[C@@H]1c2ccsc2CCN1C(=O)CC[C@@H]1NC(=O)NC1=O,77.84740000000002
+181482,Please optimize the molecule CCCC[C@@H](C)[NH2+]C[C@@H](O)c1ccc(Cl)c(F)c1 to have a lower MR value.,CCCC[C@@H](C)[NH2+]C[C@@H](O)c1ccc(Cl)c(F)c1,72.14920000000004
+121347,Modify the molecule CCc1nn2c(=O)cc(CN3C(=O)C(=O)N(C4CCCC4)C3=O)nc2s1 to increase its MR value.,CCc1nn2c(=O)cc(CN3C(=O)C(=O)N(C4CCCC4)C3=O)nc2s1,91.56000000000004
+219040,Please optimize the molecule CC(=O)N1CC[NH+](Cc2c(F)cccc2Cl)CC1 to have a higher MR value.,CC(=O)N1CC[NH+](Cc2c(F)cccc2Cl)CC1,68.06470000000003
+54023,Optimize the molecule Cc1cnc(C(=O)Nc2cc(C#N)ccc2Cl)cn1 to have a lower MR value.,Cc1cnc(C(=O)Nc2cc(C#N)ccc2Cl)cn1,70.88920000000002
+243961,Please optimize the molecule Cc1ccc(C(=O)NC2CCN(C(=O)[C@@H](C)c3ccsc3)CC2)s1 to have a higher MR value.,Cc1ccc(C(=O)NC2CCN(C(=O)[C@@H](C)c3ccsc3)CC2)s1,98.85820000000004
+196267,Please modify the molecule CCOC(=O)CNC(=O)C1CC[NH+]([C@H]2CC[C@@H](CC)C2)CC1 to increase its MR value.,CCOC(=O)CNC(=O)C1CC[NH+]([C@H]2CC[C@@H](CC)C2)CC1,84.48340000000006
+126211,Modify the molecule Cc1ccc(S(C)(=O)=O)cc1C(=O)NCC(=O)NC(C)(C)C to increase its MR value.,Cc1ccc(S(C)(=O)=O)cc1C(=O)NCC(=O)NC(C)(C)C,84.51770000000003
+86805,Modify the molecule Cn1c(C[NH+](C)CCC(=O)NC2CCCCC2)nc2ccccc21 to have a lower MR value.,Cn1c(C[NH+](C)CCC(=O)NC2CCCCC2)nc2ccccc21,95.80440000000006
+52182,Optimize the molecule O=c1oc2ccccc2n1Cc1cccc(C(F)(F)F)c1 to have a higher MR value.,O=c1oc2ccccc2n1Cc1cccc(C(F)(F)F)c1,71.02000000000002
+34675,Please optimize the molecule CCC([NH3+])(CC)c1nc2cc(F)c(F)cc2[nH]1 to have a higher MR value.,CCC([NH3+])(CC)c1nc2cc(F)c(F)cc2[nH]1,61.15780000000002
+44271,Modify the molecule C[C@H]1C[C@@H](c2cccc(F)c2)N(C(=O)C2C[C@H](C)O[C@H](C)C2)C1 to increase its MR value.,C[C@H]1C[C@@H](c2cccc(F)c2)N(C(=O)C2C[C@H](C)O[C@H](C)C2)C1,87.36800000000007
+67903,Modify the molecule O=C(NC[C@H]1C[C@@]12CCc1ccccc12)Nc1cn[nH]c1 to have a lower MR value.,O=C(NC[C@H]1C[C@@]12CCc1ccccc12)Nc1cn[nH]c1,80.15710000000003
+105045,Please modify the molecule C[C@@H]1CCC[C@@H]([NH+](C)C[C@H](O)CN2CCOCC2)C1 to decrease its MR value.,C[C@@H]1CCC[C@@H]([NH+](C)C[C@H](O)CN2CCOCC2)C1,76.43950000000007
+140672,Please optimize the molecule Cc1nn(C)c(Oc2cccnc2)c1CN1CCCC[C@H]([NH+]2CCCC2)C1 to have a higher MR value.,Cc1nn(C)c(Oc2cccnc2)c1CN1CCCC[C@H]([NH+]2CCCC2)C1,105.10270000000008
+101223,Modify the molecule CCCNC(=O)/C=C/c1c(C)nn(Cc2ccccc2Cl)c1C to have a higher MR value.,CCCNC(=O)/C=C/c1c(C)nn(Cc2ccccc2Cl)c1C,94.58970000000004
+195479,Please modify the molecule CC[C@H](CCO)NC(=O)Nc1ccc(Cl)c(CS(C)(=O)=O)c1 to increase its MR value.,CC[C@H](CCO)NC(=O)Nc1ccc(Cl)c(CS(C)(=O)=O)c1,87.93600000000004
+85166,Modify the molecule COCCCn1cnnc1[C@@H](C)NC(=O)c1cn2cc(C)ccc2n1 to decrease its MR value.,COCCCn1cnnc1[C@@H](C)NC(=O)c1cn2cc(C)ccc2n1,92.32520000000004
+246316,Modify the molecule [NH3+]C[C@@H](Cc1nccs1)c1cccc(Cl)c1 to decrease its MR value.,[NH3+]C[C@@H](Cc1nccs1)c1cccc(Cl)c1,67.76610000000002
+202759,Please modify the molecule O=c1c2[nH]c3ccc(Br)cc3c2ncn1/N=C/c1ccc(Cl)cc1 to decrease its MR value.,O=c1c2[nH]c3ccc(Br)cc3c2ncn1/N=C/c1ccc(Cl)cc1,100.0037
+128834,Modify the molecule COc1cccc(NC(=O)C(=O)N/N=C\c2ccc(Cl)cc2Cl)c1 to increase its MR value.,COc1cccc(NC(=O)C(=O)N/N=C\c2ccc(Cl)cc2Cl)c1,93.8224
+114004,Modify the molecule C[C@H](Cc1ccc(Cl)cc1)[NH2+]C1CCN(CC[NH+](C)C)CC1 to have a lower MR value.,C[C@H](Cc1ccc(Cl)cc1)[NH2+]C1CCN(CC[NH+](C)C)CC1,93.68310000000004
+25870,Modify the molecule CC(C)c1[nH+]ccn1[C@H](C)C(=O)Nc1ncc(Cc2ccccc2)s1 to have a higher MR value.,CC(C)c1[nH+]ccn1[C@H](C)C(=O)Nc1ncc(Cc2ccccc2)s1,99.77940000000004
+134863,Modify the molecule O=C(Cc1c(F)cccc1Cl)Nc1ccc(Cc2nnn[n-]2)cc1 to have a higher MR value.,O=C(Cc1c(F)cccc1Cl)Nc1ccc(Cc2nnn[n-]2)cc1,86.13870000000001
+216771,Please modify the molecule [NH3+][C@@H]1CCC[C@@H]([NH2+]CCCOc2ccccc2)C1 to decrease its MR value.,[NH3+][C@@H]1CCC[C@@H]([NH2+]CCCOc2ccccc2)C1,72.27850000000004
+16970,Please optimize the molecule CC[C@@H](C(=O)Nc1c2c(nn1-c1ccc(OC)cc1)C[S@@](=O)C2)c1ccccc1 to have a higher MR value.,CC[C@@H](C(=O)Nc1c2c(nn1-c1ccc(OC)cc1)C[S@@](=O)C2)c1ccccc1,113.77010000000004
+244260,Modify the molecule Cc1cccc(-c2nnc3sc(CN4C(=O)c5ccccc5C4=O)nn23)c1 to decrease its MR value.,Cc1cccc(-c2nnc3sc(CN4C(=O)c5ccccc5C4=O)nn23)c1,99.47800000000002
+20985,Modify the molecule COc1nccnc1N1CCC[C@@H](N2CCCC2=O)C1 to increase its MR value.,COc1nccnc1N1CCC[C@@H](N2CCCC2=O)C1,74.76600000000005
+132200,Modify the molecule Cc1c(C(=O)N2C[C@H](C)C[C@@H](C)C2)cnn1-c1ccncc1 to have a higher MR value.,Cc1c(C(=O)N2C[C@H](C)C[C@@H](C)C2)cnn1-c1ccncc1,84.94450000000005
+72980,Please optimize the molecule C[NH+](C)[C@@H]1CC[C@@H](NC(=O)COc2ccccc2C=O)C1 to have a higher MR value.,C[NH+](C)[C@@H]1CC[C@@H](NC(=O)COc2ccccc2C=O)C1,79.70490000000004
+160174,Optimize the molecule COCC[NH+](CC(=O)N1CCCCCC1)CC(C)C to have a lower MR value.,COCC[NH+](CC(=O)N1CCCCCC1)CC(C)C,77.32570000000005
+137064,Optimize the molecule COc1ccc(F)c(C[C@]2(CCC(=O)N(C)[C@H]3CCOC3)CCC(=O)N2)c1 to have a higher MR value.,COc1ccc(F)c(C[C@]2(CCC(=O)N(C)[C@H]3CCOC3)CCC(=O)N2)c1,97.99170000000004
+142437,Modify the molecule C[NH2+]C[C@@H](C)OCc1cccnc1OC to have a higher MR value.,C[NH2+]C[C@@H](C)OCc1cccnc1OC,57.75640000000004
+17614,Modify the molecule CC(C)[C@@H]1CS(=O)(=O)CC[C@H](C)[NH2+]1 to have a lower MR value.,CC(C)[C@@H]1CS(=O)(=O)CC[C@H](C)[NH2+]1,53.284200000000034
+129563,Please modify the molecule CO[C@H](C)C(=O)N[C@@H](CO)Cc1c[nH]c2ccccc12 to increase its MR value.,CO[C@H](C)C(=O)N[C@@H](CO)Cc1c[nH]c2ccccc12,77.49020000000003
+36407,Optimize the molecule CC(=O)N1N/C(=C2/C(=O)NC(=O)N(c3cc(C)cc(C)c3)C2=O)C[C@H]1c1cccs1 to have a higher MR value.,CC(=O)N1N/C(=C2/C(=O)NC(=O)N(c3cc(C)cc(C)c3)C2=O)C[C@H]1c1cccs1,111.29940000000002
+61358,Modify the molecule Cc1cccc(-c2cc(-c3cccc(C)c3)on2)c1 to increase its MR value.,Cc1cccc(-c2cc(-c3cccc(C)c3)on2)c1,76.84900000000003
+180906,Modify the molecule CCc1nn(C)c(N2CCC(C(=O)N3C[C@H](C)O[C@H](C)C3)CC2)c1[N+](=O)[O-] to have a lower MR value.,CCc1nn(C)c(N2CCC(C(=O)N3C[C@H](C)O[C@H](C)C3)CC2)c1[N+](=O)[O-],100.76640000000006
+98346,Optimize the molecule Cc1cc2nc3c(cn2n1)C(=O)C[C@H](c1ccc(Cl)cc1)C3 to have a lower MR value.,Cc1cc2nc3c(cn2n1)C(=O)C[C@H](c1ccc(Cl)cc1)C3,84.56850000000003
+213578,Please modify the molecule CC(C)(C)Oc1cc(C(=O)N[C@@H]2CCC[C@]2(C)CO)ccn1 to increase its MR value.,CC(C)(C)Oc1cc(C(=O)N[C@@H]2CCC[C@]2(C)CO)ccn1,84.91600000000004
+31981,Modify the molecule Cc1c(C(=O)N[C@H]2C=CCCC2)cnn1C(C)C to increase its MR value.,Cc1c(C(=O)N[C@H]2C=CCCC2)cnn1C(C)C,71.59420000000003
+206386,Please optimize the molecule CCCOCC(=O)NC1(c2ccc(F)cc2F)CCOCC1 to have a higher MR value.,CCCOCC(=O)NC1(c2ccc(F)cc2F)CCOCC1,77.34170000000003
+154207,Please optimize the molecule CCCC[NH+](C)CC1CCN(C(=O)NCC(=O)N2CCCC2)CC1 to have a higher MR value.,CCCC[NH+](C)CC1CCN(C(=O)NCC(=O)N2CCCC2)CC1,95.03840000000004
+79411,Please modify the molecule CC(C)CCn1cnc2sc3c(c2c1=O)CC[C@H]([NH+](C)CCc1cnn(C)c1)C3 to increase its MR value.,CC(C)CCn1cnc2sc3c(c2c1=O)CC[C@H]([NH+](C)CCc1cnn(C)c1)C3,117.81370000000004
+139073,Modify the molecule Cc1ccc(NC(=O)CCNC(=O)c2ccccc2Cl)c(O)c1 to increase its MR value.,Cc1ccc(NC(=O)CCNC(=O)c2ccccc2Cl)c(O)c1,89.87570000000002
+227528,Optimize the molecule CN(C(=O)c1ccncc1C#CC[NH3+])C1CC1 to have a higher MR value.,CN(C(=O)c1ccncc1C#CC[NH3+])C1CC1,63.98560000000003
+44917,Please modify the molecule COC(=O)c1ccc(CNS(=O)(=O)c2ccc(NC(N)=O)cc2)cc1 to decrease its MR value.,COC(=O)c1ccc(CNS(=O)(=O)c2ccc(NC(N)=O)cc2)cc1,91.45510000000002
+115685,Please optimize the molecule CC(=O)Nc1ccc(C(=O)OCC(=O)Nc2c(F)cccc2F)cc1 to have a lower MR value.,CC(=O)Nc1ccc(C(=O)OCC(=O)Nc2c(F)cccc2F)cc1,86.0159
+130059,Modify the molecule CC(=O)N(c1ccc(F)cc1)c1nc(CNC2(C)Cc3ccccc3C2)cs1 to have a higher MR value.,CC(=O)N(c1ccc(F)cc1)c1nc(CNC2(C)Cc3ccccc3C2)cs1,110.42870000000003
+242348,Modify the molecule CC(C)n1ccc2cc(C(=O)N3CCn4c(nnc4C(F)(F)F)C3)ccc21 to have a higher MR value.,CC(C)n1ccc2cc(C(=O)N3CCn4c(nnc4C(F)(F)F)C3)ccc21,92.08750000000002
+7530,Please optimize the molecule CC(C)NC(=O)[C@@H]1OCC(=O)N(C)[C@H]1c1cccc(F)c1 to have a higher MR value.,CC(C)NC(=O)[C@@H]1OCC(=O)N(C)[C@H]1c1cccc(F)c1,74.92970000000004
+183061,Modify the molecule CC[C@H](C)N([C@@H]1CCS(=O)(=O)C1)S(=O)(=O)[C@@H]1CCS(=O)(=O)C1 to decrease its MR value.,CC[C@H](C)N([C@@H]1CCS(=O)(=O)C1)S(=O)(=O)[C@@H]1CCS(=O)(=O)C1,84.62940000000006
+248320,Please optimize the molecule Cc1n[nH]c(S[C@@H](C)c2nc(-c3cccs3)no2)n1 to have a lower MR value.,Cc1n[nH]c(S[C@@H](C)c2nc(-c3cccs3)no2)n1,73.00270000000002
+21226,Please modify the molecule O=C(Nc1cccc(F)c1)N(Cc1ccncc1)Cc1cccnc1 to decrease its MR value.,O=C(Nc1cccc(F)c1)N(Cc1ccncc1)Cc1cccnc1,93.13970000000003
+81607,Modify the molecule O=C(N[C@@H]1C[C@H]2CCCc3cccc1c32)N1CCO[C@H](c2nccs2)C1 to have a lower MR value.,O=C(N[C@@H]1C[C@H]2CCCc3cccc1c32)N1CCO[C@H](c2nccs2)C1,100.39070000000004
+88904,Please modify the molecule Cc1cccc(CN(Cc2cccc(C)n2)C(=O)N[C@H](C)[C@H]2CCCO2)n1 to decrease its MR value.,Cc1cccc(CN(Cc2cccc(C)n2)C(=O)N[C@H](C)[C@H]2CCCO2)n1,104.16270000000004
+103164,Optimize the molecule O=C(CCc1ccsc1)N1CCC(OCc2cccnc2)CC1 to have a lower MR value.,O=C(CCc1ccsc1)N1CCC(OCc2cccnc2)CC1,91.26800000000006
+88420,Please modify the molecule COc1ccc(-c2noc(CCC(=O)N(C)Cc3ccccc3F)n2)cc1 to increase its MR value.,COc1ccc(-c2noc(CCC(=O)N(C)Cc3ccccc3F)n2)cc1,97.48100000000004
+217420,Please modify the molecule COc1ccc(/C(C)=N/N2CCN(Cc3ccccc3)CC2)cc1OC to decrease its MR value.,COc1ccc(/C(C)=N/N2CCN(Cc3ccccc3)CC2)cc1OC,105.04900000000006
+144764,Modify the molecule C#CCOc1ccc(F)cc1NCC(=O)N1CCCCCC1 to have a higher MR value.,C#CCOc1ccc(F)cc1NCC(=O)N1CCCCCC1,84.26570000000004
+237612,Modify the molecule O=C(CCCc1nnc(C(=O)Nc2ccccc2)s1)NC1CC1 to increase its MR value.,O=C(CCCc1nnc(C(=O)Nc2ccccc2)s1)NC1CC1,88.40690000000004
+126441,Optimize the molecule COc1cccc(C(=O)Nc2nn3c(COc4ccccc4)nnc3s2)c1 to have a higher MR value.,COc1cccc(C(=O)Nc2nn3c(COc4ccccc4)nnc3s2)c1,100.38020000000004
+17352,Please modify the molecule CN1CCO[C@H](C[NH2+]CC2CC(Cl)C2)C1 to decrease its MR value.,CN1CCO[C@H](C[NH2+]CC2CC(Cl)C2)C1,61.261400000000044
+224353,Modify the molecule [S-]c1nnc(-c2cnccn2)n1Cc1ccc2c(c1)OCO2 to decrease its MR value.,[S-]c1nnc(-c2cnccn2)n1Cc1ccc2c(c1)OCO2,78.34600000000003
+157469,Modify the molecule Cc1nn(C)c(C)c1[C@@H](C)[NH2+]CCOc1ccccc1C(F)(F)F to have a higher MR value.,Cc1nn(C)c(C)c1[C@@H](C)[NH2+]CCOc1ccccc1C(F)(F)F,84.82840000000004
+71345,Modify the molecule Cc1ccc(NC(=O)N2CC[C@H]3CCCC[C@@H]32)s1 to decrease its MR value.,Cc1ccc(NC(=O)N2CC[C@H]3CCCC[C@@H]32)s1,75.14370000000004
+239557,Optimize the molecule CCn1cc(C(=O)N2CCC3(CC2)Nc2cc(OC)ccc2-n2cccc23)c(C)n1 to have a lower MR value.,CCn1cc(C(=O)N2CCC3(CC2)Nc2cc(OC)ccc2-n2cccc23)c(C)n1,115.39720000000004
+173369,Optimize the molecule C[C@@H](OC(=O)c1scnc1C1CC1)c1cccc(F)c1 to have a higher MR value.,C[C@@H](OC(=O)c1scnc1C1CC1)c1cccc(F)c1,74.31950000000003
+934,Please optimize the molecule CC(C)C(=O)Nc1cccc(NC(=O)C(=O)NCC[C@H]2C[C@H]3CC[C@@H]2C3)c1 to have a higher MR value.,CC(C)C(=O)Nc1cccc(NC(=O)C(=O)NCC[C@H]2C[C@H]3CC[C@@H]2C3)c1,105.10410000000005
+129558,Please optimize the molecule C[C@H](Cn1cccn1)NC(=O)[C@@H]1CC(=O)N(Cc2ccco2)C1 to have a lower MR value.,C[C@H](Cn1cccn1)NC(=O)[C@@H]1CC(=O)N(Cc2ccco2)C1,82.06370000000004
+113390,Please optimize the molecule Cc1cccc(C)c1OCCNC(=O)Nc1ccc([S@](C)=O)cc1 to have a lower MR value.,Cc1cccc(C)c1OCCNC(=O)Nc1ccc([S@](C)=O)cc1,97.20680000000004
+905,Please optimize the molecule CCc1ccsc1-c1cnc(C[NH3+])o1 to have a higher MR value.,CCc1ccsc1-c1cnc(C[NH3+])o1,55.78610000000001
+242319,Please modify the molecule C[NH2+][C@@H]1CCN(C2C(C)(C)C2(C)C)C1=O to decrease its MR value.,C[NH2+][C@@H]1CCN(C2C(C)(C)C2(C)C)C1=O,59.31740000000004
+240640,Please optimize the molecule O=C1CCCN1CCC(=O)N1CC[C@@]2(O)CC[NH2+]C[C@H]2C1 to have a lower MR value.,O=C1CCCN1CCC(=O)N1CC[C@@]2(O)CC[NH2+]C[C@H]2C1,76.34420000000004
+234920,Modify the molecule CCCCNC(=O)Cn1cc(Br)cn1 to increase its MR value.,CCCCNC(=O)Cn1cc(Br)cn1,57.84470000000002
+179913,Modify the molecule O=C(NC[C@@H](c1cccs1)N1CCc2ccccc21)c1cccc(Cl)c1 to have a higher MR value.,O=C(NC[C@@H](c1cccs1)N1CCc2ccccc21)c1cccc(Cl)c1,108.33720000000002
+222093,Please modify the molecule O=C(NCCn1nc(-c2ccco2)ccc1=O)c1ccc2c(c1)ncn2-c1ccccc1 to increase its MR value.,O=C(NCCn1nc(-c2ccco2)ccc1=O)c1ccc2c(c1)ncn2-c1ccccc1,119.6022
+68446,Modify the molecule O=C(Nc1ccccc1)[C@@H]1CCC[NH+](C[C@H](O)c2ccc3c(c2)OCO3)C1 to increase its MR value.,O=C(Nc1ccccc1)[C@@H]1CCC[NH+](C[C@H](O)c2ccc3c(c2)OCO3)C1,100.88420000000004
+20109,Modify the molecule C[C@@H]1CCC[NH+](C(C)(C)CNC(=O)c2ccc(N3CCCCC3=O)cc2)C1 to decrease its MR value.,C[C@@H]1CCC[NH+](C(C)(C)CNC(=O)c2ccc(N3CCCCC3=O)cc2)C1,108.15290000000006
+107582,Please optimize the molecule COc1ccc(C(N)=O)c(OCc2cc(C)cc(C)c2)c1 to have a higher MR value.,COc1ccc(C(N)=O)c(OCc2cc(C)cc(C)c2)c1,81.75990000000003
+79713,Please modify the molecule C[S@](=O)c1nncn1CCCOc1ccc(C#N)cc1 to increase its MR value.,C[S@](=O)c1nncn1CCCOc1ccc(C#N)cc1,73.62340000000003
+234824,Modify the molecule COc1ccccc1-c1cnc(CCl)s1 to decrease its MR value.,COc1ccccc1-c1cnc(CCl)s1,63.65900000000003
+60762,Optimize the molecule CC(C)c1cccc(C(C)C)c1NC(=O)COc1ccc(F)cc1Cl to have a lower MR value.,CC(C)c1cccc(C(C)C)c1NC(=O)COc1ccc(F)cc1Cl,100.15470000000003
+239240,Modify the molecule C[C@@H](CNC(=O)c1ccccc1)Nc1ccccc1 to decrease its MR value.,C[C@@H](CNC(=O)c1ccccc1)Nc1ccccc1,78.30190000000005
+108025,Please modify the molecule Sc1sccc1/C=N/c1ccc2ccccc2c1 to decrease its MR value.,Sc1sccc1/C=N/c1ccc2ccccc2c1,82.77300000000002
+228940,Modify the molecule CCCc1cc(=O)[nH]c(SCC(=O)N(C)[C@@H](C)c2nc3ccccc3s2)n1 to decrease its MR value.,CCCc1cc(=O)[nH]c(SCC(=O)N(C)[C@@H](C)c2nc3ccccc3s2)n1,110.38170000000004
+19801,Modify the molecule COc1ccc(/C=N/NC(=O)COc2ccc(C)cc2C)cc1I to decrease its MR value.,COc1ccc(/C=N/NC(=O)COc2ccc(C)cc2C)cc1I,102.85870000000004
+37952,Optimize the molecule O=C(NC1CC[NH+](CC(F)(F)F)CC1)c1cc2c(s1)-c1ccccc1CC2 to have a lower MR value.,O=C(NC1CC[NH+](CC(F)(F)F)CC1)c1cc2c(s1)-c1ccccc1CC2,99.26990000000004
+190636,Please optimize the molecule NC(=O)c1cncc(N(Cc2cccs2)Cc2cccs2)n1 to have a lower MR value.,NC(=O)c1cncc(N(Cc2cccs2)Cc2cccs2)n1,89.07490000000003
+233774,Modify the molecule c1cncc(-c2n[nH]cc2CNc2ccccc2Cn2cncn2)c1 to increase its MR value.,c1cncc(-c2n[nH]cc2CNc2ccccc2Cn2cncn2)c1,94.7114
+200940,Modify the molecule O=S(=O)(NCc1nnc2n1CCN(Cc1c(F)cccc1Cl)CC2)c1ccccc1 to increase its MR value.,O=S(=O)(NCc1nnc2n1CCN(Cc1c(F)cccc1Cl)CC2)c1ccccc1,110.8805
+97869,Modify the molecule COc1ccc(N2CCN(CC(=O)Nc3ccc(Oc4ccccc4)cc3)C2=O)cc1 to decrease its MR value.,COc1ccc(N2CCN(CC(=O)Nc3ccc(Oc4ccccc4)cc3)C2=O)cc1,118.8967
+73849,Please optimize the molecule O=C(NCCOCC(F)(F)F)Nc1ccccc1 to have a higher MR value.,O=C(NCCOCC(F)(F)F)Nc1ccccc1,60.33740000000002
+85165,Modify the molecule Cc1ccc(NC(=O)Cn2ncn3nc(-c4ccc(F)cc4)cc3c2=O)cc1F to decrease its MR value.,Cc1ccc(NC(=O)Cn2ncn3nc(-c4ccc(F)cc4)cc3c2=O)cc1F,102.40770000000003
+70320,Please optimize the molecule CC(C)OCCCNC(=O)c1cnc2nc([O-])[nH]c(=O)c2c1 to have a higher MR value.,CC(C)OCCCNC(=O)c1cnc2nc([O-])[nH]c(=O)c2c1,77.64290000000001
+147473,Modify the molecule Cc1ccc(-c2csc3ncn(CCC(=O)Nc4ccc(NC(=O)C5CC5)nc4)c(=O)c23)cc1 to have a lower MR value.,Cc1ccc(-c2csc3ncn(CCC(=O)Nc4ccc(NC(=O)C5CC5)nc4)c(=O)c23)cc1,132.89039999999994
+717,Modify the molecule CC[C@H](NC(=O)c1ccc(C#N)cn1)C(=O)N1CCOCC1 to increase its MR value.,CC[C@H](NC(=O)c1ccc(C#N)cn1)C(=O)N1CCOCC1,77.89620000000004
+131522,Modify the molecule CC(C)Cc1nnc(NC(=O)N2CCC[C@H](C)[C@@H]2CO)s1 to increase its MR value.,CC(C)Cc1nnc(NC(=O)N2CCC[C@H](C)[C@@H]2CO)s1,83.44750000000005
+95907,Please modify the molecule C[C@@H](NC(=O)c1ccc(C(C)(C)C)cc1)C(=O)NC1(C(N)=O)CCCC1 to increase its MR value.,C[C@@H](NC(=O)c1ccc(C(C)(C)C)cc1)C(=O)NC1(C(N)=O)CCCC1,100.60630000000003
+156593,Modify the molecule N#Cc1cc([N+](=O)[O-])ccc1NCc1ccon1 to increase its MR value.,N#Cc1cc([N+](=O)[O-])ccc1NCc1ccon1,61.64110000000002
+75604,Please optimize the molecule Cc1ccc(-n2c(SCc3nc(CC(C)C)no3)nnc2N2CCCC2)cc1 to have a higher MR value.,Cc1ccc(-n2c(SCc3nc(CC(C)C)no3)nnc2N2CCCC2)cc1,109.94400000000005
+221548,Please modify the molecule COc1ccccc1[C@@H](NC(=O)N1C[C@H]2CC[C@@H]1C2)c1ccccn1 to decrease its MR value.,COc1ccccc1[C@@H](NC(=O)N1C[C@H]2CC[C@@H]1C2)c1ccccn1,95.44070000000004
+51211,Modify the molecule Cn1c(C(=O)Nc2cnc3n2CCCC3)cc2cccc(Cl)c21 to have a higher MR value.,Cn1c(C(=O)Nc2cnc3n2CCCC3)cc2cccc(Cl)c21,91.04720000000005
+26153,Optimize the molecule Cc1ccc(CC(=O)Nc2ccccc2Sc2nc(Br)nn2C)cc1 to have a lower MR value.,Cc1ccc(CC(=O)Nc2ccccc2Sc2nc(Br)nn2C)cc1,102.78070000000004
+94651,Modify the molecule Clc1cc(NC[C@@H]2CCCN(c3ncccn3)C2)ccn1 to have a higher MR value.,Clc1cc(NC[C@@H]2CCCN(c3ncccn3)C2)ccn1,84.70570000000004
+8582,Please optimize the molecule CC[NH+]1CC[C@@H](N(C)CC(=O)Nc2sc(C)c(C)c2C#N)[C@H](C)C1 to have a higher MR value.,CC[NH+]1CC[C@@H](N(C)CC(=O)Nc2sc(C)c(C)c2C#N)[C@H](C)C1,98.57440000000004
+220009,Modify the molecule C[C@H]1C[C@@H]1c1ccc(CN2CCOC[C@@H]2C[C@H](O)c2cccs2)o1 to have a higher MR value.,C[C@H]1C[C@@H]1c1ccc(CN2CCOC[C@@H]2C[C@H](O)c2cccs2)o1,94.14280000000004
+125305,Optimize the molecule O=C(CN1CCc2nc(NC(=O)[C@@H]3CCCO3)sc2C1)NCc1ccccc1Cl to have a lower MR value.,O=C(CN1CCc2nc(NC(=O)[C@@H]3CCCO3)sc2C1)NCc1ccccc1Cl,111.99740000000004
+48077,Optimize the molecule CCC[C@H](C)NC(=O)[C@H](C)N1CCN(C(=O)c2ccco2)CC1 to have a higher MR value.,CCC[C@H](C)NC(=O)[C@H](C)N1CCN(C(=O)c2ccco2)CC1,88.15920000000006
+156145,Please optimize the molecule CC/C=C(\C)[C@@H](O)[C@H](C)C(N)=O to have a lower MR value.,CC/C=C(\C)[C@@H](O)[C@H](C)C(N)=O,48.41320000000002
+95209,Modify the molecule CC[C@@H]1CCCCN1C(=O)NCCc1cccc(C(=O)OC)c1 to decrease its MR value.,CC[C@@H]1CCCCN1C(=O)NCCc1cccc(C(=O)OC)c1,89.52020000000005
+85338,Modify the molecule CC(C)NS(=O)(=O)[C@H]1CCN(Cc2ccc(F)cc2C(F)(F)F)C1 to have a higher MR value.,CC(C)NS(=O)(=O)[C@H]1CCN(Cc2ccc(F)cc2C(F)(F)F)C1,82.27550000000002
+172526,Modify the molecule Cc1ccc(N2C(=O)N(Cc3cc4c(cc3Br)OCO4)C(=O)[C@@H]2C)cc1 to increase its MR value.,Cc1ccc(N2C(=O)N(Cc3cc4c(cc3Br)OCO4)C(=O)[C@@H]2C)cc1,99.33100000000005
+180811,Modify the molecule O=C(CC1C[C@@H]2CC[C@H](C1)[NH2+]2)N1CCCC[C@H]1CCO to have a higher MR value.,O=C(CC1C[C@@H]2CC[C@H](C1)[NH2+]2)N1CCCC[C@H]1CCO,77.13120000000005
+163405,Modify the molecule CN(CC(C)(C)S(C)(=O)=O)[C@@H]1CS(=O)(=O)c2ccc(Cl)cc21 to have a higher MR value.,CN(CC(C)(C)S(C)(=O)=O)[C@@H]1CS(=O)(=O)c2ccc(Cl)cc21,87.79860000000005
+167808,Modify the molecule COc1cc(CC(=O)Nc2ccc(C)cn2)ccc1C to have a lower MR value.,COc1cc(CC(=O)Nc2ccc(C)cn2)ccc1C,79.03870000000003
+148534,Modify the molecule O=C1/C(=C/C2=NC=CC2)c2ccccc2N1c1ccccc1 to have a lower MR value.,O=C1/C(=C/C2=NC=CC2)c2ccccc2N1c1ccccc1,89.19900000000003
+34336,Optimize the molecule CC(C)NC(=O)c1cc([C@H]2CCN(Cc3ccnc4ccccc34)C2)nc2ccccc12 to have a higher MR value.,CC(C)NC(=O)c1cc([C@H]2CCN(Cc3ccnc4ccccc34)C2)nc2ccccc12,128.72320000000002
+246868,Modify the molecule N#Cc1c(NC(=O)c2cnn3c2N[C@@H](c2ccco2)C[C@H]3C(F)(F)F)sc2c1CCC2 to have a higher MR value.,N#Cc1c(NC(=O)c2cnn3c2N[C@@H](c2ccco2)C[C@H]3C(F)(F)F)sc2c1CCC2,106.01990000000004
+67452,Please modify the molecule CCOc1ccc(C(=O)N(C)C)cc1NC(=O)N[C@H]1C[C@H]1c1ccccc1 to increase its MR value.,CCOc1ccc(C(=O)N(C)C)cc1NC(=O)N[C@H]1C[C@H]1c1ccccc1,105.37090000000002
+231640,Modify the molecule Cc1cc(C)c(CNc2ncnc3[nH]ncc23)c(=O)[nH]1 to decrease its MR value.,Cc1cc(C)c(CNc2ncnc3[nH]ncc23)c(=O)[nH]1,75.5471
+98570,Please modify the molecule Cc1cc(C)c(C[NH+]2CCN(CC(=O)Nc3nncs3)CC2)c(C)c1 to increase its MR value.,Cc1cc(C)c(C[NH+]2CCN(CC(=O)Nc3nncs3)CC2)c(C)c1,100.03240000000004
+196580,Optimize the molecule Cc1nn([C@H]2CCOC3(CCOCC3)C2)c(C)c1Br to have a higher MR value.,Cc1nn([C@H]2CCOC3(CCOCC3)C2)c(C)c1Br,76.40800000000004
+219928,Please modify the molecule O=C(Nc1cnn(CC[NH+]2CCCCC2)c1)[C@@H]1CCC[NH+]1C1CCOCC1 to increase its MR value.,O=C(Nc1cnn(CC[NH+]2CCCCC2)c1)[C@@H]1CCC[NH+]1C1CCOCC1,102.96410000000007
+86715,Modify the molecule Cc1noc(C)c1CS(=O)(=O)c1ccc(F)cc1 to have a higher MR value.,Cc1noc(C)c1CS(=O)(=O)c1ccc(F)cc1,63.26680000000003
+242640,Optimize the molecule O=C1C[C@H](C(=O)OCCCOc2ccccc2Cl)c2ccccc2N1 to have a higher MR value.,O=C1C[C@H](C(=O)OCCCOc2ccccc2Cl)c2ccccc2N1,94.95270000000002
+161249,Modify the molecule C#Cc1ccc(OC)c(F)c1 to have a higher MR value.,C#Cc1ccc(OC)c(F)c1,40.887000000000015
+23929,Please modify the molecule CCOCC[NH+]1CCN([C@@H]2Cc3cc(Cl)ccc3Sc3ccccc32)CC1 to decrease its MR value.,CCOCC[NH+]1CCN([C@@H]2Cc3cc(Cl)ccc3Sc3ccccc32)CC1,112.09170000000006
+239050,Modify the molecule NC(=O)C[C@H](NS(=O)(=O)c1cccc2nsnc12)C1CCCCC1 to have a lower MR value.,NC(=O)C[C@H](NS(=O)(=O)c1cccc2nsnc12)C1CCCCC1,91.91090000000004
+50055,Optimize the molecule Clc1nnc(SC2COC2)c2ccccc12 to have a lower MR value.,Clc1nnc(SC2COC2)c2ccccc12,65.01200000000003
+200776,Modify the molecule Cc1csc([C@@H]2CCCN(C(=O)C[C@@H]3CCc4ccccc43)C2)n1 to decrease its MR value.,Cc1csc([C@@H]2CCCN(C(=O)C[C@@H]3CCc4ccccc43)C2)n1,97.52700000000006
+228703,Please modify the molecule COc1ccc2c(c1)[C@@H]([NH2+]Cc1cc(C)on1)CC2 to decrease its MR value.,COc1ccc2c(c1)[C@@H]([NH2+]Cc1cc(C)on1)CC2,70.92540000000002
+246783,Please modify the molecule COC(=O)[C@H](CC(C)C)NS(=O)(=O)c1cc(Cl)ccc1Cl to increase its MR value.,COC(=O)[C@H](CC(C)C)NS(=O)(=O)c1cc(Cl)ccc1Cl,82.04250000000005
+179139,Please optimize the molecule CCOC[C@H]1CC[NH+](Cc2ccc(-c3ccccc3Cl)o2)C1 to have a higher MR value.,CCOC[C@H]1CC[NH+](Cc2ccc(-c3ccccc3Cl)o2)C1,88.15470000000005
+219694,Please optimize the molecule CC1(C)C[C@@H](NC(=O)c2cc(Br)ccc2-n2cnnn2)CCO1 to have a lower MR value.,CC1(C)C[C@@H](NC(=O)c2cc(Br)ccc2-n2cnnn2)CCO1,87.37320000000003
+38460,Modify the molecule O=C([O-])c1cc2nn[nH]n2n1 to increase its MR value.,O=C([O-])c1cc2nn[nH]n2n1,29.463199999999997
+68023,Please optimize the molecule CNC(=O)c1cccc(N2CCN(C(=O)c3ccc(OC)cc3)CC2)n1 to have a higher MR value.,CNC(=O)c1cccc(N2CCN(C(=O)c3ccc(OC)cc3)CC2)n1,98.73770000000005
+147833,Modify the molecule Cc1occc1C(=O)NC1CC[NH+](CN2Cc3ccc(F)cc3C2=O)CC1 to increase its MR value.,Cc1occc1C(=O)NC1CC[NH+](CN2Cc3ccc(F)cc3C2=O)CC1,95.77040000000004
+203012,Please modify the molecule N#Cc1ccc(NC(=O)C2CCC2)cc1Cl to decrease its MR value.,N#Cc1ccc(NC(=O)C2CCC2)cc1Cl,62.13770000000002
+27957,Please modify the molecule Cc1cccc(OCC(=O)Nc2ccc3sc(NC(=O)C(C)C)nc3c2)c1 to increase its MR value.,Cc1cccc(OCC(=O)Nc2ccc3sc(NC(=O)C(C)C)nc3c2)c1,108.39140000000002
+183715,Modify the molecule Cc1ccc(C(=O)NCC(=O)OCc2c(F)cccc2Cl)cc1 to have a higher MR value.,Cc1ccc(C(=O)NCC(=O)OCc2c(F)cccc2Cl)cc1,84.71820000000002
+126154,Optimize the molecule COc1ccccc1CN(C(=O)N[C@@H]1CCc2ccccc21)C1CC1 to have a higher MR value.,COc1ccccc1CN(C(=O)N[C@@H]1CCc2ccccc21)C1CC1,97.59470000000005
+152752,Optimize the molecule CCc1cc(CNC(=O)C(=O)Nc2ccc(C)nc2Cl)on1 to have a lower MR value.,CCc1cc(CNC(=O)C(=O)Nc2ccc(C)nc2Cl)on1,80.34140000000002
+176362,Please optimize the molecule C/C(=N\NC(=O)c1ccc(Br)cc1)c1cccs1 to have a higher MR value.,C/C(=N\NC(=O)c1ccc(Br)cc1)c1cccs1,78.13820000000003
+39399,Please optimize the molecule C[NH+](CCn1cc([N+](=O)[O-])ccc1=O)Cc1ccc(F)cc1 to have a lower MR value.,C[NH+](CCn1cc([N+](=O)[O-])ccc1=O)Cc1ccc(F)cc1,79.21410000000003
+61134,Modify the molecule CC1=NN(c2ccccc2)C(=O)[C@]1(C)NS(=O)(=O)c1ccc(F)c2ccccc12 to decrease its MR value.,CC1=NN(c2ccccc2)C(=O)[C@]1(C)NS(=O)(=O)c1ccc(F)c2ccccc12,109.66950000000004
+26763,Optimize the molecule Cc1ccc(-c2cc(C(F)(F)F)nc(SCCC(=O)Nc3cc(C)on3)n2)cc1 to have a lower MR value.,Cc1ccc(-c2cc(C(F)(F)F)nc(SCCC(=O)Nc3cc(C)on3)n2)cc1,102.4177
+179500,Optimize the molecule CC(C)OCCOC(=O)c1cc(N2CCNC2=O)c(F)cc1F to have a lower MR value.,CC(C)OCCOC(=O)c1cc(N2CCNC2=O)c(F)cc1F,78.47320000000003
+196994,Modify the molecule COC(=O)[C@]1(N)CCC[C@@H]1CCSc1cccc(C)c1 to increase its MR value.,COC(=O)[C@]1(N)CCC[C@@H]1CCSc1cccc(C)c1,82.79540000000004
+170518,Optimize the molecule COc1cc(OC)cc(N2C[C@H](C(=O)N(C)Cc3ccccc3)CC2=O)c1 to have a lower MR value.,COc1cc(OC)cc(N2C[C@H](C(=O)N(C)Cc3ccccc3)CC2=O)c1,102.92200000000004
+112491,Please modify the molecule CCCCn1c(=O)c2sccc2n2c(SCC(=O)Nc3ccc4c(c3)OCCO4)nnc12 to increase its MR value.,CCCCn1c(=O)c2sccc2n2c(SCC(=O)Nc3ccc4c(c3)OCCO4)nnc12,124.32370000000002
+55576,Modify the molecule Cc1nccn1-c1cncc(N[C@@H]2CCCC[C@H]2n2cccn2)n1 to have a lower MR value.,Cc1nccn1-c1cncc(N[C@@H]2CCCC[C@H]2n2cccn2)n1,91.03370000000004
+95894,Please optimize the molecule Cc1oc(-c2ccccc2)nc1C(=O)NC12CC3CC(CC(C3)C1)C2 to have a lower MR value.,Cc1oc(-c2ccccc2)nc1C(=O)NC12CC3CC(CC(C3)C1)C2,95.04520000000004
+120947,Please modify the molecule C#CCOc1ccc(CCNC(=O)CN2CCCOC2=O)cc1 to increase its MR value.,C#CCOc1ccc(CCNC(=O)CN2CCCOC2=O)cc1,85.02170000000004
+57824,Please modify the molecule CC[C@@H](O)[C@H]1CCCC[NH+]1Cc1c[nH]nc1-c1ccc(C)cc1 to increase its MR value.,CC[C@@H](O)[C@H]1CCCC[NH+]1Cc1c[nH]nc1-c1ccc(C)cc1,92.23120000000004
+59473,Optimize the molecule COc1ccc2nc(N/C(N)=N/C(=O)Nc3ccccc3)nc(C)c2c1 to have a lower MR value.,COc1ccc2nc(N/C(N)=N/C(=O)Nc3ccccc3)nc(C)c2c1,101.53280000000002
+87025,Please modify the molecule Brc1cc2c(cc1CN1CC[NH+](Cc3ccc4c(c3)OCCO4)CC1)OCCO2 to decrease its MR value.,Brc1cc2c(cc1CN1CC[NH+](Cc3ccc4c(c3)OCCO4)CC1)OCCO2,112.24170000000008
+147171,Please optimize the molecule COc1ccc(CNC(=O)C2C[C@H](C)O[C@H](C)C2)cn1 to have a higher MR value.,COc1ccc(CNC(=O)C2C[C@H](C)O[C@H](C)C2)cn1,75.36870000000005
+16644,Modify the molecule O=C([O-])c1sccc1S(=O)(=O)[N-]c1ccc(-c2nc3ccccc3n2C(F)F)cc1 to decrease its MR value.,O=C([O-])c1sccc1S(=O)(=O)[N-]c1ccc(-c2nc3ccccc3n2C(F)F)cc1,105.2763
+225601,Optimize the molecule O=C1N[C@@H](c2ccc3c(c2)OCO3)[C@@H](C(=O)c2cccnc2)[C@@](O)(C(F)(F)F)N1 to have a higher MR value.,O=C1N[C@@H](c2ccc3c(c2)OCO3)[C@@H](C(=O)c2cccnc2)[C@@](O)(C(F)(F)F)N1,90.03570000000003
+206260,Please modify the molecule Cc1cc(N(C)C)ccc1NC(=O)C#Cc1ccccc1 to decrease its MR value.,Cc1cc(N(C)C)ccc1NC(=O)C#Cc1ccccc1,87.45570000000002
+171386,Optimize the molecule O=C(Cc1ccc(Cl)cc1)NN1C(=O)[C@@H]2[C@@H]3CC[C@@H](O3)[C@@H]2C1=O to have a higher MR value.,O=C(Cc1ccc(Cl)cc1)NN1C(=O)[C@@H]2[C@@H]3CC[C@@H](O3)[C@@H]2C1=O,80.02670000000003
+222882,Please optimize the molecule COC(C)(C)C[C@H](C)Nc1ccc(S(C)(=O)=O)cc1[N+](=O)[O-] to have a lower MR value.,COC(C)(C)C[C@H](C)Nc1ccc(S(C)(=O)=O)cc1[N+](=O)[O-],84.99590000000003
+228513,Please optimize the molecule C[NH+](C)CCN(Cc1ccco1)C(=O)c1cnc(-c2ccccc2)nc1 to have a higher MR value.,C[NH+](C)CCN(Cc1ccco1)C(=O)c1cnc(-c2ccccc2)nc1,98.59420000000004
+163255,Optimize the molecule CCc1nc(Cn2cnc3cc(F)c(F)cc32)cs1 to have a lower MR value.,CCc1nc(Cn2cnc3cc(F)c(F)cc32)cs1,70.24300000000001
+51068,Modify the molecule C[C@H]1CCCCN1C(=O)c1ccncc1C#CC[NH3+] to decrease its MR value.,C[C@H]1CCCCN1C(=O)c1ccncc1C#CC[NH3+],73.21960000000003
+234749,Modify the molecule Cc1cccc2sc(NC(=O)c3ccc(=O)n(C)n3)nc12 to increase its MR value.,Cc1cccc2sc(NC(=O)c3ccc(=O)n(C)n3)nc12,81.78820000000002
+135713,Please optimize the molecule Cc1csc(S[C@@H](C)c2nc3sc(C)c(C)c3c(=O)[nH]2)n1 to have a lower MR value.,Cc1csc(S[C@@H](C)c2nc3sc(C)c(C)c3c(=O)[nH]2)n1,90.83770000000004
+212749,Modify the molecule CCC[C@@H](NC(=O)c1cccc2c3c([nH]c12)CCCC3)C(=O)OC to increase its MR value.,CCC[C@@H](NC(=O)c1cccc2c3c([nH]c12)CCCC3)C(=O)OC,93.11890000000004
+49241,Modify the molecule CCc1c(N)nnn1Cc1cnn(CC)c1 to increase its MR value.,CCc1c(N)nnn1Cc1cnn(CC)c1,60.815400000000025
+38877,Please modify the molecule Cc1oc(-c2ccccc2)nc1C[S@@](=O)Cc1nc2ccccc2s1 to increase its MR value.,Cc1oc(-c2ccccc2)nc1C[S@@](=O)Cc1nc2ccccc2s1,101.84640000000005
+104166,Optimize the molecule O=C(NCc1cc2ccccc2[nH]1)N1CCN(S(=O)(=O)c2ccccc2)CC1 to have a higher MR value.,O=C(NCc1cc2ccccc2[nH]1)N1CCN(S(=O)(=O)c2ccccc2)CC1,107.30820000000004
+111251,Optimize the molecule CCc1c(C(=O)N(C)CCCS(C)(=O)=O)[nH]c(C)c1C(C)=O to have a higher MR value.,CCc1c(C(=O)N(C)CCCS(C)(=O)=O)[nH]c(C)c1C(C)=O,86.20050000000003
+155488,Please modify the molecule N#Cc1nccnc1Sc1ccccc1 to decrease its MR value.,N#Cc1nccnc1Sc1ccccc1,57.312000000000026
+120150,Please optimize the molecule CCc1cccc(NC(=O)CN2C(=O)N[C@@](C)(c3ccc4c(c3)CCC4)C2=O)c1 to have a lower MR value.,CCc1cccc(NC(=O)CN2C(=O)N[C@@](C)(c3ccc4c(c3)CCC4)C2=O)c1,110.51340000000005
+210347,Modify the molecule CCNc1nc(C(=O)NC[C@@H]2CC(=O)N(Cc3ccccc3)C2)cs1 to increase its MR value.,CCNc1nc(C(=O)NC[C@@H]2CC(=O)N(Cc3ccccc3)C2)cs1,98.57690000000004
+146334,Optimize the molecule Cc1ccc([C@]2(c3ccccc3)NC(=O)N(CN3CCN(C(=O)C4CC4)CC3)C2=O)cc1C to have a higher MR value.,Cc1ccc([C@]2(c3ccccc3)NC(=O)N(CN3CCN(C(=O)C4CC4)CC3)C2=O)cc1C,124.25970000000004
+129247,Modify the molecule Cc1ccc2c(c1)CCCN2C(=O)c1ccc(OCC(=O)N2[C@@H](C)CCC[C@H]2C)cc1 to have a lower MR value.,Cc1ccc2c(c1)CCCN2C(=O)c1ccc(OCC(=O)N2[C@@H](C)CCC[C@H]2C)cc1,122.73450000000004
+76061,Please modify the molecule O=C([O-])[C@H]1C[C@@H](O)CN1C(=O)C[C@@H]1CSCC[NH2+]1 to increase its MR value.,O=C([O-])[C@H]1C[C@@H](O)CN1C(=O)C[C@@H]1CSCC[NH2+]1,63.65420000000003
+24697,Modify the molecule C[C@@H](CC(=O)Nc1cccc(F)c1)[NH2+]C[C@H](O)c1c(F)cccc1F to have a higher MR value.,C[C@@H](CC(=O)Nc1cccc(F)c1)[NH2+]C[C@H](O)c1c(F)cccc1F,87.21890000000003
+238365,Please optimize the molecule C[C@H](NC(=O)c1ccc2c(c1)C(=O)N(C[C@@H]1CCCO1)C2=O)c1cccc2ccccc12 to have a lower MR value.,C[C@H](NC(=O)c1ccc2c(c1)C(=O)N(C[C@@H]1CCCO1)C2=O)c1cccc2ccccc12,120.61220000000002
+184717,Optimize the molecule C[C@]1(c2ccc(F)cc2F)NC(=O)N(CCOc2ccccc2)C1=O to have a lower MR value.,C[C@]1(c2ccc(F)cc2F)NC(=O)N(CCOc2ccccc2)C1=O,85.89170000000004
+70233,Modify the molecule SCCCCOC[C@@H]1CCCCO1 to have a lower MR value.,SCCCCOC[C@@H]1CCCCO1,57.49700000000005
+46305,Optimize the molecule CCOC(=O)C1=C(C(F)(F)F)NC(=O)C[C@@H]1c1ccc([N+](=O)[O-])cc1 to have a lower MR value.,CCOC(=O)C1=C(C(F)(F)F)NC(=O)C[C@@H]1c1ccc([N+](=O)[O-])cc1,78.31110000000001
+85561,Please modify the molecule COc1ccccc1C[C@@H](C)NCc1cc(C(N)=O)cs1 to decrease its MR value.,COc1ccccc1C[C@@H](C)NCc1cc(C(N)=O)cs1,85.83660000000003
+135021,Please modify the molecule C[NH2+][C@@]1(C(=O)[O-])CCC[C@H]([NH+]2CCCCCC2)C1 to increase its MR value.,C[NH2+][C@@]1(C(=O)[O-])CCC[C@H]([NH+]2CCCCCC2)C1,67.00810000000004
+53823,Modify the molecule CCn1nccc1CNC(=O)Cn1cc2c(n1)c(C)nn2C(C)C to increase its MR value.,CCn1nccc1CNC(=O)Cn1cc2c(n1)c(C)nn2C(C)C,90.38770000000004
+127107,Modify the molecule O=C(Nc1cccc(N2CCCNC2=O)c1)[C@@H]1CSc2ccccc21 to decrease its MR value.,O=C(Nc1cccc(N2CCCNC2=O)c1)[C@@H]1CSc2ccccc21,100.34040000000005
+15561,Please optimize the molecule c1ccc(C[NH+]2CCN(CCOc3ccc4ccccc4c3)CC2)cc1 to have a higher MR value.,c1ccc(C[NH+]2CCN(CCOc3ccc4ccccc4c3)CC2)cc1,106.72570000000005
+15435,Optimize the molecule CCC[NH+]1CCc2c(sc(NC(=O)c3ccnn3C)c2C(=O)OC)C1 to have a lower MR value.,CCC[NH+]1CCc2c(sc(NC(=O)c3ccnn3C)c2C(=O)OC)C1,95.21540000000005
+109356,Modify the molecule Cc1nc2cc(NC(=O)[C@H]3CCCN(c4ccc(-n5ccnc5)nn4)C3)ccc2s1 to have a lower MR value.,Cc1nc2cc(NC(=O)[C@H]3CCCN(c4ccc(-n5ccnc5)nn4)C3)ccc2s1,117.07770000000004
+36521,Modify the molecule Cc1ccc(C[C@H]([NH3+])C2(CC(C)C)CCCC2)nc1 to decrease its MR value.,Cc1ccc(C[C@H]([NH3+])C2(CC(C)C)CCCC2)nc1,79.71010000000004
+154865,Please modify the molecule Cc1cc(C(=O)NC2CCS(=O)(=O)CC2)c2ccccc2n1 to increase its MR value.,Cc1cc(C(=O)NC2CCS(=O)(=O)CC2)c2ccccc2n1,85.62200000000004
+246742,Please modify the molecule CC[C@H]1C(=O)N2CCC[C@@H]2C(=O)N1c1cccc(Cl)c1Cl to increase its MR value.,CC[C@H]1C(=O)N2CCC[C@@H]2C(=O)N1c1cccc(Cl)c1Cl,82.76200000000004
+139851,Optimize the molecule CC(C)[C@@H]([NH2+]C[C@H](C)CO)c1cccc(C(F)(F)F)c1 to have a higher MR value.,CC(C)[C@@H]([NH2+]C[C@H](C)CO)c1cccc(C(F)(F)F)c1,72.06520000000003
+2427,Optimize the molecule Cc1ccc(C(=O)NNc2cccc(C(F)(F)F)c2)cc1F to have a lower MR value.,Cc1ccc(C(=O)NNc2cccc(C(F)(F)F)c2)cc1F,73.66990000000001
+21367,Please modify the molecule O=S(=O)(Cc1ccccc1)/N=C(\[O-])CCOc1ccccc1 to decrease its MR value.,O=S(=O)(Cc1ccccc1)/N=C(\[O-])CCOc1ccccc1,83.05480000000004
+19784,Please modify the molecule NC(=O)c1ccc(C[NH+]2CCCC[C@H]2C2OCCO2)cc1 to decrease its MR value.,NC(=O)c1ccc(C[NH+]2CCCC[C@H]2C2OCCO2)cc1,77.82460000000005
+148653,Please modify the molecule FC(F)(F)c1ccnc(NCCc2nccc(-c3ccccc3)n2)n1 to decrease its MR value.,FC(F)(F)c1ccnc(NCCc2nccc(-c3ccccc3)n2)n1,86.69570000000002
+137307,Please modify the molecule Cc1ccccc1OCCCCSc1n[nH]c(N)n1 to decrease its MR value.,Cc1ccccc1OCCCCSc1n[nH]c(N)n1,77.42710000000002
+209986,Modify the molecule O=C(COc1ccccc1F)N/N=C/c1ccccc1O to have a lower MR value.,O=C(COc1ccccc1F)N/N=C/c1ccccc1O,75.73850000000002
+5828,Modify the molecule Cn1cc(C(=O)NNC(=O)CNC(=O)CNC(=O)c2cccs2)c2ccccc21 to increase its MR value.,Cn1cc(C(=O)NNC(=O)CNC(=O)CNC(=O)c2cccs2)c2ccccc21,108.1898
+215315,Modify the molecule C[C@@H](C(=O)N1CCC(NC(N)=O)CC1)c1ccc2ccccc2c1 to have a lower MR value.,C[C@@H](C(=O)N1CCC(NC(N)=O)CC1)c1ccc2ccccc2c1,94.68410000000004
+173565,Modify the molecule CCCCn1ncc(C(=O)N[C@@H](CO)c2ccco2)c1C to have a lower MR value.,CCCCn1ncc(C(=O)N[C@@H](CO)c2ccco2)c1C,77.87300000000003
+47117,Please optimize the molecule Cn1cc(C#N)cc1C(=O)NCC[C@@H]1C[C@H]2CC[C@@H]1C2 to have a lower MR value.,Cn1cc(C#N)cc1C(=O)NCC[C@@H]1C[C@H]2CC[C@@H]1C2,76.01620000000004
+36800,Please modify the molecule COc1cc(C[NH+](C)[C@H]2CCC[C@@H]2S(C)(=O)=O)cc(Br)c1O to decrease its MR value.,COc1cc(C[NH+](C)[C@H]2CCC[C@@H]2S(C)(=O)=O)cc(Br)c1O,89.22030000000005
+240852,Please optimize the molecule O=C([C@@H]1CCCN(c2nc3ccc(F)cc3s2)C1)N1CCc2ccccc2C1 to have a lower MR value.,O=C([C@@H]1CCCN(c2nc3ccc(F)cc3s2)C1)N1CCc2ccccc2C1,110.07800000000002
+55532,Please modify the molecule C[C@H]1OCC[C@H]1C(=O)Nc1ncc(Cc2cccc(Cl)c2)s1 to decrease its MR value.,C[C@H]1OCC[C@H]1C(=O)Nc1ncc(Cc2cccc(Cl)c2)s1,88.52270000000004
+1753,Please optimize the molecule CCC(=O)NCc1ccc(-c2noc([C@H]3CCCO3)n2)s1 to have a lower MR value.,CCC(=O)NCc1ccc(-c2noc([C@H]3CCCO3)n2)s1,77.67570000000003
+131828,Optimize the molecule O=C(C[C@H]1CCCN1C(=O)Cc1ccc[nH]1)c1cccs1 to have a lower MR value.,O=C(C[C@H]1CCCN1C(=O)Cc1ccc[nH]1)c1cccs1,82.49820000000004
+65026,Optimize the molecule CC(C)(C)c1nc(CN2CCN(C(=O)c3cc(F)ccc3F)CC2)no1 to have a higher MR value.,CC(C)(C)c1nc(CN2CCN(C(=O)c3cc(F)ccc3F)CC2)no1,90.53650000000005
+248921,Optimize the molecule C[NH+]1CCN(c2ccc(NC(=O)CCN3C(=O)[C@H]4CC=CC[C@@H]4C3=O)cc2)CC1 to have a lower MR value.,C[NH+]1CCN(c2ccc(NC(=O)CCN3C(=O)[C@H]4CC=CC[C@@H]4C3=O)cc2)CC1,110.59640000000005
+76312,Modify the molecule N#Cc1ccc(NC(=O)C2(c3cc(-c4ccccc4F)on3)CC2)cc1 to have a higher MR value.,N#Cc1ccc(NC(=O)C2(c3cc(-c4ccccc4F)on3)CC2)cc1,92.5957
+169156,Optimize the molecule N#Cc1cccc(OC2CC[NH+](Cc3c[nH]nc3-c3ccccc3)CC2)c1 to have a lower MR value.,N#Cc1cccc(OC2CC[NH+](Cc3c[nH]nc3-c3ccccc3)CC2)c1,103.23140000000004
+117180,Please optimize the molecule CCOC(=O)Cc1csc(NC(=O)c2cccc(-n3cccc3)c2)n1 to have a lower MR value.,CCOC(=O)Cc1csc(NC(=O)c2cccc(-n3cccc3)c2)n1,96.17320000000002
+82962,Please optimize the molecule CCOC(=O)c1ccc(C[NH+]2CCC(c3cnn(C)c3)CC2)o1 to have a lower MR value.,CCOC(=O)c1ccc(C[NH+]2CCC(c3cnn(C)c3)CC2)o1,84.24820000000004
+35104,Modify the molecule Cc1ccc(S(=O)(=O)C2(C(=O)N[C@@H](C)c3ccc4c(c3)OCO4)CCC2)cc1 to increase its MR value.,Cc1ccc(S(=O)(=O)C2(C(=O)N[C@@H](C)c3ccc4c(c3)OCO4)CCC2)cc1,104.06950000000003
+173190,Modify the molecule Oc1ccccc1Nc1ncnc2sc3c(c12)CCC3 to have a lower MR value.,Oc1ccccc1Nc1ncnc2sc3c(c12)CCC3,80.82950000000002
+8052,Modify the molecule Cc1c2c(cc3c1O/C(=C\c1ccccc1Cl)C3=O)CN(Cc1cccnc1)CO2 to increase its MR value.,Cc1c2c(cc3c1O/C(=C\c1ccccc1Cl)C3=O)CN(Cc1cccnc1)CO2,114.54550000000005
+240081,Please modify the molecule Cc1[nH]c2ccc(CNS(=O)(=O)N3C[C@H](C)O[C@H](C)C3)cc2c1C to increase its MR value.,Cc1[nH]c2ccc(CNS(=O)(=O)N3C[C@H](C)O[C@H](C)C3)cc2c1C,95.11420000000004
+111722,Modify the molecule COc1ccc(OC[C@H](C)NS(C)(=O)=O)cc1 to increase its MR value.,COc1ccc(OC[C@H](C)NS(C)(=O)=O)cc1,65.93050000000004
+138954,Please optimize the molecule O=C(CCCCl)Nc1nc2c(Cl)cc(Cl)cc2s1 to have a higher MR value.,O=C(CCCCl)Nc1nc2c(Cl)cc(Cl)cc2s1,78.22370000000002
+172593,Modify the molecule O=C(c1ccc(Cn2c(=O)c(=O)n(Cc3cccc(Cl)c3)c3cccnc32)cc1)N1CCOCC1 to have a higher MR value.,O=C(c1ccc(Cn2c(=O)c(=O)n(Cc3cccc(Cl)c3)c3cccnc32)cc1)N1CCOCC1,133.08349999999996
+47562,Optimize the molecule CN1CC[NH+](Cc2ccc(C(N)=S)cc2)C(C)(C)C1=O to have a lower MR value.,CN1CC[NH+](Cc2ccc(C(N)=S)cc2)C(C)(C)C1=O,83.57910000000004
+161509,Please optimize the molecule COc1c(C)cnc(CNC(=O)NCc2cccnc2OC(C)C)c1C to have a lower MR value.,COc1c(C)cnc(CNC(=O)NCc2cccnc2OC(C)C)c1C,99.33940000000004
+185197,Please optimize the molecule COc1cccc(NS(=O)(=O)c2cccc(C(F)(F)F)c2)c1 to have a higher MR value.,COc1cccc(NS(=O)(=O)c2cccc(C(F)(F)F)c2)c1,75.24650000000003
+118958,Please modify the molecule CN(C)C(=O)C[C@H](NC(=O)Nc1ccncc1)c1ccccc1 to decrease its MR value.,CN(C)C(=O)C[C@H](NC(=O)Nc1ccncc1)c1ccccc1,88.88540000000003
+117459,Please optimize the molecule C#CCCNC(=O)c1cncc(Br)c1 to have a lower MR value.,C#CCCNC(=O)c1cncc(Br)c1,57.72020000000002
+248816,Please modify the molecule C[C@H]1CCCC[C@H]1NC(=O)Cc1ccccc1F to decrease its MR value.,C[C@H]1CCCC[C@H]1NC(=O)Cc1ccccc1F,69.66670000000003
+87021,Please modify the molecule O=C(NCCCn1cc[nH+]c1)c1cc(C2CC2)[nH]n1 to decrease its MR value.,O=C(NCCCn1cc[nH+]c1)c1cc(C2CC2)[nH]n1,68.50060000000002
+82720,Modify the molecule C[C@H](N[C@@H]1N=NC(=O)NC1=O)C(=O)N/N=C/c1ccc(Cl)cc1Cl to have a lower MR value.,C[C@H](N[C@@H]1N=NC(=O)NC1=O)C(=O)N/N=C/c1ccc(Cl)cc1Cl,86.9791
+3147,Optimize the molecule COCCc1cc(NC[C@@H]2CCC[C@H](C)C2)n(C)n1 to have a lower MR value.,COCCc1cc(NC[C@@H]2CCC[C@H](C)C2)n(C)n1,78.39970000000005
+196339,Optimize the molecule Cc1ccc(CS(=O)(=O)N(C)Cc2ccccc2)cc1 to have a lower MR value.,Cc1ccc(CS(=O)(=O)N(C)Cc2ccccc2)cc1,81.71180000000004
+40368,Optimize the molecule Cc1csc(C[C@]2(C[NH2+]CC(C)C)C[C@H]3CC[C@@H]2C3)n1 to have a lower MR value.,Cc1csc(C[C@]2(C[NH2+]CC(C)C)C[C@H]3CC[C@@H]2C3)n1,84.93340000000005
+4931,Modify the molecule Cc1ccc(S(=O)(=O)Nc2nc3ccccc3nc2N2CCCC2)cc1 to decrease its MR value.,Cc1ccc(S(=O)(=O)Nc2nc3ccccc3nc2N2CCCC2)cc1,102.97250000000004
+210328,Modify the molecule Clc1ccc(-n2cc(C[NH2+][C@H]3CCOC3)cn2)cc1 to have a higher MR value.,Clc1ccc(-n2cc(C[NH2+][C@H]3CCOC3)cn2)cc1,73.42740000000003
+105355,Please optimize the molecule CCS[C@@H]1CCC[C@@H]1NC(=O)c1ccc(OCC(F)F)nc1 to have a higher MR value.,CCS[C@@H]1CCC[C@@H]1NC(=O)c1ccc(OCC(F)F)nc1,82.76120000000004
+124404,Modify the molecule CC[NH+](CC)[C@@H](CNC(=O)N1CCC[NH+](C(C)C)CC1)c1ccsc1 to have a lower MR value.,CC[NH+](CC)[C@@H](CNC(=O)N1CCC[NH+](C(C)C)CC1)c1ccsc1,104.52610000000008
+224348,Optimize the molecule O=S(=O)(Nc1nc2c(Br)cccc2s1)c1ccc(Cl)cc1 to have a lower MR value.,O=S(=O)(Nc1nc2c(Br)cccc2s1)c1ccc(Cl)cc1,89.58050000000001
+79144,Optimize the molecule Cn1ccc(C(=O)N2C[C@H](c3cc(F)cc(F)c3)[C@@H]3[C@H]2C2CC[NH+]3CC2)n1 to have a higher MR value.,Cn1ccc(C(=O)N2C[C@H](c3cc(F)cc(F)c3)[C@@H]3[C@H]2C2CC[NH+]3CC2)n1,94.34020000000004
+107048,Modify the molecule C[C@@H](Oc1ccc(C(C)(C)C)cc1)C(=O)Oc1cccc(C(=O)[O-])c1 to have a lower MR value.,C[C@@H](Oc1ccc(C(C)(C)C)cc1)C(=O)Oc1cccc(C(=O)[O-])c1,91.63950000000006
+90982,Please optimize the molecule O=C(CCCn1ccnn1)Nc1cc(Cl)ccc1C(=O)N1CCCCC1 to have a lower MR value.,O=C(CCCn1ccnn1)Nc1cc(Cl)ccc1C(=O)N1CCCCC1,99.09220000000003
+152955,Modify the molecule C[NH+](C)[C@@H]1CC[C@H](NC(=O)Nc2cnn(C(C)(C)C)c2)C1 to have a higher MR value.,C[NH+](C)[C@@H]1CC[C@H](NC(=O)Nc2cnn(C(C)(C)C)c2)C1,83.61510000000004
+161433,Modify the molecule Cc1cccc(N(Cc2cccc3ccccc23)C2=NC(=O)CS2)c1 to decrease its MR value.,Cc1cccc(N(Cc2cccc3ccccc23)C2=NC(=O)CS2)c1,106.21000000000004
+3899,Optimize the molecule CC(C)N(C[C@H](C)O)C(=O)Nc1cccc(Cl)c1SC(F)F to have a lower MR value.,CC(C)N(C[C@H](C)O)C(=O)Nc1cccc(Cl)c1SC(F)F,85.85450000000004
+101829,Please optimize the molecule Cc1nc(C)c(C(=O)N(C2CC2)[C@H](C)c2cccc(C(F)(F)F)c2)s1 to have a lower MR value.,Cc1nc(C)c(C(=O)N(C2CC2)[C@H](C)c2cccc(C(F)(F)F)c2)s1,90.63850000000004
+107228,Please optimize the molecule CCc1nc2c(s1)[C@H](N(C)C(=O)c1cc(C)cc(OC)c1O)CCC2 to have a lower MR value.,CCc1nc2c(s1)[C@H](N(C)C(=O)c1cc(C)cc(OC)c1O)CCC2,98.66030000000003
+167507,Please optimize the molecule C[C@@H](Sc1nnc(C2CC2)n1-c1ccccc1)C(=O)Nc1sccc1C#N to have a lower MR value.,C[C@@H](Sc1nnc(C2CC2)n1-c1ccccc1)C(=O)Nc1sccc1C#N,106.31670000000004
+139741,Modify the molecule Cc1ccc(NC(=O)N(CCO)[C@@H]2CCS(=O)(=O)C2)cc1Cl to decrease its MR value.,Cc1ccc(NC(=O)N(CCO)[C@@H]2CCS(=O)(=O)C2)cc1Cl,86.05830000000003
+111450,Optimize the molecule O=C(c1cc(=O)[nH]c([O-])n1)N1CCN([C@@H]2CCc3ccccc3C2)CC1 to have a lower MR value.,O=C(c1cc(=O)[nH]c([O-])n1)N1CCN([C@@H]2CCc3ccccc3C2)CC1,94.03520000000005
+141929,Modify the molecule C[NH+]1CCN(c2ccc(NC(=O)c3ccccc3[N+](=O)[O-])cc2)CC1 to have a lower MR value.,C[NH+]1CCN(c2ccc(NC(=O)c3ccccc3[N+](=O)[O-])cc2)CC1,96.32530000000004
+27281,Modify the molecule N#C[C@H]1COCCN1C(=O)[C@@H]1C[C@@H]1c1ccc(C(F)(F)F)cc1 to decrease its MR value.,N#C[C@H]1COCCN1C(=O)[C@@H]1C[C@@H]1c1ccc(C(F)(F)F)cc1,74.22500000000002
+192976,Please modify the molecule Cc1cnc2c(c1)nc(N)n2CCc1cc(F)cc(F)c1 to decrease its MR value.,Cc1cnc2c(c1)nc(N)n2CCc1cc(F)cc(F)c1,76.7394
+137040,Modify the molecule Cc1cc2nc(S/C(=C\c3ccc(O)cc3)C(=O)[O-])[nH]c2cc1C to increase its MR value.,Cc1cc2nc(S/C(=C\c3ccc(O)cc3)C(=O)[O-])[nH]c2cc1C,92.51550000000002
+207730,Please optimize the molecule Cc1ccc(NC(=O)CSc2ccc(-c3sc(-c4cccnc4)nc3C)nn2)cc1F to have a lower MR value.,Cc1ccc(NC(=O)CSc2ccc(-c3sc(-c4cccnc4)nc3C)nn2)cc1F,121.5987
+102349,Modify the molecule CCOC(=O)C1CCC([NH+]2CCN(CCc3ccccc3)CC2)CC1 to decrease its MR value.,CCOC(=O)C1CCC([NH+]2CCN(CCc3ccccc3)CC2)CC1,99.66170000000008
+212004,Please optimize the molecule OCc1cc(Cl)ccc1OC[C@@H]1CCCO1 to have a higher MR value.,OCc1cc(Cl)ccc1OC[C@@H]1CCCO1,61.84380000000004
+78239,Optimize the molecule CCS(=O)(=O)NCCN1CCCC2(C1)OCCO2 to have a higher MR value.,CCS(=O)(=O)NCCN1CCCC2(C1)OCCO2,67.77250000000004
+207293,Modify the molecule Cc1cccn2c(=O)c3cc(C(=O)N4CCN(C)CC4)n(Cc4ccccc4)c3nc12 to decrease its MR value.,Cc1cccn2c(=O)c3cc(C(=O)N4CCN(C)CC4)n(Cc4ccccc4)c3nc12,120.6395
+166999,Modify the molecule COc1cccc(-n2c(O)c(/C=N/CCC[NH+]3CCOCC3)c(=O)[nH]c2=S)c1 to have a lower MR value.,COc1cccc(-n2c(O)c(/C=N/CCC[NH+]3CCOCC3)c(=O)[nH]c2=S)c1,108.90120000000002
+214081,Optimize the molecule COc1ccc(N2CCN(C(=S)NC(C)(C)C)CC2)cc1 to have a higher MR value.,COc1ccc(N2CCN(C(=S)NC(C)(C)C)CC2)cc1,92.26670000000006
+78238,Modify the molecule Cc1n[nH]c(C)c1[C@H]1CCCN1C(=O)N[C@H](C)c1ccncc1 to decrease its MR value.,Cc1n[nH]c(C)c1[C@H]1CCCN1C(=O)N[C@H](C)c1ccncc1,87.92640000000004
+105084,Modify the molecule CCNC(=O)C1CCN(C(=O)/C=C(/C)c2cccc(C(F)(F)F)c2)CC1 to have a higher MR value.,CCNC(=O)C1CCN(C(=O)/C=C(/C)c2cccc(C(F)(F)F)c2)CC1,93.08270000000005
+33298,Modify the molecule COCCOc1ccc([C@H]([NH3+])C(=O)[O-])cc1OC to decrease its MR value.,COCCOc1ccc([C@H]([NH3+])C(=O)[O-])cc1OC,61.00110000000004
+113780,Please modify the molecule COc1ccc(Br)cc1NC(=O)C(=O)N[C@H]1C[C@@H]1C to decrease its MR value.,COc1ccc(Br)cc1NC(=O)C(=O)N[C@H]1C[C@@H]1C,75.03540000000002
+217069,Optimize the molecule C[C@H](C(=O)N(Cc1ccccn1)c1ccc(Cl)cc1)n1cncn1 to have a higher MR value.,C[C@H](C(=O)N(Cc1ccccn1)c1ccc(Cl)cc1)n1cncn1,91.61200000000002
+43079,Please optimize the molecule CC(C)(C)[C@H]1CC[C@@H](O)[C@H]([C@@H]2CCOC3(CCC3)C2)C1 to have a lower MR value.,CC(C)(C)[C@H]1CC[C@@H](O)[C@H]([C@@H]2CCOC3(CCC3)C2)C1,81.55080000000007
+234051,Modify the molecule N#Cc1cccc(NC(=O)c2ccc(C[C@H]3CC(=O)NC3=O)cc2)c1 to decrease its MR value.,N#Cc1cccc(NC(=O)c2ccc(C[C@H]3CC(=O)NC3=O)cc2)c1,90.51290000000002
+92558,Please optimize the molecule CCC1(CC)[C@@H]([NH2+]Cc2ccc(C(=O)NC)cc2)[C@H](C)[C@@H]1OC to have a higher MR value.,CCC1(CC)[C@@H]([NH2+]Cc2ccc(C(=O)NC)cc2)[C@H](C)[C@@H]1OC,92.22560000000006
+201974,Please optimize the molecule O=C(OCc1nccc2ccccc12)c1ccccc1 to have a higher MR value.,O=C(OCc1nccc2ccccc12)c1ccccc1,77.30450000000003
+55569,Modify the molecule COC[C@@H](C)Cn1c(CCCl)nc2cc(Br)cnc21 to have a higher MR value.,COC[C@@H](C)Cn1c(CCCl)nc2cc(Br)cnc21,80.69200000000004
+226950,Please modify the molecule Cc1cc(Cl)ccc1OCc1ccc(C(=O)N2N=CC[C@]2(O)C(F)(F)F)o1 to decrease its MR value.,Cc1cc(Cl)ccc1OCc1ccc(C(=O)N2N=CC[C@]2(O)C(F)(F)F)o1,89.51230000000004
+135569,Please optimize the molecule O=C([O-])C1=C[C@@H](c2cccc(Br)c2)n2nnnc2N1 to have a higher MR value.,O=C([O-])C1=C[C@@H](c2cccc(Br)c2)n2nnnc2N1,66.81070000000001
+209627,Please optimize the molecule O=C1c2ccccc2-c2nn(C[C@H](O)COCc3ccc4c(c3)OCO4)c3cccc1c23 to have a lower MR value.,O=C1c2ccccc2-c2nn(C[C@H](O)COCc3ccc4c(c3)OCO4)c3cccc1c23,116.82930000000005
+206551,Modify the molecule O=C(CCc1nc(-c2cccs2)no1)Nc1cccc(S(=O)(=O)/N=C2/CCCN2)c1 to have a higher MR value.,O=C(CCc1nc(-c2cccs2)no1)Nc1cccc(S(=O)(=O)/N=C2/CCCN2)c1,112.86120000000004
+78903,Optimize the molecule O=C(CCn1cncn1)Nc1n[nH]c2ccc([N+](=O)[O-])cc12 to have a lower MR value.,O=C(CCn1cncn1)Nc1n[nH]c2ccc([N+](=O)[O-])cc12,76.0168
+20102,Modify the molecule CNC(=O)c1ccc(N(C)CCC2CCN(c3cc[nH+]cc3)CC2)[nH+]n1 to have a higher MR value.,CNC(=O)c1ccc(N(C)CCC2CCN(c3cc[nH+]cc3)CC2)[nH+]n1,100.00460000000004
+114462,Please modify the molecule COc1ccccc1C(=O)N1CC[NH+](Cc2c[nH]c3ccccc23)CC1 to increase its MR value.,COc1ccccc1C(=O)N1CC[NH+](Cc2c[nH]c3ccccc23)CC1,101.59690000000003
+219603,Please modify the molecule O=C(Nc1cccc(F)c1)c1cnn2ncccc12 to increase its MR value.,O=C(Nc1cccc(F)c1)c1cnn2ncccc12,67.34020000000002
+178965,Please optimize the molecule C[C@H](NC(=O)N(CCC(F)(F)F)C1CCCC1)c1nc2ccccc2[nH]1 to have a lower MR value.,C[C@H](NC(=O)N(CCC(F)(F)F)C1CCCC1)c1nc2ccccc2[nH]1,92.67440000000003
+156690,Optimize the molecule C=CCS(=O)(=O)/N=C([O-])/C=C/c1ccc(-c2ccc(F)cc2)s1 to have a lower MR value.,C=CCS(=O)(=O)/N=C([O-])/C=C/c1ccc(-c2ccc(F)cc2)s1,90.16580000000002
+140075,Please optimize the molecule C[C@H]1CCN(C(=O)CSc2nnc3c(n2)[nH]c2ccccc23)[C@H](C)C1 to have a higher MR value.,C[C@H]1CCN(C(=O)CSc2nnc3c(n2)[nH]c2ccccc23)[C@H](C)C1,99.48670000000004
+108539,Optimize the molecule O=C(c1ccc([N+](=O)[O-])cc1F)N1CCN(c2cc[nH+]cc2)CC1 to have a higher MR value.,O=C(c1ccc([N+](=O)[O-])cc1F)N1CCN(c2cc[nH+]cc2)CC1,84.16860000000004
+50549,Optimize the molecule CC(=O)N1CCNC[C@@H]1c1ccc(C(=O)[O-])cc1 to have a higher MR value.,CC(=O)N1CCNC[C@@H]1c1ccc(C(=O)[O-])cc1,63.77020000000003
+129555,Modify the molecule Cc1ccc(C2=CCN(C(=O)[C@H]3CCS(=O)(=O)C3)CC2)cc1 to decrease its MR value.,Cc1ccc(C2=CCN(C(=O)[C@H]3CCS(=O)(=O)C3)CC2)cc1,87.11380000000004
+229257,Please modify the molecule CCCOc1cc(C)c(C)cc1S(=O)(=O)N1CCN(CCO)CC1 to decrease its MR value.,CCCOc1cc(C)c(C)cc1S(=O)(=O)N1CCN(CCO)CC1,93.98660000000004
+95333,Optimize the molecule COC(=O)/C(Br)=C/c1cccc(/C=C(\Br)C(=O)OC)c1 to have a lower MR value.,COC(=O)/C(Br)=C/c1cccc(/C=C(\Br)C(=O)OC)c1,84.28200000000001
+209325,Please modify the molecule Cc1ccc(-c2n[nH]c(SCc3noc(Cc4ccccc4)n3)n2)cc1 to decrease its MR value.,Cc1ccc(-c2n[nH]c(SCc3noc(Cc4ccccc4)n3)n2)cc1,99.66270000000002
+48831,Please optimize the molecule COc1ccc(C2(NC(=O)c3cnn(C(C)C)c3)CCCCC2)cc1 to have a higher MR value.,COc1ccc(C2(NC(=O)c3cnn(C(C)C)c3)CCCCC2)cc1,97.83520000000004
+12267,Optimize the molecule Cc1ccc([C@H]([NH2+]Cc2nc(-c3ccco3)no2)c2ccccc2)cc1 to have a lower MR value.,Cc1ccc([C@H]([NH2+]Cc2nc(-c3ccco3)no2)c2ccccc2)cc1,97.09340000000002
+120170,Optimize the molecule c1ccc(Cn2nnnc2[C@@H](c2ccccc2)N2CC[NH+](Cc3ccncc3)CC2)cc1 to have a lower MR value.,c1ccc(Cn2nnnc2[C@@H](c2ccccc2)N2CC[NH+](Cc3ccncc3)CC2)cc1,121.85670000000002
+188785,Please optimize the molecule CCC[C@H](C)NC(=O)[C@H](C)Nc1ccc(N2CCCC2)c(F)c1 to have a lower MR value.,CCC[C@H](C)NC(=O)[C@H](C)Nc1ccc(N2CCCC2)c(F)c1,93.44440000000006
+28473,Optimize the molecule Cc1c(NC(=O)CCc2nc3ccccc3n2-c2ccccc2)c(=O)n(-c2ccccc2)n1C to have a lower MR value.,Cc1c(NC(=O)CCc2nc3ccccc3n2-c2ccccc2)c(=O)n(-c2ccccc2)n1C,133.76769999999993
+119005,Please optimize the molecule C=CCN1C(=O)c2ccccc2[C@@]1(CC=C)C(=O)OCC to have a lower MR value.,C=CCN1C(=O)c2ccccc2[C@@]1(CC=C)C(=O)OCC,80.80050000000004
+237276,Modify the molecule Cc1sc2nc([C@H](C)OC(=O)Cc3coc4cc5c(cc34)CCC5)[nH]c(=O)c2c1C to increase its MR value.,Cc1sc2nc([C@H](C)OC(=O)Cc3coc4cc5c(cc34)CCC5)[nH]c(=O)c2c1C,116.16470000000004
+151747,Modify the molecule COc1ccc([N+](=O)[O-])cc1NC(=O)[C@@H]1CCCN1C(=O)c1cccs1 to decrease its MR value.,COc1ccc([N+](=O)[O-])cc1NC(=O)[C@@H]1CCCN1C(=O)c1cccs1,96.65560000000002
+123630,Please optimize the molecule CC[C@@H](C)N(CC(=O)Nc1ccon1)C(=O)CC(C)C to have a lower MR value.,CC[C@@H](C)N(CC(=O)Nc1ccon1)C(=O)CC(C)C,76.05370000000005
+240340,Modify the molecule CC1(C)CCN(C(=O)Nc2ccc(O)c(C(=O)[O-])c2)C1 to have a lower MR value.,CC1(C)CCN(C(=O)Nc2ccc(O)c(C(=O)[O-])c2)C1,71.42700000000004
+214691,Please modify the molecule N#Cc1ccc(F)c(CN2CCC[C@H]2c2ccc3c(c2)OCCO3)c1 to decrease its MR value.,N#Cc1ccc(F)c(CN2CCC[C@H]2c2ccc3c(c2)OCCO3)c1,90.93200000000004
+113195,Please optimize the molecule COCCN1C[C@H](C(=O)Nc2ccc(-c3cc[nH]n3)cc2)CC1=O to have a lower MR value.,COCCN1C[C@H](C(=O)Nc2ccc(-c3cc[nH]n3)cc2)CC1=O,89.21640000000004
+124515,Modify the molecule CCS(=O)(=O)c1cccc(NC(=O)/C=C(/C)C(C)(C)C)c1 to increase its MR value.,CCS(=O)(=O)c1cccc(NC(=O)/C=C(/C)C(C)(C)C)c1,86.01050000000004
+84684,Please modify the molecule COC(=O)[C@@H]1Cc2cccc(S(=O)(=O)N(C)C)c2C1 to decrease its MR value.,COC(=O)[C@@H]1Cc2cccc(S(=O)(=O)N(C)C)c2C1,70.22880000000004
+100431,Optimize the molecule CCS(=O)(=O)N1CC[C@]2(CCCN(Cc3ccc(F)c(F)c3)C2=O)C1 to have a lower MR value.,CCS(=O)(=O)N1CC[C@]2(CCCN(Cc3ccc(F)c(F)c3)C2=O)C1,89.09280000000004
+9299,Modify the molecule C1=CC[C@H](C[NH+]2CC[C@@H](C[NH+]3CCCC3)C2)CC1 to increase its MR value.,C1=CC[C@H](C[NH+]2CC[C@@H](C[NH+]3CCCC3)C2)CC1,74.94940000000005
+210830,Optimize the molecule Cc1ccc2[nH+]c(N)n(CCC3CC3)c2c1 to have a lower MR value.,Cc1ccc2[nH+]c(N)n(CCC3CC3)c2c1,64.98410000000001
+82340,Optimize the molecule Cc1cccc(OCCCC(=O)N(C)C)c1 to have a lower MR value.,Cc1cccc(OCCCC(=O)N(C)C)c1,64.60200000000003
+83258,Modify the molecule Cc1nc(N2CCOCC2)[nH]c(=O)c1CCC(=O)NCc1cn2ccccc2n1 to have a higher MR value.,Cc1nc(N2CCOCC2)[nH]c(=O)c1CCC(=O)NCc1cn2ccccc2n1,107.98640000000002
+235331,Modify the molecule O[C@]1(C(F)(F)F)CC[NH+](Cc2c[nH]nc2-c2cccc(Cl)c2)C1 to decrease its MR value.,O[C@]1(C(F)(F)F)CC[NH+](Cc2c[nH]nc2-c2cccc(Cl)c2)C1,79.05620000000003
+234882,Optimize the molecule O=C(Nc1ccc(N2CCCC2=O)cc1)C1CCC1 to have a higher MR value.,O=C(Nc1ccc(N2CCCC2=O)cc1)C1CCC1,73.99970000000003
+241441,Please modify the molecule CC(C)[NH+](C)C[C@H]1CN(C(=O)c2ccccc2)C[C@@H]1c1cccc(F)c1 to increase its MR value.,CC(C)[NH+](C)C[C@H]1CN(C(=O)c2ccccc2)C[C@@H]1c1cccc(F)c1,101.86620000000006
+39786,Please modify the molecule CC(C)c1csc(/C(C#N)=C\c2csc(-c3ccc(F)cc3)n2)n1 to increase its MR value.,CC(C)c1csc(/C(C#N)=C\c2csc(-c3ccc(F)cc3)n2)n1,97.19500000000002
+20350,Optimize the molecule C[NH2+][C@H](C)c1ccn(CCC[C@H]2CCCO2)c1 to have a higher MR value.,C[NH2+][C@H](C)c1ccn(CCC[C@H]2CCCO2)c1,68.90440000000005
+211731,Modify the molecule CC[NH+](CCCc1nc2ccccc2o1)C[C@H]1CCCO1 to decrease its MR value.,CC[NH+](CCCc1nc2ccccc2o1)C[C@H]1CCCO1,82.54170000000005
+243690,Modify the molecule O=C(NC1CC1)C(=O)N1CCN(c2ccc(F)cc2)CC1 to have a higher MR value.,O=C(NC1CC1)C(=O)N1CCN(c2ccc(F)cc2)CC1,76.35770000000004
+182999,Optimize the molecule C#CCOc1ccc2ccccc2c1C[NH+]1CCCC[C@H]1c1ncon1 to have a lower MR value.,C#CCOc1ccc2ccccc2c1C[NH+]1CCCC[C@H]1c1ncon1,98.69970000000004
+79019,Modify the molecule Cc1ccc([C@@H](C)N(C)C(=O)N[C@H](C)Cc2cccs2)cc1 to increase its MR value.,Cc1ccc([C@@H](C)N(C)C(=O)N[C@H](C)Cc2cccs2)cc1,93.37370000000004
+113497,Please modify the molecule Cc1cc(F)ccc1CCNC(=O)NC[C@H]1CCO[C@@H]1C(C)(C)C to decrease its MR value.,Cc1cc(F)ccc1CCNC(=O)NC[C@H]1CCO[C@@H]1C(C)(C)C,93.54440000000004
+198989,Please optimize the molecule CCOc1ccc(N2C(=O)S/C(=C/c3ccc(-c4ccccc4[N+](=O)[O-])o3)C2=O)cc1 to have a higher MR value.,CCOc1ccc(N2C(=O)S/C(=C/c3ccc(-c4ccccc4[N+](=O)[O-])o3)C2=O)cc1,116.8594
+128480,Modify the molecule C[C@H](NC(=O)Cn1cc(-c2ccccc2)nn1)c1ccc(Cl)s1 to increase its MR value.,C[C@H](NC(=O)Cn1cc(-c2ccccc2)nn1)c1ccc(Cl)s1,91.34470000000005
+234963,Modify the molecule CCc1nc(CC(=O)N2CCOC[C@H]2c2ncon2)cs1 to decrease its MR value.,CCc1nc(CC(=O)N2CCOC[C@H]2c2ncon2)cs1,74.76700000000004
+37541,Modify the molecule COc1cc(CC[NH2+][C@H](C)c2ccccc2N(C)C)ccc1O to have a higher MR value.,COc1cc(CC[NH2+][C@H](C)c2ccccc2N(C)C)ccc1O,94.33920000000006
+231222,Please modify the molecule Cc1cc(C)c(NC(=O)CN(C)C(=O)CN2C(=O)N(C)C3(CCCCC3)C2=O)c(C)c1 to increase its MR value.,Cc1cc(C)c(NC(=O)CN(C)C(=O)CN2C(=O)N(C)C3(CCCCC3)C2=O)c(C)c1,117.60770000000008
+33389,Please optimize the molecule CCS[C@@H]1CC[C@H](NC(=O)Nc2ccccc2-n2nc(C)nc2C)C1 to have a lower MR value.,CCS[C@@H]1CC[C@H](NC(=O)Nc2ccccc2-n2nc(C)nc2C)C1,102.54640000000003
+38203,Please optimize the molecule C[C@@H](Oc1ccccc1Cl)C(=O)N[C@H](C(N)=O)C(C)(C)C to have a higher MR value.,C[C@@H](Oc1ccccc1Cl)C(=O)N[C@H](C(N)=O)C(C)(C)C,82.12210000000003
+191036,Optimize the molecule CCn1/c(=N/C(=O)[C@@H](C)COC)[nH]c2cc(Cl)ccc21 to have a higher MR value.,CCn1/c(=N/C(=O)[C@@H](C)COC)[nH]c2cc(Cl)ccc21,78.58270000000003
+110598,Please modify the molecule CC(=O)COc1cc2oc(=O)c3c(c2cc1Cl)CCCC3 to decrease its MR value.,CC(=O)COc1cc2oc(=O)c3c(c2cc1Cl)CCCC3,80.31200000000004
+54117,Modify the molecule N#Cc1cc(N)ncc1-c1ccc(Cl)cc1Cl to have a higher MR value.,N#Cc1cc(N)ncc1-c1ccc(Cl)cc1Cl,68.82040000000002
+96443,Please modify the molecule Nc1c(Cl)cc(NC(=O)c2ccc3c(c2)OCO3)cc1Cl to increase its MR value.,Nc1c(Cl)cc(NC(=O)c2ccc3c(c2)OCO3)cc1Cl,81.39260000000002
+60952,Please optimize the molecule C[C@H](C(=O)[O-])N(C)C(=O)c1cc(C(F)(F)F)ccc1F to have a higher MR value.,C[C@H](C(=O)[O-])N(C)C(=O)c1cc(C(F)(F)F)ccc1F,57.96450000000001
+221627,Modify the molecule CC/[NH+]=C(/NC[C@H]1CCC[NH+](C)C1)N[C@@H]1CCC[C@H](C)C1 to have a higher MR value.,CC/[NH+]=C(/NC[C@H]1CCC[NH+](C)C1)N[C@@H]1CCC[C@H](C)C1,88.41380000000007
+230757,Modify the molecule CCC[C@@H](C[NH3+])C(O)(CC)CC to increase its MR value.,CCC[C@@H](C[NH3+])C(O)(CC)CC,51.68490000000002
+211942,Please modify the molecule C[C@H](Sc1nc2ccccc2c(=O)n1-c1ccc(Oc2ccccc2)cc1)C(N)=O to decrease its MR value.,C[C@H](Sc1nc2ccccc2c(=O)n1-c1ccc(Oc2ccccc2)cc1)C(N)=O,118.3694
+12006,Please optimize the molecule CC(C)N(CCCO)C(=O)Cc1c(F)cccc1F to have a higher MR value.,CC(C)N(CCCO)C(=O)Cc1c(F)cccc1F,68.61380000000003
+207389,Please optimize the molecule CCc1ccc(NC(=O)N2CCOc3ccccc32)cc1 to have a lower MR value.,CCc1ccc(NC(=O)N2CCOc3ccccc32)cc1,84.12170000000005
+143458,Modify the molecule C[NH+](C)[C@@H](CNC(=O)c1cc(S(=O)(=O)N2CCOCC2)ccc1F)c1cccs1 to decrease its MR value.,C[NH+](C)[C@@H](CNC(=O)c1cc(S(=O)(=O)N2CCOCC2)ccc1F)c1cccs1,108.18170000000003
+104181,Optimize the molecule CCOC(=O)C1=C(N)OC2=C(C(=O)CC(C)(C)C2)[C@H]1c1c(OCC)ccc2ccccc12 to have a lower MR value.,CCOC(=O)C1=C(N)OC2=C(C(=O)CC(C)(C)C2)[C@H]1c1c(OCC)ccc2ccccc12,121.83740000000004

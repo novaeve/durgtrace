@@ -1,0 +1,39 @@
+{
+  "source": "/data2/chenfuxin/sol_pi_pmo_20261004",
+  "source_run_sha256": "973eae2a4e5020ce6c9568ea8919e7dafc599c5a39b38af0cedfbd507192358f",
+  "fresh_runs": true,
+  "budget": 1000,
+  "seed": 0,
+  "concurrency": 2,
+  "provider_token_policy": "unchanged",
+  "changes": [
+    "retry provider truncation with exit code zero; maximum three",
+    "judge final assistant outcome after recovered compaction aborts"
+  ],
+  "original_results": {
+    "celecoxib_rediscovery": "951ec53aabf7764fafa414361efeabc6d911369e433f02e4838984de4242da0f",
+    "valsartan_smarts": "ab83981edb0aebc6aeeeb52207d0ee95d57b9f0a67efa22eaae105be4364d917",
+    "albuterol_similarity": "95cb64962897161feb04e70c31acce0e0912a9d39ed3d9d45c282709998ccb63",
+    "troglitazon_rediscovery": "59c5ca7e08f3b54e08c1e5a66fd2ff2771f949402fd25e8d7e856285e8a4e31a",
+    "sitagliptin_mpo": "3e2e47082929487e6c3e2692a95d2a556e37886f420a750791b1c1bfab3baf15",
+    "fexofenadine_mpo": "5d04612c960c488fa14219e106891f22554454ef384e2b4fb132b146a7f03923",
+    "zaleplon_mpo": "1c9fe5447caa10830b4bffbcca78d642c6eed6c19cb8a52ddfc2ea5aac630ff5",
+    "scaffold_hop": "d3d9e162041e87ae241343c3eeaf54d01e53f95579dd9008e24c7d0fbc255bc6",
+    "deco_hop": "86924189ebb3e2506b6b93e1df8fb3c15eee99ee34c9fc7a1d0e99f3bd2a9180",
+    "drd2": "800f5a58d4f3ca3aad4c4fd1a4b3f02bc4f14bb925d2b85cecfe84350cc5095f",
+    "ranolazine_mpo": "520eeb0efeee29842cddb9602693ccd9bf4fbe644377f0d8914eeeac6badd1ca",
+    "jnk3": "e4093e517626d77c75c165ee4b68d156f0800d8021d7c9e74732085d0ee2a49b",
+    "qed": "aadc02dc33b81fbeb2e8603532bc60c70b401a3538ca77b0bce245ed256dd3c6",
+    "isomers_c9h10n2o2pf2cl": "6985ea805355edcce96f96d0255d23d2779fe52636eff824450a223dbee14f51",
+    "gsk3b": "dec3b944bdb41e49a4c4a40f25bfb0a7c7afc602205dfd89fea27be754820876",
+    "isomers_c7h8n2o2": "150b66ba61c5c4dc80c88c3534e5bc6b2ce47de4b55fc44cc36a152694141ab0",
+    "perindopril_mpo": "6a4e244755bee7b81283e670381c91bfdd426e45f6bd4b0d06037136c39ec775",
+    "mestranol_similarity": "5e670b35cfcec2b148ff4e4869ac432cf091bd3fe43d195f5becb37cb499192e",
+    "amlodipine_mpo": "5c5a44f8884f70abefb713a63abb376702402f12c998c94bc278b1eac49571ca",
+    "median2": "70d707280b8af4fe681188da08185e52a33a8792bb2a0769b22a376e4054e557",
+    "osimertinib_mpo": "90bbea605a8cfdb3bf41594c008b2901c2279c16c21ccfed321441c41859668a",
+    "median1": "0d652f8d89fcc3fb83eb2ade5f52ce03e77c62358b20058a491f15524858f163",
+    "thiothixene_rediscovery": "60b5d483ff002f88489aef7841d9f53888d02b836d3525aa3e1dad353036fb59"
+  },
+  "original_preflight_accepted": true
+}

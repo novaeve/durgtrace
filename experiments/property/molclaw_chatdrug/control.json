@@ -1,0 +1,10 @@
+{
+  "host": "a100",
+  "workers": 128,
+  "maximum": 128,
+  "target_workers": 128,
+  "min_memory_gib": 200,
+  "max_load": 220,
+  "changed": 1791785334.6004946,
+  "reason": "64 real episodes verified exact prompts/model and tool replies, no recent API errors; user requested bulk transfer to A100"
+}

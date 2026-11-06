@@ -1,0 +1,5 @@
+{
+  "exit": 0,
+  "stdout": "{\n  \"ok\": true,\n  \"all_enabled\": true,\n  \"effective_config\": {\n    \"version\": 1,\n    \"actionFusion\": true,\n    \"observationPack\": true,\n    \"evidencePreservingReducer\": true,\n    \"onlineContextCompact\": true,\n    \"cacheWriteReadRatio\": 12.5,\n    \"evidencePreservingReducerModel\": \"deepseek-v4.1-flash\",\n    \"evidencePreservingReducerProvider\": \"smdd-deepseek\"\n  },\n  \"config\": \"/yimin/zlc/sol_pi_type4_20261004/preflight/models/.agent/sol-pi.json\"\n}\n",
+  "stderr": ""
+}

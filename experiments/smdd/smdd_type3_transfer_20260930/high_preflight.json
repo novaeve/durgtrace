@@ -1,0 +1,47 @@
+{
+  "request": {
+    "model": "deepseek-v4.1-flash",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Compute 17*23. Answer with the number only."
+      }
+    ],
+    "enable_thinking": true,
+    "reasoning_effort": "high",
+    "max_tokens": 4096,
+    "temperature": 1
+  },
+  "status": 200,
+  "response": {
+    "id": "chatcmpl-358e7942-636c-963b-ae70-6fb2d961bab7",
+    "object": "chat.completion",
+    "created": 1790767962,
+    "model": "deepseek-v4.1-flash",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "reasoning_content": "We need answer only number. 17*23 = 391. Must answer number only.",
+          "content": "391"
+        },
+        "finish_reason": "stop",
+        "logprobs": null
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 42,
+      "total_tokens": 63,
+      "completion_tokens": 21,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "text_tokens": 42
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 19,
+        "text_tokens": 1
+      }
+    }
+  }
+}

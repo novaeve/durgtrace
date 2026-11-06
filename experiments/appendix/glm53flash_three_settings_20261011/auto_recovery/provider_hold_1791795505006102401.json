@@ -1,0 +1,15 @@
+{
+  "reason": "Official BigModel error 1113: insufficient balance or no resource package",
+  "hold_type": "provider_auto",
+  "upstream": "https://open.bigmodel.cn/api/paas/v4",
+  "model": "glm-5.3-flash",
+  "time": 1791795223.5075276,
+  "pending_methods": [
+    "MolClaw",
+    "SoL-Pi",
+    "Codex",
+    "GLM_direct",
+    "GLM_direct_retry1120"
+  ],
+  "preserve_results": true
+}

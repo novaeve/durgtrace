@@ -1,0 +1,9 @@
+{
+  "phase": "attention_required",
+  "workers": 16,
+  "model": "deepseek-v4.1-flash",
+  "provider": "Bailian",
+  "processed": 1600,
+  "error_count": 3,
+  "time": 1791715514.7201824
+}

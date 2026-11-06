@@ -1,0 +1,22 @@
+{
+  "deepseek": {
+    "passed": true,
+    "calls": 1,
+    "new_evaluations": 1
+  },
+  "chatdrug": {
+    "passed": true,
+    "calls": 2,
+    "new_evaluations": 2
+  },
+  "agentdrug": {
+    "passed": true,
+    "calls": 2,
+    "new_evaluations": 2
+  },
+  "molingo": {
+    "passed": true,
+    "one_generation_no_selector": true,
+    "raw_order_and_duplicate_cache_and_batch_cap": true
+  }
+}

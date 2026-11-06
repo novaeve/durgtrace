@@ -1,0 +1,60 @@
+{
+  "experiment": "SMDD-type3 DeepSeek 4.1 Flash high + GPT-6 Astra high simple review",
+  "server": {
+    "host": "125.76.110.84",
+    "port": 11032,
+    "user": "zlc"
+  },
+  "credential_file": "G:/CDK2/pass.env",
+  "task_count": 52,
+  "canary_task": "smdd_003_1JVP_1",
+  "executor": {
+    "model": "deepseek-v4.1-flash",
+    "enable_thinking": true,
+    "reasoning_effort": "high",
+    "temperature": 1.0
+  },
+  "reviewer": {
+    "model": "gpt-6-astra",
+    "reasoning_effort": "high",
+    "protocol": "simple decision and feedback",
+    "context": "full public task and complete same-task trajectory",
+    "no_final_answer_from_reviewer": true
+  },
+  "review_schedule": {
+    "early_checkpoint_turn": 1,
+    "interval_turns": 8,
+    "max_periodic": 2,
+    "pre_submit_review": true,
+    "revision_cycle_limit": null
+  },
+  "executor_budget": {
+    "max_turns": 100,
+    "max_tokens": 10000000,
+    "boltz_calls": 8,
+    "admet_calls": 15,
+    "seed": 42
+  },
+  "boltz": {
+    "accelerator": "GPU on requested A100 host",
+    "diffusion_samples": 10,
+    "affinity_samples": 10,
+    "preserve_original_MSA_and_sample_protocol": true,
+    "max_parallel_samples": 2
+  },
+  "execution": {
+    "whole_task_max_attempts": 1,
+    "failure_is_terminal": true,
+    "score_last_candidate_on_budget_exhaustion": true,
+    "canary_then_remaining_51": true,
+    "canary_result_reused": true
+  },
+  "gpu_allocation": {
+    "inspect_existing_jobs_first": true,
+    "never_stop_other_jobs": true,
+    "share_GPU_admission_between_executor_and_evaluator": true,
+    "full_concurrency": 2,
+    "executor_and_evaluator_gpu_host": "125.76.110.84"
+  },
+  "deployment_status": "model_cache_verified_waiting_GPU_environment"
+}

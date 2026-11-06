@@ -1,0 +1,698 @@
+[
+  {
+    "task": "smdd_002_P12821_0",
+    "turns": 80,
+    "total_tokens_including_cache": 5378546,
+    "usage": {
+      "input_tokens": 324502,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 5035264,
+      "output_tokens": 18780,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "server_tool_use": {
+        "web_search_requests": 0,
+        "web_fetch_requests": 0
+      },
+      "service_tier": "standard",
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "inference_geo": "",
+      "iterations": [],
+      "speed": "standard"
+    },
+    "seconds": 428.94304966926575,
+    "points": 0,
+    "status": "complete"
+  },
+  {
+    "task": "smdd_002_P00374_0",
+    "turns": 102,
+    "total_tokens_including_cache": 8519643,
+    "usage": {
+      "input_tokens": 174762,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 8302080,
+      "output_tokens": 42801,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "server_tool_use": {
+        "web_search_requests": 0,
+        "web_fetch_requests": 0
+      },
+      "service_tier": "standard",
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "inference_geo": "",
+      "iterations": [],
+      "speed": "standard"
+    },
+    "seconds": 819.4842035770416,
+    "points": 2,
+    "status": "complete"
+  },
+  {
+    "task": "smdd_002_O75874_0",
+    "turns": 85,
+    "total_tokens_including_cache": 7812252,
+    "usage": {
+      "input_tokens": 373043,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 7373696,
+      "output_tokens": 65513,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "server_tool_use": {
+        "web_search_requests": 0,
+        "web_fetch_requests": 0
+      },
+      "service_tier": "standard",
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "inference_geo": "",
+      "iterations": [],
+      "speed": "standard"
+    },
+    "seconds": 827.8429782390594,
+    "points": 0,
+    "status": "complete"
+  },
+  {
+    "task": "smdd_002_P42574_0",
+    "turns": 37,
+    "total_tokens_including_cache": 2228653,
+    "usage": {
+      "input_tokens": 52861,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2160128,
+      "output_tokens": 15664,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "server_tool_use": {
+        "web_search_requests": 0,
+        "web_fetch_requests": 0
+      },
+      "service_tier": "standard",
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "inference_geo": "",
+      "iterations": [],
+      "speed": "standard"
+    },
+    "seconds": 239.96709632873535,
+    "points": 1,
+    "status": "complete"
+  },
+  {
+    "task": "smdd_002_P24941_0",
+    "turns": 25,
+    "total_tokens_including_cache": 1383650,
+    "usage": {
+      "input_tokens": 34688,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1336064,
+      "output_tokens": 12898,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "server_tool_use": {
+        "web_search_requests": 0,
+        "web_fetch_requests": 0
+      },
+      "service_tier": "standard",
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "inference_geo": "",
+      "iterations": [],
+      "speed": "standard"
+    },
+    "seconds": 170.65253233909607,
+    "points": 2,
+    "status": "complete"
+  },
+  {
+    "task": "smdd_002_P56817_0",
+    "turns": 46,
+    "total_tokens_including_cache": 3114990,
+    "usage": {
+      "input_tokens": 68779,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 3026688,
+      "output_tokens": 19523,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "server_tool_use": {
+        "web_search_requests": 0,
+        "web_fetch_requests": 0
+      },
+      "service_tier": "standard",
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "inference_geo": "",
+      "iterations": [],
+      "speed": "standard"
+    },
+    "seconds": 296.3882677555084,
+    "points": 2,
+    "status": "complete"
+  },
+  {
+    "task": "smdd_002_P03372_0",
+    "turns": 71,
+    "total_tokens_including_cache": 5939476,
+    "usage": {
+      "input_tokens": 101053,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 5817728,
+      "output_tokens": 20695,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "server_tool_use": {
+        "web_search_requests": 0,
+        "web_fetch_requests": 0
+      },
+      "service_tier": "standard",
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "inference_geo": "",
+      "iterations": [],
+      "speed": "standard"
+    },
+    "seconds": 415.79174399375916,
+    "points": 1,
+    "status": "complete"
+  },
+  {
+    "task": "smdd_002_P08684_0",
+    "turns": 46,
+    "total_tokens_including_cache": 3221584,
+    "usage": {
+      "input_tokens": 64277,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 3132544,
+      "output_tokens": 24763,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "server_tool_use": {
+        "web_search_requests": 0,
+        "web_fetch_requests": 0
+      },
+      "service_tier": "standard",
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "inference_geo": "",
+      "iterations": [],
+      "speed": "standard"
+    },
+    "seconds": 323.3611078262329,
+    "points": 0,
+    "status": "complete"
+  },
+  {
+    "task": "smdd_002_P00742_0",
+    "turns": 70,
+    "total_tokens_including_cache": 5219570,
+    "usage": {
+      "input_tokens": 102098,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 5078656,
+      "output_tokens": 38816,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "server_tool_use": {
+        "web_search_requests": 0,
+        "web_fetch_requests": 0
+      },
+      "service_tier": "standard",
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "inference_geo": "",
+      "iterations": [],
+      "speed": "standard"
+    },
+    "seconds": 505.96230602264404,
+    "points": 1,
+    "status": "complete"
+  },
+  {
+    "task": "smdd_002_P55055_0",
+    "turns": 75,
+    "total_tokens_including_cache": 6277824,
+    "usage": {
+      "input_tokens": 130718,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6118272,
+      "output_tokens": 28834,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "server_tool_use": {
+        "web_search_requests": 0,
+        "web_fetch_requests": 0
+      },
+      "service_tier": "standard",
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "inference_geo": "",
+      "iterations": [],
+      "speed": "standard"
+    },
+    "seconds": 492.3960416316986,
+    "points": 0,
+    "status": "complete"
+  },
+  {
+    "task": "smdd_002_P04150_0",
+    "turns": 59,
+    "total_tokens_including_cache": 4320989,
+    "usage": {
+      "input_tokens": 82165,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 4205184,
+      "output_tokens": 33640,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "server_tool_use": {
+        "web_search_requests": 0,
+        "web_fetch_requests": 0
+      },
+      "service_tier": "standard",
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "inference_geo": "",
+      "iterations": [],
+      "speed": "standard"
+    },
+    "seconds": 558.6607391834259,
+    "points": 3,
+    "status": "complete"
+  },
+  {
+    "task": "smdd_002_P07900_0",
+    "turns": 37,
+    "total_tokens_including_cache": 2486585,
+    "usage": {
+      "input_tokens": 52390,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2418304,
+      "output_tokens": 15891,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "server_tool_use": {
+        "web_search_requests": 0,
+        "web_fetch_requests": 0
+      },
+      "service_tier": "standard",
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "inference_geo": "",
+      "iterations": [],
+      "speed": "standard"
+    },
+    "seconds": 319.4828841686249,
+    "points": 0,
+    "status": "complete"
+  },
+  {
+    "task": "smdd_002_P00918_0",
+    "turns": 14,
+    "total_tokens_including_cache": 605434,
+    "usage": {
+      "input_tokens": 20072,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 579712,
+      "output_tokens": 5650,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "server_tool_use": {
+        "web_search_requests": 0,
+        "web_fetch_requests": 0
+      },
+      "service_tier": "standard",
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "inference_geo": "",
+      "iterations": [],
+      "speed": "standard"
+    },
+    "seconds": 78.27362751960754,
+    "points": 0,
+    "status": "complete"
+  },
+  {
+    "task": "smdd_002_P14061_0",
+    "turns": 66,
+    "total_tokens_including_cache": 5556440,
+    "usage": {
+      "input_tokens": 170157,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 5343616,
+      "output_tokens": 42667,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "server_tool_use": {
+        "web_search_requests": 0,
+        "web_fetch_requests": 0
+      },
+      "service_tier": "standard",
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "inference_geo": "",
+      "iterations": [],
+      "speed": "standard"
+    },
+    "seconds": 876.5570089817047,
+    "points": 1,
+    "status": "complete"
+  },
+  {
+    "task": "smdd_002_P22303_0",
+    "turns": 78,
+    "total_tokens_including_cache": 5885351,
+    "usage": {
+      "input_tokens": 149793,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 5702272,
+      "output_tokens": 33286,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "server_tool_use": {
+        "web_search_requests": 0,
+        "web_fetch_requests": 0
+      },
+      "service_tier": "standard",
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "inference_geo": "",
+      "iterations": [],
+      "speed": "standard"
+    },
+    "seconds": 764.6824052333832,
+    "points": 0,
+    "status": "complete"
+  },
+  {
+    "task": "smdd_002_P18031_0",
+    "turns": 68,
+    "total_tokens_including_cache": 6532796,
+    "usage": {
+      "input_tokens": 213134,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6282240,
+      "output_tokens": 37422,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "server_tool_use": {
+        "web_search_requests": 0,
+        "web_fetch_requests": 0
+      },
+      "service_tier": "standard",
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "inference_geo": "",
+      "iterations": [],
+      "speed": "standard"
+    },
+    "seconds": 514.0737960338593,
+    "points": 0,
+    "status": "complete"
+  },
+  {
+    "task": "smdd_002_Q92769_0",
+    "turns": 19,
+    "total_tokens_including_cache": 1046723,
+    "usage": {
+      "input_tokens": 25594,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1012352,
+      "output_tokens": 8777,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "server_tool_use": {
+        "web_search_requests": 0,
+        "web_fetch_requests": 0
+      },
+      "service_tier": "standard",
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "inference_geo": "",
+      "iterations": [],
+      "speed": "standard"
+    },
+    "seconds": 148.64570331573486,
+    "points": 0,
+    "status": "complete"
+  },
+  {
+    "task": "smdd_002_P45452_0",
+    "turns": 22,
+    "total_tokens_including_cache": 1014044,
+    "usage": {
+      "input_tokens": 26026,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 977920,
+      "output_tokens": 10098,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "server_tool_use": {
+        "web_search_requests": 0,
+        "web_fetch_requests": 0
+      },
+      "service_tier": "standard",
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "inference_geo": "",
+      "iterations": [],
+      "speed": "standard"
+    },
+    "seconds": 135.6765615940094,
+    "points": 0,
+    "status": "complete"
+  },
+  {
+    "task": "smdd_002_P00797_0",
+    "turns": 67,
+    "total_tokens_including_cache": 4685836,
+    "usage": {
+      "input_tokens": 79401,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 4581120,
+      "output_tokens": 25315,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "server_tool_use": {
+        "web_search_requests": 0,
+        "web_fetch_requests": 0
+      },
+      "service_tier": "standard",
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "inference_geo": "",
+      "iterations": [],
+      "speed": "standard"
+    },
+    "seconds": 428.7661373615265,
+    "points": 0,
+    "status": "complete"
+  },
+  {
+    "task": "smdd_002_P11473_0",
+    "turns": 95,
+    "total_tokens_including_cache": 9099823,
+    "usage": {
+      "input_tokens": 137327,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 8925056,
+      "output_tokens": 37440,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "server_tool_use": {
+        "web_search_requests": 0,
+        "web_fetch_requests": 0
+      },
+      "service_tier": "standard",
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "inference_geo": "",
+      "iterations": [],
+      "speed": "standard"
+    },
+    "seconds": 595.4892399311066,
+    "points": 2,
+    "status": "complete"
+  },
+  {
+    "task": "smdd_002_P10275_0",
+    "turns": 48,
+    "total_tokens_including_cache": 2976823,
+    "usage": {
+      "input_tokens": 61868,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2897408,
+      "output_tokens": 17547,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "server_tool_use": {
+        "web_search_requests": 0,
+        "web_fetch_requests": 0
+      },
+      "service_tier": "standard",
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "inference_geo": "",
+      "iterations": [],
+      "speed": "standard"
+    },
+    "seconds": 374.73412108421326,
+    "points": 2,
+    "status": "complete"
+  },
+  {
+    "task": "smdd_002_Q9BY41_0",
+    "turns": 101,
+    "total_tokens_including_cache": 9626078,
+    "usage": {
+      "input_tokens": 204441,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 9386496,
+      "output_tokens": 35141,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "server_tool_use": {
+        "web_search_requests": 0,
+        "web_fetch_requests": 0
+      },
+      "service_tier": "standard",
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "inference_geo": "",
+      "iterations": [],
+      "speed": "standard"
+    },
+    "seconds": 696.8276553153992,
+    "points": 1,
+    "status": "complete"
+  },
+  {
+    "task": "smdd_002_P28482_0",
+    "turns": 16,
+    "total_tokens_including_cache": 900576,
+    "usage": {
+      "input_tokens": 22430,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 870400,
+      "output_tokens": 7746,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "server_tool_use": {
+        "web_search_requests": 0,
+        "web_fetch_requests": 0
+      },
+      "service_tier": "standard",
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "inference_geo": "",
+      "iterations": [],
+      "speed": "standard"
+    },
+    "seconds": 90.65152788162231,
+    "points": 1,
+    "status": "complete"
+  },
+  {
+    "task": "smdd_002_Q15910_0",
+    "turns": 26,
+    "total_tokens_including_cache": 1290273,
+    "usage": {
+      "input_tokens": 38362,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1242496,
+      "output_tokens": 9415,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "server_tool_use": {
+        "web_search_requests": 0,
+        "web_fetch_requests": 0
+      },
+      "service_tier": "standard",
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "inference_geo": "",
+      "iterations": [],
+      "speed": "standard"
+    },
+    "seconds": 273.64667534828186,
+    "points": 0,
+    "status": "complete"
+  }
+]

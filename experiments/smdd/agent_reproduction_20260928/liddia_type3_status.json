@@ -1,0 +1,699 @@
+{
+  "run": "full_high_v1",
+  "pid": 304238,
+  "state": "complete",
+  "total": 52,
+  "workers": {
+    "5": {
+      "gpu": 5,
+      "phase": "complete"
+    },
+    "7": {
+      "gpu": 7,
+      "phase": "complete"
+    }
+  },
+  "finished": {
+    "smdd_003_2VQM_0": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 7,
+      "tokens": 49586,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "time": 1791099008.6611133
+    },
+    "smdd_003_1JVP_1": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 6,
+      "tokens": 35743,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "time": 1791099436.3355403
+    },
+    "smdd_003_2VQM_1": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 6,
+      "tokens": 35361,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "time": 1791100887.7465715
+    },
+    "smdd_003_2VQM_2": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 10,
+      "tokens": 84407,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "time": 1791101398.1071846
+    },
+    "smdd_003_3FFG_0": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 7,
+      "tokens": 39559,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "time": 1791102708.6731613
+    },
+    "smdd_003_3FFG_1": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 6,
+      "tokens": 50484,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "time": 1791103288.3331468
+    },
+    "smdd_003_3FFG_2": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 5,
+      "tokens": 57318,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "time": 1791104467.8787718
+    },
+    "smdd_003_3GHW_0": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 11,
+      "tokens": 79871,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "time": 1791105083.9451032
+    },
+    "smdd_003_3GHW_1": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 5,
+      "tokens": 29612,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 1
+      },
+      "time": 1791105630.3173523
+    },
+    "smdd_003_3KWZ_0": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 10,
+      "tokens": 87438,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "time": 1791107283.9850574
+    },
+    "smdd_003_3GHW_2": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 9,
+      "tokens": 59526,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "time": 1791108402.439833
+    },
+    "smdd_003_3KWZ_1": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 13,
+      "tokens": 122703,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "time": 1791108997.7101061
+    },
+    "smdd_003_3QAR_2": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 8,
+      "tokens": 40603,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 2
+      },
+      "time": 1791111149.104893
+    },
+    "smdd_003_3KWZ_2": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 12,
+      "tokens": 98525,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 6
+      },
+      "time": 1791112135.7760272
+    },
+    "smdd_003_3QX5_0": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 22,
+      "tokens": 303261,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "time": 1791114936.6754842
+    },
+    "smdd_003_3WV3_0": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 13,
+      "tokens": 89688,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 1
+      },
+      "time": 1791116040.7798877
+    },
+    "smdd_003_3WV3_1": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 5,
+      "tokens": 27962,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 1
+      },
+      "time": 1791116858.1881344
+    },
+    "smdd_003_3QX5_2": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 9,
+      "tokens": 79796,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "time": 1791118078.1078966
+    },
+    "smdd_003_4RRS_0": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 9,
+      "tokens": 50171,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "time": 1791118890.533383
+    },
+    "smdd_003_4RRS_1": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 9,
+      "tokens": 56528,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "time": 1791120114.2066486
+    },
+    "smdd_003_4S0V_0": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 6,
+      "tokens": 31838,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 2
+      },
+      "time": 1791120525.1628783
+    },
+    "smdd_003_4S0V_2": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 7,
+      "tokens": 38436,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 1
+      },
+      "time": 1791122156.846863
+    },
+    "smdd_003_4S0V_1": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 11,
+      "tokens": 72870,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 3
+      },
+      "time": 1791122403.154184
+    },
+    "smdd_003_4ZZO_1": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 10,
+      "tokens": 74147,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "time": 1791124683.2447515
+    },
+    "smdd_003_4ZZO_0": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 12,
+      "tokens": 91216,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "time": 1791124782.2010818
+    },
+    "smdd_003_5A5S_1": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 8,
+      "tokens": 53973,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "time": 1791126258.903071
+    },
+    "smdd_003_5A9U_0": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 6,
+      "tokens": 29959,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "time": 1791126708.2296464
+    },
+    "smdd_003_5B5P_0": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 8,
+      "tokens": 68300,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 2
+      },
+      "time": 1791127865.9249067
+    },
+    "smdd_003_5A9U_1": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 9,
+      "tokens": 70388,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "time": 1791128522.9231215
+    },
+    "smdd_003_5B5P_1": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 5,
+      "tokens": 26090,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 1
+      },
+      "time": 1791128944.602314
+    },
+    "smdd_003_5DC8_0": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 15,
+      "tokens": 104666,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "time": 1791132737.9156573
+    },
+    "smdd_003_5DC8_2": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 21,
+      "tokens": 257043,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "time": 1791133232.998918
+    },
+    "smdd_003_5S7X_0": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 5,
+      "tokens": 23884,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 1
+      },
+      "time": 1791134336.5800724
+    },
+    "smdd_003_5MW4_0": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 9,
+      "tokens": 90127,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "time": 1791135838.234634
+    },
+    "smdd_003_5UEN_1": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 9,
+      "tokens": 52499,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 1
+      },
+      "time": 1791137448.1931858
+    },
+    "smdd_003_5UEN_0": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 9,
+      "tokens": 60706,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "time": 1791138143.5204902
+    },
+    "smdd_003_6L6E_0": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 7,
+      "tokens": 35772,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 1
+      },
+      "time": 1791138953.5573564
+    },
+    "smdd_003_6L6K_0": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 5,
+      "tokens": 26189,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 1
+      },
+      "time": 1791140021.3649635
+    },
+    "smdd_003_6L6E_1": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 11,
+      "tokens": 90761,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "time": 1791140801.1902058
+    },
+    "smdd_003_6L6K_1": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 5,
+      "tokens": 24625,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 1
+      },
+      "time": 1791140891.0313165
+    },
+    "smdd_003_6L6K_2": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 5,
+      "tokens": 21654,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 1
+      },
+      "time": 1791141698.4802926
+    },
+    "smdd_003_6OIN_0": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 6,
+      "tokens": 53060,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "time": 1791143471.4385195
+    },
+    "smdd_003_6ME6_0": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 18,
+      "tokens": 155847,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "time": 1791145124.5161836,
+      "reassessment": "/data2/chenfuxin/liddia_smdd_type3_20261004/reassessment_20261005/smdd_003_6ME6_0",
+      "reassessed": 1791168591.1071806
+    },
+    "smdd_003_6X8I_0": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 7,
+      "tokens": 71330,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "time": 1791146457.5505338
+    },
+    "smdd_003_7KJS_0": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 5,
+      "tokens": 20053,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 1
+      },
+      "time": 1791147608.0197632
+    },
+    "smdd_003_7OKM_0": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 16,
+      "tokens": 167466,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "time": 1791149042.6581252
+    },
+    "smdd_003_7OKM_1": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 16,
+      "tokens": 147331,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "time": 1791150443.763772
+    },
+    "smdd_003_7OKM_2": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 10,
+      "tokens": 61134,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "time": 1791151719.8823712
+    },
+    "smdd_003_8FGZ_0": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 8,
+      "tokens": 51311,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 8
+      },
+      "time": 1791153558.3029177
+    },
+    "smdd_003_8OKQ_0": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 9,
+      "tokens": 56453,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 3
+      },
+      "time": 1791154715.6937628
+    },
+    "smdd_003_8OKQ_1": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 6,
+      "tokens": 40505,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 1
+      },
+      "time": 1791155714.1688745
+    },
+    "smdd_003_8OKQ_2": {
+      "agent_exit": 0,
+      "evaluation_exit": 0,
+      "agent_status": "submitted",
+      "evaluation_status": "failed",
+      "llm_calls": 8,
+      "tokens": 51979,
+      "budget_used": {
+        "admet": 0,
+        "boltz": 2
+      },
+      "time": 1791156990.0653892
+    }
+  },
+  "updated": 1791168591.1072001,
+  "completed": 52,
+  "remaining": 0
+}

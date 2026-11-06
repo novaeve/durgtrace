@@ -1,0 +1,498 @@
+{
+  "purpose": "offline audit only; not passed to agents",
+  "check_soundness": {
+    "edit": {
+      "cases": 400,
+      "with_rules": 133,
+      "gold_invalid": 0,
+      "gold_fails_checks": 1
+    },
+    "generation": {
+      "cases": 400,
+      "with_rules": 400,
+      "gold_invalid": 0,
+      "gold_fails_checks": 8
+    }
+  },
+  "trajectories": {
+    "chatdrug": {
+      "groups": {
+        "edit": {
+          "processed": 400,
+          "final_correct": 179,
+          "api_calls": 978,
+          "truncated_calls": 0,
+          "cases_with_truncation": 0,
+          "completion_tokens": 125132,
+          "first_correct": 185,
+          "ever_correct": 207,
+          "first_correct_final_wrong": 27,
+          "first_wrong_final_correct": 21,
+          "ever_correct_final_wrong": 28
+        },
+        "generation": {
+          "processed": 400,
+          "final_correct": 85,
+          "api_calls": 1040,
+          "truncated_calls": 1,
+          "cases_with_truncation": 1,
+          "completion_tokens": 127502,
+          "first_correct": 68,
+          "ever_correct": 95,
+          "first_correct_final_wrong": 6,
+          "first_wrong_final_correct": 23,
+          "ever_correct_final_wrong": 10
+        }
+      },
+      "regression_examples": [
+        {
+          "id": "edit_extended_090",
+          "rounds": 3,
+          "first": "CC(C1)CCCN1CCCC[NH2+]C(c2ccc(CN(C)C)cc2)=O",
+          "final": "CC(C1)CCCN1CCCCNC(=[OH+])c2ccc(CN(C)C)cc2",
+          "first_assessment": {
+            "valid": true,
+            "checked_pass": true,
+            "task_status": "partial_pass_unverified",
+            "checks": [],
+            "unverified": [
+              "Full atom connectivity, requested sites, stereochemistry and all other requirements not explicitly covered by the checks remain unverified."
+            ]
+          },
+          "rule_count": 0
+        },
+        {
+          "id": "generation_test_120",
+          "rounds": 3,
+          "first": "Cc1cc(Cl)ccc1-n1nnc(c1)C(O)CC",
+          "final": "Cc1cc(Cl)ccc1-n1nnc(c1)[C@H](O)CC",
+          "first_assessment": {
+            "valid": true,
+            "checked_pass": true,
+            "task_status": "partial_pass_unverified",
+            "checks": [
+              {
+                "property": "atom_C",
+                "operator": "ge",
+                "target": 2,
+                "evidence": "Begin with a five-member ring containing two carbons and three adjacent nitrogens (a 1,2,3-triazole), and number the ring so that N-1 is followed by N-2, N-3, C-4, and C-5",
+                "rule": "explicit_presence_or_local_lower_bound",
+                "actual": 12,
+                "pass": true
+              },
+              {
+                "property": "atom_N",
+                "operator": "ge",
+                "target": 1,
+                "evidence": "Begin with a five-member ring containing two carbons and three adjacent nitrogens (a 1,2,3-triazole), and number the ring so that N-1 is followed by N-2, N-3, C-4, and C-5",
+                "rule": "explicit_presence_or_local_lower_bound",
+                "actual": 3,
+                "pass": true
+              },
+              {
+                "property": "atom_Cl",
+                "operator": "ge",
+                "target": 1,
+                "evidence": "At N-1, attach a benzene ring that bears one chlorine substituent para to the point of attachment and a methyl group ortho to the point of attachment",
+                "rule": "explicit_presence_or_local_lower_bound",
+                "actual": 1,
+                "pass": true
+              },
+              {
+                "property": "group_benzene",
+                "operator": "ge",
+                "target": 1,
+                "evidence": "At N-1, attach a benzene ring that bears one chlorine substituent para to the point of attachment and a methyl group ortho to the point of attachment",
+                "rule": "explicit_presence_or_local_lower_bound",
+                "actual": 1,
+                "pass": true
+              },
+              {
+                "property": "group_hydroxyl",
+                "operator": "ge",
+                "target": 1,
+                "evidence": "At C-4, attach an sp3 carbon substituent that carries a hydroxyl group, an ethyl group, and one hydrogen",
+                "rule": "explicit_presence_or_local_lower_bound",
+                "actual": 1,
+                "pass": true
+              }
+            ],
+            "unverified": [
+              "Full atom connectivity, requested sites, stereochemistry and all other requirements not explicitly covered by the checks remain unverified."
+            ]
+          },
+          "rule_count": 5
+        },
+        {
+          "id": "edit_test_005",
+          "rounds": 2,
+          "first": "O=c1c2c([nH]c3c1cccc3)c(C)c(OC)cc2",
+          "final": "O=c1c2c([nH]c3c1ccccc3)c(C)c(OC)cc2",
+          "first_assessment": {
+            "valid": true,
+            "checked_pass": true,
+            "task_status": "partial_pass_unverified",
+            "checks": [],
+            "unverified": [
+              "Full atom connectivity, requested sites, stereochemistry and all other requirements not explicitly covered by the checks remain unverified."
+            ]
+          },
+          "rule_count": 0
+        },
+        {
+          "id": "edit_extended_199",
+          "rounds": 3,
+          "first": "C(C)C(C)CC(=O)N1CCC(CBr)C1",
+          "final": "CC(C)C(C)CC(=O)N1CCC(CBr)C1",
+          "first_assessment": {
+            "valid": true,
+            "checked_pass": true,
+            "task_status": "partial_pass_unverified",
+            "checks": [],
+            "unverified": [
+              "Full atom connectivity, requested sites, stereochemistry and all other requirements not explicitly covered by the checks remain unverified."
+            ]
+          },
+          "rule_count": 0
+        }
+      ]
+    },
+    "agentdrug": {
+      "groups": {
+        "edit": {
+          "processed": 400,
+          "final_correct": 195,
+          "api_calls": 1588,
+          "truncated_calls": 22,
+          "cases_with_truncation": 21,
+          "completion_tokens": 48049,
+          "first_correct": 180,
+          "ever_correct": 198,
+          "first_correct_final_wrong": 2,
+          "first_wrong_final_correct": 17,
+          "ever_correct_final_wrong": 3
+        },
+        "generation": {
+          "processed": 400,
+          "final_correct": 85,
+          "api_calls": 2000,
+          "truncated_calls": 154,
+          "cases_with_truncation": 147,
+          "completion_tokens": 83638,
+          "first_correct": 61,
+          "ever_correct": 86,
+          "first_correct_final_wrong": 1,
+          "first_wrong_final_correct": 25,
+          "ever_correct_final_wrong": 1
+        }
+      },
+      "regression_examples": [
+        {
+          "id": "edit_test_075",
+          "rounds": 4,
+          "first": "c1c(C(C)(CNC(C(Nc2cccc(OC)c2)=O)=O)C)cccc1OC",
+          "final": "c1c(C(C)(CNC(C(Nc2cccc(O)c2)=O)=O)C)cccc1OC",
+          "first_assessment": {
+            "valid": true,
+            "checked_pass": true,
+            "task_status": "partial_pass_unverified",
+            "checks": [],
+            "unverified": [
+              "Full atom connectivity, requested sites, stereochemistry and all other requirements not explicitly covered by the checks remain unverified."
+            ]
+          },
+          "rule_count": 0
+        },
+        {
+          "id": "generation_extended_147",
+          "rounds": 5,
+          "first": "C1CC(C(=O)OC)CC1(C)C",
+          "final": "C1CC(C(=O)OC)C(C)(C)C1",
+          "first_assessment": {
+            "valid": true,
+            "checked_pass": true,
+            "task_status": "partial_pass_unverified",
+            "checks": [
+              {
+                "property": "atom_C",
+                "operator": "ge",
+                "target": 1,
+                "evidence": "Start with a saturated cyclopentane ring (a five member saturated carbon ring)",
+                "rule": "explicit_presence_or_local_lower_bound",
+                "actual": 9,
+                "pass": true
+              },
+              {
+                "property": "group_cyclopentane",
+                "operator": "ge",
+                "target": 1,
+                "evidence": "Start with a saturated cyclopentane ring (a five member saturated carbon ring)",
+                "rule": "explicit_presence_or_local_lower_bound",
+                "actual": 1,
+                "pass": true
+              },
+              {
+                "property": "group_carbonyl",
+                "operator": "ge",
+                "target": 1,
+                "evidence": "Designate the carbon that bears the side-chain (the carbonyl group) as C-1 of the ring",
+                "rule": "explicit_presence_or_local_lower_bound",
+                "actual": 1,
+                "pass": true
+              },
+              {
+                "property": "group_methoxy",
+                "operator": "ge",
+                "target": 1,
+                "evidence": "A methoxy group (-O-CH3) to form a methyl ester",
+                "rule": "explicit_presence_or_local_lower_bound",
+                "actual": 1,
+                "pass": true
+              }
+            ],
+            "unverified": [
+              "Full atom connectivity, requested sites, stereochemistry and all other requirements not explicitly covered by the checks remain unverified."
+            ]
+          },
+          "rule_count": 4
+        },
+        {
+          "id": "edit_extended_050",
+          "rounds": 4,
+          "first": "CCc1ccc(C(O)=CCc(n2)[nH]c3c2ccc(S(C)(=O)=O)c3)cc1",
+          "final": "CCc1ccc(C(O)=CCc2c[nH]c3cc(S(C)(=O)=O)ccc23)cc1",
+          "first_assessment": {
+            "valid": true,
+            "checked_pass": true,
+            "task_status": "partial_pass_unverified",
+            "checks": [
+              {
+                "property": "formula",
+                "operator": "eq",
+                "target": "{\"C\": 19, \"N\": 2, \"O\": 3, \"S\": 1}",
+                "evidence": "Tautomerize the molecule from the keto form (C=O) to the enol form by transferring a hydrogen atom from the carbon adjacent to the carbonyl group to the oxygen atom. This forms a C=C double bond between the carbonyl carbon and the adjacent carbon, and converts the carbonyl group into a hydroxyl group.",
+                "rule": "pure_rearrangement_heavy_inventory",
+                "actual": "{\"C\": 19, \"N\": 2, \"O\": 3, \"S\": 1}",
+                "pass": true
+              }
+            ],
+            "unverified": [
+              "Full atom connectivity, requested sites, stereochemistry and all other requirements not explicitly covered by the checks remain unverified."
+            ]
+          },
+          "rule_count": 1
+        }
+      ]
+    },
+    "deepseek": {
+      "groups": {
+        "edit": {
+          "processed": 323,
+          "final_correct": 240,
+          "api_calls": 323,
+          "truncated_calls": 48,
+          "cases_with_truncation": 48,
+          "completion_tokens": 688395
+        },
+        "generation": {
+          "processed": 320,
+          "final_correct": 135,
+          "api_calls": 320,
+          "truncated_calls": 133,
+          "cases_with_truncation": 133,
+          "completion_tokens": 1480522
+        }
+      },
+      "regression_examples": []
+    }
+  },
+  "examples": [
+    {
+      "id": "edit_extended_075",
+      "instruction": "Introduce a fluorine substituent at the ortho position, a chlorine substituent at the meta position, and a bromine substituent at the para position relative to the nitrile group on the benzene ring, ensuring that the chlorine is positioned between the fluorine and bromine.",
+      "failed_checks": [
+        {
+          "property": "formula",
+          "operator": "eq",
+          "target": "{\"C\": 14, \"F\": 1, \"N\": 3, \"O\": 2, \"S\": 1}",
+          "evidence": "Introduce a fluorine substituent at the ortho position, a chlorine substituent at the meta position, and a bromine substituent at the para position relative to the nitrile group on the benzene ring, ensuring that the chlorine is positioned between the fluorine and bromine.",
+          "rule": "single_substituent_inventory",
+          "actual": "{\"Br\": 1, \"C\": 14, \"Cl\": 1, \"F\": 1, \"N\": 3, \"O\": 2, \"S\": 1}",
+          "pass": false
+        }
+      ]
+    },
+    {
+      "id": "generation_test_038",
+      "instruction": "Begin with a phenyl ring fused to a six-membered piperidine ring containing a single nitrogen. The nitrogen is adjacent to a fused carbon. A -O-CH2-CH2-O-CH3 group is attached to the phenyl ring at the position para to the piperidine nitrogen. Within the piperidine ring, the carbon adjacent to the nitrogen (not the one shared with the phenyl ring) forms a chiral center (C-alpha) with an R configuration. This chiral center is bonded to an additional phenyl ring that bears a chlorine substituent at the ortho position relative to the linkage. The other two carbons of the piperidine ring are fused to a five-membered ring (designated as C1-C2-C3-C4-C5). In this five-membered ring, C1, a fused carbon adjacent to C-alpha, has an S configuration, C3 is double-bonded to C4, and C5 is another fused carbon with an S configuration.",
+      "failed_checks": [
+        {
+          "property": "group_piperidine",
+          "operator": "ge",
+          "target": 1,
+          "evidence": "Begin with a phenyl ring fused to a six-membered piperidine ring containing a single nitrogen",
+          "rule": "explicit_presence_or_local_lower_bound",
+          "actual": 0,
+          "pass": false
+        }
+      ]
+    },
+    {
+      "id": "generation_test_093",
+      "instruction": "Start this molecule from a central carbonyl carbon. It forms a double bond with an oxygen atom and carries two distinct substituents:\n1. An aminoalkyl-pyrrolidine chain: Starting from the carbonyl carbon, a nitrogen atom is directly attached, followed by two methylene groups. This chain terminates with a pyrrolidine ring, a saturated five-membered ring containing one nitrogen and four carbons, connected via its nitrogen atom.\n2. A para-substituted phenyl ring: Attached to the carbonyl carbon, the phenyl ring bears an amide group (-NH-C(=O)-) at the position opposite the attachment point. The carbonyl carbon of this amide is linked to a methylene group, which is further connected to an unsubstituted indane ring (a fused bicyclic structure consisting of a benzene ring and a cyclopentane ring). The methylene group attaches exclusively to one benzene carbon that is at the beta position relative to one of the shared carbons of the benzene-cyclopentane junction.",
+      "failed_checks": [
+        {
+          "property": "group_cyclopentane",
+          "operator": "ge",
+          "target": 1,
+          "evidence": "The carbonyl carbon of this amide is linked to a methylene group, which is further connected to an unsubstituted indane ring (a fused bicyclic structure consisting of a benzene ring and a cyclopentane ring)",
+          "rule": "explicit_presence_or_local_lower_bound",
+          "actual": 0,
+          "pass": false
+        }
+      ]
+    },
+    {
+      "id": "generation_test_112",
+      "instruction": "This molecule features a five-membered 1H-1,2,3-triazole ring . Number the ring so that N-1, N-2, and N-3 are adjacent nitrogens, C-4 and C-5 are the ring carbons. The nitrogen at position 1 bears an isopropyl group (-C(CH3)2). At position 4, a methylene connects to the nitrogen of a six-membered piperidine ring (with that nitrogen designated as position 1). On the piperidine's carbon 4 (counting from its nitrogen), there is a (2-fluorophenyl)methoxy substituent, where a methoxy (-O-C-) linkage connects the piperidine to the benzene ring and a single fluorine is ortho to the benzylic attachment.",
+      "failed_checks": [
+        {
+          "property": "group_methoxy",
+          "operator": "ge",
+          "target": 1,
+          "evidence": "On the piperidine's carbon 4 (counting from its nitrogen), there is a (2-fluorophenyl)methoxy substituent, where a methoxy (-O-C-) linkage connects the piperidine to the benzene ring and a single fluorine is ortho to the benzylic attachment",
+          "rule": "explicit_presence_or_local_lower_bound",
+          "actual": 0,
+          "pass": false
+        }
+      ]
+    },
+    {
+      "id": "generation_test_133",
+      "instruction": "This molecule comprises three fused rings: Ring A, Ring B, and Ring C.\n1. Ring A is a 1,3-diazine (an aromatic ring containing four carbons and two nitrogens arranged in a meta position).\n2. Ring B, positioned centrally within the fused system, is a thiophene ring consisting of one sulfur atom and four carbon atoms.\n3. Ring C is a five-membered carboncycle, with three carbons not shared with Ring B exhibiting sp3 hybridization.\n\nNumber the atoms of Ring A sequentially in a clockwise direction as N1, C2, N3, C4, C5, and C6. Rings A and B share the atoms C5 and C6, while the other two carbon atoms of Ring B are shared with Ring C.\n\nAt the C4 position of Ring A, a substituent (-S-CH2-C(O)=N-) is attached in the following sequence: a sulfur atom bonded to a methylene group (-CH2-), followed by an imine carbonyl group (-C(O)=N-) in which the imine carbon also carries a hydroxyl group.\nThe imine nitrogen is further bonded directly to a six-membered aliphatic cyclohexane that contains three consecutive stereocenters. This cyclohexane ring is numbered counterclockwise from C-1a to C-6a:\n1. The ring carbon (C-1a) bonded to the imine is R-configured.\n2. The next two ring carbons (C-2a and C-3a) are both S-configured.\n3. Both C-2a and C-3a bear a methyl substituent.",
+      "failed_checks": [
+        {
+          "property": "group_carbonyl",
+          "operator": "ge",
+          "target": 1,
+          "evidence": "At the C4 position of Ring A, a substituent (-S-CH2-C(O)=N-) is attached in the following sequence: a sulfur atom bonded to a methylene group (-CH2-), followed by an imine carbonyl group (-C(O)=N-) in which the imine carbon also carries a hydroxyl group",
+          "rule": "explicit_presence_or_local_lower_bound",
+          "actual": 0,
+          "pass": false
+        }
+      ]
+    },
+    {
+      "id": "generation_test_141",
+      "instruction": "1. Begin with a quaternary carbon atom (C1) that is substituted with three methyl groups and one oxygen atom.\n2. The oxygen attached to C1 is linked to a secondary carbon (C2) that carries a single-bonded hydroxyl group and forms a double bond with a nitrogen atom.\n3. The nitrogen atom attached to C2 extends through three methylene units (-CH2-CH2-CH2-) to an additional oxygen, which connects to a fused bicyclic ring. The ring carbon attached to this oxygen is designated as C-alpha.\n4. The bicyclic structure is composed of a benzene ring fused with a five-membered sulfur-containing ring (thiophene). The carbon atoms of the benzene located at the meta and para positions relative to C-alpha are shared with the thiophene. The sulfur atom in the thiophene ring, which is adjacent to the shared carbon at the meta position relative to C-alpha, bears two hydroxyl substituents (-S(OH)-OH).",
+      "failed_checks": [
+        {
+          "property": "group_thiophene",
+          "operator": "ge",
+          "target": 1,
+          "evidence": "The sulfur atom in the thiophene ring, which is adjacent to the shared carbon at the meta position relative to C-alpha, bears two hydroxyl substituents (-S(OH)-OH)",
+          "rule": "explicit_presence_or_local_lower_bound",
+          "actual": 0,
+          "pass": false
+        }
+      ]
+    },
+    {
+      "id": "generation_extended_003",
+      "instruction": "Core skeleton: 2,3-dihydro-1-benzofuran. This consists of a furan ring (five-membered, one oxygen) fused to a benzene ring, with the oxygen positioned adjacent to the benzene.\n\nNumbering the ring atoms anticlockwise as follows: O1 (furan oxygen); C2 (saturated carbon adjacent to O1); C3 (next ring carbon); 3a (fused junction); C4, C5, C6, C7 (benzene carbons in sequence); and 7a (second fused junction).\n\nSubstituents on the fused core:\n1. At C-2, a 2-amino-ethyl group -CH2-CH2-NH2 is attached.\n2. At C-5, a fluorine atom is attached.\n3. At C-7, a phenyl ring is attached that carries two fluorine substituents, positioned ortho and meta to the linkage point to the core skeleton; the two fluorine atoms are para to each other.",
+      "failed_checks": [
+        {
+          "property": "group_furan",
+          "operator": "ge",
+          "target": 1,
+          "evidence": "This consists of a furan ring (five-membered, one oxygen) fused to a benzene ring, with the oxygen positioned adjacent to the benzene",
+          "rule": "explicit_presence_or_local_lower_bound",
+          "actual": 0,
+          "pass": false
+        }
+      ]
+    },
+    {
+      "id": "generation_extended_015",
+      "instruction": "The molecule is a core cyclohexane ring with three substitutions at two ring carbons:\n1. At one carbon: two methyl groups are attached to the same ring carbon (a geminal dimethyl substituent).\n2. At the carbon two positions away: a methoxycarbonyl group is attached, corresponding to a methyl ester of a carboxyl group, -C(=O)OCH3.\n\nNo additional substituents or stereochemical features are specified.",
+      "failed_checks": [
+        {
+          "property": "group_cyclohexane",
+          "operator": "ge",
+          "target": 1,
+          "evidence": "The molecule is a core cyclohexane ring with three substitutions at two ring carbons:",
+          "rule": "explicit_presence_or_local_lower_bound",
+          "actual": 0,
+          "pass": false
+        }
+      ]
+    },
+    {
+      "id": "generation_extended_199",
+      "instruction": "Core skeleton: a pyridine ring (six-membered aromatic ring with two nitrogens in a para, 1/4 arrangement). Number the atoms with nitrogens at positions 1 and 4.\n\nAll four carbons in this ring bear distinct substituents:\n- C2: bears an ethyl group.\n- C3: bears a secondary amino group (-NH-); this nitrogen is bonded to an sp3 carbon that carries two ethyl groups.\n- C5: bears a chlorine atom.\n- C6: bears a benzene ring, and this benzene is further substituted with two chlorine atoms located at the ortho and para positions relative to the point of attachment.\n\nNo chiral centers or E/Z double bonds are present.",
+      "failed_checks": [
+        {
+          "property": "group_pyridine",
+          "operator": "ge",
+          "target": 1,
+          "evidence": "Core skeleton: a pyridine ring (six-membered aromatic ring with two nitrogens in a para, 1/4 arrangement)",
+          "rule": "explicit_presence_or_local_lower_bound",
+          "actual": 0,
+          "pass": false
+        }
+      ]
+    }
+  ],
+  "reference_audit": {
+    "chatdrug": {
+      "cases_without_task_checks": 267,
+      "all_library_eligible": 268,
+      "zero_eligible": 105,
+      "cases_with_unsound_rule": 9
+    },
+    "agentdrug": {
+      "cases_without_task_checks": 267,
+      "all_library_eligible": 268,
+      "zero_eligible": 102,
+      "cases_with_unsound_rule": 9
+    }
+  },
+  "parser_audit": {
+    "counts": {
+      "valid_first_bullet": 636,
+      "native_parser_changes_or_skips_first": 39,
+      "correct_first_bullet_lost": 5
+    },
+    "examples": [
+      {
+        "id": "edit_extended_120",
+        "first_bullet": "CC(N1C(=O)CC(C(=Nc2c(C(O)=NC)cccc2)O)C1)CCC",
+        "selected_by_native_parser": null
+      },
+      {
+        "id": "edit_test_161",
+        "first_bullet": "N(c1ccc2c(n(C)c(=O)o2)c1)C(c1ccc(-c2oc(S)nn2)cc1)=O",
+        "selected_by_native_parser": null
+      },
+      {
+        "id": "edit_extended_196",
+        "first_bullet": "C[Si]1(CC)O[Si](CC)(C)O[Si](C)(C)O[Si](C)(C)O1",
+        "selected_by_native_parser": "]1(CC)O[S"
+      },
+      {
+        "id": "edit_extended_016",
+        "first_bullet": "CCOc1cc([N+](=O)[O-])c(C(N)=O)cc1C#N",
+        "selected_by_native_parser": "N#Cc1cc([N+](=O)[O-])c(C(N)=O)cc1OCC"
+      }
+    ],
+    "truncated": [
+      {
+        "id": "generation_extended_035",
+        "parse_after_truncation": [
+          "CCCCCCCCCCCCCCCCCCCCCCCCCC(=O)Oc1ccccc1"
+        ],
+        "correct": false
+      }
+    ]
+  }
+}

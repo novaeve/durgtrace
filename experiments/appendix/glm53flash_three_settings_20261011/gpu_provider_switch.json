@@ -1,0 +1,133 @@
+{
+  "time": 1791701367.1203136,
+  "upstream": "https://tok.fan/v1",
+  "counts_before": {
+    "MolClaw": {
+      "processed": 4200,
+      "statuses": {
+        "complete": 4200
+      }
+    },
+    "Codex": {
+      "processed": 619,
+      "statuses": {
+        "complete": 618,
+        "error": 1
+      }
+    },
+    "GLM_direct": {
+      "processed": 4200,
+      "statuses": {
+        "complete": 3134,
+        "provider_limit": 1066
+      }
+    },
+    "GLM_direct_retry1120": {
+      "processed": 540,
+      "statuses": {
+        "complete": 540
+      }
+    }
+  },
+  "codex_workers": 64,
+  "provider_epoch": "relay_1791701288",
+  "archived_unfinished": [
+    {
+      "method": "Codex",
+      "setting": "1_original_chatdrug",
+      "id": "source_103_loose_031",
+      "archive": "/data/chenfuxin/glm53flash_three_settings_20261011/provider_switch_archive/1791701366/Codex/1_original_chatdrug/source_103_loose_031"
+    },
+    {
+      "method": "Codex",
+      "setting": "1_original_chatdrug",
+      "id": "source_104_loose_031",
+      "archive": "/data/chenfuxin/glm53flash_three_settings_20261011/provider_switch_archive/1791701366/Codex/1_original_chatdrug/source_104_loose_031"
+    },
+    {
+      "method": "Codex",
+      "setting": "1_original_chatdrug",
+      "id": "source_104_strict_031",
+      "archive": "/data/chenfuxin/glm53flash_three_settings_20261011/provider_switch_archive/1791701366/Codex/1_original_chatdrug/source_104_strict_031"
+    },
+    {
+      "method": "Codex",
+      "setting": "2_s2_prompt_chatdrug",
+      "id": "source_102_loose_031",
+      "archive": "/data/chenfuxin/glm53flash_three_settings_20261011/provider_switch_archive/1791701366/Codex/2_s2_prompt_chatdrug/source_102_loose_031"
+    },
+    {
+      "method": "Codex",
+      "setting": "2_s2_prompt_chatdrug",
+      "id": "source_102_strict_030",
+      "archive": "/data/chenfuxin/glm53flash_three_settings_20261011/provider_switch_archive/1791701366/Codex/2_s2_prompt_chatdrug/source_102_strict_030"
+    },
+    {
+      "method": "Codex",
+      "setting": "2_s2_prompt_chatdrug",
+      "id": "source_102_strict_031",
+      "archive": "/data/chenfuxin/glm53flash_three_settings_20261011/provider_switch_archive/1791701366/Codex/2_s2_prompt_chatdrug/source_102_strict_031"
+    },
+    {
+      "method": "Codex",
+      "setting": "2_s2_prompt_chatdrug",
+      "id": "source_103_loose_028",
+      "archive": "/data/chenfuxin/glm53flash_three_settings_20261011/provider_switch_archive/1791701366/Codex/2_s2_prompt_chatdrug/source_103_loose_028"
+    },
+    {
+      "method": "Codex",
+      "setting": "2_s2_prompt_chatdrug",
+      "id": "source_103_loose_030",
+      "archive": "/data/chenfuxin/glm53flash_three_settings_20261011/provider_switch_archive/1791701366/Codex/2_s2_prompt_chatdrug/source_103_loose_030"
+    },
+    {
+      "method": "Codex",
+      "setting": "2_s2_prompt_chatdrug",
+      "id": "source_103_loose_031",
+      "archive": "/data/chenfuxin/glm53flash_three_settings_20261011/provider_switch_archive/1791701366/Codex/2_s2_prompt_chatdrug/source_103_loose_031"
+    },
+    {
+      "method": "Codex",
+      "setting": "2_s2_prompt_chatdrug",
+      "id": "source_103_strict_030",
+      "archive": "/data/chenfuxin/glm53flash_three_settings_20261011/provider_switch_archive/1791701366/Codex/2_s2_prompt_chatdrug/source_103_strict_030"
+    },
+    {
+      "method": "Codex",
+      "setting": "2_s2_prompt_chatdrug",
+      "id": "source_103_strict_031",
+      "archive": "/data/chenfuxin/glm53flash_three_settings_20261011/provider_switch_archive/1791701366/Codex/2_s2_prompt_chatdrug/source_103_strict_031"
+    },
+    {
+      "method": "Codex",
+      "setting": "2_s2_prompt_chatdrug",
+      "id": "source_104_loose_031",
+      "archive": "/data/chenfuxin/glm53flash_three_settings_20261011/provider_switch_archive/1791701366/Codex/2_s2_prompt_chatdrug/source_104_loose_031"
+    },
+    {
+      "method": "Codex",
+      "setting": "3_original_s2",
+      "id": "s2_QED_131914",
+      "archive": "/data/chenfuxin/glm53flash_three_settings_20261011/provider_switch_archive/1791701366/Codex/3_original_s2/s2_QED_131914"
+    },
+    {
+      "method": "Codex",
+      "setting": "3_original_s2",
+      "id": "s2_QED_101047",
+      "archive": "/data/chenfuxin/glm53flash_three_settings_20261011/provider_switch_archive/1791701366/Codex/3_original_s2/s2_QED_101047"
+    },
+    {
+      "method": "Codex",
+      "setting": "3_original_s2",
+      "id": "s2_QED_111764",
+      "archive": "/data/chenfuxin/glm53flash_three_settings_20261011/provider_switch_archive/1791701366/Codex/3_original_s2/s2_QED_111764"
+    },
+    {
+      "method": "Codex",
+      "setting": "3_original_s2",
+      "id": "s2_QED_159260",
+      "archive": "/data/chenfuxin/glm53flash_three_settings_20261011/provider_switch_archive/1791701366/Codex/3_original_s2/s2_QED_159260"
+    }
+  ],
+  "completed_results_verified_unchanged": 9559
+}

@@ -1,0 +1,23 @@
+{
+  "task": "smdd_004_ABL1_1",
+  "model": "deepseek-v4.1-flash",
+  "temperature": 1.0,
+  "seed": 42,
+  "max_llm_calls": 100,
+  "max_tokens_total": 10000000,
+  "admet_budget": 15,
+  "boltz_budget": 8,
+  "pocket_samples": 100,
+  "pocket_beam": 300,
+  "pocket_device": "cuda",
+  "pocket_gpu": 3,
+  "vina_enabled": false,
+  "gpu": 1,
+  "code_hashes": {
+    "code_worker.py": "708da2224d4a5c4d1ee643a37f375097552913a3344411b8ca17128e75152ffa",
+    "smdd_backends.py": "341301149c0886b9d416a2b0b993d68010621db56d3d3aa89a7e35fafdb46484",
+    "run_liddia_type4.py": "589ea934e214421028dbf0415989a94e75361a69259e6e6f5d9784a6ddd2d183",
+    "prepare_type4.py": "7cfd6519517072271a15b86e22cde80cae022d6e049da5b5c2d1c7a7fe904189",
+    "smdd_liddia_tools.py": "9cb13c79a8d5fe3a92d82eb9eb22109430a096cc539ef07e6435b0f3bc5996a8"
+  }
+}

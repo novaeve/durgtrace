@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "duplicate_request_exactly_once": true,
+  "accepted_submission_immutable": true,
+  "submission_without_extra_llm": true,
+  "preserved_budgets": true,
+  "native_submission_elapsed": 0.2477860450744629,
+  "native_smoke_task": "smdd_004_A2A_Adenosine_1",
+  "model": "deepseek-v4.1-flash",
+  "enable_thinking": false,
+  "all_four_mechanisms": true,
+  "time": 1791189742.466929
+}

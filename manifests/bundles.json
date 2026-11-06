@@ -1,0 +1,468 @@
+[
+  {
+    "id": "chatdrug_generalization_20260920",
+    "group": "property",
+    "path": "experiments/property/chatdrug_generalization_20260920",
+    "files": 60,
+    "entrypoints": [
+      "full_experiment.py"
+    ]
+  },
+  {
+    "id": "agentdrug_20260922",
+    "group": "property",
+    "path": "experiments/property/agentdrug_20260922",
+    "files": 118,
+    "entrypoints": [
+      "runner.py"
+    ]
+  },
+  {
+    "id": "molingo_20260922",
+    "group": "property",
+    "path": "experiments/property/molingo_20260922",
+    "files": 62,
+    "entrypoints": [
+      "single_bailian_runner.py",
+      "single_runner.py"
+    ]
+  },
+  {
+    "id": "molclaw_20260924",
+    "group": "property",
+    "path": "experiments/property/molclaw_20260924",
+    "files": 153,
+    "entrypoints": [
+      "benchmark_runner.py"
+    ]
+  },
+  {
+    "id": "molclaw_chatdrug",
+    "group": "property",
+    "path": "experiments/property/molclaw_chatdrug",
+    "files": 57,
+    "entrypoints": [
+      "worker.py",
+      "claw_agent.py"
+    ]
+  },
+  {
+    "id": "sol_pi_chatdrug_molopt_20261007",
+    "group": "property",
+    "path": "experiments/property/sol_pi_chatdrug_molopt_20261007",
+    "files": 15,
+    "entrypoints": [
+      "pipeline.py",
+      "run.py"
+    ]
+  },
+  {
+    "id": "codex_chatdrug_s2init_bailian_20261010",
+    "group": "property",
+    "path": "experiments/property/codex_chatdrug_s2init_bailian_20261010",
+    "files": 20,
+    "entrypoints": [
+      "driver.py",
+      "offline.py"
+    ]
+  },
+  {
+    "id": "molopt_original_bailian_20261007",
+    "group": "property",
+    "path": "experiments/property/molopt_original_bailian_20261007",
+    "files": 19,
+    "entrypoints": [
+      "run.py"
+    ]
+  },
+  {
+    "id": "s2_edit_custom_20260928",
+    "group": "structural",
+    "path": "experiments/structural/s2_edit_custom_20260928",
+    "files": 25,
+    "entrypoints": [
+      "runner.py",
+      "benchmark.py"
+    ]
+  },
+  {
+    "id": "mollangbench_20260928",
+    "group": "structural",
+    "path": "experiments/structural/mollangbench_20260928",
+    "files": 103,
+    "entrypoints": [
+      "no_rules_v2/run_agents.py",
+      "run_direct.py",
+      "score.py"
+    ]
+  },
+  {
+    "id": "molclaw_fourbench_20260929",
+    "group": "structural",
+    "path": "experiments/structural/molclaw_fourbench_20260929",
+    "files": 13,
+    "entrypoints": [
+      "run.py",
+      "score.py"
+    ]
+  },
+  {
+    "id": "codex_fourbench_20261002",
+    "group": "structural",
+    "path": "experiments/structural/codex_fourbench_20261002",
+    "files": 9,
+    "entrypoints": [
+      "run.py",
+      "score.py"
+    ]
+  },
+  {
+    "id": "sol_pi_fourbench_20261005",
+    "group": "structural",
+    "path": "experiments/structural/sol_pi_fourbench_20261005",
+    "files": 16,
+    "entrypoints": [
+      "pipeline.py",
+      "run.py"
+    ]
+  },
+  {
+    "id": "pmo_1k_20260924",
+    "group": "pmo",
+    "path": "experiments/pmo/pmo_1k_20260924",
+    "files": 69,
+    "entrypoints": [
+      "run_pmo.py"
+    ]
+  },
+  {
+    "id": "pmo_submission_20260925",
+    "group": "pmo",
+    "path": "experiments/pmo/pmo_submission_20260925",
+    "files": 21,
+    "entrypoints": [
+      "run_direct.py",
+      "run_editors.py",
+      "audit_top10_auc.py"
+    ]
+  },
+  {
+    "id": "pmo_reference_free_1k_20261004",
+    "group": "pmo",
+    "path": "experiments/pmo/pmo_reference_free_1k_20261004",
+    "files": 13,
+    "entrypoints": [
+      "continuous.py"
+    ]
+  },
+  {
+    "id": "molclaw_pmo_20260929_v3",
+    "group": "pmo",
+    "path": "experiments/pmo/molclaw_pmo_20260929_v3",
+    "files": 19,
+    "entrypoints": [
+      "trajectory.py"
+    ]
+  },
+  {
+    "id": "codex_pmo_20261003",
+    "group": "pmo",
+    "path": "experiments/pmo/codex_pmo_20261003",
+    "files": 20,
+    "entrypoints": [
+      "run.py",
+      "aggregate_auc_tailfilled.py"
+    ]
+  },
+  {
+    "id": "sol_pi_pmo_20261004",
+    "group": "pmo",
+    "path": "experiments/pmo/sol_pi_pmo_20261004",
+    "files": 12,
+    "entrypoints": [
+      "run.py"
+    ]
+  },
+  {
+    "id": "sol_pi_pmo_rerun7_20261005",
+    "group": "pmo",
+    "path": "experiments/pmo/sol_pi_pmo_rerun7_20261005",
+    "files": 11,
+    "entrypoints": [
+      "run.py",
+      "segment_policy.py"
+    ]
+  },
+  {
+    "id": "smdd_type2_transfer_20260929",
+    "group": "smdd",
+    "path": "experiments/smdd/smdd_type2_transfer_20260929",
+    "files": 21,
+    "entrypoints": [
+      "run_experiment.py",
+      "score.py"
+    ]
+  },
+  {
+    "id": "smdd_codex_type2_bailian_20260929",
+    "group": "smdd",
+    "path": "experiments/smdd/smdd_codex_type2_bailian_20260929",
+    "files": 6,
+    "entrypoints": [
+      "run_batch.py"
+    ]
+  },
+  {
+    "id": "molclaw_type2_20260929",
+    "group": "smdd",
+    "path": "experiments/smdd/molclaw_type2_20260929",
+    "files": 5,
+    "entrypoints": [
+      "run.py"
+    ]
+  },
+  {
+    "id": "smdd_type3_transfer_20260930",
+    "group": "smdd",
+    "path": "experiments/smdd/smdd_type3_transfer_20260930",
+    "files": 50,
+    "entrypoints": [
+      "run_experiment.py",
+      "evaluate.py"
+    ]
+  },
+  {
+    "id": "smdd_type3_harness_20261001",
+    "group": "smdd",
+    "path": "experiments/smdd/smdd_type3_harness_20261001",
+    "files": 12,
+    "entrypoints": [
+      "run.py",
+      "score.py"
+    ]
+  },
+  {
+    "id": "smdd_type4_full340_bailian_20260929",
+    "group": "smdd",
+    "path": "experiments/smdd/smdd_type4_full340_bailian_20260929",
+    "files": 25,
+    "entrypoints": [
+      "agentdrug_smdd.py",
+      "batch.py"
+    ]
+  },
+  {
+    "id": "type4_full340_bailian_20260929",
+    "group": "smdd",
+    "path": "experiments/smdd/type4_full340_bailian_20260929",
+    "files": 31,
+    "entrypoints": [
+      "batch.py"
+    ]
+  },
+  {
+    "id": "smdd_deepseek_codex_type4_20261004",
+    "group": "smdd",
+    "path": "experiments/smdd/smdd_deepseek_codex_type4_20261004",
+    "files": 53,
+    "entrypoints": [
+      "run.py",
+      "worker.py",
+      "evaluate.py"
+    ]
+  },
+  {
+    "id": "agent_reproduction_20260928",
+    "group": "smdd",
+    "path": "experiments/smdd/agent_reproduction_20260928",
+    "files": 83,
+    "entrypoints": [
+      "run_type3_batch.py",
+      "run_type4_batch.py",
+      "run_liddia_type4.py"
+    ]
+  },
+  {
+    "id": "liddia_smdd_type3_20261004",
+    "group": "smdd",
+    "path": "experiments/smdd/liddia_smdd_type3_20261004",
+    "files": 23,
+    "entrypoints": [
+      "source/run_type3_batch.py",
+      "source/run_liddia_type3.py",
+      "source/evaluate_liddia_type3.py"
+    ]
+  },
+  {
+    "id": "liddia_smdd_type4_20260928",
+    "group": "smdd",
+    "path": "experiments/smdd/liddia_smdd_type4_20260928",
+    "files": 4,
+    "entrypoints": []
+  },
+  {
+    "id": "sol_pi_smdd_type2_type3_20261006",
+    "group": "smdd",
+    "path": "experiments/smdd/sol_pi_smdd_type2_type3_20261006",
+    "files": 17,
+    "entrypoints": [
+      "run.py",
+      "group_pipeline.py"
+    ]
+  },
+  {
+    "id": "sol_pi_type2_rerun11_20261007",
+    "group": "smdd",
+    "path": "experiments/smdd/sol_pi_type2_rerun11_20261007",
+    "files": 20,
+    "entrypoints": [
+      "controller.py",
+      "case_worker.py"
+    ]
+  },
+  {
+    "id": "molclaw_type4",
+    "group": "smdd",
+    "path": "experiments/smdd/molclaw_type4",
+    "files": 109,
+    "entrypoints": [
+      "run.py",
+      "evaluate.py"
+    ]
+  },
+  {
+    "id": "sol_pi_type4",
+    "group": "smdd",
+    "path": "experiments/smdd/sol_pi_type4",
+    "files": 66,
+    "entrypoints": [
+      "run.py",
+      "evaluate.py"
+    ]
+  },
+  {
+    "id": "smdd_type3",
+    "group": "smdd",
+    "path": "experiments/smdd/smdd_type3",
+    "files": 4,
+    "entrypoints": [
+      "a100_boltz_backend.py"
+    ]
+  },
+  {
+    "id": "trace-harness-v1.2-remote-baseline-20260904",
+    "group": "smdd",
+    "path": "experiments/smdd/trace-harness-v1.2-remote-baseline-20260904",
+    "files": 16,
+    "entrypoints": [
+      "agent_harness/run.py"
+    ]
+  },
+  {
+    "id": "trace-harness-v1.2",
+    "group": "smdd",
+    "path": "experiments/smdd/trace-harness-v1.2",
+    "files": 15,
+    "entrypoints": [
+      "agent_harness/run.py"
+    ]
+  },
+  {
+    "id": "chatdrug_amplitude_ablation_20261005",
+    "group": "appendix",
+    "path": "experiments/appendix/chatdrug_amplitude_ablation_20261005",
+    "files": 4,
+    "entrypoints": [
+      "rescore.py",
+      "rescore_additional.py"
+    ]
+  },
+  {
+    "id": "chatdrug_prompt_aligned_bailian_20261006",
+    "group": "appendix",
+    "path": "experiments/appendix/chatdrug_prompt_aligned_bailian_20261006",
+    "files": 18,
+    "entrypoints": [
+      "run.py",
+      "rescore_harmonized.py"
+    ]
+  },
+  {
+    "id": "chatdrug_prompt_aligned_full4_bailian_20261011",
+    "group": "appendix",
+    "path": "experiments/appendix/chatdrug_prompt_aligned_full4_bailian_20261011",
+    "files": 59,
+    "entrypoints": [
+      "aggregate.py",
+      "molclaw/driver.py",
+      "molingo/driver.py",
+      "sol_pi/driver.py",
+      "codex/driver.py"
+    ]
+  },
+  {
+    "id": "sol_pi_chatdrug_amplitude_ablation_20261008",
+    "group": "appendix",
+    "path": "experiments/appendix/sol_pi_chatdrug_amplitude_ablation_20261008",
+    "files": 2,
+    "entrypoints": [
+      "rescore.py"
+    ]
+  },
+  {
+    "id": "sol_pi_logp_qed_s2_common_eval_20261008",
+    "group": "appendix",
+    "path": "experiments/appendix/sol_pi_logp_qed_s2_common_eval_20261008",
+    "files": 3,
+    "entrypoints": [
+      "rescore.py"
+    ]
+  },
+  {
+    "id": "codex_logp_s2_common_eval_20261011",
+    "group": "appendix",
+    "path": "experiments/appendix/codex_logp_s2_common_eval_20261011",
+    "files": 3,
+    "entrypoints": [
+      "rescore.py"
+    ]
+  },
+  {
+    "id": "codex_chatdrug_amplitude_ablation_20261011",
+    "group": "appendix",
+    "path": "experiments/appendix/codex_chatdrug_amplitude_ablation_20261011",
+    "files": 3,
+    "entrypoints": [
+      "rescore.py"
+    ]
+  },
+  {
+    "id": "glm53flash_three_settings_20261011",
+    "group": "appendix",
+    "path": "experiments/appendix/glm53flash_three_settings_20261011",
+    "files": 192,
+    "entrypoints": [
+      "agents/run.py",
+      "direct_independent.py",
+      "codex_benchmark.py",
+      "rescore_direct_chatdrug_setting1.py"
+    ]
+  },
+  {
+    "id": "SoL-Pi",
+    "group": "shared",
+    "path": "experiments/shared/SoL-Pi",
+    "files": 60,
+    "entrypoints": []
+  },
+  {
+    "id": "SMDD-Bench",
+    "group": "shared",
+    "path": "benchmarks/smdd",
+    "files": 443,
+    "entrypoints": [
+      "agent_harness/run.py",
+      "evaluator/eval_entrypoint.py"
+    ]
+  }
+]

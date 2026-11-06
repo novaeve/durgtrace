@@ -1,0 +1,58 @@
+{
+  "keys": [
+    "num_aldehyde",
+    "num_amide",
+    "num_amine",
+    "num_anhydride",
+    "num_antimony",
+    "num_aromatic_bonds",
+    "num_arsenic",
+    "num_benzene_ring",
+    "num_bismuth",
+    "num_borane",
+    "num_boron",
+    "num_bromine",
+    "num_carbon",
+    "num_carboxyl",
+    "num_chlorine",
+    "num_disulfide",
+    "num_double_bonds",
+    "num_ester",
+    "num_fluorine",
+    "num_halo",
+    "num_hydroxyl",
+    "num_iodine",
+    "num_ketone",
+    "num_nitrile",
+    "num_nitro",
+    "num_nitrogen",
+    "num_oxygen",
+    "num_phosphorus",
+    "num_polonium",
+    "num_selenium",
+    "num_silicon",
+    "num_single_bonds",
+    "num_sulfide",
+    "num_sulfone",
+    "num_sulfoxide",
+    "num_sulfur",
+    "num_tellurium",
+    "num_thiol",
+    "num_triple_bonds",
+    "rot_bonds"
+  ],
+  "libraries": {
+    "chatdrug": {
+      "source": "/data2/chenfuxin/pmo_submission_20260925/native_data/chatdrug_10000.csv",
+      "source_sha256": "198a435edeaeb534195bbc9d2ae9daafd731836457c3e55c0b0e359a60cce996",
+      "properties_sha256": "504832e3e364c232bfe7e1be303b8c363425af5ae5d5d23d6a47208ab6a5d083",
+      "rows": 10000
+    },
+    "agentdrug": {
+      "source": "/data2/chenfuxin/pmo_submission_20260925/native_data/agentdrug_10000.csv",
+      "source_sha256": "1f0cdf702b2a0a00510dbf8fac2beb65bb7866190cfd99856907b080fcd682c1",
+      "properties_sha256": "e9530a5a6426b2a93aa2f38972b4e13b667ae30b12c38c8ed96e5bde19434709",
+      "rows": 10000
+    }
+  }
+}

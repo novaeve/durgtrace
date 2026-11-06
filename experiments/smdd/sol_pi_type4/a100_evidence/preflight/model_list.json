@@ -1,0 +1,5 @@
+{
+  "exit": 0,
+  "stdout": "provider       model                context  max-out  thinking  images\nsmdd-deepseek  deepseek-v4.1-flash  262.1K   65.5K    no        no    \n",
+  "stderr": ""
+}

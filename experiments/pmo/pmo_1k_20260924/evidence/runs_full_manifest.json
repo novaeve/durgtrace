@@ -1,0 +1,43 @@
+{
+  "expected": 460,
+  "methods": [
+    "deepseek",
+    "chatdrug",
+    "agentdrug",
+    "molingo"
+  ],
+  "tasks": [
+    "albuterol_similarity",
+    "amlodipine_mpo",
+    "celecoxib_rediscovery",
+    "deco_hop",
+    "drd2",
+    "fexofenadine_mpo",
+    "gsk3b",
+    "isomers_c7h8n2o2",
+    "isomers_c9h10n2o2pf2cl",
+    "jnk3",
+    "median1",
+    "median2",
+    "mestranol_similarity",
+    "osimertinib_mpo",
+    "perindopril_mpo",
+    "qed",
+    "ranolazine_mpo",
+    "scaffold_hop",
+    "sitagliptin_mpo",
+    "thiothixene_rediscovery",
+    "troglitazon_rediscovery",
+    "valsartan_smarts",
+    "zaleplon_mpo"
+  ],
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    5
+  ],
+  "budget": 1000,
+  "workers": 4
+}

@@ -1,0 +1,15 @@
+Property,Method,Original,Direction only,Direction only + new prompt,S²
+LogP,Baseline,58.13,74.75,82.88,81.00
+LogP,ChatDrug,77.75,78.63,87.63,86.20
+LogP,AgentDrug,75.75,72.50,75.88,84.20
+LogP,MolLingo,91.50,95.50,97.00,94.00
+LogP,MolClaw,79.75,84.00,99.75,97.00
+LogP,SoL-Pi,96.13,99.13,99.88,99.80
+LogP,Codex,93.00,97.75,89.00,94.20
+QED,Baseline,22.13,38.50,32.63,41.60
+QED,ChatDrug,66.75,73.13,71.25,78.20
+QED,AgentDrug,81.25,84.00,82.88,89.60
+QED,MolLingo,51.25,70.13,78.38,75.60
+QED,MolClaw,55.38,69.38,98.88,96.60
+QED,SoL-Pi,73.88,91.50,78.88,76.40
+QED,Codex,51.88,74.38,68.25,78.80

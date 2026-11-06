@@ -1,0 +1,723 @@
+{
+  "budget": 1000,
+  "top_n": 10,
+  "freq_log": 1,
+  "finish": true,
+  "early_termination": "hold final top10 mean through query 1000",
+  "duplicate_policy": "keep canonical molecule at first original query index",
+  "queries_included": "all oracle submissions, including reference and feedback queries",
+  "source_sha256": "c30d0a642653927e968bec55b24412dee396fe9401ccabb23a9b6666c02cf5fc",
+  "all_69_recomputed_values_match_recorded_final_values": true,
+  "summary": {
+    "deepseek": {
+      "tasks": 23,
+      "mean_top10_auc": 0.42569772683545726,
+      "sum_top10_auc": 9.791047717215518,
+      "oracle_submissions": 23000
+    },
+    "chatdrug": {
+      "tasks": 23,
+      "mean_top10_auc": 0.2540545319449493,
+      "sum_top10_auc": 5.843254234733835,
+      "oracle_submissions": 4433
+    },
+    "agentdrug": {
+      "tasks": 23,
+      "mean_top10_auc": 0.36027144633660446,
+      "sum_top10_auc": 8.286243265741904,
+      "oracle_submissions": 23000
+    }
+  },
+  "per_task": [
+    {
+      "method": "deepseek",
+      "task": "albuterol_similarity",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 8,
+      "status": "complete",
+      "top10_auc": 0.8529143690928455,
+      "trace_sha256": "28bdcdba2a6cece441b670a991b640bee2938d87829de85dd2597f6d2017ddda"
+    },
+    {
+      "method": "deepseek",
+      "task": "amlodipine_mpo",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 38,
+      "status": "complete",
+      "top10_auc": 0.5279852541612492,
+      "trace_sha256": "3d34415d325135c39dcba710f4fd53c33008899d167b9c41fcc02ab5a7bddc51"
+    },
+    {
+      "method": "deepseek",
+      "task": "celecoxib_rediscovery",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 2,
+      "status": "complete",
+      "top10_auc": 0.9028533653846155,
+      "trace_sha256": "80d3781e82f20d203673c71a9fe187ad707c193c0591a73af037658dffb95c03"
+    },
+    {
+      "method": "deepseek",
+      "task": "deco_hop",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 10,
+      "status": "complete",
+      "top10_auc": 0.4502186110071313,
+      "trace_sha256": "f05e0dc8e88d84b1b92b1f894eb25e4fde83a7b838255f8d6350e476733ad979"
+    },
+    {
+      "method": "deepseek",
+      "task": "drd2",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 24,
+      "status": "complete",
+      "top10_auc": 0.3811052781314619,
+      "trace_sha256": "b84389b1db06d48f34e3c4b1879b7e776e169cf6684f62c88dca005130f96a7d"
+    },
+    {
+      "method": "deepseek",
+      "task": "fexofenadine_mpo",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 36,
+      "status": "complete",
+      "top10_auc": 0.43581435025025356,
+      "trace_sha256": "dbd76838bcdda19808a7ff23f960daa70650a017fdbe3bca59acc22bcda5deca"
+    },
+    {
+      "method": "deepseek",
+      "task": "gsk3b",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 14,
+      "status": "complete",
+      "top10_auc": 0.08142738888888845,
+      "trace_sha256": "567c35ef23900939bf2100495823f4ea54818d430c78e79a78fbd6241719c634"
+    },
+    {
+      "method": "deepseek",
+      "task": "isomers_c7h8n2o2",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 22,
+      "status": "complete",
+      "top10_auc": 0.8676422077589144,
+      "trace_sha256": "e6d591d3916b08a46d49f9f9eb0bd75954bc2ce2404d9ac99bb9e20cc355b06a"
+    },
+    {
+      "method": "deepseek",
+      "task": "isomers_c9h10n2o2pf2cl",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 42,
+      "status": "complete",
+      "top10_auc": 0.7335327975290574,
+      "trace_sha256": "10b18007677ac1a206867daac9b486dd413691413465d7e824fcf290e03223b8"
+    },
+    {
+      "method": "deepseek",
+      "task": "jnk3",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 49,
+      "status": "complete",
+      "top10_auc": 0.12346738095238176,
+      "trace_sha256": "948df556a1a5ee35f929c0dffa46abad850ff51f7a7ace59bdf2bd1f8bf337ca"
+    },
+    {
+      "method": "deepseek",
+      "task": "median1",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 9,
+      "status": "complete",
+      "top10_auc": 0.3468150007977272,
+      "trace_sha256": "4d52754389e52d40a6fc988286033cc1ce5feeb11e154bac149a85952ae0cb2c"
+    },
+    {
+      "method": "deepseek",
+      "task": "median2",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 33,
+      "status": "complete",
+      "top10_auc": 0.17271822083301774,
+      "trace_sha256": "c1e66a5a0d995d8a463bc32007769aff068a6358a44a3fb9a3db6141c20765c2"
+    },
+    {
+      "method": "deepseek",
+      "task": "mestranol_similarity",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 40,
+      "status": "complete",
+      "top10_auc": 0.4225304368333408,
+      "trace_sha256": "6210956db9c9a12d6c67fea16bd4404dde439c7b885e3399e9b767f33874632b"
+    },
+    {
+      "method": "deepseek",
+      "task": "osimertinib_mpo",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 93,
+      "status": "complete",
+      "top10_auc": 0.42798841039736696,
+      "trace_sha256": "f2a9c5d5cdd891a58fb6896bb2b49c469c24bcf40de625d729ae8915c7b9b798"
+    },
+    {
+      "method": "deepseek",
+      "task": "perindopril_mpo",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 58,
+      "status": "complete",
+      "top10_auc": 0.25958845440065426,
+      "trace_sha256": "3981131b30fe6a68b4ca466e0429976722532a9a19d0c7d0a4fb6aa0b83cd596"
+    },
+    {
+      "method": "deepseek",
+      "task": "qed",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 12,
+      "status": "complete",
+      "top10_auc": 0.7824609960110622,
+      "trace_sha256": "eb18c85fe745db80548e47271033da81deeb481e22777d1b241473b3e21fc64b"
+    },
+    {
+      "method": "deepseek",
+      "task": "ranolazine_mpo",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 94,
+      "status": "complete",
+      "top10_auc": 0.26376813182315334,
+      "trace_sha256": "21ef379db3ee9ec98a4b1ba3735ce4d9ba57ff256c390e1759cca030318fe770"
+    },
+    {
+      "method": "deepseek",
+      "task": "scaffold_hop",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 4,
+      "status": "complete",
+      "top10_auc": 0.4848019221560018,
+      "trace_sha256": "2ebe6decb7383323efc80f18bc453a22242cfd515415f30e4b6b2752dfed871e"
+    },
+    {
+      "method": "deepseek",
+      "task": "sitagliptin_mpo",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 66,
+      "status": "complete",
+      "top10_auc": 0.05206585807357026,
+      "trace_sha256": "50ad30a1030fe0687c81d4d3931a96f08fc057c520675dac96ac0c1e5a1e0cd8"
+    },
+    {
+      "method": "deepseek",
+      "task": "thiothixene_rediscovery",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 78,
+      "status": "complete",
+      "top10_auc": 0.4501304757862866,
+      "trace_sha256": "e36c88ae10044f2f062e7a6a28fa9a06abfe3bd007fa19393baee62ad656db40"
+    },
+    {
+      "method": "deepseek",
+      "task": "troglitazon_rediscovery",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 30,
+      "status": "complete",
+      "top10_auc": 0.4693084777752715,
+      "trace_sha256": "a35f1f3beaebb183b8efc962096476f758ec48bea0f035c51fcb33f4ad351f3a"
+    },
+    {
+      "method": "deepseek",
+      "task": "valsartan_smarts",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 6,
+      "status": "complete",
+      "top10_auc": 1.2894900304936478e-15,
+      "trace_sha256": "cb799e90156e9d0ac7477bd4a9ec53ac429c645356fc556e1ad9963f11555792"
+    },
+    {
+      "method": "deepseek",
+      "task": "zaleplon_mpo",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 53,
+      "status": "complete",
+      "top10_auc": 0.3019103291712638,
+      "trace_sha256": "7887c71e0f3b027bdba3cee9b1395993ead1c860a2c381bc782d88a09f8fa320"
+    },
+    {
+      "method": "chatdrug",
+      "task": "albuterol_similarity",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 999,
+      "status": "budget_exhausted",
+      "top10_auc": 0.6227172505805837,
+      "trace_sha256": "a69a031e83f669f3354958ee5fa376cd8f630141d8ad77a6ae499d36d3e34b56"
+    },
+    {
+      "method": "chatdrug",
+      "task": "amlodipine_mpo",
+      "replicate": 0,
+      "oracle_submissions": 52,
+      "unique_valid": 51,
+      "status": "native_finished",
+      "top10_auc": 0.5089572721400185,
+      "trace_sha256": "5a512b6cf2727bafa9d5df43171d8e45ece421c413d5ad2935260f08c9f45f56"
+    },
+    {
+      "method": "chatdrug",
+      "task": "celecoxib_rediscovery",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 999,
+      "status": "budget_exhausted",
+      "top10_auc": 0.49518671070578546,
+      "trace_sha256": "2deea78f3b89112e6e2f406ae507e19a4664bf41be21c1d1939f5b59c0827324"
+    },
+    {
+      "method": "chatdrug",
+      "task": "deco_hop",
+      "replicate": 0,
+      "oracle_submissions": 3,
+      "unique_valid": 2,
+      "status": "native_finished",
+      "top10_auc": 0.4699518641414587,
+      "trace_sha256": "e0f1775db99512d96e6ecf20c9d1ebcf863b82c9ccd2a9003f583acb1e87a7d3"
+    },
+    {
+      "method": "chatdrug",
+      "task": "drd2",
+      "replicate": 0,
+      "oracle_submissions": 6,
+      "unique_valid": 5,
+      "status": "native_finished",
+      "top10_auc": 0.008661981160840692,
+      "trace_sha256": "174f24ed524906bb83ea4719b57370e00a92224031087eb7f6ab514a43b26bf6"
+    },
+    {
+      "method": "chatdrug",
+      "task": "fexofenadine_mpo",
+      "replicate": 0,
+      "oracle_submissions": 3,
+      "unique_valid": 2,
+      "status": "native_finished",
+      "top10_auc": 0.1749478249286792,
+      "trace_sha256": "d7d0ed39b31c02e34067cfa07b54e941d49ae97c3dd880a229485efcf68ecf37"
+    },
+    {
+      "method": "chatdrug",
+      "task": "gsk3b",
+      "replicate": 0,
+      "oracle_submissions": 3,
+      "unique_valid": 2,
+      "status": "native_finished",
+      "top10_auc": 0.029945000000000003,
+      "trace_sha256": "8d7d9f2345e8a2a0e198405e8c8a53ca2db4237744abafbfa7a70d401ebe0456"
+    },
+    {
+      "method": "chatdrug",
+      "task": "isomers_c7h8n2o2",
+      "replicate": 0,
+      "oracle_submissions": 17,
+      "unique_valid": 16,
+      "status": "native_finished",
+      "top10_auc": 0.34674290857332785,
+      "trace_sha256": "abc5b7c4ecc25b74eb63769807630b1ffbd00d8823d4c24584ba7c2aaa6681e7"
+    },
+    {
+      "method": "chatdrug",
+      "task": "isomers_c9h10n2o2pf2cl",
+      "replicate": 0,
+      "oracle_submissions": 5,
+      "unique_valid": 4,
+      "status": "native_finished",
+      "top10_auc": 0.07356409840323273,
+      "trace_sha256": "6859e0543217b557279836c7329146b532834981ebbdfd6a288dc4af5b72b626"
+    },
+    {
+      "method": "chatdrug",
+      "task": "jnk3",
+      "replicate": 0,
+      "oracle_submissions": 3,
+      "unique_valid": 2,
+      "status": "native_finished",
+      "top10_auc": 0.01997,
+      "trace_sha256": "cdac20b925eb36faa9fceaaf18501a949ed01e33e4fbba63d82e70bf0ba2d03d"
+    },
+    {
+      "method": "chatdrug",
+      "task": "median1",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 999,
+      "status": "budget_exhausted",
+      "top10_auc": 0.2643210755494972,
+      "trace_sha256": "59711be0cebb266fec7d1e974eaec850ff7922a7b15e117bc415f0137d891a65"
+    },
+    {
+      "method": "chatdrug",
+      "task": "median2",
+      "replicate": 0,
+      "oracle_submissions": 3,
+      "unique_valid": 2,
+      "status": "native_finished",
+      "top10_auc": 0.13187221430147342,
+      "trace_sha256": "4c66e386b31a562e45ef2d11bef1c0ad399e68564f479c1f4d01b4bb245267a1"
+    },
+    {
+      "method": "chatdrug",
+      "task": "mestranol_similarity",
+      "replicate": 0,
+      "oracle_submissions": 3,
+      "unique_valid": 2,
+      "status": "native_finished",
+      "top10_auc": 0.27613816737867364,
+      "trace_sha256": "c0beb8609ff090b057d1a3ad0f535b0fc07d0017586bb16fed8544b363b6d499"
+    },
+    {
+      "method": "chatdrug",
+      "task": "osimertinib_mpo",
+      "replicate": 0,
+      "oracle_submissions": 3,
+      "unique_valid": 2,
+      "status": "native_finished",
+      "top10_auc": 0.4176091795310458,
+      "trace_sha256": "058ce4749d9fed59844f59ea1b15362a70e787cee0033ae791f47811a7baaf4c"
+    },
+    {
+      "method": "chatdrug",
+      "task": "perindopril_mpo",
+      "replicate": 0,
+      "oracle_submissions": 3,
+      "unique_valid": 1,
+      "status": "native_finished",
+      "top10_auc": 0.010055644203334062,
+      "trace_sha256": "b55d843432338ef2c8c810a4b5ec5951c0be944a5180a6d26baeb8a1f8ecab33"
+    },
+    {
+      "method": "chatdrug",
+      "task": "qed",
+      "replicate": 0,
+      "oracle_submissions": 3,
+      "unique_valid": 2,
+      "status": "native_finished",
+      "top10_auc": 0.7622048347310951,
+      "trace_sha256": "ef7e38f856f74f3bbd9ed24f8598385f9af914664c49e6382e9143d27b8df312"
+    },
+    {
+      "method": "chatdrug",
+      "task": "ranolazine_mpo",
+      "replicate": 0,
+      "oracle_submissions": 5,
+      "unique_valid": 4,
+      "status": "native_finished",
+      "top10_auc": 0.033727786529885194,
+      "trace_sha256": "8214a4801bde2dfe16f83a12b2c69db8ef8dff4573e1e24aef7777d1eb2d8204"
+    },
+    {
+      "method": "chatdrug",
+      "task": "scaffold_hop",
+      "replicate": 0,
+      "oracle_submissions": 5,
+      "unique_valid": 4,
+      "status": "native_finished",
+      "top10_auc": 0.4048427523102552,
+      "trace_sha256": "4f81f7479c883c8d48e36d98eb4d4c828fbe1cb573fbc4a8f4cd93bbc60fd62f"
+    },
+    {
+      "method": "chatdrug",
+      "task": "sitagliptin_mpo",
+      "replicate": 0,
+      "oracle_submissions": 12,
+      "unique_valid": 11,
+      "status": "native_finished",
+      "top10_auc": 0.01361620107445428,
+      "trace_sha256": "37333e75a384d8763a60404c933a434c1e071716edfd40de70d7fedccd10c69c"
+    },
+    {
+      "method": "chatdrug",
+      "task": "thiothixene_rediscovery",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 999,
+      "status": "budget_exhausted",
+      "top10_auc": 0.34720142163604895,
+      "trace_sha256": "fbfcedeccb3496bf4ad908d757ff994b59ef61e66adb5398d687c76ad5e3d780"
+    },
+    {
+      "method": "chatdrug",
+      "task": "troglitazon_rediscovery",
+      "replicate": 0,
+      "oracle_submissions": 3,
+      "unique_valid": 1,
+      "status": "native_finished",
+      "top10_auc": 0.34382799999999997,
+      "trace_sha256": "266d254bd1dcb07e0998b4da8f7bae68d586c1ef210e680cc635fa365c785b5e"
+    },
+    {
+      "method": "chatdrug",
+      "task": "valsartan_smarts",
+      "replicate": 0,
+      "oracle_submissions": 298,
+      "unique_valid": 297,
+      "status": "native_finished",
+      "top10_auc": 1.3430387031458516e-16,
+      "trace_sha256": "8ab12b7c700edd733f7e6553e8fb8a929e7286cc6ac08319cb46b5aa19035fcc"
+    },
+    {
+      "method": "chatdrug",
+      "task": "zaleplon_mpo",
+      "replicate": 0,
+      "oracle_submissions": 3,
+      "unique_valid": 2,
+      "status": "native_finished",
+      "top10_auc": 0.08719204685414413,
+      "trace_sha256": "d3a6a21c3dc01720a6ad1e70c2750a465bced084b6d0bfd2e477e7bdc1cf487b"
+    },
+    {
+      "method": "agentdrug",
+      "task": "albuterol_similarity",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 1000,
+      "status": "budget_exhausted",
+      "top10_auc": 0.46693279359352574,
+      "trace_sha256": "f35b7d8fc3a36e2f204b0e968cf3ac864e002a8eb3f0f651a12d90c42ac25668"
+    },
+    {
+      "method": "agentdrug",
+      "task": "amlodipine_mpo",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 1000,
+      "status": "budget_exhausted",
+      "top10_auc": 0.47018774500659827,
+      "trace_sha256": "65c0bf9b5fb84248003454f898434752d29980b5e9286f58f296e67fa40c3973"
+    },
+    {
+      "method": "agentdrug",
+      "task": "celecoxib_rediscovery",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 1000,
+      "status": "budget_exhausted",
+      "top10_auc": 0.3691724344266779,
+      "trace_sha256": "d3e915acd7b4e8b797b4dce438c49966a1af7882c4cc08cc592242c0a6a1ab2f"
+    },
+    {
+      "method": "agentdrug",
+      "task": "deco_hop",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 1000,
+      "status": "budget_exhausted",
+      "top10_auc": 0.5727410980203026,
+      "trace_sha256": "23bd1f819ffb0c558dbbfa3fddb29db6c323f2e42c0ee4206e57ce0b8e6145b6"
+    },
+    {
+      "method": "agentdrug",
+      "task": "drd2",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 1000,
+      "status": "budget_exhausted",
+      "top10_auc": 0.11604121576849795,
+      "trace_sha256": "863b142d22a23568601614071c886fdd16657962d8daa7639a0659f1133babb1"
+    },
+    {
+      "method": "agentdrug",
+      "task": "fexofenadine_mpo",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 1000,
+      "status": "budget_exhausted",
+      "top10_auc": 0.601690224931101,
+      "trace_sha256": "7c2e643478a0c6c4bc1d41ecaa6241d66db1fc27c691905861bc580e507d02a0"
+    },
+    {
+      "method": "agentdrug",
+      "task": "gsk3b",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 1000,
+      "status": "budget_exhausted",
+      "top10_auc": 0.2699238253968265,
+      "trace_sha256": "8121e65f4c9007336469f6d78edeb7058c0d9b44cff5a3e3946bc8b16827e5fe"
+    },
+    {
+      "method": "agentdrug",
+      "task": "isomers_c7h8n2o2",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 1000,
+      "status": "budget_exhausted",
+      "top10_auc": 0.3029509988474087,
+      "trace_sha256": "559c8bc04b6150917bae910e1d6eacfbd5994a857f1871aa9f33a184af1afe16"
+    },
+    {
+      "method": "agentdrug",
+      "task": "isomers_c9h10n2o2pf2cl",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 1000,
+      "status": "budget_exhausted",
+      "top10_auc": 0.36843584490922,
+      "trace_sha256": "f9356f1d83493ede1270337bdbf50e031f2d02267538542fec6eb3f30bba7325"
+    },
+    {
+      "method": "agentdrug",
+      "task": "jnk3",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 1000,
+      "status": "budget_exhausted",
+      "top10_auc": 0.17865366666666585,
+      "trace_sha256": "3c26d4c46fff6b9aaec13507d50ee03e077793a1350a24565800ee7505f623d3"
+    },
+    {
+      "method": "agentdrug",
+      "task": "median1",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 1000,
+      "status": "budget_exhausted",
+      "top10_auc": 0.19267546697623225,
+      "trace_sha256": "3c04871f6e2b9b7cd76455cd2380a8603aa2e0dd4c4134898d496d94b1c13d69"
+    },
+    {
+      "method": "agentdrug",
+      "task": "median2",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 1000,
+      "status": "budget_exhausted",
+      "top10_auc": 0.17085518198385372,
+      "trace_sha256": "8a6ff102e4008bf04cc28a809101b9c4c423452cbb6eeaf0d538a79fc8483da2"
+    },
+    {
+      "method": "agentdrug",
+      "task": "mestranol_similarity",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 1000,
+      "status": "budget_exhausted",
+      "top10_auc": 0.31114976244239534,
+      "trace_sha256": "8b00d0fd88e9f9791f05fc860286b6f0dafa1cd680cae15a0b69a7794710fbf8"
+    },
+    {
+      "method": "agentdrug",
+      "task": "osimertinib_mpo",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 1000,
+      "status": "budget_exhausted",
+      "top10_auc": 0.6905452314509924,
+      "trace_sha256": "e0d6570ee53dfab01b7765943c7e8df817803e38b23ba6497ea6e67ce5c88751"
+    },
+    {
+      "method": "agentdrug",
+      "task": "perindopril_mpo",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 1000,
+      "status": "budget_exhausted",
+      "top10_auc": 0.3917189371892132,
+      "trace_sha256": "773529edf90dd9044dbe8f0344098964f7781c26a36508b4ad58ce8a5f6ba668"
+    },
+    {
+      "method": "agentdrug",
+      "task": "qed",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 1000,
+      "status": "budget_exhausted",
+      "top10_auc": 0.923324767227028,
+      "trace_sha256": "0732c5c7f552e56fe322ae88dbc78295c6d94bd382b9f44ae4f080ecfb079957"
+    },
+    {
+      "method": "agentdrug",
+      "task": "ranolazine_mpo",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 1000,
+      "status": "budget_exhausted",
+      "top10_auc": 0.31496813680747293,
+      "trace_sha256": "2eae3c486372dbab710f0bf6ebb6703fc596893457bac609dd2535bb37094c06"
+    },
+    {
+      "method": "agentdrug",
+      "task": "scaffold_hop",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 1000,
+      "status": "budget_exhausted",
+      "top10_auc": 0.44408562026758475,
+      "trace_sha256": "3a74df8e700fada58eda48bb18f86c5fb618e240324d0516ee2f61e7098c321a"
+    },
+    {
+      "method": "agentdrug",
+      "task": "sitagliptin_mpo",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 1000,
+      "status": "budget_exhausted",
+      "top10_auc": 0.21906423804045022,
+      "trace_sha256": "93b39698c52f72324494c8f36abb622210d6b13b6831e61e9873bb9a0fb145b7"
+    },
+    {
+      "method": "agentdrug",
+      "task": "thiothixene_rediscovery",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 1000,
+      "status": "budget_exhausted",
+      "top10_auc": 0.29416262204223464,
+      "trace_sha256": "fca72c35c552560a5aba2e5d67c416f3ae256fa7016238fe6f40fbe47d746095"
+    },
+    {
+      "method": "agentdrug",
+      "task": "troglitazon_rediscovery",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 1000,
+      "status": "budget_exhausted",
+      "top10_auc": 0.23947175291312675,
+      "trace_sha256": "23a0a2c4aee544e69ae828182fc7fdd6a1c61a69c5abb6576401d04f549f9a41"
+    },
+    {
+      "method": "agentdrug",
+      "task": "valsartan_smarts",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 1000,
+      "status": "budget_exhausted",
+      "top10_auc": 0.0,
+      "trace_sha256": "727774ee3b0f6625b64dc26858122c3d101612280a3c41680c2273c1557f8433"
+    },
+    {
+      "method": "agentdrug",
+      "task": "zaleplon_mpo",
+      "replicate": 0,
+      "oracle_submissions": 1000,
+      "unique_valid": 1000,
+      "status": "budget_exhausted",
+      "top10_auc": 0.37749170083449374,
+      "trace_sha256": "ad8db298b599e2a1f2d1b117aae256b5f1c528a36581daa0ada3c9d7cafd8853"
+    }
+  ]
+}

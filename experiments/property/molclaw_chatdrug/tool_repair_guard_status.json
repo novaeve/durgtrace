@@ -1,0 +1,369 @@
+{
+  "time": 1791870393.964642,
+  "phase": "complete",
+  "limit": 4,
+  "active": [],
+  "pending": [],
+  "completed": [
+    "source_105_loose_064",
+    "source_106_loose_072",
+    "source_105_loose_137",
+    "source_106_loose_098",
+    "source_106_loose_141",
+    "source_106_loose_119",
+    "source_201_loose_004",
+    "source_106_strict_129",
+    "source_201_loose_159",
+    "source_201_loose_088",
+    "source_108_loose_177",
+    "source_201_strict_112",
+    "source_203_loose_154",
+    "source_106_loose_043",
+    "source_203_loose_056",
+    "source_204_strict_070",
+    "source_205_loose_062",
+    "source_205_loose_073",
+    "source_205_loose_055",
+    "source_205_loose_126",
+    "source_205_loose_133",
+    "source_202_loose_098",
+    "source_205_strict_038",
+    "source_205_strict_054",
+    "source_205_loose_185",
+    "source_204_strict_067",
+    "source_103_strict_186",
+    "source_105_loose_170",
+    "source_105_loose_197",
+    "source_205_loose_197",
+    "source_106_loose_036",
+    "source_106_loose_148",
+    "source_106_loose_197",
+    "source_106_loose_150",
+    "source_106_loose_145",
+    "source_106_strict_076",
+    "source_106_strict_079",
+    "source_106_strict_116",
+    "source_201_loose_049",
+    "source_201_strict_047",
+    "source_201_strict_107",
+    "source_202_loose_121",
+    "source_202_loose_127",
+    "source_202_loose_138",
+    "source_202_loose_148",
+    "source_203_loose_136",
+    "source_203_strict_117",
+    "source_204_strict_011",
+    "source_205_loose_176",
+    "source_205_loose_109",
+    "source_204_strict_101"
+  ],
+  "starts": {
+    "source_105_loose_064": {
+      "time": 1791858335.3448732,
+      "events_bytes": 1240662
+    },
+    "source_105_loose_137": {
+      "time": 1791858335.5035129,
+      "events_bytes": 934763
+    },
+    "source_106_loose_043": {
+      "time": 1791858335.6819153,
+      "events_bytes": 1036739
+    },
+    "source_106_loose_072": {
+      "time": 1791858335.815557,
+      "events_bytes": 1545309
+    },
+    "source_106_loose_098": {
+      "time": 1791858577.5482721,
+      "events_bytes": 1485100
+    },
+    "source_106_loose_119": {
+      "time": 1791858577.679075,
+      "events_bytes": 930232
+    },
+    "source_106_loose_141": {
+      "time": 1791858649.070541,
+      "events_bytes": 1274760
+    },
+    "source_106_strict_129": {
+      "time": 1791858716.1142423,
+      "events_bytes": 1339649
+    },
+    "source_108_loose_177": {
+      "time": 1791858746.6842456,
+      "events_bytes": 901973
+    },
+    "source_201_loose_004": {
+      "time": 1791858767.0948257,
+      "events_bytes": 1760397
+    },
+    "source_201_loose_088": {
+      "time": 1791858892.36449,
+      "events_bytes": 1490004
+    },
+    "source_201_loose_159": {
+      "time": 1791858969.8951774,
+      "events_bytes": 883571
+    },
+    "source_201_strict_112": {
+      "time": 1791859052.099731,
+      "events_bytes": 1146868
+    },
+    "source_202_loose_098": {
+      "time": 1791859082.7011693,
+      "events_bytes": 1470518
+    },
+    "source_203_loose_056": {
+      "time": 1791859130.392097,
+      "events_bytes": 1614105
+    },
+    "source_203_loose_154": {
+      "time": 1791859130.5019114,
+      "events_bytes": 1018865
+    },
+    "source_204_strict_067": {
+      "time": 1791859263.3094747,
+      "events_bytes": 1124254
+    },
+    "source_204_strict_070": {
+      "time": 1791859416.8954892,
+      "events_bytes": 1031944
+    },
+    "source_205_loose_055": {
+      "time": 1791859514.3654916,
+      "events_bytes": 1629416
+    },
+    "source_205_loose_062": {
+      "time": 1791859519.555962,
+      "events_bytes": 1378890
+    },
+    "source_205_loose_073": {
+      "time": 1791859809.016947,
+      "events_bytes": 1474577
+    },
+    "source_205_loose_126": {
+      "time": 1791859969.1332312,
+      "events_bytes": 878409
+    },
+    "source_205_loose_133": {
+      "time": 1791860099.9375808,
+      "events_bytes": 863329
+    },
+    "source_205_loose_185": {
+      "time": 1791860212.3702931,
+      "events_bytes": 1103061
+    },
+    "source_205_loose_197": {
+      "time": 1791860237.8445845,
+      "events_bytes": 816178
+    },
+    "source_205_strict_038": {
+      "time": 1791860540.2844892,
+      "events_bytes": 1593268
+    },
+    "source_205_strict_054": {
+      "time": 1791860667.6420546,
+      "events_bytes": 1665449
+    },
+    "source_103_strict_186": {
+      "time": 1791860841.6907465,
+      "events_bytes": 1293273
+    },
+    "source_105_loose_170": {
+      "time": 1791861069.143113,
+      "events_bytes": 1250721
+    },
+    "source_105_loose_197": {
+      "time": 1791861872.8211734,
+      "events_bytes": 1248782
+    },
+    "source_106_loose_036": {
+      "time": 1791863676.6919792,
+      "events_bytes": 1808774
+    },
+    "source_106_loose_145": {
+      "time": 1791863676.7938035,
+      "events_bytes": 1639266
+    },
+    "source_106_loose_148": {
+      "time": 1791863676.8985255,
+      "events_bytes": 1250914
+    },
+    "source_106_loose_150": {
+      "time": 1791864580.5852258,
+      "events_bytes": 1391105
+    },
+    "source_106_loose_197": {
+      "time": 1791864888.1522896,
+      "events_bytes": 1439266
+    },
+    "source_106_strict_076": {
+      "time": 1791864904.5205758,
+      "events_bytes": 1682105
+    },
+    "source_106_strict_079": {
+      "time": 1791865243.4671905,
+      "events_bytes": 1013040
+    },
+    "source_106_strict_116": {
+      "time": 1791865351.1469553,
+      "events_bytes": 1263523
+    },
+    "source_201_loose_049": {
+      "time": 1791865499.0326045,
+      "events_bytes": 1618824
+    },
+    "source_201_strict_047": {
+      "time": 1791866117.8372126,
+      "events_bytes": 1853022
+    },
+    "source_201_strict_107": {
+      "time": 1791866470.330326,
+      "events_bytes": 1820851
+    },
+    "source_202_loose_121": {
+      "time": 1791866572.2622638,
+      "events_bytes": 1167317
+    },
+    "source_202_loose_127": {
+      "time": 1791866714.5397034,
+      "events_bytes": 992508
+    },
+    "source_202_loose_138": {
+      "time": 1791866861.8252687,
+      "events_bytes": 1067641
+    },
+    "source_202_loose_148": {
+      "time": 1791867695.7992036,
+      "events_bytes": 919954
+    },
+    "source_203_loose_136": {
+      "time": 1791867807.7962255,
+      "events_bytes": 1268160
+    },
+    "source_203_strict_117": {
+      "time": 1791867930.4169862,
+      "events_bytes": 1606320
+    },
+    "source_204_strict_011": {
+      "time": 1791868072.8420467,
+      "events_bytes": 1610396
+    },
+    "source_204_strict_101": {
+      "time": 1791868923.7859004,
+      "events_bytes": 1644244
+    },
+    "source_205_loose_109": {
+      "time": 1791869036.2209473,
+      "events_bytes": 1635309
+    },
+    "source_205_loose_176": {
+      "time": 1791869148.590647,
+      "events_bytes": 1367816
+    }
+  },
+  "health": [
+    {
+      "time": 1791868410.2370272,
+      "ok": true,
+      "seconds": 11.2
+    },
+    {
+      "time": 1791868511.7223098,
+      "ok": true,
+      "seconds": 10.74
+    },
+    {
+      "time": 1791868613.7600656,
+      "ok": true,
+      "seconds": 11.34
+    },
+    {
+      "time": 1791868715.0764587,
+      "ok": true,
+      "seconds": 10.65
+    },
+    {
+      "time": 1791868816.4346929,
+      "ok": true,
+      "seconds": 10.73
+    },
+    {
+      "time": 1791868918.704205,
+      "ok": true,
+      "seconds": 11.53
+    },
+    {
+      "time": 1791869021.063825,
+      "ok": true,
+      "seconds": 11.58
+    },
+    {
+      "time": 1791869123.3442965,
+      "ok": true,
+      "seconds": 11.54
+    },
+    {
+      "time": 1791869225.3757641,
+      "ok": true,
+      "seconds": 11.31
+    },
+    {
+      "time": 1791869327.0815556,
+      "ok": true,
+      "seconds": 10.91
+    },
+    {
+      "time": 1791869428.811327,
+      "ok": true,
+      "seconds": 10.94
+    },
+    {
+      "time": 1791869531.0092218,
+      "ok": true,
+      "seconds": 11.41
+    },
+    {
+      "time": 1791869634.541288,
+      "ok": true,
+      "seconds": 12.77
+    },
+    {
+      "time": 1791869736.315231,
+      "ok": true,
+      "seconds": 10.99
+    },
+    {
+      "time": 1791869839.2164948,
+      "ok": true,
+      "seconds": 12.12
+    },
+    {
+      "time": 1791869941.448967,
+      "ok": true,
+      "seconds": 11.47
+    },
+    {
+      "time": 1791870043.0672047,
+      "ok": true,
+      "seconds": 10.9
+    },
+    {
+      "time": 1791870144.6554768,
+      "ok": true,
+      "seconds": 10.74
+    },
+    {
+      "time": 1791870246.765826,
+      "ok": true,
+      "seconds": 11.4
+    },
+    {
+      "time": 1791870348.6567225,
+      "ok": true,
+      "seconds": 11.24
+    }
+  ],
+  "protocol_changed": false
+}

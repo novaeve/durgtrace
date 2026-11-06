@@ -1,0 +1,11 @@
+{
+  "status": "runtime_error",
+  "error": "Traceback (most recent call last):\n  File \"/data2/chenfuxin/agent_reproduction_20260928/run_liddia_type4.py\", line 177, in main\n    response=agent.ask(prompt,'decision');key,inputs=get_metadata_from_response(response)\n                                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/data2/chenfuxin/agent_reproduction_20260928/LIDDIA/liddia/utils.py\", line 29, in get_metadata_from_response\n    action_input = ast.literal_eval(re.findall(r'Input: (.+)', response)[0])\n                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/data2/chenfuxin/agent_reproduction_20260928/envs/agentd/lib/python3.11/ast.py\", line 64, in literal_eval\n    node_or_string = parse(node_or_string.lstrip(\" \\t\"), mode='eval')\n                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/data2/chenfuxin/agent_reproduction_20260928/envs/agentd/lib/python3.11/ast.py\", line 50, in parse\n    return compile(source, filename, mode, flags,\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"<unknown>\", line 1\n    ['MOL010'], Desc: Filter MOL010 rows to satisfy all ADMET improvements: clearance < 78.2155, ppb < 91.9342, cyp3a4 < 0.4198, bbb < 0.59, and solubility within 0.5 of -4.1132. Also ensure hard constraints: MW < 600, LogP -1 to 5, TPSA < 140, HBD <= 5, HBA <= 10, rotatable bonds <= 10, formal charge -2 to +2, SA score < 4.5, PAINS/Brenk/NIH pass, and Tanimoto similarity >= 0.7 to MOL007 reference. Rank remaining by best overall ADMET profile and return the top 1-3 candidates for Boltz evaluation.\n                    ^\nSyntaxError: invalid syntax\n",
+  "llm_calls": 10,
+  "tokens": 33536,
+  "budget_used": {
+    "admet": 15,
+    "boltz": 0
+  },
+  "vina_calls": 0
+}

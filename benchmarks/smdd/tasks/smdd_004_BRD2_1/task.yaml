@@ -1,0 +1,272 @@
+id: smdd_004_BRD2_1
+name: Lead Optimization for BRD2 (7DPO)
+description: 'You are given a co-folded protein-ligand complex (complex.pdb) and a
+  reference ligand (reference.sdf). Modify the reference ligand to optimize the following
+  properties:
+
+  - solubility: increase by at least 0.5 from baseline -7.0483
+
+  While holding these properties approximately constant:
+
+  - binding_affinity: keep within 0.3 of baseline (-1.3151) (increase tolerance)
+
+  - herg: keep within 0.1 of baseline (0.6630) (increase tolerance)
+
+  - bbb: keep within 0.1 of baseline (0.9460) (change tolerance)
+
+  - cyp3a4: keep within 0.1 of baseline (0.7339) (increase tolerance)
+
+  The output molecule must satisfy ALL of the following hard constraints:
+
+  - SMILES validity: must be parseable and sanitizable by RDKit (no radicals, no disconnected
+  fragments, no unreasonable valences)
+
+  - Molecular weight: < 600 Da
+
+  - LogP: between -1 and 5
+
+  - TPSA: < 140 A^2
+
+  - H-bond donors: <= 5
+
+  - H-bond acceptors: <= 10
+
+  - Rotatable bonds: <= 10
+
+  - Net formal charge: between -2 and +2
+
+  - Synthetic accessibility: SA score < 4.5
+
+  - PAINS filter: must pass (no pan-assay interference substructures)
+
+  - Structural alerts: must pass Brenk/NIH reactive group filters
+
+  - Tanimoto similarity to reference: >= 0.7 (Morgan fingerprint, radius=2, 2048 bits)
+
+  - Boltz binding probability: affinity_probability_binary > 0.7
+
+  The pocket is defined by residues (chain, 1-indexed SEQRES position): A:24, A:25,
+  A:27, A:28, A:29, A:31, A:32, A:33, A:34, A:35, A:37, A:38, A:40, A:43, A:51, A:78,
+  A:81, A:82, A:85, A:86, A:90, A:91, A:93, A:95
+
+  Output a single SMILES string to solution.smi.'
+target_ligand:
+  resname: LIG
+  chain: L
+  residue_number: 1
+  insertion_code: ' '
+pocket_residues: &id004
+- - A
+  - 24
+- - A
+  - 25
+- - A
+  - 27
+- - A
+  - 28
+- - A
+  - 29
+- - A
+  - 31
+- - A
+  - 32
+- - A
+  - 33
+- - A
+  - 34
+- - A
+  - 35
+- - A
+  - 37
+- - A
+  - 38
+- - A
+  - 40
+- - A
+  - 43
+- - A
+  - 51
+- - A
+  - 78
+- - A
+  - 81
+- - A
+  - 82
+- - A
+  - 85
+- - A
+  - 86
+- - A
+  - 90
+- - A
+  - 91
+- - A
+  - 93
+- - A
+  - 95
+baseline_values:
+  herg: 0.663
+  bbb: 0.946
+  solubility: -7.0483
+  cyp3a4: 0.7339
+  clearance: 37.2192
+  caco2: -4.5068
+  ppb: 90.9781
+  ames: 0.1116
+  binding_affinity: -1.3151
+optimization_objectives: &id003
+- property: solubility
+  direction: maximize
+  threshold: 0.5
+hold_constant: &id001
+- property: binding_affinity
+  tolerance: 0.3
+  direction: increase
+- property: herg
+  tolerance: 0.1
+  direction: increase
+- property: bbb
+  tolerance: 0.1
+  direction: change
+- property: cyp3a4
+  tolerance: 0.1
+  direction: increase
+bbb_direction: minimize
+hard_constraints:
+- property: smiles_validity
+  description: Parseable and sanitizable by RDKit (no radicals, no disconnected fragments,
+    no unreasonable valences)
+- property: molecular_weight
+  threshold: <600 Da
+  method: RDKit Descriptors.MolWt()
+- property: logp
+  threshold: -1 to 5
+  method: RDKit Crippen.MolLogP()
+- property: tpsa
+  threshold: <140 A^2
+  method: RDKit Descriptors.TPSA()
+- property: hbd
+  threshold: <=5
+  method: RDKit Lipinski.NumHDonors()
+- property: hba
+  threshold: <=10
+  method: RDKit Lipinski.NumHAcceptors()
+- property: rotatable_bonds
+  threshold: <=10
+  method: RDKit Lipinski.NumRotatableBonds()
+- property: formal_charge
+  threshold: -2 to +2
+  method: RDKit Chem.GetFormalCharge()
+- property: synthetic_accessibility
+  threshold: <4.5
+  method: RDKit sascorer
+- property: pains_filter
+  description: Must pass (no pan-assay interference substructures)
+  method: RDKit FilterCatalog with PAINS filters
+- property: structural_alerts
+  description: Must pass Brenk/NIH reactive group filters
+  method: RDKit FilterCatalog with Brenk filters
+- property: tanimoto_similarity
+  threshold: '>=0.7'
+  description: Morgan fingerprint, radius=2, 2048 bits
+  method: RDKit AllChem.GetMorganFingerprintAsBitVect() + DataStructs.TanimotoSimilarity()
+- property: boltz_binding_probability
+  threshold: '>0.7'
+  description: affinity_probability_binary from Boltz co-fold
+input_files:
+- complex.pdb
+- reference.sdf
+output_config:
+  file_path: solution.smi
+  format: smiles
+evaluation:
+- name: Validity
+  module: metrics.chemistry
+  function: assess_smiles_file_validity
+  inputs:
+  - source: output
+    arg: file_path
+  condition:
+    eq: true
+- name: Hard Constraints
+  module: metrics.lead_optimization
+  function: assess_hard_constraints
+  result_key: all_passed
+  inputs:
+  - source: output
+    arg: agent_file_path
+  - source: file
+    value: reference.sdf
+    arg: reference_file_path
+  condition:
+    eq: true
+- name: Hold-Constant Properties
+  module: metrics.lead_optimization
+  function: assess_hold_constant
+  result_key: all_passed
+  inputs:
+  - source: output
+    arg: agent_file_path
+  - source: const
+    value: &id002
+      herg: 0.663
+      bbb: 0.946
+      solubility: -7.0483
+      cyp3a4: 0.7339
+      clearance: 37.2192
+      caco2: -4.5068
+      ppb: 90.9781
+      ames: 0.1116
+      binding_affinity: -1.3151
+    arg: baseline_values
+  - source: const
+    value: *id001
+    arg: hold_constant
+  condition:
+    eq: true
+- name: Optimization Objectives
+  module: metrics.lead_optimization
+  function: assess_optimization_objectives
+  result_key: all_passed
+  inputs:
+  - source: output
+    arg: agent_file_path
+  - source: const
+    value: *id002
+    arg: baseline_values
+  - source: const
+    value: *id003
+    arg: objectives
+  condition:
+    eq: true
+- name: Boltz Binding & Affinity
+  module: metrics.lead_optimization
+  function: assess_boltz_task4
+  result_key: all_passed
+  inputs:
+  - source: output
+    arg: agent_file_path
+  - source: file
+    value: protein.fasta
+    arg: protein_fasta_path
+  - source: const
+    value: *id004
+    arg: pocket_contacts
+  - source: const
+    value: null
+    arg: co_ligands
+  - source: const
+    value: -1.3150507807731628
+    arg: baseline_affinity
+  - source: const
+    value: null
+    arg: affinity_objective
+  - source: const
+    value:
+      tolerance: 0.3
+    arg: affinity_hold_constant
+  - source: const
+    value: 10
+    arg: diffusion_samples
+  condition:
+    eq: true

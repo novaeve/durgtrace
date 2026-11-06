@@ -1,0 +1,15 @@
+{
+  "commit": "a8d3a9eb459e161135a2c7e27490453603b3e6c2",
+  "original_branch_lines": [
+    322,
+    612
+  ],
+  "fixes": [
+    "Reset task name each iteration: multi-property code mutates prop",
+    "Route RDKit-invalid strings into validity feedback instead of descriptor exception",
+    "Parenthesize 8 multi-property decreasing DB predicates"
+  ],
+  "extension": "MR +/- follows original QED numeric-feedback branches",
+  "loop_limits": "Unchanged refine_steps+1; 4 single/5 multi",
+  "final_scoring": "Use frozen ChatDrug/S2 official scoring, bypass defective upstream score aggregation"
+}

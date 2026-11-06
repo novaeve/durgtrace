@@ -1,0 +1,501 @@
+index,Instruction,molecule,added_group
+146373,Please add a hydroxyl to the molecule CC(=O)Nc1ccc(C(C)=O)cc1OCC(=O)Nc1ccc2c(c1)CCC2.,CC(=O)Nc1ccc(C(C)=O)cc1OCC(=O)Nc1ccc2c(c1)CCC2,hydroxyl
+72922,Modify the molecule O=C1NCCN1[C@@H]1CCCN(c2nc3ccccc3o2)C1 by adding a amide.,O=C1NCCN1[C@@H]1CCCN(c2nc3ccccc3o2)C1,amide
+20880,Add a benzene ring to the molecule CN(Cc1nnc(C2CC2)n1C)C(=O)CCc1cccc(Cl)c1.,CN(Cc1nnc(C2CC2)n1C)C(=O)CCc1cccc(Cl)c1,benzene ring
+140178,Add a amide to the molecule CC(C)(C)c1ccc(/C(=N\O)N[C@H](O)C(Cl)(Cl)Cl)cc1.,CC(C)(C)c1ccc(/C(=N\O)N[C@H](O)C(Cl)(Cl)Cl)cc1,amide
+43455,Modify the molecule O=C(/C=C/c1ccccc1)Nc1ccc(S(=O)(=O)NC[C@H]2CCCO2)cc1 by adding a benzene ring.,O=C(/C=C/c1ccccc1)Nc1ccc(S(=O)(=O)NC[C@H]2CCCO2)cc1,benzene ring
+23312,Modify the molecule CC(C)[C@H](N[C@H](C)C(=O)NC(N)=O)c1ccccc1 by adding a amine.,CC(C)[C@H](N[C@H](C)C(=O)NC(N)=O)c1ccccc1,amine
+82310,Modify the molecule Cc1ccc(CN2CCN([C@H](C)C(=O)N3CCOCC3)CC2)cc1[N+](=O)[O-] by adding a hydroxyl.,Cc1ccc(CN2CCN([C@H](C)C(=O)N3CCOCC3)CC2)cc1[N+](=O)[O-],hydroxyl
+223240,Add a benzene ring to the molecule C[C@@H]1Cc2cc(S(=O)(=O)NCCC3=CCCCC3)ccc2N1C(=O)C1CC1.,C[C@@H]1Cc2cc(S(=O)(=O)NCCC3=CCCCC3)ccc2N1C(=O)C1CC1,benzene ring
+174791,Add a benzene ring to the molecule O=C1N[C@H](C(=O)Nc2cnn(-c3ccccc3F)c2)CS1.,O=C1N[C@H](C(=O)Nc2cnn(-c3ccccc3F)c2)CS1,benzene ring
+152431,Add a aldehyde to the molecule CN(CCOCC1CC1)c1nc2ccc(N)cc2s1.,CN(CCOCC1CC1)c1nc2ccc(N)cc2s1,aldehyde
+133297,Modify the molecule CCNS(=O)(=O)[C@@H]1CC[NH+](Cc2nc(-c3ccc(F)cc3)no2)C1 by adding a hydroxyl.,CCNS(=O)(=O)[C@@H]1CC[NH+](Cc2nc(-c3ccc(F)cc3)no2)C1,hydroxyl
+119071,Add a benzene ring to the molecule CC[C@@H](NC(=O)c1ccccc1OC1CCN(S(C)(=O)=O)CC1)c1ccc(F)cc1.,CC[C@@H](NC(=O)c1ccccc1OC1CCN(S(C)(=O)=O)CC1)c1ccc(F)cc1,benzene ring
+130142,Modify the molecule O=C(Cc1csc(N2CCCC2=O)n1)N[C@@H]1CC[NH+]2CCCC[C@H]12 by adding a amide.,O=C(Cc1csc(N2CCCC2=O)n1)N[C@@H]1CC[NH+]2CCCC[C@H]12,amide
+140312,Add a nitro to the molecule O=C(CS(=O)(=O)Cc1cccc(Br)c1)N[C@H](c1ccccc1)c1ccc(F)cc1.,O=C(CS(=O)(=O)Cc1cccc(Br)c1)N[C@H](c1ccccc1)c1ccc(F)cc1,nitro
+244636,Add a nitro to the molecule O=C1CCCC[C@H]1[C@@H]1CCCCN1C(=O)[C@@H]1CCCO1.,O=C1CCCC[C@H]1[C@@H]1CCCCN1C(=O)[C@@H]1CCCO1,nitro
+149660,Modify the molecule COC(=O)[C@@]1(F)CCN(S(=O)(=O)c2ccc(-c3ccccc3)cc2)C1 by adding a carboxyl.,COC(=O)[C@@]1(F)CCN(S(=O)(=O)c2ccc(-c3ccccc3)cc2)C1,carboxyl
+168858,Please add a aldehyde to the molecule CS[C@@H]1CC[C@@H](NC(=O)CNC(=O)c2cc(-c3ccccc3)on2)C1.,CS[C@@H]1CC[C@@H](NC(=O)CNC(=O)c2cc(-c3ccccc3)on2)C1,aldehyde
+156952,Please add a benzene ring to the molecule C[C@H](C(=O)Nc1ccc(N2CCCCC2)cc1C(N)=O)[NH+]1CCSCC1.,C[C@H](C(=O)Nc1ccc(N2CCCCC2)cc1C(N)=O)[NH+]1CCSCC1,benzene ring
+144869,Modify the molecule CCc1nc(CNc2cccc(C(=O)N3CCSCC3)c2C)no1 by adding a halo.,CCc1nc(CNc2cccc(C(=O)N3CCSCC3)c2C)no1,halo
+197461,Add a benzene ring to the molecule COc1cc(C)c(CSc2ccccc2N)cc1OC.,COc1cc(C)c(CSc2ccccc2N)cc1OC,benzene ring
+37108,Add a amide to the molecule O=C(NCc1cccnc1OCC(F)(F)F)c1ccc2[nH]cnc2c1.,O=C(NCc1cccnc1OCC(F)(F)F)c1ccc2[nH]cnc2c1,amide
+81295,Add a amide to the molecule COc1cc(Cl)c(C)cc1NC(=O)C[C@@H](c1ccc(F)cc1)N1Cc2ccccc2C1=O.,COc1cc(Cl)c(C)cc1NC(=O)C[C@@H](c1ccc(F)cc1)N1Cc2ccccc2C1=O,amide
+136432,Please add a benzene ring to the molecule O=C(c1ccccc1O)N1CCN(Cc2ccc(Cl)o2)CC1.,O=C(c1ccccc1O)N1CCN(Cc2ccc(Cl)o2)CC1,benzene ring
+7681,Modify the molecule COc1ccc(Br)cc1CSc1cc(N)ccc1Cl by adding a aldehyde.,COc1ccc(Br)cc1CSc1cc(N)ccc1Cl,aldehyde
+121020,Please add a nitro to the molecule COc1cccc(C(=O)Nc2cc(CN3CCOCC3)ccc2C)c1F.,COc1cccc(C(=O)Nc2cc(CN3CCOCC3)ccc2C)c1F,nitro
+242930,Add a hydroxyl to the molecule Cc1nn(C(F)F)c(C)c1CC(=O)N[C@@H](Cc1ccccc1)C1CC1.,Cc1nn(C(F)F)c(C)c1CC(=O)N[C@@H](Cc1ccccc1)C1CC1,hydroxyl
+239156,Add a nitro to the molecule C[C@H](Oc1ccc(Br)cc1Br)C(=O)N1CCCCCC1.,C[C@H](Oc1ccc(Br)cc1Br)C(=O)N1CCCCCC1,nitro
+42722,Modify the molecule CCS(=O)(=O)N1CCc2cc(C(=O)Nc3ccc(Oc4ccccc4)cc3)ccc21 by adding a nitro.,CCS(=O)(=O)N1CCc2cc(C(=O)Nc3ccc(Oc4ccccc4)cc3)ccc21,nitro
+139828,Modify the molecule O=C(Nc1nnc(SCC(=O)N2CCCCC2)s1)c1ccc(F)cc1 by adding a aldehyde.,O=C(Nc1nnc(SCC(=O)N2CCCCC2)s1)c1ccc(F)cc1,aldehyde
+2849,Modify the molecule CC1(C)CC[C@H](CNC(=O)N[C@H]2CCOC2)c2ccccc21 by adding a hydroxyl.,CC1(C)CC[C@H](CNC(=O)N[C@H]2CCOC2)c2ccccc21,hydroxyl
+242839,Please add a hydroxyl to the molecule O=C(/C=C/c1ccc([N+](=O)[O-])cc1)NCc1ccncc1.,O=C(/C=C/c1ccc([N+](=O)[O-])cc1)NCc1ccncc1,hydroxyl
+112880,Please add a benzene ring to the molecule O=S(=O)([O-])c1cccc(/N=N\c2ccc3c(O)cccc3c2O)c1.,O=S(=O)([O-])c1cccc(/N=N\c2ccc3c(O)cccc3c2O)c1,benzene ring
+17836,Add a amine to the molecule COc1cc(C#N)ccc1OC(=O)/C=C/c1ccccc1.,COc1cc(C#N)ccc1OC(=O)/C=C/c1ccccc1,amine
+138965,Add a amide to the molecule CC[NH+]1CCC[C@@H](NCc2ccc(C3CC3)cc2)C1.,CC[NH+]1CCC[C@@H](NCc2ccc(C3CC3)cc2)C1,amide
+10323,Add a amine to the molecule CN(Cc1cccc(F)c1)c1ccc(CO)cc1.,CN(Cc1cccc(F)c1)c1ccc(CO)cc1,amine
+122680,Modify the molecule CSC[C@@H](C)NC(=O)c1c[nH]c2nccc(Cl)c12 by adding a amine.,CSC[C@@H](C)NC(=O)c1c[nH]c2nccc(Cl)c12,amine
+114471,Add a benzene ring to the molecule Cc1ccc(S(=O)(=O)NC[C@H]2O[C@@H](CO)[C@@H](O)[C@H]2N2CCN(c3cccc[nH+]3)CC2)cc1.,Cc1ccc(S(=O)(=O)NC[C@H]2O[C@@H](CO)[C@@H](O)[C@H]2N2CCN(c3cccc[nH+]3)CC2)cc1,benzene ring
+192295,Modify the molecule [NH3+]CCc1n[nH]c(-c2cccnc2)n1 by adding a amide.,[NH3+]CCc1n[nH]c(-c2cccnc2)n1,amide
+70024,Please add a halo to the molecule COc1ccc(NC(=O)[C@H]2N=NC3=C2CCc2ccccc23)cc1OC.,COc1ccc(NC(=O)[C@H]2N=NC3=C2CCc2ccccc23)cc1OC,halo
+124507,Add a nitrile to the molecule Cc1cc(C)c(C(=O)N[C@@H]2CC3(CCOCC3)Oc3ccccc32)c(=O)[nH]1.,Cc1cc(C)c(C(=O)N[C@@H]2CC3(CCOCC3)Oc3ccccc32)c(=O)[nH]1,nitrile
+199410,Please add a hydroxyl to the molecule C[C@@H]1C[C@H](Nc2cccc(N3CCCC3=O)c2)CS1.,C[C@@H]1C[C@H](Nc2cccc(N3CCCC3=O)c2)CS1,hydroxyl
+79190,Please add a halo to the molecule Cc1nn(C)cc1CN1CCOC[C@H]1CC(C)C.,Cc1nn(C)cc1CN1CCOC[C@H]1CC(C)C,halo
+241907,Modify the molecule Cc1c(C)c2ccc(OCC(=O)Nc3ccc(F)cc3F)cc2oc1=O by adding a nitro.,Cc1c(C)c2ccc(OCC(=O)Nc3ccc(F)cc3F)cc2oc1=O,nitro
+191561,Modify the molecule COc1cccc(C(=O)Nc2ccc3c(c2)C(=[N+]2CCOCC2)Nc2cc(Cl)ccc2O3)c1 by adding a hydroxyl.,COc1cccc(C(=O)Nc2ccc3c(c2)C(=[N+]2CCOCC2)Nc2cc(Cl)ccc2O3)c1,hydroxyl
+100866,Modify the molecule COc1cc([C@H](C)[C@@H](C)Br)ccc1Cl by adding a amide.,COc1cc([C@H](C)[C@@H](C)Br)ccc1Cl,amide
+114076,Modify the molecule COCc1nc2cc(Cl)ccc2[nH]1 by adding a hydroxyl.,COCc1nc2cc(Cl)ccc2[nH]1,hydroxyl
+115658,Modify the molecule c1ccc(-c2ncn(Cc3ccc4c(c3)OCCCO4)c2[C@H]2CCOC2)cc1 by adding a amine.,c1ccc(-c2ncn(Cc3ccc4c(c3)OCCCO4)c2[C@H]2CCOC2)cc1,amine
+199522,Modify the molecule COc1ccc(Nc2nn(-c3ccccc3)c3c2C(=O)C[C@@H](c2ccco2)C3)cc1 by adding a benzene ring.,COc1ccc(Nc2nn(-c3ccccc3)c3c2C(=O)C[C@@H](c2ccco2)C3)cc1,benzene ring
+177590,Add a hydroxyl to the molecule Cc1ccc(-n2nc(C)c3c2OC(N)=C(C#N)[C@H]3c2ccccc2F)cc1.,Cc1ccc(-n2nc(C)c3c2OC(N)=C(C#N)[C@H]3c2ccccc2F)cc1,hydroxyl
+14431,Modify the molecule Cc1cc(S(=O)(=O)N2CCN(C(=O)[C@@H]3C[C@H]3C)CC2)sc1C by adding a amide.,Cc1cc(S(=O)(=O)N2CCN(C(=O)[C@@H]3C[C@H]3C)CC2)sc1C,amide
+30980,Modify the molecule COc1ccccc1[C@H](NC(=O)N[C@@H](C)Cn1cc[nH+]c1)c1nccn1C by adding a benzene ring.,COc1ccccc1[C@H](NC(=O)N[C@@H](C)Cn1cc[nH+]c1)c1nccn1C,benzene ring
+66229,Modify the molecule CC[NH2+][C@H](c1cncc(Br)c1)c1cccc(C)c1C by adding a amide.,CC[NH2+][C@H](c1cncc(Br)c1)c1cccc(C)c1C,amide
+16410,Add a amine to the molecule CCCCCN(C)S(=O)(=O)c1cc(Cl)cc(C(=O)[O-])c1F.,CCCCCN(C)S(=O)(=O)c1cc(Cl)cc(C(=O)[O-])c1F,amine
+183579,Please add a benzene ring to the molecule Cc1nnc2n1CCC[C@H]2NC(=O)c1ncoc1-c1cccs1.,Cc1nnc2n1CCC[C@H]2NC(=O)c1ncoc1-c1cccs1,benzene ring
+169030,Add a benzene ring to the molecule CCOC(=O)C1(C)CC[NH+]([C@@H](C)c2ccccn2)CC1.,CCOC(=O)C1(C)CC[NH+]([C@@H](C)c2ccccn2)CC1,benzene ring
+146571,Please add a carboxyl to the molecule O=C(c1ccc(-c2ccco2)[nH]c1=O)N1CC[C@@H]1c1ccccc1.,O=C(c1ccc(-c2ccco2)[nH]c1=O)N1CC[C@@H]1c1ccccc1,carboxyl
+131337,Add a hydroxyl to the molecule COc1ccc(/C=C/CBr)cc1Br.,COc1ccc(/C=C/CBr)cc1Br,hydroxyl
+37944,Add a benzene ring to the molecule COc1ccc(C[NH2+]C[C@@H](O)c2ccc(OC)cc2)cc1.,COc1ccc(C[NH2+]C[C@@H](O)c2ccc(OC)cc2)cc1,benzene ring
+152710,Modify the molecule c1cc(-c2ccsc2)n2nc(SCc3ccc4c(c3)OCCCO4)nc2n1 by adding a hydroxyl.,c1cc(-c2ccsc2)n2nc(SCc3ccc4c(c3)OCCCO4)nc2n1,hydroxyl
+23431,Add a amine to the molecule Cc1cc(C)n(-c2cc(Cl)ccc2-c2cncnc2)n1.,Cc1cc(C)n(-c2cc(Cl)ccc2-c2cncnc2)n1,amine
+223037,Modify the molecule COc1cc(OC)c(OC)cc1/C=C1\N=C(c2ccc(C)c(C)c2)OC1=O by adding a aldehyde.,COc1cc(OC)c(OC)cc1/C=C1\N=C(c2ccc(C)c(C)c2)OC1=O,aldehyde
+25480,Modify the molecule O=C(CNC(=O)c1ccc(Cl)cc1)N/N=C\c1ccco1 by adding a halo.,O=C(CNC(=O)c1ccc(Cl)cc1)N/N=C\c1ccco1,halo
+189874,Add a benzene ring to the molecule O=C(c1ccccc1O)N1CCN(S(=O)(=O)c2ccc(F)c(F)c2)CC1.,O=C(c1ccccc1O)N1CCN(S(=O)(=O)c2ccc(F)c(F)c2)CC1,benzene ring
+249374,Modify the molecule CCCCOC(=O)[C@@](C)(N)C(F)(F)F by adding a halo.,CCCCOC(=O)[C@@](C)(N)C(F)(F)F,halo
+145187,Add a nitro to the molecule CCOC(=O)C(=O)NC[C@@H]1CCCO1.,CCOC(=O)C(=O)NC[C@@H]1CCCO1,nitro
+148446,Please add a benzene ring to the molecule CCOC(=O)c1ccc(N(CC2CC2)C(=O)c2cccc(=O)n2C)cc1.,CCOC(=O)c1ccc(N(CC2CC2)C(=O)c2cccc(=O)n2C)cc1,benzene ring
+54795,Please add a amine to the molecule NS(=O)(=O)c1ccc(NC(=O)CCC(=O)N2CCOCC2)cc1.,NS(=O)(=O)c1ccc(NC(=O)CCC(=O)N2CCOCC2)cc1,amine
+154012,Please add a hydroxyl to the molecule CC(C)Cn1ccnc(NC[C@@H](C)Nc2ccccc2)c1=O.,CC(C)Cn1ccnc(NC[C@@H](C)Nc2ccccc2)c1=O,hydroxyl
+154594,Add a benzene ring to the molecule COc1ccc(-c2nc(C(=O)N3CCN(c4ccccc4[N+](=O)[O-])CC3)cs2)cc1OC.,COc1ccc(-c2nc(C(=O)N3CCN(c4ccccc4[N+](=O)[O-])CC3)cs2)cc1OC,benzene ring
+191545,Add a hydroxyl to the molecule Cc1cc(C)n2c(SCc3ccccc3)nnc2c1.,Cc1cc(C)n2c(SCc3ccccc3)nnc2c1,hydroxyl
+143696,Add a amine to the molecule CCc1noc(C)c1C(=O)N(C)Cc1cc(Cl)cc(Cl)c1.,CCc1noc(C)c1C(=O)N(C)Cc1cc(Cl)cc(Cl)c1,amine
+160633,Please add a amine to the molecule C[C@@H](C(=O)Nc1cccc(C#N)c1)N1CCN(S(C)(=O)=O)CC1.,C[C@@H](C(=O)Nc1cccc(C#N)c1)N1CCN(S(C)(=O)=O)CC1,amine
+126129,Please add a hydroxyl to the molecule C[C@@H](SCc1nc(N)nc(N(C)C)n1)C(=O)N(C)C.,C[C@@H](SCc1nc(N)nc(N(C)C)n1)C(=O)N(C)C,hydroxyl
+127021,Add a carboxyl to the molecule O=C(CCC(=O)c1ccccc1)NC[C@H]1CCS(=O)(=O)C1.,O=C(CCC(=O)c1ccccc1)NC[C@H]1CCS(=O)(=O)C1,carboxyl
+137544,Please add a carboxyl to the molecule Cc1ccnc(N2CCN(C(=O)OC(C)(C)C)C[C@@H]2C)n1.,Cc1ccnc(N2CCN(C(=O)OC(C)(C)C)C[C@@H]2C)n1,carboxyl
+19705,Please add a amide to the molecule C[NH+](C)CCNc1ccc(C#N)c(N)c1.,C[NH+](C)CCNc1ccc(C#N)c(N)c1,amide
+171196,Please add a aldehyde to the molecule CN1CC(=O)N(CC(=O)N[C@@H]2CCc3[nH+]ccn3C2)C1=O.,CN1CC(=O)N(CC(=O)N[C@@H]2CCc3[nH+]ccn3C2)C1=O,aldehyde
+103088,Please add a carboxyl to the molecule COc1ccc(C(=O)N2CCc3ccc(CNC(=O)Nc4ccc(F)cc4)cc32)cc1.,COc1ccc(C(=O)N2CCc3ccc(CNC(=O)Nc4ccc(F)cc4)cc32)cc1,carboxyl
+21174,Modify the molecule Cc1ccc(CN(C(=O)c2cnccn2)[C@H](C(=O)Nc2ccc(F)cc2)c2ccccc2C)cc1 by adding a amide.,Cc1ccc(CN(C(=O)c2cnccn2)[C@H](C(=O)Nc2ccc(F)cc2)c2ccccc2C)cc1,amide
+12579,Modify the molecule C[C@H]1CN[C@H](c2cccc(C3CC3)c2)S1 by adding a aldehyde.,C[C@H]1CN[C@H](c2cccc(C3CC3)c2)S1,aldehyde
+39160,Modify the molecule CC(C)[NH+]1CCCN(C(=O)c2cc(C3CC3)n(C(C)(C)C)n2)CC1 by adding a carboxyl.,CC(C)[NH+]1CCCN(C(=O)c2cc(C3CC3)n(C(C)(C)C)n2)CC1,carboxyl
+92715,Modify the molecule CO[C@@H](c1ccccc1)c1nc2ccccc2[nH]c1=O by adding a benzene ring.,CO[C@@H](c1ccccc1)c1nc2ccccc2[nH]c1=O,benzene ring
+221018,Modify the molecule Cn1nccc1CNC(=O)Cc1noc2ccccc12 by adding a halo.,Cn1nccc1CNC(=O)Cc1noc2ccccc12,halo
+237828,Modify the molecule CS/C(=N\S(=O)(=O)c1ccc(C)cc1)N1CCN(S(=O)(=O)c2cc(C)ccc2C)CC1 by adding a amide.,CS/C(=N\S(=O)(=O)c1ccc(C)cc1)N1CCN(S(=O)(=O)c2cc(C)ccc2C)CC1,amide
+209037,Please add a halo to the molecule C[C@](O)(C(=O)N/N=C/c1ccccc1)c1ccccc1.,C[C@](O)(C(=O)N/N=C/c1ccccc1)c1ccccc1,halo
+171888,Modify the molecule CCOc1cc2c(cc1NC(=O)c1cnn(C(C)C)c1C)O[C@H](C)C2 by adding a hydroxyl.,CCOc1cc2c(cc1NC(=O)c1cnn(C(C)C)c1C)O[C@H](C)C2,hydroxyl
+103507,Modify the molecule CN(C)c1cccc(CNC(=O)NC2CC[NH+](C[C@H]3CCOC3)CC2)c1 by adding a halo.,CN(C)c1cccc(CNC(=O)NC2CC[NH+](C[C@H]3CCOC3)CC2)c1,halo
+109704,Please add a benzene ring to the molecule CC(C)[NH+](Cc1csc(-c2cnn(C)c2)n1)C1CCOCC1.,CC(C)[NH+](Cc1csc(-c2cnn(C)c2)n1)C1CCOCC1,benzene ring
+245100,Modify the molecule CCn1cc(C(=O)N(C)[C@@H](C)c2ccncc2)cn1 by adding a hydroxyl.,CCn1cc(C(=O)N(C)[C@@H](C)c2ccncc2)cn1,hydroxyl
+202384,Add a halo to the molecule C[C@@H](CO)NC(=O)NCc1cccc(Cn2ccnc2)c1.,C[C@@H](CO)NC(=O)NCc1cccc(Cn2ccnc2)c1,halo
+144817,Modify the molecule COc1ccccc1CN(CCO)C(=O)Nc1cccc(Cl)c1 by adding a nitrile.,COc1ccccc1CN(CCO)C(=O)Nc1cccc(Cl)c1,nitrile
+131969,Modify the molecule C=CCO[C@H](F)C(=O)OCC by adding a hydroxyl.,C=CCO[C@H](F)C(=O)OCC,hydroxyl
+224666,Modify the molecule CCCOC[C@H]1O[C@H]2OC(C)(C)O[C@@H]2[C@H]2OC(C)(C)O[C@@H]21 by adding a hydroxyl.,CCCOC[C@H]1O[C@H]2OC(C)(C)O[C@@H]2[C@H]2OC(C)(C)O[C@@H]21,hydroxyl
+83271,Add a amine to the molecule CCC[C@@H](NC(=O)[C@@H]1CCN(C(C)=O)C1)C(=O)OC.,CCC[C@@H](NC(=O)[C@@H]1CCN(C(C)=O)C1)C(=O)OC,amine
+248148,Please add a benzene ring to the molecule C=CCC[C@H](C)OC(=O)/C=C/c1ccco1.,C=CCC[C@H](C)OC(=O)/C=C/c1ccco1,benzene ring
+217589,Add a hydroxyl to the molecule CC(C)CN(C(=O)C[NH+]1CCC(C(=O)Nc2ccccc2)CC1)C1CC1.,CC(C)CN(C(=O)C[NH+]1CCC(C(=O)Nc2ccccc2)CC1)C1CC1,hydroxyl
+31817,Add a amide to the molecule COc1ccc(OCC(=O)N2CCN(c3cccc[nH+]3)CC2)cc1.,COc1ccc(OCC(=O)N2CCN(c3cccc[nH+]3)CC2)cc1,amide
+87585,Please add a amide to the molecule CC(C)(C)OC(=O)N1CC[C@H]([NH+]2CCCCCC2)C1.,CC(C)(C)OC(=O)N1CC[C@H]([NH+]2CCCCCC2)C1,amide
+172996,Add a amide to the molecule COc1ccc(Br)c(C(=O)NCCc2ccc(C(F)(F)F)cc2)c1.,COc1ccc(Br)c(C(=O)NCCc2ccc(C(F)(F)F)cc2)c1,amide
+191277,Modify the molecule O=C1OCC[C@H]1N1CCC(C(=O)N2CCCCC2)CC1 by adding a nitro.,O=C1OCC[C@H]1N1CCC(C(=O)N2CCCCC2)CC1,nitro
+38246,Please add a hydroxyl to the molecule O=S(=O)(c1ccc(F)cc1F)N1CC[C@@H](Nc2ccccc2)C1.,O=S(=O)(c1ccc(F)cc1F)N1CC[C@@H](Nc2ccccc2)C1,hydroxyl
+246698,Add a amide to the molecule CC(C)Oc1ccc(C(=O)NN2CCOCC2)cn1.,CC(C)Oc1ccc(C(=O)NN2CCOCC2)cn1,amide
+219315,Please add a halo to the molecule O=C(NC1(c2nc(-c3cnccn3)no2)CCCCC1)c1cc2cc(Cl)ccc2[nH]1.,O=C(NC1(c2nc(-c3cnccn3)no2)CCCCC1)c1cc2cc(Cl)ccc2[nH]1,halo
+21665,Modify the molecule CCOc1cc([N+](=O)[O-])ccc1NC(=O)C[C@H]1Sc2ccccc2NC1=O by adding a amide.,CCOc1cc([N+](=O)[O-])ccc1NC(=O)C[C@H]1Sc2ccccc2NC1=O,amide
+196182,Please add a amide to the molecule C[C@H](NC(=O)C1CCN(S(C)(=O)=O)CC1)c1cccc(Cl)c1.,C[C@H](NC(=O)C1CCN(S(C)(=O)=O)CC1)c1cccc(Cl)c1,amide
+194270,Add a aldehyde to the molecule CCSc1cncc(NC2CC(C)(C)[NH2+]C(C)(C)C2)n1.,CCSc1cncc(NC2CC(C)(C)[NH2+]C(C)(C)C2)n1,aldehyde
+88462,Modify the molecule Cc1ccc(Nc2ccc([N+](=O)[O-])ccc2=O)cc1 by adding a amide.,Cc1ccc(Nc2ccc([N+](=O)[O-])ccc2=O)cc1,amide
+114002,Please add a benzene ring to the molecule CCOC(=O)N1CCC(Nc2nc(-c3c[nH]c4ccccc34)cs2)CC1.,CCOC(=O)N1CCC(Nc2nc(-c3c[nH]c4ccccc34)cs2)CC1,benzene ring
+66510,Add a hydroxyl to the molecule CCN(CC)C(=S)NC(=O)c1cc(Br)ccc1OC.,CCN(CC)C(=S)NC(=O)c1cc(Br)ccc1OC,hydroxyl
+25031,Please add a hydroxyl to the molecule CC[C@@H]1CCC[C@H](NS(=O)(=O)c2c[nH]c3ncccc23)C1.,CC[C@@H]1CCC[C@H](NS(=O)(=O)c2c[nH]c3ncccc23)C1,hydroxyl
+105866,Please add a hydroxyl to the molecule O=C(Nc1ccc(N2CCCCC2)cc1)c1csc(-c2ncccn2)n1.,O=C(Nc1ccc(N2CCCCC2)cc1)c1csc(-c2ncccn2)n1,hydroxyl
+96705,Please add a benzene ring to the molecule CC[C@H](Br)C1CCCC1.,CC[C@H](Br)C1CCCC1,benzene ring
+40389,Modify the molecule O=C(N[C@@H]1CCOC1)c1ccc(S(=O)(=O)N2CCC(CO)CC2)cc1 by adding a amide.,O=C(N[C@@H]1CCOC1)c1ccc(S(=O)(=O)N2CCC(CO)CC2)cc1,amide
+37190,Modify the molecule Cc1cccc(NC(=S)NNC(=O)[C@@H](C)NC(=O)c2ccccc2)c1C by adding a amide.,Cc1cccc(NC(=S)NNC(=O)[C@@H](C)NC(=O)c2ccccc2)c1C,amide
+75745,Add a benzene ring to the molecule O=C(NC[C@@]1(O)CCCN(C(=O)c2cc(C3CC3)n[nH]2)CC1)N1CCCC1.,O=C(NC[C@@]1(O)CCCN(C(=O)c2cc(C3CC3)n[nH]2)CC1)N1CCCC1,benzene ring
+223270,Modify the molecule C[C@H](C(=O)N(C)CC12CC3CC(CC(C3)C1)C2)N1C(=O)[C@H]2CCCC[C@@H]2C1=O by adding a amide.,C[C@H](C(=O)N(C)CC12CC3CC(CC(C3)C1)C2)N1C(=O)[C@H]2CCCC[C@@H]2C1=O,amide
+133781,Please add a benzene ring to the molecule CNC(=O)[C@H]1CCCC[C@@H]1[NH2+][C@@H](C)CCc1ccc(OC)cc1.,CNC(=O)[C@H]1CCCC[C@@H]1[NH2+][C@@H](C)CCc1ccc(OC)cc1,benzene ring
+46260,Please add a hydroxyl to the molecule COc1ccc2c3c1O[C@H]1[C@@H](O)CC=C[C@@]31CC[N+](C)(C)C2.,COc1ccc2c3c1O[C@H]1[C@@H](O)CC=C[C@@]31CC[N+](C)(C)C2,hydroxyl
+143901,Add a hydroxyl to the molecule COCCN(C)C(=O)Nc1cccc(COc2cccc(F)c2)c1.,COCCN(C)C(=O)Nc1cccc(COc2cccc(F)c2)c1,hydroxyl
+178843,Modify the molecule Brc1cccc(C[NH+]2CCC(CN3CCOCC3)CC2)c1 by adding a amine.,Brc1cccc(C[NH+]2CCC(CN3CCOCC3)CC2)c1,amine
+59392,Modify the molecule C[C@@H](Cc1ccccc1)[NH2+][C@H]1CCOC2(CCCCC2)C1 by adding a hydroxyl.,C[C@@H](Cc1ccccc1)[NH2+][C@H]1CCOC2(CCCCC2)C1,hydroxyl
+212430,Modify the molecule O=C([O-])/C=C/C(=O)Nc1ccc2[nH]ncc2c1 by adding a hydroxyl.,O=C([O-])/C=C/C(=O)Nc1ccc2[nH]ncc2c1,hydroxyl
+88890,Add a halo to the molecule C/C(=N\NC(=S)[C@H]1COc2ccccc2O1)[C@H]1COc2ccccc2O1.,C/C(=N\NC(=S)[C@H]1COc2ccccc2O1)[C@H]1COc2ccccc2O1,halo
+175482,Modify the molecule COc1ccc(OC)c(CN2CCOc3c(cc(-c4ccc(C)s4)cc3OC)C2)c1 by adding a benzene ring.,COc1ccc(OC)c(CN2CCOc3c(cc(-c4ccc(C)s4)cc3OC)C2)c1,benzene ring
+200964,Please add a benzene ring to the molecule CCS[C@@H]1CC[C@@H]([NH+](C)Cc2nnc(-c3ccccc3Cl)o2)C1.,CCS[C@@H]1CC[C@@H]([NH+](C)Cc2nnc(-c3ccccc3Cl)o2)C1,benzene ring
+209388,Add a hydroxyl to the molecule CC[NH+](CC)Cc1ccc(C[NH2+]C(C)C)cc1.,CC[NH+](CC)Cc1ccc(C[NH2+]C(C)C)cc1,hydroxyl
+247988,Please add a hydroxyl to the molecule O=C(CN1CCN(C(=O)C2CC2)CC1)Nc1ccccc1C(=O)Nc1ccc(F)cc1.,O=C(CN1CCN(C(=O)C2CC2)CC1)Nc1ccccc1C(=O)Nc1ccc(F)cc1,hydroxyl
+76527,Please add a nitrile to the molecule OCc1ccc(OCCC2OCCCO2)cc1.,OCc1ccc(OCCC2OCCCO2)cc1,nitrile
+183837,Add a benzene ring to the molecule CC[C@@H](C)CNC(=O)c1cccc(C(F)(F)F)c1F.,CC[C@@H](C)CNC(=O)c1cccc(C(F)(F)F)c1F,benzene ring
+120982,Modify the molecule Cc1nc(C(F)(F)F)nc(N2CCN[C@H](C(=O)NC3CC3)C2)c1C by adding a amide.,Cc1nc(C(F)(F)F)nc(N2CCN[C@H](C(=O)NC3CC3)C2)c1C,amide
+142943,Please add a aldehyde to the molecule CCCc1cc(NC(=O)Cc2csc(Cc3ccccc3)n2)n(C)n1.,CCCc1cc(NC(=O)Cc2csc(Cc3ccccc3)n2)n(C)n1,aldehyde
+165592,Add a carboxyl to the molecule CC(C)NC(=O)CNC(=O)c1cc(-c2ccccc2)nc2c1cnn2Cc1cccc(F)c1.,CC(C)NC(=O)CNC(=O)c1cc(-c2ccccc2)nc2c1cnn2Cc1cccc(F)c1,carboxyl
+171844,Please add a benzene ring to the molecule CC(C)COC(=O)N1CCC[C@@H]1C(=O)Nc1ccc2c(c1)OCO2.,CC(C)COC(=O)N1CCC[C@@H]1C(=O)Nc1ccc2c(c1)OCO2,benzene ring
+57866,Add a aldehyde to the molecule COC(=O)c1ccc(CN(C)C(=O)C[NH+]2CCS[C@H](C(C)C)C2)cc1.,COC(=O)c1ccc(CN(C)C(=O)C[NH+]2CCS[C@H](C(C)C)C2)cc1,aldehyde
+74254,Please add a nitrile to the molecule COC(=O)c1cc(O)c2c(c1)OC(C)(C)C2.,COC(=O)c1cc(O)c2c(c1)OC(C)(C)C2,nitrile
+65218,Modify the molecule COc1ccc(C(F)(F)C(=O)N[C@@H]2CC[C@@H]([NH+](C)C)C2)cc1 by adding a hydroxyl.,COc1ccc(C(F)(F)C(=O)N[C@@H]2CC[C@@H]([NH+](C)C)C2)cc1,hydroxyl
+54194,Please add a nitro to the molecule CC[NH+]1CC[C@H](CNCc2ccc(C(=O)[O-])cn2)C1.,CC[NH+]1CC[C@H](CNCc2ccc(C(=O)[O-])cn2)C1,nitro
+111631,Modify the molecule Cc1cc2ncc([C@@H](C)[NH2+][C@H]3CCc4c(O)cccc43)c(C)n2n1 by adding a benzene ring.,Cc1cc2ncc([C@@H](C)[NH2+][C@H]3CCc4c(O)cccc43)c(C)n2n1,benzene ring
+33579,Please add a benzene ring to the molecule CCCc1ncc(C[NH+]2CCC3(CC2)CN(S(C)(=O)=O)Cc2ccccc2O3)cn1.,CCCc1ncc(C[NH+]2CCC3(CC2)CN(S(C)(=O)=O)Cc2ccccc2O3)cn1,benzene ring
+179009,Add a halo to the molecule COc1ccc(Cl)cc1-n1c(C)cc(/C=C2\C(=O)NC(=S)N(c3cccc(F)c3)C2=O)c1C.,COc1ccc(Cl)cc1-n1c(C)cc(/C=C2\C(=O)NC(=S)N(c3cccc(F)c3)C2=O)c1C,halo
+76795,Add a aldehyde to the molecule COc1ccc(C(=O)N2CC[NH+](Cc3nc(-c4ccc(C)cc4)oc3C)CC2)cc1OC.,COc1ccc(C(=O)N2CC[NH+](Cc3nc(-c4ccc(C)cc4)oc3C)CC2)cc1OC,aldehyde
+130266,Add a benzene ring to the molecule O=C(c1csc(-c2ccccc2)n1)N1CCN(c2ccccc2F)CC1.,O=C(c1csc(-c2ccccc2)n1)N1CCN(c2ccccc2F)CC1,benzene ring
+10746,Add a benzene ring to the molecule C[C@@H](CC(=O)NCCc1c[nH]c2ccccc12)NC(=O)c1ccccc1.,C[C@@H](CC(=O)NCCc1c[nH]c2ccccc12)NC(=O)c1ccccc1,benzene ring
+80482,Add a benzene ring to the molecule Clc1ccc([C@H](CNCc2csc(C3CC3)n2)n2cccn2)cc1.,Clc1ccc([C@H](CNCc2csc(C3CC3)n2)n2cccn2)cc1,benzene ring
+90308,Add a nitro to the molecule O=C1CCC[C@H]1[C@@H]1CCC[NH+]1CC1CCC1.,O=C1CCC[C@H]1[C@@H]1CCC[NH+]1CC1CCC1,nitro
+2396,Please add a halo to the molecule Cc1ccc(/N=C2/COCCN2)cc1.,Cc1ccc(/N=C2/COCCN2)cc1,halo
+93648,Add a carboxyl to the molecule CC(=O)Nc1ccc(-n2nnnc2SCC(=O)N(C2CCCCC2)C2CCCCC2)cc1.,CC(=O)Nc1ccc(-n2nnnc2SCC(=O)N(C2CCCCC2)C2CCCCC2)cc1,carboxyl
+6558,Please add a amine to the molecule COc1ccc(/C=[NH+]/C[C@H]2COc3ccccc3O2)cc1OC.,COc1ccc(/C=[NH+]/C[C@H]2COc3ccccc3O2)cc1OC,amine
+157564,Please add a carboxyl to the molecule CC[NH2+][C@@]1(CO)CC[C@@H](Oc2ccccc2F)C1.,CC[NH2+][C@@]1(CO)CC[C@@H](Oc2ccccc2F)C1,carboxyl
+196940,Please add a amide to the molecule Cc1ccccc1CN1CCN(CC(=O)NCc2ccco2)C1=O.,Cc1ccccc1CN1CCN(CC(=O)NCc2ccco2)C1=O,amide
+70100,Modify the molecule CN(Cc1ccccc1O)C(=O)CSCc1cccnc1 by adding a carboxyl.,CN(Cc1ccccc1O)C(=O)CSCc1cccnc1,carboxyl
+245269,Please add a amine to the molecule Cc1ccc(Cl)cc1NS(=O)(=O)c1ccc(NS(C)(=O)=O)cc1.,Cc1ccc(Cl)cc1NS(=O)(=O)c1ccc(NS(C)(=O)=O)cc1,amine
+81390,Please add a benzene ring to the molecule Cc1ccccc1[C@@H]1CN(C2CCSCC2)[C@H](C)CO1.,Cc1ccccc1[C@@H]1CN(C2CCSCC2)[C@H](C)CO1,benzene ring
+232387,Please add a amide to the molecule COc1cccc(C(=O)Nc2c(C)c(C)nn2-c2ccc(C#N)cc2)n1.,COc1cccc(C(=O)Nc2c(C)c(C)nn2-c2ccc(C#N)cc2)n1,amide
+42863,Modify the molecule CC[C@@H](C)[NH2+][C@H]1C=C[C@@H](C(=O)[O-])C1 by adding a carboxyl.,CC[C@@H](C)[NH2+][C@H]1C=C[C@@H](C(=O)[O-])C1,carboxyl
+180042,Please add a benzene ring to the molecule C[C@@H]1CC(=O)Nc2ccccc2N1C(=O)/C=C/c1cccc([N+](=O)[O-])c1.,C[C@@H]1CC(=O)Nc2ccccc2N1C(=O)/C=C/c1cccc([N+](=O)[O-])c1,benzene ring
+196251,Please add a aldehyde to the molecule Cc1cc(N(C)C)ccc1NC(=O)C[C@H]1SC(N)=NC1=O.,Cc1cc(N(C)C)ccc1NC(=O)C[C@H]1SC(N)=NC1=O,aldehyde
+208382,Modify the molecule C=CCNC(=O)c1ccc(NC(=O)C(=O)N2CCC[C@H](C)CC2)cc1 by adding a halo.,C=CCNC(=O)c1ccc(NC(=O)C(=O)N2CCC[C@H](C)CC2)cc1,halo
+103148,Modify the molecule CCC1(CNC(=O)N[C@@H](C)Cc2c(C)noc2C)CCC1 by adding a benzene ring.,CCC1(CNC(=O)N[C@@H](C)Cc2c(C)noc2C)CCC1,benzene ring
+153800,Modify the molecule Cc1cc(C)c(O)c(C(=O)N(C)[C@H](C)c2ccc(-n3cncn3)cc2)c1 by adding a carboxyl.,Cc1cc(C)c(O)c(C(=O)N(C)[C@H](C)c2ccc(-n3cncn3)cc2)c1,carboxyl
+4541,Add a halo to the molecule CC(C)C[C@@H](O)CNC(=O)Nc1ccccc1C(=O)N1C[C@H](C)C[C@@H](C)C1.,CC(C)C[C@@H](O)CNC(=O)Nc1ccccc1C(=O)N1C[C@H](C)C[C@@H](C)C1,halo
+119283,Modify the molecule CC(=O)c1ccc(NC(=O)CC[NH+]2CCN(Cc3ccc(Cl)s3)CC2)cc1 by adding a amide.,CC(=O)c1ccc(NC(=O)CC[NH+]2CCN(Cc3ccc(Cl)s3)CC2)cc1,amide
+230046,Modify the molecule C[C@H](C[NH3+])Sc1ccncc1 by adding a benzene ring.,C[C@H](C[NH3+])Sc1ccncc1,benzene ring
+191159,Add a halo to the molecule O=C(CN1CCOCC1)N1CCC[C@@H](c2nnc(-c3nccc4ccccc34)o2)C1.,O=C(CN1CCOCC1)N1CCC[C@@H](c2nnc(-c3nccc4ccccc34)o2)C1,halo
+156385,Add a benzene ring to the molecule Cc1nc2ccccc2nc1S[C@H](C(N)=O)c1ccccc1.,Cc1nc2ccccc2nc1S[C@H](C(N)=O)c1ccccc1,benzene ring
+187154,Modify the molecule Cc1cc(OCC(=O)N[C@H](C)CCc2ccccc2)ccc1Cl by adding a hydroxyl.,Cc1cc(OCC(=O)N[C@H](C)CCc2ccccc2)ccc1Cl,hydroxyl
+183279,Please add a hydroxyl to the molecule COC[C@H]1CC[C@H](Cl)[C@@H]1C.,COC[C@H]1CC[C@H](Cl)[C@@H]1C,hydroxyl
+146122,Modify the molecule C[NH2+]Cc1n[nH]c(=O)n1-c1ccc(C)cc1C by adding a hydroxyl.,C[NH2+]Cc1n[nH]c(=O)n1-c1ccc(C)cc1C,hydroxyl
+140595,Modify the molecule CC1CCN(C(=O)c2cccc(S(=O)(=O)NC[C@@H]3CCCO3)c2)CC1 by adding a benzene ring.,CC1CCN(C(=O)c2cccc(S(=O)(=O)NC[C@@H]3CCCO3)c2)CC1,benzene ring
+50935,Modify the molecule Cc1ccc2ncc(C(=O)N3CCCN(C(=O)C(C)(C)C)CC3)n2c1 by adding a nitrile.,Cc1ccc2ncc(C(=O)N3CCCN(C(=O)C(C)(C)C)CC3)n2c1,nitrile
+100793,Please add a nitro to the molecule CC[C@@H](c1nnnn1C(C)(C)C)[NH+](Cc1cc2ccc(C)cc2[nH]c1=O)C1CCCCC1.,CC[C@@H](c1nnnn1C(C)(C)C)[NH+](Cc1cc2ccc(C)cc2[nH]c1=O)C1CCCCC1,nitro
+180496,Please add a benzene ring to the molecule S=C1[NH+]=N[C@H](c2cccc[nH+]2)N1/N=C/c1ccc(Cl)c(Cl)c1.,S=C1[NH+]=N[C@H](c2cccc[nH+]2)N1/N=C/c1ccc(Cl)c(Cl)c1,benzene ring
+169138,Add a hydroxyl to the molecule CC[C@H](NC(=O)COc1ccc(Cl)cc1Br)c1ccccc1.,CC[C@H](NC(=O)COc1ccc(Cl)cc1Br)c1ccccc1,hydroxyl
+111219,Modify the molecule COc1cc([N+](=O)[O-])ccc1OCC(=O)N1N=C(c2ccc(Cl)cc2)C[C@H]1c1ccco1 by adding a hydroxyl.,COc1cc([N+](=O)[O-])ccc1OCC(=O)N1N=C(c2ccc(Cl)cc2)C[C@H]1c1ccco1,hydroxyl
+49868,Please add a aldehyde to the molecule Fc1cccc(C/[NH+]=C2\NC[C@@H](c3ccccc3)S2)c1.,Fc1cccc(C/[NH+]=C2\NC[C@@H](c3ccccc3)S2)c1,aldehyde
+60295,Please add a amide to the molecule CC[C@](C)([NH3+])C(=O)Nc1ccc(C(F)(F)F)cc1C(=O)[O-].,CC[C@](C)([NH3+])C(=O)Nc1ccc(C(F)(F)F)cc1C(=O)[O-],amide
+132636,Modify the molecule CC(=O)C[C@@H]1CCCN1S(=O)(=O)N1CCCC1 by adding a carboxyl.,CC(=O)C[C@@H]1CCCN1S(=O)(=O)N1CCCC1,carboxyl
+118831,Please add a benzene ring to the molecule O=C([C@@H]1CCCC[NH+]1Cc1ccccc1OCC1CC1)N1CCOCC1.,O=C([C@@H]1CCCC[NH+]1Cc1ccccc1OCC1CC1)N1CCOCC1,benzene ring
+240042,Modify the molecule Cc1c(NC(=O)N(C)CC(=O)Nc2ccccc2)cccc1[N+](=O)[O-] by adding a benzene ring.,Cc1c(NC(=O)N(C)CC(=O)Nc2ccccc2)cccc1[N+](=O)[O-],benzene ring
+225911,Add a benzene ring to the molecule CC(C)=CC(=O)N1CCN2NC([C@@H]3[NH+]=c4ccc(Cl)cc4=[NH+]3)=C[C@@H]2C1.,CC(C)=CC(=O)N1CCN2NC([C@@H]3[NH+]=c4ccc(Cl)cc4=[NH+]3)=C[C@@H]2C1,benzene ring
+98303,Please add a hydroxyl to the molecule N#Cc1cc2c(nc1NC(=O)c1cncc(-c3ccccc3)c1)CCC2.,N#Cc1cc2c(nc1NC(=O)c1cncc(-c3ccccc3)c1)CCC2,hydroxyl
+146422,Add a amide to the molecule COc1ccc(NC(=O)C2(c3cccs3)CCCC2)cc1OC.,COc1ccc(NC(=O)C2(c3cccs3)CCCC2)cc1OC,amide
+757,Modify the molecule CC[C@H](c1ccc(F)cc1)N(C)C(=O)Cn1nnc(-c2ccccc2)n1 by adding a thiol.,CC[C@H](c1ccc(F)cc1)N(C)C(=O)Cn1nnc(-c2ccccc2)n1,thiol
+89147,Modify the molecule Cc1ccc2oc3c(c(=O)c2c1)[C@H](c1ccc(Cl)c(Cl)c1)N(CC[NH+](C)C)C3=O by adding a halo.,Cc1ccc2oc3c(c(=O)c2c1)[C@H](c1ccc(Cl)c(Cl)c1)N(CC[NH+](C)C)C3=O,halo
+20552,Add a benzene ring to the molecule CC[NH2+]C[C@@]1(c2ccc(C)c(C)c2)CCC[C@H]1C.,CC[NH2+]C[C@@]1(c2ccc(C)c(C)c2)CCC[C@H]1C,benzene ring
+94566,Add a benzene ring to the molecule NNC(=O)c1cccc2c1-c1ccccc1C2=O.,NNC(=O)c1cccc2c1-c1ccccc1C2=O,benzene ring
+234759,Add a hydroxyl to the molecule C[C@H]1Cc2c(NC(=O)Cc3ccc(-c4ccccc4)cc3)nn(C)c2NC1=O.,C[C@H]1Cc2c(NC(=O)Cc3ccc(-c4ccccc4)cc3)nn(C)c2NC1=O,hydroxyl
+151556,Add a aldehyde to the molecule C[NH+](C)[C@H]1CC[C@@H](NC(=O)N2CCC(N3CCCC3=O)CC2)C1.,C[NH+](C)[C@H]1CC[C@@H](NC(=O)N2CCC(N3CCCC3=O)CC2)C1,aldehyde
+136229,Please add a carboxyl to the molecule CN(C(=O)/C=C/c1ccnc(Cl)c1)c1cccc2ncccc12.,CN(C(=O)/C=C/c1ccnc(Cl)c1)c1cccc2ncccc12,carboxyl
+214529,Please add a benzene ring to the molecule O=C(NCCCC(=O)N1CCN(c2cccc[nH+]2)CC1)NC1CCCCC1.,O=C(NCCCC(=O)N1CCN(c2cccc[nH+]2)CC1)NC1CCCCC1,benzene ring
+11599,Please add a amide to the molecule CC(C)CC(=O)Nc1ccc2c(c1)[C@@H]1C=CC[C@H]1[C@H](c1ccccc1O)N2.,CC(C)CC(=O)Nc1ccc2c(c1)[C@@H]1C=CC[C@H]1[C@H](c1ccccc1O)N2,amide
+88728,Modify the molecule CC(C)/C(=C\c1ccc([C@@H]2C[C@@H]2C)o1)C[NH2+]C1CC1 by adding a amine.,CC(C)/C(=C\c1ccc([C@@H]2C[C@@H]2C)o1)C[NH2+]C1CC1,amine
+165077,Add a carboxyl to the molecule COC(=O)c1ccc(NC(=O)Cc2coc3cc(C)c(C)cc23)cc1.,COC(=O)c1ccc(NC(=O)Cc2coc3cc(C)c(C)cc23)cc1,carboxyl
+167546,Please add a hydroxyl to the molecule CC[C@@H](C(C)C)N1CCC(=O)N2CCCC[C@@H]2C1=O.,CC[C@@H](C(C)C)N1CCC(=O)N2CCCC[C@@H]2C1=O,hydroxyl
+145186,Add a benzene ring to the molecule Cc1cc(C)c2c(c1)/C(=N\NC(=O)[C@@H](C)SCc1ccccc1)C(=O)N2.,Cc1cc(C)c2c(c1)/C(=N\NC(=O)[C@@H](C)SCc1ccccc1)C(=O)N2,benzene ring
+94156,Please add a halo to the molecule C[C@H](NC(=O)[C@H]1CCC[NH+](C)C1)c1nnnn1-c1ccccc1.,C[C@H](NC(=O)[C@H]1CCC[NH+](C)C1)c1nnnn1-c1ccccc1,halo
+98390,Please add a amide to the molecule Cc1ccccc1CNC(=O)NC1CCC(Oc2ccc(C#N)cn2)CC1.,Cc1ccccc1CNC(=O)NC1CCC(Oc2ccc(C#N)cn2)CC1,amide
+112276,Modify the molecule CC[NH2+][C@H](Cc1ccc(CC)cc1)c1cncc(Br)c1 by adding a hydroxyl.,CC[NH2+][C@H](Cc1ccc(CC)cc1)c1cncc(Br)c1,hydroxyl
+34599,Add a amide to the molecule CON(C)c1nc(-c2ccncc2)nc2c1CCC2.,CON(C)c1nc(-c2ccncc2)nc2c1CCC2,amide
+217554,Modify the molecule COc1cccc(C[C@@H](C)N[C@H]2CCOc3ccccc32)c1 by adding a benzene ring.,COc1cccc(C[C@@H](C)N[C@H]2CCOc3ccccc32)c1,benzene ring
+168222,Please add a nitro to the molecule CCS[C@H]1CCCC[C@H]1NC(=O)NCC(=O)N1CCc2ccccc21.,CCS[C@H]1CCCC[C@H]1NC(=O)NCC(=O)N1CCc2ccccc21,nitro
+227053,Modify the molecule Cc1ccc(C[NH+](CC(=O)NCC(=O)N2CCCC2)C(C)C)s1 by adding a hydroxyl.,Cc1ccc(C[NH+](CC(=O)NCC(=O)N2CCCC2)C(C)C)s1,hydroxyl
+28110,Modify the molecule O=Cc1ccc(-c2cccc(C(=O)NC3CC3)c2)cc1O by adding a benzene ring.,O=Cc1ccc(-c2cccc(C(=O)NC3CC3)c2)cc1O,benzene ring
+12955,Modify the molecule O=C(Nc1ccc2c(c1)OCCO2)c1cccc(C(=O)Nc2ccc3c(c2)OCCO3)n1 by adding a aldehyde.,O=C(Nc1ccc2c(c1)OCCO2)c1cccc(C(=O)Nc2ccc3c(c2)OCCO3)n1,aldehyde
+13802,Modify the molecule Cc1ccc(-c2n[nH]cc2CN2CC[C@H](S(=O)(=O)NC3CC3)C2)cc1 by adding a aldehyde.,Cc1ccc(-c2n[nH]cc2CN2CC[C@H](S(=O)(=O)NC3CC3)C2)cc1,aldehyde
+168709,Add a aldehyde to the molecule CC1=NN2C(=N)/C(=C\c3cc(C)n(-c4ccc(Cl)cc4)c3C)C(=O)N=C2S1.,CC1=NN2C(=N)/C(=C\c3cc(C)n(-c4ccc(Cl)cc4)c3C)C(=O)N=C2S1,aldehyde
+60102,Please add a hydroxyl to the molecule CCOc1ccc(NS(=O)(=O)c2ccc3c(c2)NC(=O)CCS3)cc1.,CCOc1ccc(NS(=O)(=O)c2ccc3c(c2)NC(=O)CCS3)cc1,hydroxyl
+50482,Add a carboxyl to the molecule CC(=O)C[C@H]1CCCCCN1C(=O)c1ccc(C)c(Cl)c1.,CC(=O)C[C@H]1CCCCCN1C(=O)c1ccc(C)c(Cl)c1,carboxyl
+39773,Add a hydroxyl to the molecule CCCC(=O)Nc1cccc(CNc2nc(-c3ccccn3)nc(C)c2C)c1.,CCCC(=O)Nc1cccc(CNc2nc(-c3ccccn3)nc(C)c2C)c1,hydroxyl
+186528,Add a carboxyl to the molecule CC(C)c1ccc2c(c1)[C@]1(NC(=O)[C@H]3COCCN31)C(=O)N2.,CC(C)c1ccc2c(c1)[C@]1(NC(=O)[C@H]3COCCN31)C(=O)N2,carboxyl
+17992,Add a benzene ring to the molecule Cc1ccn([C@H](C)CC(=O)Nc2ccccc2F)n1.,Cc1ccn([C@H](C)CC(=O)Nc2ccccc2F)n1,benzene ring
+170767,Add a aldehyde to the molecule CCC[C@@]1(CO)CCCN(C(=O)c2coc(CN3CCOCC3)c2)C1.,CCC[C@@]1(CO)CCCN(C(=O)c2coc(CN3CCOCC3)c2)C1,aldehyde
+144473,Add a benzene ring to the molecule COCCOCc1cccc(NC(=O)N[C@H]2CCCC[C@H]2C)c1.,COCCOCc1cccc(NC(=O)N[C@H]2CCCC[C@H]2C)c1,benzene ring
+81881,Modify the molecule CCCNC(=O)[C@@H](NC(=O)N1CCn2c1nc1ccccc12)[C@@H](C)CC by adding a amine.,CCCNC(=O)[C@@H](NC(=O)N1CCn2c1nc1ccccc12)[C@@H](C)CC,amine
+210228,Add a benzene ring to the molecule CSCc1ccc(C(=O)N[C@](C)(C(=O)[O-])C(F)(F)F)o1.,CSCc1ccc(C(=O)N[C@](C)(C(=O)[O-])C(F)(F)F)o1,benzene ring
+56326,Please add a benzene ring to the molecule Fc1ccc(C2(C[NH2+]C3CCSCC3)CC2)cc1.,Fc1ccc(C2(C[NH2+]C3CCSCC3)CC2)cc1,benzene ring
+61207,Add a halo to the molecule CC[C@H]1CCCCCN1C(=O)c1cccc(OC)c1F.,CC[C@H]1CCCCCN1C(=O)c1cccc(OC)c1F,halo
+106040,Add a amide to the molecule O=C(Nc1cccc(OC(F)F)c1)N[C@@H]1CC[NH+](Cc2ccccc2)C[C@H]1CO.,O=C(Nc1cccc(OC(F)F)c1)N[C@@H]1CC[NH+](Cc2ccccc2)C[C@H]1CO,amide
+238571,Modify the molecule CSc1ccc(C)c(C(=O)Nc2n[nH]c3ccc([N+](=O)[O-])cc23)c1 by adding a amine.,CSc1ccc(C)c(C(=O)Nc2n[nH]c3ccc([N+](=O)[O-])cc23)c1,amine
+18457,Add a amide to the molecule CCOC(=O)c1cc(Br)c(C)c(Br)c1.,CCOC(=O)c1cc(Br)c(C)c(Br)c1,amide
+47182,Modify the molecule Cc1nc(C)c(C[NH+]2CCC[C@@H]2c2c(C)n[nH]c2C)s1 by adding a benzene ring.,Cc1nc(C)c(C[NH+]2CCC[C@@H]2c2c(C)n[nH]c2C)s1,benzene ring
+178012,Add a benzene ring to the molecule Cc1cccc(NC(=O)c2cc3ccccc3o/c2=[NH+]\c2ccc3c(c2)OCCO3)n1.,Cc1cccc(NC(=O)c2cc3ccccc3o/c2=[NH+]\c2ccc3c(c2)OCCO3)n1,benzene ring
+220447,Please add a aldehyde to the molecule CC[NH+](Cc1ccc(OC)c(O)c1)Cc1ccccn1.,CC[NH+](Cc1ccc(OC)c(O)c1)Cc1ccccn1,aldehyde
+224750,Modify the molecule CCS[C@H]1CC[C@@H]([NH+](C)CC(=O)Nc2c(C)cccc2CC)C1 by adding a hydroxyl.,CCS[C@H]1CC[C@@H]([NH+](C)CC(=O)Nc2c(C)cccc2CC)C1,hydroxyl
+188704,Add a nitro to the molecule C[C@H](OC(=O)c1ccc(-n2cnnn2)cc1)C(=O)Nc1nc(-c2ccccc2)cs1.,C[C@H](OC(=O)c1ccc(-n2cnnn2)cc1)C(=O)Nc1nc(-c2ccccc2)cs1,nitro
+56797,Please add a amine to the molecule C[C@H]([NH2+][C@@H]1CCOC2(CCCCC2)C1)C(N)=O.,C[C@H]([NH2+][C@@H]1CCOC2(CCCCC2)C1)C(N)=O,amine
+32047,Modify the molecule COc1cc(C)ccc1NC(=O)C(=O)NCCc1ccccn1 by adding a benzene ring.,COc1cc(C)ccc1NC(=O)C(=O)NCCc1ccccn1,benzene ring
+192269,Modify the molecule CC1(C)C[C@H]1C(=O)NC[C@@H]1C[C@H](O)C[NH+]1Cc1ccccc1 by adding a benzene ring.,CC1(C)C[C@H]1C(=O)NC[C@@H]1C[C@H](O)C[NH+]1Cc1ccccc1,benzene ring
+105682,Add a benzene ring to the molecule CCc1nnc(/N=C(\[O-])[C@H](C)[NH+]2CCc3ccccc3C2)s1.,CCc1nnc(/N=C(\[O-])[C@H](C)[NH+]2CCc3ccccc3C2)s1,benzene ring
+182123,Please add a nitro to the molecule COCCNc1ncnc(Oc2cccc3ccc(C)nc23)c1[N+](=O)[O-].,COCCNc1ncnc(Oc2cccc3ccc(C)nc23)c1[N+](=O)[O-],nitro
+46394,Modify the molecule Cc1noc(-c2cccnc2N2CCC[C@@H](NC(=O)C(C)C)C2)n1 by adding a amide.,Cc1noc(-c2cccnc2N2CCC[C@@H](NC(=O)C(C)C)C2)n1,amide
+95035,Modify the molecule CCn1nc(C)c(CNC(=O)N[C@H]2CC[C@@H]([NH+](C)C)C2)c1C by adding a hydroxyl.,CCn1nc(C)c(CNC(=O)N[C@H]2CC[C@@H]([NH+](C)C)C2)c1C,hydroxyl
+159834,Add a halo to the molecule COc1ccccc1CN1CCN2C(=O)[C@H](CC(C)C)NC(=O)[C@H]2C1.,COc1ccccc1CN1CCN2C(=O)[C@H](CC(C)C)NC(=O)[C@H]2C1,halo
+55151,Modify the molecule COc1cc(NCc2c[nH]nc2C(C)(C)C)c(OC)cc1Cl by adding a benzene ring.,COc1cc(NCc2c[nH]nc2C(C)(C)C)c(OC)cc1Cl,benzene ring
+95909,Please add a amine to the molecule CCN[C@@]1(C(=O)OC)CC[C@@H]([NH+]2CCC(OC)CC2)C1.,CCN[C@@]1(C(=O)OC)CC[C@@H]([NH+]2CCC(OC)CC2)C1,amine
+231499,Modify the molecule Cc1ccc(F)c([C@H](N)C(F)(F)F)c1Cl by adding a halo.,Cc1ccc(F)c([C@H](N)C(F)(F)F)c1Cl,halo
+87007,Add a aldehyde to the molecule C[NH2+]CC(=O)N1CCC[C@H](CCc2c(F)cccc2F)C1.,C[NH2+]CC(=O)N1CCC[C@H](CCc2c(F)cccc2F)C1,aldehyde
+20375,Add a hydroxyl to the molecule O=C([C@@H]1NCCc2[nH]c[nH+]c21)N1CCSCC1.,O=C([C@@H]1NCCc2[nH]c[nH+]c21)N1CCSCC1,hydroxyl
+132018,Please add a benzene ring to the molecule Cc1cccn2cc(CC(=O)N3CCC[C@@H](n4cc[nH+]c4C)C3)nc12.,Cc1cccn2cc(CC(=O)N3CCC[C@@H](n4cc[nH+]c4C)C3)nc12,benzene ring
+118077,Add a amine to the molecule O=C1COc2ncc(C(=O)N[C@@H](C(=O)Nc3ccccc3)c3ccccc3)cc2N1.,O=C1COc2ncc(C(=O)N[C@@H](C(=O)Nc3ccccc3)c3ccccc3)cc2N1,amine
+19760,Add a benzene ring to the molecule C[C@H](NC(=O)N(C)[C@@H]1CCc2ccccc21)c1cccc(S(N)(=O)=O)c1.,C[C@H](NC(=O)N(C)[C@@H]1CCc2ccccc21)c1cccc(S(N)(=O)=O)c1,benzene ring
+65843,Modify the molecule O=C(NO[C@H]1CCCCO1)c1cc([N+](=O)[O-])ccc1Cl by adding a amide.,O=C(NO[C@H]1CCCCO1)c1cc([N+](=O)[O-])ccc1Cl,amide
+54650,Please add a amine to the molecule CCCOC(=O)c1oc2c(c1C)/C(=N/NC(=O)c1ccc(C)cc1)CCC2.,CCCOC(=O)c1oc2c(c1C)/C(=N/NC(=O)c1ccc(C)cc1)CCC2,amine
+119607,Modify the molecule CCCN1CCC[C@]2(CC[NH+](Cc3ncccn3)C2)C1=O by adding a hydroxyl.,CCCN1CCC[C@]2(CC[NH+](Cc3ncccn3)C2)C1=O,hydroxyl
+164928,Modify the molecule CCN(CC)c1ncc(CN2CCO[C@@H]3CCCC[C@@H]32)s1 by adding a amine.,CCN(CC)c1ncc(CN2CCO[C@@H]3CCCC[C@@H]32)s1,amine
+249345,Add a nitro to the molecule C[C@H](Nc1ccc2[nH]ccc2c1)c1cc(F)cc(F)c1.,C[C@H](Nc1ccc2[nH]ccc2c1)c1cc(F)cc(F)c1,nitro
+7954,Add a amide to the molecule CCOC(=O)[C@H](F)[C@](C)(O)c1ccc(S(C)(=O)=O)cc1.,CCOC(=O)[C@H](F)[C@](C)(O)c1ccc(S(C)(=O)=O)cc1,amide
+249196,Add a amine to the molecule Cc1nn(-c2ccccc2)cc1CN1CCN([C@@H](C)C(=O)N2CCCC2)CC1.,Cc1nn(-c2ccccc2)cc1CN1CCN([C@@H](C)C(=O)N2CCCC2)CC1,amine
+83423,Modify the molecule C[C@H]1CCC[C@@H](NC(=O)N[C@@](C)(C(=O)[O-])C(F)(F)F)[C@@H]1C by adding a amide.,C[C@H]1CCC[C@@H](NC(=O)N[C@@](C)(C(=O)[O-])C(F)(F)F)[C@@H]1C,amide
+149988,Please add a benzene ring to the molecule C[C@H]1CN(C(=O)Cn2cc(SCC(=O)Nc3ccc(F)cc3)c3ccccc32)C[C@H](C)O1.,C[C@H]1CN(C(=O)Cn2cc(SCC(=O)Nc3ccc(F)cc3)c3ccccc32)C[C@H](C)O1,benzene ring
+142209,Please add a amide to the molecule C[C@H](NCCc1ccc(F)cc1)c1nc2c(s1)CCCC2.,C[C@H](NCCc1ccc(F)cc1)c1nc2c(s1)CCCC2,amide
+80568,Please add a nitro to the molecule CSCC[C@H](C)NC(=O)NC[C@H](O)c1cc(Cl)cc(Cl)c1.,CSCC[C@H](C)NC(=O)NC[C@H](O)c1cc(Cl)cc(Cl)c1,nitro
+216798,Add a hydroxyl to the molecule CC(C)OC(=O)[C@@H](C)N(C)Cc1ccc(C(=O)N(C)C)[nH]1.,CC(C)OC(=O)[C@@H](C)N(C)Cc1ccc(C(=O)N(C)C)[nH]1,hydroxyl
+39380,Add a nitro to the molecule O=C(c1[nH]nc(C2CC2)c1Cl)N1CC[C@@H]1c1ccc(Cl)cc1.,O=C(c1[nH]nc(C2CC2)c1Cl)N1CC[C@@H]1c1ccc(Cl)cc1,nitro
+119609,Modify the molecule C[C@]1(CNS(=O)(=O)c2cncc(Br)c2)CCCO1 by adding a halo.,C[C@]1(CNS(=O)(=O)c2cncc(Br)c2)CCCO1,halo
+191487,Please add a amine to the molecule CCc1noc(C)c1C(=O)N(C)C1(C(=O)OC)CCCCC1.,CCc1noc(C)c1C(=O)N(C)C1(C(=O)OC)CCCCC1,amine
+154886,Modify the molecule O=c1n(CCl)nc2ccccn12 by adding a hydroxyl.,O=c1n(CCl)nc2ccccn12,hydroxyl
+217498,Modify the molecule CC[C@@H]([NH2+][C@H](C)c1c(C)noc1C)C(=O)Nc1cc(C)on1 by adding a benzene ring.,CC[C@@H]([NH2+][C@H](C)c1c(C)noc1C)C(=O)Nc1cc(C)on1,benzene ring
+117541,Please add a benzene ring to the molecule CN(CCOCC1CC1)C(=O)C1(c2ccccc2)CCC1.,CN(CCOCC1CC1)C(=O)C1(c2ccccc2)CCC1,benzene ring
+38199,Modify the molecule Cc1oc(-c2cccs2)nc1C[NH+](C)CC(=O)[O-] by adding a carboxyl.,Cc1oc(-c2cccs2)nc1C[NH+](C)CC(=O)[O-],carboxyl
+159712,Please add a carboxyl to the molecule FC(F)(F)c1nc2ccccc2n1Cc1ccccc1.,FC(F)(F)c1nc2ccccc2n1Cc1ccccc1,carboxyl
+246511,Add a halo to the molecule Cc1ccc(C(=O)Nc2nc[nH]n2)cc1F.,Cc1ccc(C(=O)Nc2nc[nH]n2)cc1F,halo
+241259,Add a carboxyl to the molecule C[NH2+]C[C@H]1CCCCN1c1nc(Br)cs1.,C[NH2+]C[C@H]1CCCCN1c1nc(Br)cs1,carboxyl
+147413,Add a benzene ring to the molecule Cc1ccc(CN(C)[C@H]2CS(=O)(=O)c3ccccc32)s1.,Cc1ccc(CN(C)[C@H]2CS(=O)(=O)c3ccccc32)s1,benzene ring
+199371,Please add a amide to the molecule CC(C)CC[C@](C)(O)CNC(=O)Cn1c(=O)[nH]c2ccccc2c1=O.,CC(C)CC[C@](C)(O)CNC(=O)Cn1c(=O)[nH]c2ccccc2c1=O,amide
+191376,Add a hydroxyl to the molecule Cc1nnc(NCCOc2cccc(Br)c2)c(C#N)c1C.,Cc1nnc(NCCOc2cccc(Br)c2)c(C#N)c1C,hydroxyl
+47176,Please add a benzene ring to the molecule CCc1c(C(=O)NCC(=O)NCC(C)C)cnn1-c1ccccn1.,CCc1c(C(=O)NCC(=O)NCC(C)C)cnn1-c1ccccn1,benzene ring
+138327,Modify the molecule CSc1ccc(C[NH+]2CCC3(CC2)C(=O)N(C)C(=O)N3CC(C)C)cc1 by adding a halo.,CSc1ccc(C[NH+]2CCC3(CC2)C(=O)N(C)C(=O)N3CC(C)C)cc1,halo
+39778,Modify the molecule CC(=O)c1ccccc1C(=O)NCc1ccnc(OCC(F)F)c1 by adding a hydroxyl.,CC(=O)c1ccccc1C(=O)NCc1ccnc(OCC(F)F)c1,hydroxyl
+185648,Modify the molecule COc1ccccc1CC(C)(C)C(=O)NC[C@@H](C)c1cccs1 by adding a hydroxyl.,COc1ccccc1CC(C)(C)C(=O)NC[C@@H](C)c1cccs1,hydroxyl
+36119,Modify the molecule CC(C)CC1=NN=C2CCN(C(=O)c3ccc4ncsc4c3)C[C@H]21 by adding a hydroxyl.,CC(C)CC1=NN=C2CCN(C(=O)c3ccc4ncsc4c3)C[C@H]21,hydroxyl
+69722,Please add a thiol to the molecule COc1ccc(Cl)cc1C(=O)Nc1ccc(N2CCOCC2)cc1.,COc1ccc(Cl)cc1C(=O)Nc1ccc(N2CCOCC2)cc1,thiol
+120506,Please add a nitro to the molecule COc1cccc(/C(C)=C/C(=O)OCc2csc(-c3ccccn3)n2)c1.,COc1cccc(/C(C)=C/C(=O)OCc2csc(-c3ccccn3)n2)c1,nitro
+222213,Please add a amine to the molecule CCCN/C([O-])=C(\C#N)C(=O)Cn1c(=O)n(CC)c2ccccc21.,CCCN/C([O-])=C(\C#N)C(=O)Cn1c(=O)n(CC)c2ccccc21,amine
+69712,Please add a amide to the molecule Cc1cc(C(=O)NCC(F)(F)F)sc1Br.,Cc1cc(C(=O)NCC(F)(F)F)sc1Br,amide
+211173,Add a aldehyde to the molecule COc1ccc(S(=O)(=O)Nc2nc(C(=O)Nc3ccccc3OC)cs2)cc1.,COc1ccc(S(=O)(=O)Nc2nc(C(=O)Nc3ccccc3OC)cs2)cc1,aldehyde
+245517,Add a hydroxyl to the molecule CCS(=O)(=O)[N-]c1ccc(C(=O)/C=C/c2ccc(C)c(F)c2)cc1.,CCS(=O)(=O)[N-]c1ccc(C(=O)/C=C/c2ccc(C)c(F)c2)cc1,hydroxyl
+80750,Add a benzene ring to the molecule Cc1csc(SCc2ccc(C(=O)NCc3ccc4c(c3)OCO4)cc2)n1.,Cc1csc(SCc2ccc(C(=O)NCc3ccc4c(c3)OCO4)cc2)n1,benzene ring
+161588,Modify the molecule Cc1ccc([C@H](C)[NH+]2CCCC[C@@H]2[C@@H]2CCCN2)cc1F by adding a benzene ring.,Cc1ccc([C@H](C)[NH+]2CCCC[C@@H]2[C@@H]2CCCN2)cc1F,benzene ring
+15850,Add a hydroxyl to the molecule CN(C[C@H]1CCC[NH+]1C)C(=O)N1CCCCC[C@@H]1C(=O)[O-].,CN(C[C@H]1CCC[NH+]1C)C(=O)N1CCCCC[C@@H]1C(=O)[O-],hydroxyl
+18641,Please add a halo to the molecule CC1(C)CC(=O)C2=C(C1)Nc1ccc3ncccc3c1[C@H]2c1ccccc1[N+](=O)[O-].,CC1(C)CC(=O)C2=C(C1)Nc1ccc3ncccc3c1[C@H]2c1ccccc1[N+](=O)[O-],halo
+215767,Modify the molecule CCc1nn(C)cc1C(=O)NC1CC[NH+](CC(N)=O)CC1 by adding a nitro.,CCc1nn(C)cc1C(=O)NC1CC[NH+](CC(N)=O)CC1,nitro
+60470,Modify the molecule CCC[C@@H]1CNc2c(C)[nH+]n(C)c2N1 by adding a benzene ring.,CCC[C@@H]1CNc2c(C)[nH+]n(C)c2N1,benzene ring
+167470,Please add a halo to the molecule CCC[NH2+]C1CC(C(=O)[O-])C1.,CCC[NH2+]C1CC(C(=O)[O-])C1,halo
+228639,Add a benzene ring to the molecule COC(=O)C1(C(=O)N2CCNC(=O)[C@@H]2c2ccc(F)cc2)CC1.,COC(=O)C1(C(=O)N2CCNC(=O)[C@@H]2c2ccc(F)cc2)CC1,benzene ring
+98323,Modify the molecule CC(C)CCC(=O)Nc1cc(-c2ccncc2)n[nH]1 by adding a aldehyde.,CC(C)CCC(=O)Nc1cc(-c2ccncc2)n[nH]1,aldehyde
+8441,Add a hydroxyl to the molecule CCc1nn(C)cc1C(=O)N[C@@H](C)c1c(Cl)ccc(F)c1Cl.,CCc1nn(C)cc1C(=O)N[C@@H](C)c1c(Cl)ccc(F)c1Cl,hydroxyl
+101001,Please add a aldehyde to the molecule C[C@H](c1ccc(-c2nc3c([nH]2)CC[NH2+]C3)cc1)N1CCOCC1.,C[C@H](c1ccc(-c2nc3c([nH]2)CC[NH2+]C3)cc1)N1CCOCC1,aldehyde
+37573,Add a halo to the molecule CC(C)(CCO)c1cc(Cl)sc1Cl.,CC(C)(CCO)c1cc(Cl)sc1Cl,halo
+102659,Modify the molecule C[NH+](Cc1cc(C(C)(C)C)n[nH]1)Cc1ncc[nH]1 by adding a amide.,C[NH+](Cc1cc(C(C)(C)C)n[nH]1)Cc1ncc[nH]1,amide
+93924,Modify the molecule C[NH+]1CCN(C(=O)Nc2cccc3ccccc23)[C@@H](c2ccccc2)C1 by adding a nitrile.,C[NH+]1CCN(C(=O)Nc2cccc3ccccc23)[C@@H](c2ccccc2)C1,nitrile
+80279,Modify the molecule CC(C)[NH+](C)Cc1ccccc1C/[NH+]=C(/N)N[C@@H]1CCOc2ccccc21 by adding a nitro.,CC(C)[NH+](C)Cc1ccccc1C/[NH+]=C(/N)N[C@@H]1CCOc2ccccc21,nitro
+111747,Add a benzene ring to the molecule Cc1ccc(NC(=O)Cn2ccc3ccccc32)c(N)c1.,Cc1ccc(NC(=O)Cn2ccc3ccccc32)c(N)c1,benzene ring
+27709,Please add a benzene ring to the molecule O=C(Nc1cccc(C[NH+]2CCN(C3CC3)C(=O)C2)c1)c1ccc(Cl)cc1.,O=C(Nc1cccc(C[NH+]2CCN(C3CC3)C(=O)C2)c1)c1ccc(Cl)cc1,benzene ring
+17217,Please add a amide to the molecule NC(=O)N1CCC[C@@H](C(=O)N[C@H]2CCSc3c(F)cccc32)C1.,NC(=O)N1CCC[C@@H](C(=O)N[C@H]2CCSc3c(F)cccc32)C1,amide
+158493,Add a amine to the molecule COc1ccccc1NC(=O)c1cc(C)n(Cc2ccccn2)c1C.,COc1ccccc1NC(=O)c1cc(C)n(Cc2ccccn2)c1C,amine
+61297,Add a amide to the molecule C#Cc1cccc(NC(=O)c2ccccc2S(=O)(=O)N(C)c2ccccc2)c1.,C#Cc1cccc(NC(=O)c2ccccc2S(=O)(=O)N(C)c2ccccc2)c1,amide
+204887,Please add a halo to the molecule CC[C@@]1(C)CCC[NH+](CCC(=O)Nc2ccccc2[N+](=O)[O-])C1.,CC[C@@]1(C)CCC[NH+](CCC(=O)Nc2ccccc2[N+](=O)[O-])C1,halo
+145546,Modify the molecule CN(C)C(=O)N(CCC[NH3+])C1CCCCC1 by adding a carboxyl.,CN(C)C(=O)N(CCC[NH3+])C1CCCCC1,carboxyl
+69355,Add a hydroxyl to the molecule CCN(CC)C(=O)c1ccc(NC(=O)[C@H]2CCC(=O)O2)cc1Cl.,CCN(CC)C(=O)c1ccc(NC(=O)[C@H]2CCC(=O)O2)cc1Cl,hydroxyl
+144088,Add a carboxyl to the molecule Cc1cnn([C@H](C)C2CC2)c1NC(=O)c1ccc(-c2ncn[nH]2)cc1.,Cc1cnn([C@H](C)C2CC2)c1NC(=O)c1ccc(-c2ncn[nH]2)cc1,carboxyl
+224491,Add a hydroxyl to the molecule C[C@H](NC(=O)c1ccc(Cl)cc1)C(=O)NCC1(O)CCCCC1.,C[C@H](NC(=O)c1ccc(Cl)cc1)C(=O)NCC1(O)CCCCC1,hydroxyl
+99894,Modify the molecule O=C([O-])c1cc(-c2ccccc2)c2c(n1)CCCC2=O by adding a carboxyl.,O=C([O-])c1cc(-c2ccccc2)c2c(n1)CCCC2=O,carboxyl
+29994,Modify the molecule CCc1cc(=O)[nH]c(-c2ccc(N[C@@H]3CCN(C(=O)OC)C3)nc2)n1 by adding a aldehyde.,CCc1cc(=O)[nH]c(-c2ccc(N[C@@H]3CCN(C(=O)OC)C3)nc2)n1,aldehyde
+223402,Please add a halo to the molecule Cc1ccc(S(=O)(=O)N2CCN(Cc3nonc3C)CC2)cc1.,Cc1ccc(S(=O)(=O)N2CCN(Cc3nonc3C)CC2)cc1,halo
+118264,Modify the molecule Cc1ccc(Cl)c2c1NC(=O)C2 by adding a hydroxyl.,Cc1ccc(Cl)c2c1NC(=O)C2,hydroxyl
+39244,Please add a hydroxyl to the molecule COc1ccc(C[C@](C)(O)CNC(=O)C(=O)Nc2ccccc2F)cc1.,COc1ccc(C[C@](C)(O)CNC(=O)C(=O)Nc2ccccc2F)cc1,hydroxyl
+239368,Please add a amide to the molecule CNC(=O)c1ccc(Cl)c(NC(=O)[C@@H](C[NH3+])CC(C)C)c1.,CNC(=O)c1ccc(Cl)c(NC(=O)[C@@H](C[NH3+])CC(C)C)c1,amide
+203210,Add a carboxyl to the molecule Cc1cc(C)n(Cc2ccc(C(=O)N3C[C@@H](C)OC[C@@H]3C)cc2)n1.,Cc1cc(C)n(Cc2ccc(C(=O)N3C[C@@H](C)OC[C@@H]3C)cc2)n1,carboxyl
+179694,Modify the molecule O=C(/C=C/c1ccc([N+](=O)[O-])cc1)NNC(=O)c1ccc(Cl)cc1Cl by adding a carboxyl.,O=C(/C=C/c1ccc([N+](=O)[O-])cc1)NNC(=O)c1ccc(Cl)cc1Cl,carboxyl
+82137,Please add a hydroxyl to the molecule Cc1ccc(/C(N)=N/O)c(SC2COC2)n1.,Cc1ccc(/C(N)=N/O)c(SC2COC2)n1,hydroxyl
+81692,Add a hydroxyl to the molecule CC1(C)CC[NH+](Cc2cccc(C#N)c2)C1.,CC1(C)CC[NH+](Cc2cccc(C#N)c2)C1,hydroxyl
+65561,Please add a benzene ring to the molecule Cc1nc(C)n(-c2ccccc2NC(=O)[C@@H]2COc3ccc(F)cc3C2)n1.,Cc1nc(C)n(-c2ccccc2NC(=O)[C@@H]2COc3ccc(F)cc3C2)n1,benzene ring
+137484,Add a benzene ring to the molecule CCOc1ccc2[nH]c(=O)c([C@@H](c3nnnn3Cc3ccccc3)[NH+]3CCc4ccccc4C3)cc2c1.,CCOc1ccc2[nH]c(=O)c([C@@H](c3nnnn3Cc3ccccc3)[NH+]3CCc4ccccc4C3)cc2c1,benzene ring
+22568,Please add a benzene ring to the molecule C[C@@H](Sc1nnc(C2CC2)n1C1CC1)C(=O)Nc1cccc2ccccc12.,C[C@@H](Sc1nnc(C2CC2)n1C1CC1)C(=O)Nc1cccc2ccccc12,benzene ring
+76882,Please add a aldehyde to the molecule O=C(/C=C/c1cnc2ccccc2n1)NCc1ccc(S(=O)(=O)N2CCCC2)cc1.,O=C(/C=C/c1cnc2ccccc2n1)NCc1ccc(S(=O)(=O)N2CCCC2)cc1,aldehyde
+69665,Add a hydroxyl to the molecule Cc1ccnn1[C@H](C)C(=O)N1CCC2(CC1)NC(=O)N(Cc1ccccc1)C2=O.,Cc1ccnn1[C@H](C)C(=O)N1CCC2(CC1)NC(=O)N(Cc1ccccc1)C2=O,hydroxyl
+81313,Modify the molecule CCCOC(=O)N1CC[C@]2(CCC[NH+](C/C=C/c3ccco3)C2)C1 by adding a benzene ring.,CCCOC(=O)N1CC[C@]2(CCC[NH+](C/C=C/c3ccco3)C2)C1,benzene ring
+125380,Modify the molecule CNc1ccc(Cl)cc1C(=O)NCC1C(C)(C)C1(C)C by adding a hydroxyl.,CNc1ccc(Cl)cc1C(=O)NCC1C(C)(C)C1(C)C,hydroxyl
+75646,Please add a hydroxyl to the molecule CCCC1=C(C(=O)OCC)[C@@H](c2cccc(C)c2)NC(=S)N1.,CCCC1=C(C(=O)OCC)[C@@H](c2cccc(C)c2)NC(=S)N1,hydroxyl
+193556,Add a nitro to the molecule CCSc1cncc(Sc2nnc(C3CC[NH2+]CC3)n2C(C)C)n1.,CCSc1cncc(Sc2nnc(C3CC[NH2+]CC3)n2C(C)C)n1,nitro
+8255,Add a carboxyl to the molecule O=C(Nc1c[nH]nc1-c1ccccn1)N1CC[C@H](CO)C1.,O=C(Nc1c[nH]nc1-c1ccccn1)N1CC[C@H](CO)C1,carboxyl
+140395,Modify the molecule COc1cc(OC)c(C(=O)N[C@@H]2CC(C)(C)Cc3oc(C)cc32)cc1OC by adding a amide.,COc1cc(OC)c(C(=O)N[C@@H]2CC(C)(C)Cc3oc(C)cc32)cc1OC,amide
+102122,Please add a amine to the molecule O=C(/C=C/c1ccccc1)Nc1nc(CC(=O)N2CCN(C(=O)[C@@H]3CCCO3)CC2)cs1.,O=C(/C=C/c1ccccc1)Nc1nc(CC(=O)N2CCN(C(=O)[C@@H]3CCCO3)CC2)cs1,amine
+69250,Please add a hydroxyl to the molecule Cn1ccc(NC(=O)N2CCC(c3ccc(F)cc3)CC2)n1.,Cn1ccc(NC(=O)N2CCC(c3ccc(F)cc3)CC2)n1,hydroxyl
+119325,Please add a hydroxyl to the molecule C[C@H]1CC(C(=O)N(CC[NH+](C)C)Cc2ccc(C#N)cc2)C[C@H](C)O1.,C[C@H]1CC(C(=O)N(CC[NH+](C)C)Cc2ccc(C#N)cc2)C[C@H](C)O1,hydroxyl
+102284,Modify the molecule COc1ccccc1N1C(N)=[NH+]C[C@@]1(C)c1ccccn1 by adding a carboxyl.,COc1ccccc1N1C(N)=[NH+]C[C@@]1(C)c1ccccn1,carboxyl
+60286,Add a halo to the molecule C[NH2+][C@H](CN1CCOCC1=O)c1ccc(C)c(C)c1.,C[NH2+][C@H](CN1CCOCC1=O)c1ccc(C)c(C)c1,halo
+218656,Add a amine to the molecule CN(C(=O)C1CC1)c1ccccc1C(=O)NNC(=O)Cc1ccc(F)cc1.,CN(C(=O)C1CC1)c1ccccc1C(=O)NNC(=O)Cc1ccc(F)cc1,amine
+145154,Modify the molecule Cn1c(SCC(=O)N2CC[NH+](Cc3ccccc3)CC2)nnc1-c1cccc([N+](=O)[O-])c1 by adding a benzene ring.,Cn1c(SCC(=O)N2CC[NH+](Cc3ccccc3)CC2)nnc1-c1cccc([N+](=O)[O-])c1,benzene ring
+103469,Modify the molecule Cc1nc(-c2ccc(NC(=O)c3cc4ccccc4oc3=O)cc2)cs1 by adding a nitro.,Cc1nc(-c2ccc(NC(=O)c3cc4ccccc4oc3=O)cc2)cs1,nitro
+218613,Please add a carboxyl to the molecule Cc1cnc2c(c1)[nH]c(=S)n2[C@H](C)Cc1ccc(C)s1.,Cc1cnc2c(c1)[nH]c(=S)n2[C@H](C)Cc1ccc(C)s1,carboxyl
+60903,Add a amine to the molecule C[C@H](NC(=O)C(=O)Nc1cccnc1Cl)[C@H]1CN(C)CCO1.,C[C@H](NC(=O)C(=O)Nc1cccnc1Cl)[C@H]1CN(C)CCO1,amine
+3555,Please add a amine to the molecule Cc1ccc(NC(=O)C2(c3ccc(F)cc3)CC2)cc1S(C)(=O)=O.,Cc1ccc(NC(=O)C2(c3ccc(F)cc3)CC2)cc1S(C)(=O)=O,amine
+222765,Modify the molecule O=C(Nc1ccc2[nH]ncc2c1)c1ccc([N+](=O)[O-])cc1F by adding a hydroxyl.,O=C(Nc1ccc2[nH]ncc2c1)c1ccc([N+](=O)[O-])cc1F,hydroxyl
+135595,Add a hydroxyl to the molecule C=CCn1c(=O)c2c(nc(N/N=C/c3cccc(OC)c3)n2C)n(C)c1=O.,C=CCn1c(=O)c2c(nc(N/N=C/c3cccc(OC)c3)n2C)n(C)c1=O,hydroxyl
+31210,Modify the molecule CS[C@H](CO)[C@H](C)NC(=O)N[C@@H](C)c1ccc(-c2cncnc2)cc1 by adding a halo.,CS[C@H](CO)[C@H](C)NC(=O)N[C@@H](C)c1ccc(-c2cncnc2)cc1,halo
+150758,Add a carboxyl to the molecule COC(=O)c1[nH]c(C)c(C(=O)Nc2ccc3c(C)n[nH]c3c2)c1C.,COC(=O)c1[nH]c(C)c(C(=O)Nc2ccc3c(C)n[nH]c3c2)c1C,carboxyl
+170042,Please add a hydroxyl to the molecule CC[C@](C)(C#N)[C@]1(O)CCC[NH+](C(C)C)CC1.,CC[C@](C)(C#N)[C@]1(O)CCC[NH+](C(C)C)CC1,hydroxyl
+163564,Please add a amine to the molecule C=CCn1c(=O)c2ccccc2n2c(SCC(=O)N(C)Cc3c(F)cccc3Cl)nnc12.,C=CCn1c(=O)c2ccccc2n2c(SCC(=O)N(C)Cc3c(F)cccc3Cl)nnc12,amine
+134666,Please add a carboxyl to the molecule Cn1ncc(C(=O)Nc2cccc(-c3ncc[nH]3)c2)c1-n1cccc1.,Cn1ncc(C(=O)Nc2cccc(-c3ncc[nH]3)c2)c1-n1cccc1,carboxyl
+49775,Modify the molecule CC[NH+](Cc1cc2cc(OC)ccc2[nH]c1=O)[C@@H]1CCS(=O)(=O)C1 by adding a amide.,CC[NH+](Cc1cc2cc(OC)ccc2[nH]c1=O)[C@@H]1CCS(=O)(=O)C1,amide
+152864,Modify the molecule CC[C@@H](NCc1cnc(C(C)(C)C)s1)c1nc(C(F)(F)F)cs1 by adding a benzene ring.,CC[C@@H](NCc1cnc(C(C)(C)C)s1)c1nc(C(F)(F)F)cs1,benzene ring
+1278,Add a halo to the molecule Clc1ccc(C2([NH2+]C3CCCC3)CCOCC2)cc1.,Clc1ccc(C2([NH2+]C3CCCC3)CCOCC2)cc1,halo
+228161,Modify the molecule C[C@@H](c1ccccc1F)N(C)C(=O)c1cn(Cc2cccnc2)nn1 by adding a carboxyl.,C[C@@H](c1ccccc1F)N(C)C(=O)c1cn(Cc2cccnc2)nn1,carboxyl
+164332,Add a amine to the molecule CC[NH+]1CCN(c2ccccc2NC(=O)CSc2nnc(-c3ccccc3F)o2)CC1.,CC[NH+]1CCN(c2ccccc2NC(=O)CSc2nnc(-c3ccccc3F)o2)CC1,amine
+183943,Modify the molecule NC(=O)[C@H]1COCCN1C(=O)Cc1csc(-c2cccc(F)c2)n1 by adding a amide.,NC(=O)[C@H]1COCCN1C(=O)Cc1csc(-c2cccc(F)c2)n1,amide
+111883,Add a hydroxyl to the molecule c1ccc(-c2nc(CNc3ccc(O[C@H]4CCOC4)cc3)no2)cc1.,c1ccc(-c2nc(CNc3ccc(O[C@H]4CCOC4)cc3)no2)cc1,hydroxyl
+68849,Modify the molecule Oc1ccc(Br)cc1/C=N/c1n[nH]c2ncccc12 by adding a carboxyl.,Oc1ccc(Br)cc1/C=N/c1n[nH]c2ncccc12,carboxyl
+143151,Modify the molecule CCN(C(=O)Cc1cc(C)[nH]n1)[C@@H]1CC[NH+]([C@@H](C)c2ccccc2)C1 by adding a nitro.,CCN(C(=O)Cc1cc(C)[nH]n1)[C@@H]1CC[NH+]([C@@H](C)c2ccccc2)C1,nitro
+79676,Modify the molecule C[C@@H](C1CC1)N(C)C(=O)N[C@H](C)c1ccc(NC(=O)NC2CC2)cc1 by adding a nitro.,C[C@@H](C1CC1)N(C)C(=O)N[C@H](C)c1ccc(NC(=O)NC2CC2)cc1,nitro
+197093,Add a benzene ring to the molecule O=C(NC1CCCCC1)[C@H]1C[C@H](O)CN1C(=O)Nc1ccccc1.,O=C(NC1CCCCC1)[C@H]1C[C@H](O)CN1C(=O)Nc1ccccc1,benzene ring
+77475,Please add a aldehyde to the molecule COc1ccc([C@@H]2C[C@H](C)[NH+](Cc3cnc(-c4cccnc4)s3)C2)cc1.,COc1ccc([C@@H]2C[C@H](C)[NH+](Cc3cnc(-c4cccnc4)s3)C2)cc1,aldehyde
+247404,Modify the molecule CCS(=O)(=O)N1CCCc2cc([N-]S(=O)(=O)c3cccc([N+](=O)[O-])c3)ccc21 by adding a aldehyde.,CCS(=O)(=O)N1CCCc2cc([N-]S(=O)(=O)c3cccc([N+](=O)[O-])c3)ccc21,aldehyde
+146987,Add a aldehyde to the molecule CC(C)NC(=O)NC[C@H]1C[C@H]2CC[NH+]1C[C@@H]2C[NH+]1CCN(c2ccc(F)cc2)CC1.,CC(C)NC(=O)NC[C@H]1C[C@H]2CC[NH+]1C[C@@H]2C[NH+]1CCN(c2ccc(F)cc2)CC1,aldehyde
+193661,Please add a amide to the molecule CN(C(=O)c1ccc[nH]c1=O)[C@@H]1CCc2ccccc2C1.,CN(C(=O)c1ccc[nH]c1=O)[C@@H]1CCc2ccccc2C1,amide
+74079,Add a hydroxyl to the molecule COc1ccc(NC(=O)c2ccccc2OCc2noc(C)n2)c(OC)c1.,COc1ccc(NC(=O)c2ccccc2OCc2noc(C)n2)c(OC)c1,hydroxyl
+146448,Modify the molecule CCC[NH+](C)C[C@@H]1CCN(Cc2c(C)nn(C)c2OC)C1 by adding a hydroxyl.,CCC[NH+](C)C[C@@H]1CCN(Cc2c(C)nn(C)c2OC)C1,hydroxyl
+3650,Please add a benzene ring to the molecule CNC(=O)c1ccc(CN(C)C(=O)c2cc(OC)ccc2O)cc1.,CNC(=O)c1ccc(CN(C)C(=O)c2cc(OC)ccc2O)cc1,benzene ring
+219971,Add a hydroxyl to the molecule N#CC1(C(=O)OC[C@H]2CCCCO2)CCCC1.,N#CC1(C(=O)OC[C@H]2CCCCO2)CCCC1,hydroxyl
+32329,Add a benzene ring to the molecule COc1cc(OC)c(-c2cnc(CNN(C)C)s2)cc1OC.,COc1cc(OC)c(-c2cnc(CNN(C)C)s2)cc1OC,benzene ring
+24185,Modify the molecule O=C(NCc1ccc2c(c1)OCO2)N1CCC(n2cccc2)CC1 by adding a benzene ring.,O=C(NCc1ccc2c(c1)OCO2)N1CCC(n2cccc2)CC1,benzene ring
+214154,Add a amide to the molecule Cn1cccc1[C@@H]1CCCCCN1C(=O)[C@@H]1C[C@@H]1c1ccccc1Cl.,Cn1cccc1[C@@H]1CCCCCN1C(=O)[C@@H]1C[C@@H]1c1ccccc1Cl,amide
+6483,Add a benzene ring to the molecule COC(=O)c1cc(NC(=O)CCc2nnc(-c3ccoc3C)o2)ccc1C.,COC(=O)c1cc(NC(=O)CCc2nnc(-c3ccoc3C)o2)ccc1C,benzene ring
+160374,Modify the molecule C[C@@H](CNc1ncccc1C#N)Oc1ccccc1 by adding a carboxyl.,C[C@@H](CNc1ncccc1C#N)Oc1ccccc1,carboxyl
+171340,Modify the molecule Cn1cc(C(=O)N2CCCC2)cc(NC(=O)CCc2ccccc2)c1=O by adding a nitro.,Cn1cc(C(=O)N2CCCC2)cc(NC(=O)CCc2ccccc2)c1=O,nitro
+74084,Add a benzene ring to the molecule COc1ccccc1NC(=O)C1=C(C)Nc2nnnn2[C@@H]1c1cc(Cl)ccc1OC(F)F.,COc1ccccc1NC(=O)C1=C(C)Nc2nnnn2[C@@H]1c1cc(Cl)ccc1OC(F)F,benzene ring
+73455,Please add a benzene ring to the molecule COc1ccc(N2CCN(c3ncnc4c5cc(OC)ccc5n(C)c34)C[C@H]2C)cc1.,COc1ccc(N2CCN(c3ncnc4c5cc(OC)ccc5n(C)c34)C[C@H]2C)cc1,benzene ring
+61168,Modify the molecule CC(=O)N1CCc2cc(S(=O)(=O)NC3CC[NH+](Cc4ccccc4)CC3)ccc21 by adding a benzene ring.,CC(=O)N1CCc2cc(S(=O)(=O)NC3CC[NH+](Cc4ccccc4)CC3)ccc21,benzene ring
+98774,Please add a nitro to the molecule Cc1cccc2c1=[NH+]C(=O)[C@@H](CN(C[C@@H]1CCCO1)C(=O)c1ccccc1F)C=2.,Cc1cccc2c1=[NH+]C(=O)[C@@H](CN(C[C@@H]1CCCO1)C(=O)c1ccccc1F)C=2,nitro
+183725,Modify the molecule CN(CC1=NC(=O)C2=C3CCC[C@@H]3SC2=N1)Cc1cccc(F)c1 by adding a amide.,CN(CC1=NC(=O)C2=C3CCC[C@@H]3SC2=N1)Cc1cccc(F)c1,amide
+28424,Add a nitrile to the molecule O=C(N[C@H]1C=C[C@H](C(=O)[O-])C1)c1ccc(Cl)cc1Cl.,O=C(N[C@H]1C=C[C@H](C(=O)[O-])C1)c1ccc(Cl)cc1Cl,nitrile
+191990,Please add a hydroxyl to the molecule CNC(=O)COc1ccc(NC(=O)c2c(Cl)cccc2Cl)cc1.,CNC(=O)COc1ccc(NC(=O)c2c(Cl)cccc2Cl)cc1,hydroxyl
+150059,Add a benzene ring to the molecule CCCc1nnc(Cn2nc(-c3ccco3)oc2=O)s1.,CCCc1nnc(Cn2nc(-c3ccco3)oc2=O)s1,benzene ring
+5262,Add a benzene ring to the molecule CC[C@H]1CCCCN1C(=O)Cn1cccc1-c1nc(-c2cccc(Cl)c2)no1.,CC[C@H]1CCCCN1C(=O)Cn1cccc1-c1nc(-c2cccc(Cl)c2)no1,benzene ring
+216385,Please add a amide to the molecule CCOC(=O)c1c(NC(=O)/C(C#N)=C/c2ccccc2)sc2c1CC[C@H](C)C2.,CCOC(=O)c1c(NC(=O)/C(C#N)=C/c2ccccc2)sc2c1CC[C@H](C)C2,amide
+177385,Modify the molecule Cc1ccc(CC[C@H](O)[C@H](C)c2ccccn2)cc1 by adding a hydroxyl.,Cc1ccc(CC[C@H](O)[C@H](C)c2ccccn2)cc1,hydroxyl
+181062,Please add a amine to the molecule [NH3+]C1CCN(Cc2cc(Cl)ccn2)CC1.,[NH3+]C1CCN(Cc2cc(Cl)ccn2)CC1,amine
+203358,Please add a hydroxyl to the molecule Cc1ccc(C(=O)NCC(=O)N2CCC3(CC2)OC[C@@H](C)O3)cc1C.,Cc1ccc(C(=O)NCC(=O)N2CCC3(CC2)OC[C@@H](C)O3)cc1C,hydroxyl
+86804,Please add a amide to the molecule CCC[NH+](C)C[C@H]1CCN(c2ccc(C(C)=O)cc2[N+](=O)[O-])C1.,CCC[NH+](C)C[C@H]1CCN(c2ccc(C(C)=O)cc2[N+](=O)[O-])C1,amide
+181847,Please add a amide to the molecule COc1cccc(CNC(=O)[C@@]2(C)CCCN(C(=O)Nc3cccc(Br)c3)C2)c1.,COc1cccc(CNC(=O)[C@@]2(C)CCCN(C(=O)Nc3cccc(Br)c3)C2)c1,amide
+174674,Please add a benzene ring to the molecule CC(=O)Nc1ccc([C@@H](O)C[NH+]2CCC3(CC2)C[C@@H](O)c2ccc4ccccc4c2O3)cc1.,CC(=O)Nc1ccc([C@@H](O)C[NH+]2CCC3(CC2)C[C@@H](O)c2ccc4ccccc4c2O3)cc1,benzene ring
+46077,Please add a hydroxyl to the molecule CC(C)c1ccc2c(c1)[C@@]1(CC(O)=Nc3c1cnn3Cc1ccc(Cl)cc1)C(=O)N2.,CC(C)c1ccc2c(c1)[C@@]1(CC(O)=Nc3c1cnn3Cc1ccc(Cl)cc1)C(=O)N2,hydroxyl
+126461,Please add a hydroxyl to the molecule CCCC(=O)N1CCC[C@@H]1C(=O)NNc1cc(C#N)cc(Cl)n1.,CCCC(=O)N1CCC[C@@H]1C(=O)NNc1cc(C#N)cc(Cl)n1,hydroxyl
+165516,Modify the molecule C[C@@H](NC(=O)Nc1cccc(N2CCCCCC2)c1)C(=O)NC(C)(C)C by adding a carboxyl.,C[C@@H](NC(=O)Nc1cccc(N2CCCCCC2)c1)C(=O)NC(C)(C)C,carboxyl
+24235,Add a benzene ring to the molecule CCOc1ccccc1CNC(=O)N(C1CC1)[C@@H](C)C1CC1.,CCOc1ccccc1CNC(=O)N(C1CC1)[C@@H](C)C1CC1,benzene ring
+29911,Modify the molecule COc1ccc2c(C)c(C(=O)N3CCc4cc(OC)c(OC)cc4C3)oc2c1 by adding a halo.,COc1ccc2c(C)c(C(=O)N3CCc4cc(OC)c(OC)cc4C3)oc2c1,halo
+170318,Modify the molecule Cc1c(/C=N/N=C2\CC[C@@H]3[C@H]4CCc5cc(O)ccc5[C@@H]4CC[C@]23C)cnn1C by adding a aldehyde.,Cc1c(/C=N/N=C2\CC[C@@H]3[C@H]4CCc5cc(O)ccc5[C@@H]4CC[C@]23C)cnn1C,aldehyde
+104150,Modify the molecule CCCCOc1ccc(CN2CCO[C@H](c3nc(C)cs3)C2)cc1 by adding a aldehyde.,CCCCOc1ccc(CN2CCO[C@H](c3nc(C)cs3)C2)cc1,aldehyde
+120799,Please add a hydroxyl to the molecule C[C@@H]1CN(C(=O)Nc2ccc(O)c(C(=O)[O-])c2)C[C@@H]1C.,C[C@@H]1CN(C(=O)Nc2ccc(O)c(C(=O)[O-])c2)C[C@@H]1C,hydroxyl
+210622,Add a hydroxyl to the molecule CCOc1ccc(O[C@@H](C)C(=O)NNC(=O)c2[nH]c3ccccc3c2Br)cc1.,CCOc1ccc(O[C@@H](C)C(=O)NNC(=O)c2[nH]c3ccccc3c2Br)cc1,hydroxyl
+130581,Please add a hydroxyl to the molecule O=[N+]([O-])c1c(Br)cccc1N1CCN(Cc2ccccc2)CC1.,O=[N+]([O-])c1c(Br)cccc1N1CCN(Cc2ccccc2)CC1,hydroxyl
+228990,Please add a benzene ring to the molecule CCN1CC[C@@]2(CCC1=O)C[C@@H](NC(=O)c1ccncc1)c1ccccc1O2.,CCN1CC[C@@]2(CCC1=O)C[C@@H](NC(=O)c1ccncc1)c1ccccc1O2,benzene ring
+15671,Please add a nitrile to the molecule CCN(CC)C(=O)N1CCc2cc(OC)c(OC)cc2[C@H]1c1cc2cc(C)cc(C)c2[nH]c1=O.,CCN(CC)C(=O)N1CCc2cc(OC)c(OC)cc2[C@H]1c1cc2cc(C)cc(C)c2[nH]c1=O,nitrile
+174193,Please add a hydroxyl to the molecule Cc1ccc(OCc2nc(CC(=O)N3C[C@@H](C)CC[C@@H]3C)cs2)cc1.,Cc1ccc(OCc2nc(CC(=O)N3C[C@@H](C)CC[C@@H]3C)cs2)cc1,hydroxyl
+30825,Modify the molecule Fc1ccc(-c2cc(-c3nnc4sc(-c5ccccc5)nn34)[nH]n2)cc1 by adding a thiol.,Fc1ccc(-c2cc(-c3nnc4sc(-c5ccccc5)nn34)[nH]n2)cc1,thiol
+8923,Please add a carboxyl to the molecule O=C(Nc1ccc(F)c(Cl)c1)N1CCN(Cc2ccccc2)c2ncccc21.,O=C(Nc1ccc(F)c(Cl)c1)N1CCN(Cc2ccccc2)c2ncccc21,carboxyl
+40678,Modify the molecule COC(=O)C[C@H]1Cn2ncnc2NC1=O by adding a nitro.,COC(=O)C[C@H]1Cn2ncnc2NC1=O,nitro
+73006,Modify the molecule C[NH+](C)Cc1cccc(NC(=O)N2CCC[C@H]2CCc2ccccc2)c1 by adding a nitro.,C[NH+](C)Cc1cccc(NC(=O)N2CCC[C@H]2CCc2ccccc2)c1,nitro
+120126,Add a amine to the molecule CC[NH+](CC)C(C)(C)C(=O)c1ccc(C(C)C)cc1.,CC[NH+](CC)C(C)(C)C(=O)c1ccc(C(C)C)cc1,amine
+57778,Modify the molecule Cc1ccc(C[NH+](CCCC#N)Cc2ccco2)s1 by adding a nitro.,Cc1ccc(C[NH+](CCCC#N)Cc2ccco2)s1,nitro
+128347,Modify the molecule CN(Cc1ccccc1F)C(=O)NCCc1c(F)cccc1F by adding a amine.,CN(Cc1ccccc1F)C(=O)NCCc1c(F)cccc1F,amine
+194572,Modify the molecule Cc1ccc(N2CCC[C@@H]([NH+]3CCC(CN4CCOCC4)CC3)C2=O)cc1 by adding a hydroxyl.,Cc1ccc(N2CCC[C@@H]([NH+]3CCC(CN4CCOCC4)CC3)C2=O)cc1,hydroxyl
+150497,Please add a carboxyl to the molecule COC(=O)c1nn(C[NH+](C)Cc2ccc(Cl)cc2)c(=O)c2noc(C)c12.,COC(=O)c1nn(C[NH+](C)Cc2ccc(Cl)cc2)c(=O)c2noc(C)c12,carboxyl
+152986,Please add a benzene ring to the molecule COC(=O)[C@@H](c1ccccc1)N1C(=O)/C(=C/c2ccc(C(=O)[O-])cc2)SC1=S.,COC(=O)[C@@H](c1ccccc1)N1C(=O)/C(=C/c2ccc(C(=O)[O-])cc2)SC1=S,benzene ring
+169428,Modify the molecule CC[C@@H]1CCC[C@](O)(Cc2[nH+]c3ccccc3n2C)CC1 by adding a amide.,CC[C@@H]1CCC[C@](O)(Cc2[nH+]c3ccccc3n2C)CC1,amide
+180602,Modify the molecule O=C(Nc1ccc(Br)cc1)c1ccc(CSC2=NCCS2)cc1 by adding a nitro.,O=C(Nc1ccc(Br)cc1)c1ccc(CSC2=NCCS2)cc1,nitro
+153449,Please add a halo to the molecule Cc1cc(CNC(=O)c2n[nH]c(C(C)C)n2)cc(C)c1F.,Cc1cc(CNC(=O)c2n[nH]c(C(C)C)n2)cc(C)c1F,halo
+31562,Modify the molecule CNc1nc(CNc2cc(C)[nH+]c3ccc(F)cc23)cs1 by adding a hydroxyl.,CNc1nc(CNc2cc(C)[nH+]c3ccc(F)cc23)cs1,hydroxyl
+95943,Modify the molecule CC1(C)C[NH2+]CCN1C(=O)N1CCOCC1 by adding a halo.,CC1(C)C[NH2+]CCN1C(=O)N1CCOCC1,halo
+84802,Please add a amide to the molecule CCOC(=O)[C@@H]1CC[C@H](NC(=O)c2cccc(-c3ccoc3)c2)C1.,CCOC(=O)[C@@H]1CC[C@H](NC(=O)c2cccc(-c3ccoc3)c2)C1,amide
+25688,Modify the molecule C[C@H]1CN([C@]2(C[NH3+])CCCC2(C)C)CCO1 by adding a hydroxyl.,C[C@H]1CN([C@]2(C[NH3+])CCCC2(C)C)CCO1,hydroxyl
+132790,Please add a hydroxyl to the molecule CCOc1ccc2nc(SC[C@H](C)/C(N)=N/O)[nH]c2c1.,CCOc1ccc2nc(SC[C@H](C)/C(N)=N/O)[nH]c2c1,hydroxyl
+107063,Modify the molecule CCOC(=O)c1cc(-c2ccc(C)c(C)c2)n(-c2ccc(C(=O)N3CCCCC3)cc2)n1 by adding a hydroxyl.,CCOC(=O)c1cc(-c2ccc(C)c(C)c2)n(-c2ccc(C(=O)N3CCCCC3)cc2)n1,hydroxyl
+200670,Add a amide to the molecule Cc1[nH]c2ccccc2c1CC(=O)N(Cc1cccnc1)C[C@@H]1CCCO1.,Cc1[nH]c2ccccc2c1CC(=O)N(Cc1cccnc1)C[C@@H]1CCCO1,amide
+156669,Please add a amide to the molecule Cc1cc(CN(C)C(=O)[C@@H]2[C@@H]3C=C[C@@]4(CN(Cc5ccc(C)c(C)c5)C(=O)[C@H]24)O3)on1.,Cc1cc(CN(C)C(=O)[C@@H]2[C@@H]3C=C[C@@]4(CN(Cc5ccc(C)c(C)c5)C(=O)[C@H]24)O3)on1,amide
+140638,Modify the molecule O=S(=O)(c1c[nH]c2ncccc12)N1CCN([C@@H]2CCCC[C@H]2O)CC1 by adding a hydroxyl.,O=S(=O)(c1c[nH]c2ncccc12)N1CCN([C@@H]2CCCC[C@H]2O)CC1,hydroxyl
+106317,Add a hydroxyl to the molecule CN[C@]1(C#N)CC[C@@H](Oc2ccc(C)cc2)C1.,CN[C@]1(C#N)CC[C@@H](Oc2ccc(C)cc2)C1,hydroxyl
+229203,Add a thiol to the molecule COc1ccccc1/C=C/C=C1\N=C(c2c(-c3ccccc3)noc2C)OC1=O.,COc1ccccc1/C=C/C=C1\N=C(c2c(-c3ccccc3)noc2C)OC1=O,thiol
+94194,Modify the molecule CC(C)c1ccc(Cn2c(CNC(=O)[C@@H]3CCCO3)nc3ccccc32)cc1 by adding a benzene ring.,CC(C)c1ccc(Cn2c(CNC(=O)[C@@H]3CCCO3)nc3ccccc32)cc1,benzene ring
+59552,Add a hydroxyl to the molecule Cc1ccc([C@@H](C)Nc2ccc3[nH]c(=O)[nH]c3c2)cc1F.,Cc1ccc([C@@H](C)Nc2ccc3[nH]c(=O)[nH]c3c2)cc1F,hydroxyl
+2472,Add a hydroxyl to the molecule Cn1nc(C(=O)NCc2ccco2)cc1NC(=O)Cc1ccccc1.,Cn1nc(C(=O)NCc2ccco2)cc1NC(=O)Cc1ccccc1,hydroxyl
+239103,Modify the molecule Cc1cc(CCC(=O)Nc2c(C(N)=O)n[nH]c2C)ccc1Br by adding a aldehyde.,Cc1cc(CCC(=O)Nc2c(C(N)=O)n[nH]c2C)ccc1Br,aldehyde
+187219,Please add a hydroxyl to the molecule Cn1ncnc1/N=C(\[O-])N1CCCC[C@@H]1c1nc(-c2ccccc2)no1.,Cn1ncnc1/N=C(\[O-])N1CCCC[C@@H]1c1nc(-c2ccccc2)no1,hydroxyl
+188159,Please add a amine to the molecule C#CCN1C(=O)S/C(=C/c2ccccc2OCc2ccc(C)cc2)C1=O.,C#CCN1C(=O)S/C(=C/c2ccccc2OCc2ccc(C)cc2)C1=O,amine
+119357,Modify the molecule CCc1ccc(-c2nc(CC(=O)N[C@@H](C)c3ccncc3)cs2)cc1 by adding a aldehyde.,CCc1ccc(-c2nc(CC(=O)N[C@@H](C)c3ccncc3)cs2)cc1,aldehyde
+143399,Add a benzene ring to the molecule CSc1ccc(Cl)c(C(=O)NCc2ccc3c(c2)=C2CCCC[C@H]2[NH+]=3)c1.,CSc1ccc(Cl)c(C(=O)NCc2ccc3c(c2)=C2CCCC[C@H]2[NH+]=3)c1,benzene ring
+131820,Add a carboxyl to the molecule COc1ccc(C[NH2+][C@@H](C)CO)c(OC)c1.,COc1ccc(C[NH2+][C@@H](C)CO)c(OC)c1,carboxyl
+129640,Modify the molecule CCCCOC(=O)Cc1nnc(=O)[nH]c1[O-] by adding a halo.,CCCCOC(=O)Cc1nnc(=O)[nH]c1[O-],halo
+155887,Add a carboxyl to the molecule Cc1cn2c([nH+]1)CC[C@@H](NS(=O)(=O)c1ccc(C(C)(C)C)s1)C2.,Cc1cn2c([nH+]1)CC[C@@H](NS(=O)(=O)c1ccc(C(C)(C)C)s1)C2,carboxyl
+49617,Add a hydroxyl to the molecule C[C@@H](C(=O)Nc1cccc(Cl)c1)[C@@H]1Sc2ccccc2NC1=O.,C[C@@H](C(=O)Nc1cccc(Cl)c1)[C@@H]1Sc2ccccc2NC1=O,hydroxyl
+115022,Add a benzene ring to the molecule CCC[C@@H]1[C@@H](C)CCCN1C(=O)/C=C/c1ccc(C(N)=O)cc1.,CCC[C@@H]1[C@@H](C)CCCN1C(=O)/C=C/c1ccc(C(N)=O)cc1,benzene ring
+74616,Add a amide to the molecule CC(C)(C)Oc1ccc(C(=O)NCC(=O)Nc2cccnc2)cc1.,CC(C)(C)Oc1ccc(C(=O)NCC(=O)Nc2cccnc2)cc1,amide
+171459,Add a carboxyl to the molecule CCc1nc2n(n1)CCC[C@@H]2NC(=O)N[C@H](c1ncccc1C)C(C)C.,CCc1nc2n(n1)CCC[C@@H]2NC(=O)N[C@H](c1ncccc1C)C(C)C,carboxyl
+237500,Please add a nitro to the molecule O=C(Nc1ccc(Br)cn1)c1ccc(Cn2cnc([N+](=O)[O-])n2)cc1.,O=C(Nc1ccc(Br)cn1)c1ccc(Cn2cnc([N+](=O)[O-])n2)cc1,nitro
+83597,Add a amide to the molecule COCCS(=O)(=O)NC[C@@H](O)c1c(Cl)cccc1Cl.,COCCS(=O)(=O)NC[C@@H](O)c1c(Cl)cccc1Cl,amide
+125145,Please add a benzene ring to the molecule CN([C@@H]1CCCc2ccccc21)S(=O)(=O)c1ccc2c(c1)OCCCO2.,CN([C@@H]1CCCc2ccccc21)S(=O)(=O)c1ccc2c(c1)OCCCO2,benzene ring
+63284,Please add a aldehyde to the molecule Cc1cc2nc(C(C)C)cc(N[C@@H](c3nc(C4CC4)no3)C(C)C)n2n1.,Cc1cc2nc(C(C)C)cc(N[C@@H](c3nc(C4CC4)no3)C(C)C)n2n1,aldehyde
+212440,Please add a carboxyl to the molecule CCOCc1ccc(CNC(=O)C[NH+]2CCCC2)cc1.,CCOCc1ccc(CNC(=O)C[NH+]2CCCC2)cc1,carboxyl
+163091,Modify the molecule CSc1ccc2nc(NC(=O)c3ccc(N4C(=O)CCC4=O)cc3)sc2c1 by adding a benzene ring.,CSc1ccc2nc(NC(=O)c3ccc(N4C(=O)CCC4=O)cc3)sc2c1,benzene ring
+129646,Modify the molecule Cc1ccc(NCc2ccnc(-n3ccnc3)c2)c([N+](=O)[O-])c1 by adding a aldehyde.,Cc1ccc(NCc2ccnc(-n3ccnc3)c2)c([N+](=O)[O-])c1,aldehyde
+111356,Please add a hydroxyl to the molecule O=C(CCc1nc(-c2ccncc2)no1)N[C@@H]1CCS(=O)(=O)C1.,O=C(CCc1nc(-c2ccncc2)no1)N[C@@H]1CCS(=O)(=O)C1,hydroxyl
+181498,Modify the molecule CC(C)OC(=O)N1CCC(NC(=O)c2nc(C3CC3)n3ccccc23)CC1 by adding a amine.,CC(C)OC(=O)N1CCC(NC(=O)c2nc(C3CC3)n3ccccc23)CC1,amine
+24728,Modify the molecule CC(C)(C)[C@@H](NC(=O)c1cc([N-]S(C)(=O)=O)ccc1O)c1cccs1 by adding a aldehyde.,CC(C)(C)[C@@H](NC(=O)c1cc([N-]S(C)(=O)=O)ccc1O)c1cccs1,aldehyde
+237443,Add a benzene ring to the molecule NC(=O)C1(NC(=O)c2nc(C3CC3)n3ccccc23)CC1.,NC(=O)C1(NC(=O)c2nc(C3CC3)n3ccccc23)CC1,benzene ring
+17491,Please add a benzene ring to the molecule Cc1ncc(C[NH+](C)CCn2c(=O)oc3ccccc32)s1.,Cc1ncc(C[NH+](C)CCn2c(=O)oc3ccccc32)s1,benzene ring
+26277,Please add a benzene ring to the molecule CCC[NH+]1CCC(N(C)C(=O)NC[C@H](C)C[NH+]2CCN(C)CC2)CC1.,CCC[NH+]1CCC(N(C)C(=O)NC[C@H](C)C[NH+]2CCN(C)CC2)CC1,benzene ring
+53064,Modify the molecule Cc1cccc(/C=N/c2ccccc2)c1 by adding a halo.,Cc1cccc(/C=N/c2ccccc2)c1,halo
+61784,Modify the molecule CC[NH+]1CCC[C@H]1CN(C)Cc1nnsc1NC by adding a halo.,CC[NH+]1CCC[C@H]1CN(C)Cc1nnsc1NC,halo
+97646,Modify the molecule CC(C)Nc1cc(-n2ccnc2)ncn1 by adding a halo.,CC(C)Nc1cc(-n2ccnc2)ncn1,halo
+31179,Modify the molecule CC(C)NC(=O)CN1CCN(C(=O)N[C@H](Cn2cncn2)c2ccccc2)CC1 by adding a hydroxyl.,CC(C)NC(=O)CN1CCN(C(=O)N[C@H](Cn2cncn2)c2ccccc2)CC1,hydroxyl
+10592,Please add a aldehyde to the molecule CC(=O)N(c1nccs1)C1CCCCC1.,CC(=O)N(c1nccs1)C1CCCCC1,aldehyde
+22774,Add a amide to the molecule COc1ccc(-n2nc(C)c3c2N=C(O)C[C@@H]3c2ccc(OCc3ccccc3F)c(OC)c2)cc1.,COc1ccc(-n2nc(C)c3c2N=C(O)C[C@@H]3c2ccc(OCc3ccccc3F)c(OC)c2)cc1,amide
+86448,Please add a benzene ring to the molecule O[C@H]1C[C@@H](c2cc(F)ccc2F)N(Cc2cnc(C3CC3)s2)C1.,O[C@H]1C[C@@H](c2cc(F)ccc2F)N(Cc2cnc(C3CC3)s2)C1,benzene ring
+244559,Add a aldehyde to the molecule CN(C)C(=O)N1CCC(C(=O)Nc2ccc(N(C)C3CCCCC3)c(F)c2)CC1.,CN(C)C(=O)N1CCC(C(=O)Nc2ccc(N(C)C3CCCCC3)c(F)c2)CC1,aldehyde
+137439,Add a amide to the molecule CC1CCN(S(=O)(=O)c2ccc(N3C[C@@H](C(=O)Nc4ccc(F)cc4)CC3=O)cc2)CC1.,CC1CCN(S(=O)(=O)c2ccc(N3C[C@@H](C(=O)Nc4ccc(F)cc4)CC3=O)cc2)CC1,amide
+45056,Add a amine to the molecule COC(=O)C1=C(C)NC2=C(C(=O)C[C@H](c3ccccc3OC)C2)[C@@H]1c1ccc(OC(C)=O)cc1.,COC(=O)C1=C(C)NC2=C(C(=O)C[C@H](c3ccccc3OC)C2)[C@@H]1c1ccc(OC(C)=O)cc1,amine
+28434,Modify the molecule CCC1(CC)CCN(c2nc(C)c(C(C)=O)s2)C1 by adding a carboxyl.,CCC1(CC)CCN(c2nc(C)c(C(C)=O)s2)C1,carboxyl
+150512,Please add a benzene ring to the molecule O=C1C[C@@H](C(=O)N2CCCCC[C@H]2c2ccncc2)CN1CC1CC1.,O=C1C[C@@H](C(=O)N2CCCCC[C@H]2c2ccncc2)CN1CC1CC1,benzene ring
+191806,Please add a amine to the molecule C[C@H]1SCCC[C@@]1(C[NH3+])N1CC[NH+](CC2CC2)CC1.,C[C@H]1SCCC[C@@]1(C[NH3+])N1CC[NH+](CC2CC2)CC1,amine
+172733,Add a benzene ring to the molecule O=C(C1=NC=C(c2csc(NC[C@H]3CCCO3)n2)C1)N1CCCC1.,O=C(C1=NC=C(c2csc(NC[C@H]3CCCO3)n2)C1)N1CCCC1,benzene ring
+227219,Modify the molecule CC[C@H](C)C[NH+](C)C[C@@H]1CCCC(C)(C)C1=O by adding a carboxyl.,CC[C@H](C)C[NH+](C)C[C@@H]1CCCC(C)(C)C1=O,carboxyl
+243248,Please add a halo to the molecule Cc1cc(NC(=O)[C@H](C)SCC(=O)Nc2ccccc2-c2nc3ccccc3s2)no1.,Cc1cc(NC(=O)[C@H](C)SCC(=O)Nc2ccccc2-c2nc3ccccc3s2)no1,halo
+218864,Please add a benzene ring to the molecule C[C@](Cl)(c1ccccc1)C1OCCO1.,C[C@](Cl)(c1ccccc1)C1OCCO1,benzene ring
+67790,Please add a aldehyde to the molecule CC[C@]1(C)Cc2nc3sc4c(=O)n(CCc5ccccc5)cnc4c3cc2CO1.,CC[C@]1(C)Cc2nc3sc4c(=O)n(CCc5ccccc5)cnc4c3cc2CO1,aldehyde
+198148,Modify the molecule CN(C(=O)Cc1c(F)cccc1Cl)[C@H]1CCc2ccccc21 by adding a benzene ring.,CN(C(=O)Cc1c(F)cccc1Cl)[C@H]1CCc2ccccc21,benzene ring
+207794,Modify the molecule Cc1cc(NC(=O)CCOC2CCOCC2)ncc1Br by adding a halo.,Cc1cc(NC(=O)CCOC2CCOCC2)ncc1Br,halo
+90622,Please add a amine to the molecule Cc1ccc(NC(=O)N[C@@H](C)c2ccc(C#N)cc2)c(Cl)c1.,Cc1ccc(NC(=O)N[C@@H](C)c2ccc(C#N)cc2)c(Cl)c1,amine
+198925,Modify the molecule COc1ccc([C@@H]2C[C@@H](c3ccc(C)c(C)c3)Nc3ncnn32)c(OC)c1OC by adding a halo.,COc1ccc([C@@H]2C[C@@H](c3ccc(C)c(C)c3)Nc3ncnn32)c(OC)c1OC,halo
+175256,Add a amide to the molecule CC(C)(C)c1ccc(OC[C@H](O)C[NH+]2CCC(CO)CC2)cc1.,CC(C)(C)c1ccc(OC[C@H](O)C[NH+]2CCC(CO)CC2)cc1,amide
+196233,Please add a amine to the molecule CC(=O)NCCNc1cc(C)[nH+]c(N2CCCCC2)n1.,CC(=O)NCCNc1cc(C)[nH+]c(N2CCCCC2)n1,amine
+12926,Please add a carboxyl to the molecule CCOC(=O)[C@]1(C#N)C(N)=C(C#N)C2=C(CCCC2)[C@H]1c1ccccc1.,CCOC(=O)[C@]1(C#N)C(N)=C(C#N)C2=C(CCCC2)[C@H]1c1ccccc1,carboxyl
+129750,Modify the molecule CCC[NH+](C1CC1)[C@H]1CCC[C@@H]1C#N by adding a nitro.,CCC[NH+](C1CC1)[C@H]1CCC[C@@H]1C#N,nitro
+111278,Add a amine to the molecule Cc1cc(C(=O)N[C@@H](C)c2ccc(C)c(C)c2)c(C)o1.,Cc1cc(C(=O)N[C@@H](C)c2ccc(C)c(C)c2)c(C)o1,amine
+130062,Modify the molecule Cc1cccc(C(=O)NC(=S)N2CCN(C)CC2)c1 by adding a benzene ring.,Cc1cccc(C(=O)NC(=S)N2CCN(C)CC2)c1,benzene ring
+172189,Please add a halo to the molecule C[C@H]1C[C@H](OCCOCCS)CC[C@H]1C.,C[C@H]1C[C@H](OCCOCCS)CC[C@H]1C,halo
+13141,Add a aldehyde to the molecule CN1CCN(C(=O)CSc2ccc(Cl)cc2)CC1.,CN1CCN(C(=O)CSc2ccc(Cl)cc2)CC1,aldehyde
+165063,Please add a nitro to the molecule O=S(=O)(c1cn[nH]c1)N1CCC[C@H](c2cccc(-c3cccc(F)c3)n2)C1.,O=S(=O)(c1cn[nH]c1)N1CCC[C@H](c2cccc(-c3cccc(F)c3)n2)C1,nitro
+16645,Please add a amide to the molecule CC1(C)[C@@H]([NH2+]Cc2cccnc2N2CCC[C@H](C(N)=O)C2)[C@@]2(C)CC[C@@H]1C2.,CC1(C)[C@@H]([NH2+]Cc2cccnc2N2CCC[C@H](C(N)=O)C2)[C@@]2(C)CC[C@@H]1C2,amide
+159290,Please add a amide to the molecule Cc1cc(C)c(C)c(S(=O)(=O)N2CCN(C(=O)Cc3cn4ccsc4n3)CC2)c1C.,Cc1cc(C)c(C)c(S(=O)(=O)N2CCN(C(=O)Cc3cn4ccsc4n3)CC2)c1C,amide
+8523,Add a halo to the molecule CCC[C@H](O)CNS(=O)(=O)N1CCCCCC1.,CCC[C@H](O)CNS(=O)(=O)N1CCCCCC1,halo
+3343,Please add a nitro to the molecule O=C(Nc1cccc(OC[C@H]2CCCO2)c1)N1CCC[C@@H](CO)C1.,O=C(Nc1cccc(OC[C@H]2CCCO2)c1)N1CCC[C@@H](CO)C1,nitro
+90299,Add a benzene ring to the molecule O=C([O-])c1cccnc1C(=O)Nc1ccc(Cl)cn1.,O=C([O-])c1cccnc1C(=O)Nc1ccc(Cl)cn1,benzene ring
+146244,Please add a carboxyl to the molecule CCOCCN(C)C(=O)c1ccc(Cl)cc1F.,CCOCCN(C)C(=O)c1ccc(Cl)cc1F,carboxyl
+125860,Please add a halo to the molecule O=C(c1cn[nH]c1-c1cccc(Br)c1)N1CCN(c2ncccn2)CC1.,O=C(c1cn[nH]c1-c1cccc(Br)c1)N1CCN(c2ncccn2)CC1,halo
+148247,Add a carboxyl to the molecule CC[C@H]1C[NH+](CC2CCN(C(=O)OC(C)(C)C)CC2)CCS1.,CC[C@H]1C[NH+](CC2CCN(C(=O)OC(C)(C)C)CC2)CCS1,carboxyl
+94153,Please add a hydroxyl to the molecule CN(c1nc(Cl)ncc1F)C1CCOCC1.,CN(c1nc(Cl)ncc1F)C1CCOCC1,hydroxyl
+199799,Please add a benzene ring to the molecule O=C(Cc1ccccc1NC(=O)c1cccc2ccoc12)NC1CCCC1.,O=C(Cc1ccccc1NC(=O)c1cccc2ccoc12)NC1CCCC1,benzene ring
+43260,Add a benzene ring to the molecule CCCNC(=O)c1ccc(NC(=O)C(=O)N[C@H]2CC=CCC2)cc1Cl.,CCCNC(=O)c1ccc(NC(=O)C(=O)N[C@H]2CC=CCC2)cc1Cl,benzene ring
+4420,Modify the molecule Cc1cc(F)ccc1/C=C1\SC(=S)N([C@H](C)[C@H]2CCCO2)C1=O by adding a halo.,Cc1cc(F)ccc1/C=C1\SC(=S)N([C@H](C)[C@H]2CCCO2)C1=O,halo
+133460,Please add a halo to the molecule Cc1cccc(C)c1C(=O)NCC(C)(C)c1ccncc1.,Cc1cccc(C)c1C(=O)NCC(C)(C)c1ccncc1,halo
+20446,Modify the molecule Cc1ccccc1[C@H]1CN(C(=O)NCc2cccc(OCC(F)F)n2)CCO1 by adding a hydroxyl.,Cc1ccccc1[C@H]1CN(C(=O)NCc2cccc(OCC(F)F)n2)CCO1,hydroxyl
+156415,Please add a hydroxyl to the molecule CC(=O)N[C@H]1C(=O)N(Cc2ccccc2Cl)c2ccccc21.,CC(=O)N[C@H]1C(=O)N(Cc2ccccc2Cl)c2ccccc21,hydroxyl
+164712,Please add a carboxyl to the molecule Cc1ccc(NC(=O)[C@@H]2N=NC3=C2CCc2ccccc23)cc1C.,Cc1ccc(NC(=O)[C@@H]2N=NC3=C2CCc2ccccc23)cc1C,carboxyl
+80627,Please add a benzene ring to the molecule COc1ccc([C@H](NC(=O)N2C[C@H]3CC=CC[C@H]3C2)C2CCOCC2)cc1.,COc1ccc([C@H](NC(=O)N2C[C@H]3CC=CC[C@H]3C2)C2CCOCC2)cc1,benzene ring
+60520,Please add a benzene ring to the molecule CS(=O)(=O)NCC[C@@H]1CCCC[NH+]1Cc1nnnn1C1CC1.,CS(=O)(=O)NCC[C@@H]1CCCC[NH+]1Cc1nnnn1C1CC1,benzene ring
+33550,Add a halo to the molecule C[C@H]1C[C@H](C)CN(S(=O)(=O)c2cccc(C(=O)NCCOc3ccccc3)c2)C1.,C[C@H]1C[C@H](C)CN(S(=O)(=O)c2cccc(C(=O)NCCOc3ccccc3)c2)C1,halo
+133396,Please add a hydroxyl to the molecule Cc1cc(NC(=O)[C@@H]2C[C@H]2c2ccccc2F)no1.,Cc1cc(NC(=O)[C@@H]2C[C@H]2c2ccccc2F)no1,hydroxyl
+51102,Modify the molecule O=C(CN1C(=O)S/C(=C\c2ccccc2)C1=O)N1CCN(CCO)CC1 by adding a hydroxyl.,O=C(CN1C(=O)S/C(=C\c2ccccc2)C1=O)N1CCN(CCO)CC1,hydroxyl
+243045,Add a halo to the molecule O=C(NCCc1ccco1)c1cc(NC(=O)C2CC2)n(-c2ccccc2)n1.,O=C(NCCc1ccco1)c1cc(NC(=O)C2CC2)n(-c2ccccc2)n1,halo

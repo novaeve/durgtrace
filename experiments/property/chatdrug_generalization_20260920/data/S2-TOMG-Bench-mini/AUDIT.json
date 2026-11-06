@@ -1,0 +1,60 @@
+{
+  "repo": "phenixace/S2-TOMG-Bench-mini",
+  "revision": "d453ec713ef9da38bc2426a6d1591f5ffe787b03",
+  "files": [
+    {
+      "file": "MolOpt_LogP.csv",
+      "bytes": 82622,
+      "sha256": "3eaa8ae35baadc857db95aa3cdac3864bfb8a0e2ca30a8f77af585dd4606268a",
+      "rows": 500,
+      "columns": [
+        "index",
+        "Instruction",
+        "molecule",
+        "logP"
+      ],
+      "example": {
+        "index": "190062",
+        "Instruction": "Please optimize the molecule CC(C)(C)OC(=O)Nc1cccc(CC(=O)Nc2cccnc2Cl)c1 to have a higher LogP value.",
+        "molecule": "CC(C)(C)OC(=O)Nc1cccc(CC(=O)Nc2cccnc2Cl)c1",
+        "logP": "4.263200000000003"
+      }
+    },
+    {
+      "file": "MolOpt_MR.csv",
+      "bytes": 82354,
+      "sha256": "73d391699f1840e3617b70822d9071c477a1ccf7144b85ff3bea2dd3af8cca14",
+      "rows": 500,
+      "columns": [
+        "index",
+        "Instruction",
+        "molecule",
+        "MR"
+      ],
+      "example": {
+        "index": "170246",
+        "Instruction": "Please optimize the molecule COc1cc(NS(=O)(=O)c2cc(Cl)ccc2C)ccc1NC(C)=O to have a higher MR value.",
+        "molecule": "COc1cc(NS(=O)(=O)c2cc(Cl)ccc2C)ccc1NC(C)=O",
+        "MR": "94.29520000000004"
+      }
+    },
+    {
+      "file": "MolOpt_QED.csv",
+      "bytes": 83607,
+      "sha256": "cf8288ca7ab0f2324d8f63e322981f5d39e650bd48613ebb1782efa2d08019f8",
+      "rows": 500,
+      "columns": [
+        "index",
+        "Instruction",
+        "molecule",
+        "QED"
+      ],
+      "example": {
+        "index": "42956",
+        "Instruction": "Please optimize the molecule N#Cc1ccc(-c2noc(/C=C/c3ccccc3OC(F)(F)F)n2)nc1 to have a lower QED value.",
+        "molecule": "N#Cc1ccc(-c2noc(/C=C/c3ccccc3OC(F)(F)F)n2)nc1",
+        "QED": "0.6988060821007962"
+      }
+    }
+  ]
+}

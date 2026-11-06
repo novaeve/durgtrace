@@ -1,0 +1,19 @@
+{
+  "time": 1791798002.7070963,
+  "cases": 4200,
+  "unique_cases_verified": true,
+  "frozen_native_cli_sources_jobs_scorer_verified": true,
+  "all_stored_scores_recomputed_equal": true,
+  "correct": 3591,
+  "accuracy": 0.855,
+  "statuses": {
+    "complete": 3807,
+    "timeout": 299,
+    "error": 66,
+    "provider_limit": 28
+  },
+  "recoverable_errors_pending": 0,
+  "model_calls_in_this_audit": 0,
+  "scientific_results_modified": 0,
+  "runtime_error_limit": "61 unexpected SIGKILL exits and5 HTTP400 errors are retained as failures; root causes are not fully confirmed"
+}

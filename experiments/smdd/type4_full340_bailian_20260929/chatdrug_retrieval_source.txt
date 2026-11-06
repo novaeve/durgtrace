@@ -1,0 +1,82 @@
+FILE /data2/chenfuxin/chatdrug_generalization_20260920/upstream/ChatDrug/utils.py
+milarity(fp0, fp1)
+    return sim
+
+
+def sim_sequence(task, SEQ1, SEQ2):
+    if task<300:
+        sim = sim_molecule(SEQ1,SEQ2)
+    else:
+        sim = Levenshtein.distance(SEQ1,SEQ2)
+    return sim
+
+
+def retrieve_and_feedback(task, DB, input_drug, generated_drug, constraint, threshold_dict):
+    sim_DB = DB.copy()
+    # sim_DB['sim']=[0]*len(DB)
+    sim_list = []
+    for index, row in sim_DB.iterrows():
+        smiles = row['sequence'].replace('\n','')
+        sim = sim_sequence(task, smiles, generated_drug)
+        sim_list.append(sim)
+        # sim_DB['sim'][index] = sim
+        # sim_DB.at[index,'sim']=sim
+    sim_DB['sim'] = sim_list
+    if task<300:
+        sim_DB = sim_DB.sort_values(by=['sim'],ascending=False)
+    else:
+        sim_DB = sim_DB.sort_values(by=['sim'])
+
+    for index, row in sim_DB.iterrows():
+        answer = evaluate(input_drug, row['sequence'].replace('\n',''), task, constraint, threshold_dict=threshold_dict)
+        if answer:
+            return row['sequence'].replace('\n','')
+    raise Exception("Sorry, Cannot fined a good one")
+
+
+def retrieve_and_feedback_fast_protein(task, sim_DB_dict, test_example_dict, input_drug, generated_drug):
+    sim_DB = list(sim_DB_dict.keys())
+    sim_DB_dict_output = {}
+    for instance in sim_DB:
+        sim = sim_sequence(task, instance, generated_drug)
+        sim_DB_dict_output[instance] = sim
+
+    sim_DB_list = sorted(sim_DB_dict_output.items(), key = lambda kv:(kv[1], kv[0]))
+
+    for output_sequence, sim in sim_DB_list:
+        answer = [sim_DB_dict[output_sequence]]>[test_example_dict[input_drug]]
+        if answer:
+            return output_sequence
+    raise Exception("Sorry, Cannot fined a good one")
+
+
+def generate_retrieval_dict(task, input_drug_list, DB, saved_file):
+    sim_DB = DB.copy()
+    sim_DB_list = sim_DB['sequence'].tolist()
+
+    device = "cuda"
+    chache_dir = "./data/protein/temp_pretrained_ProteinDT"
+    input_model_path = "./data/protein/pytorch_model_ss3.bin"
+    model = load_ProteinDT_model(input_model_path, chache_dir, mean_output=True, num_labels=3)
+    model = model.to(device)
+    tokenizer = BertTokenizerFast.from_pretrained("Rostlab/prot_bert_bfd", chache_dir=chache_dir, do_lower_case=False)
+
+    input_count_list = evaluate_fast_protein_dict(input_protein_list=sim_DB_list, task_id=task, device=device)
+    sim_DB_dict = dict(zip(sim_DB_list, input_count_list))
+    np.save(saved_file + '/sim_DB_dict_'+str(task)+'.npy', sim_DB_dict)
+
+    test_example_list = []
+    for input_drug in input_drug_list:
+        test_example_list.append(input_drug)
+    test_count_list = evaluate_fast_protein_dict(input_protein_list=test_example_list, task_id=task, device=device)
+    test_example_dict = dict(zip(test_example_list, test_count_list))
+    np.save(saved_file + '/test_example_dict_'+str(task)+'.npy', test_example_dict)
+    return sim_DB_dict, test_example_dict
+
+
+def fast_protein_dict(task, drug_type, fast_protein, input_drug_list, retrieval_DB):
+    if drug_type=='protein' and fast_protein:
+        sim_DB_dict, test_example_dict = generate_retrieval_dict(task, input_drug_list, retrieval_DB, './saved_fast_protein_dict')
+    else:
+        sim_DB_dict, test_example_dict = None, None
+    return sim_DB_dict, test_example_dict

@@ -1,0 +1,37 @@
+{
+  "expected": 1120,
+  "source_snapshot_time": 1791689874.6933742,
+  "selection": "Earliest completed truncated receipts within each reported setting/property count",
+  "groups": [
+    {
+      "setting": "1_original_chatdrug",
+      "property": "LogP",
+      "count": 15
+    },
+    {
+      "setting": "1_original_chatdrug",
+      "property": "QED",
+      "count": 322
+    },
+    {
+      "setting": "2_s2_prompt_chatdrug",
+      "property": "LogP",
+      "count": 283
+    },
+    {
+      "setting": "2_s2_prompt_chatdrug",
+      "property": "QED",
+      "count": 499
+    },
+    {
+      "setting": "3_original_s2",
+      "property": "LogP",
+      "count": 0
+    },
+    {
+      "setting": "3_original_s2",
+      "property": "QED",
+      "count": 1
+    }
+  ]
+}

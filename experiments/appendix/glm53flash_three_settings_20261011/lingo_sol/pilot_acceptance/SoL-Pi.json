@@ -1,0 +1,128 @@
+{
+  "accepted": true,
+  "episodes": 20,
+  "evidence": [
+    {
+      "id": "source_101_loose_000",
+      "setting": "1_original_chatdrug",
+      "status": "complete",
+      "real_responses": 3
+    },
+    {
+      "id": "source_101_strict_000",
+      "setting": "1_original_chatdrug",
+      "status": "complete",
+      "real_responses": 2
+    },
+    {
+      "id": "source_102_loose_000",
+      "setting": "1_original_chatdrug",
+      "status": "complete",
+      "real_responses": 2
+    },
+    {
+      "id": "source_102_strict_000",
+      "setting": "1_original_chatdrug",
+      "status": "complete",
+      "real_responses": 2
+    },
+    {
+      "id": "source_103_loose_000",
+      "setting": "1_original_chatdrug",
+      "status": "complete",
+      "real_responses": 11
+    },
+    {
+      "id": "source_103_strict_000",
+      "setting": "1_original_chatdrug",
+      "status": "complete",
+      "real_responses": 4
+    },
+    {
+      "id": "source_104_loose_000",
+      "setting": "1_original_chatdrug",
+      "status": "complete",
+      "real_responses": 3
+    },
+    {
+      "id": "source_104_strict_000",
+      "setting": "1_original_chatdrug",
+      "status": "complete",
+      "real_responses": 4
+    },
+    {
+      "id": "source_101_loose_000",
+      "setting": "2_s2_prompt_chatdrug",
+      "status": "complete",
+      "real_responses": 6
+    },
+    {
+      "id": "source_101_strict_000",
+      "setting": "2_s2_prompt_chatdrug",
+      "status": "complete",
+      "real_responses": 6
+    },
+    {
+      "id": "source_102_loose_000",
+      "setting": "2_s2_prompt_chatdrug",
+      "status": "complete",
+      "real_responses": 3
+    },
+    {
+      "id": "source_102_strict_000",
+      "setting": "2_s2_prompt_chatdrug",
+      "status": "complete",
+      "real_responses": 3
+    },
+    {
+      "id": "source_103_loose_000",
+      "setting": "2_s2_prompt_chatdrug",
+      "status": "complete",
+      "real_responses": 9
+    },
+    {
+      "id": "source_103_strict_000",
+      "setting": "2_s2_prompt_chatdrug",
+      "status": "complete",
+      "real_responses": 7
+    },
+    {
+      "id": "source_104_loose_000",
+      "setting": "2_s2_prompt_chatdrug",
+      "status": "complete",
+      "real_responses": 7
+    },
+    {
+      "id": "source_104_strict_000",
+      "setting": "2_s2_prompt_chatdrug",
+      "status": "complete",
+      "real_responses": 5
+    },
+    {
+      "id": "s2_LogP_190062",
+      "setting": "3_original_s2",
+      "status": "complete",
+      "real_responses": 3
+    },
+    {
+      "id": "s2_LogP_21467",
+      "setting": "3_original_s2",
+      "status": "complete",
+      "real_responses": 5
+    },
+    {
+      "id": "s2_QED_42956",
+      "setting": "3_original_s2",
+      "status": "complete",
+      "real_responses": 5
+    },
+    {
+      "id": "s2_QED_209835",
+      "setting": "3_original_s2",
+      "status": "complete",
+      "real_responses": 5
+    }
+  ],
+  "failures": [],
+  "time": 1791731818.4475713
+}

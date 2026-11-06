@@ -1,0 +1,38 @@
+{
+  "time": 1791858191.7055926,
+  "passed": true,
+  "tests": [
+    {
+      "time": 1791858180.682293,
+      "smiles": "CSc1ccc(S(=O)(=O)Nc2cccc(NC(C)=O)c2)cc1",
+      "seconds": 11.39,
+      "status": "success",
+      "properties": {
+        "aromatic_rings": 2,
+        "hba": 4,
+        "hbd": 2,
+        "heavy_atoms": 22,
+        "logp": 3.1677,
+        "molecular_weight": 336.06,
+        "rotatable_bonds": 5,
+        "tpsa": 75.27
+      }
+    },
+    {
+      "time": 1791858191.7049859,
+      "smiles": "CC(=O)Oc1ccccc1C(=O)O",
+      "seconds": 11.02,
+      "status": "success",
+      "properties": {
+        "aromatic_rings": 1,
+        "hba": 3,
+        "hbd": 1,
+        "heavy_atoms": 13,
+        "logp": 1.3101,
+        "molecular_weight": 180.04,
+        "rotatable_bonds": 2,
+        "tpsa": 63.6
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "started": true,
+  "groups": {
+    "type2": {
+      "expected": 25,
+      "preflight_passed": true,
+      "phase": "full",
+      "active_tasks": [
+        {
+          "task": "smdd_002_P00374_0",
+          "model_requests": 13
+        },
+        {
+          "task": "smdd_002_O75874_0",
+          "model_requests": 16
+        }
+      ],
+      "thinking": "off"
+    },
+    "type3": {
+      "expected": 52,
+      "preflight_passed": true,
+      "phase": "full",
+      "active_tasks": [
+        {
+          "task": "smdd_003_1JVP_1",
+          "model_requests": 8
+        }
+      ],
+      "thinking": "high"
+    }
+  },
+  "original_sources_unchanged": true,
+  "time": 1791293152.0967667
+}

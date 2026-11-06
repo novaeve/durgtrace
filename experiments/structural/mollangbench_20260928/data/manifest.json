@@ -1,0 +1,14 @@
+{
+  "repo": "ChemFM/MolLangBench",
+  "revision": "859cb8337b49c1d9646e504ca2813c49339c180f",
+  "files": {
+    "edit": {
+      "sha256": "e4ea547cac82eb8868a26e9d682a4a34fada9665025379c22c2f25ed0dfdfd5a",
+      "bytes": 15554859
+    },
+    "generation": {
+      "sha256": "9ea8201b2d3e2210f7a8fd9876b0b1253d31f14fe26c2c74c3b4fc70ac9e64d1",
+      "bytes": 7689755
+    }
+  }
+}

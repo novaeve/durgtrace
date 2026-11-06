@@ -1,0 +1,17 @@
+{
+  "time": 1791795485.8563364,
+  "phase": "running",
+  "assigned": 3760,
+  "processed": 61,
+  "active": 299,
+  "external_native": 80,
+  "actual_native": 379,
+  "queued": 3400,
+  "total_limit": 384,
+  "recent_api_errors": 0,
+  "resource_pressure": false,
+  "available_memory_gib": 1809.107292175293,
+  "load": 19.0,
+  "proxy_ok": true,
+  "execution_exceptions": []
+}

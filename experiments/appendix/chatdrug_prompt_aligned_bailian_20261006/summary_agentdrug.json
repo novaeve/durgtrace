@@ -1,0 +1,316 @@
+{
+  "updated_utc": "2026-10-06T13:27:10.541779+00:00",
+  "lane": "agentdrug",
+  "processed": {
+    "AgentDrug": 5600
+  },
+  "groups": [
+    {
+      "expected": 5600,
+      "processed": 5600,
+      "complete": 5600,
+      "success": 4101,
+      "method": "AgentDrug",
+      "group": "Total",
+      "success_rate_full_denominator": 0.7323214285714286
+    },
+    {
+      "expected": 800,
+      "processed": 800,
+      "complete": 800,
+      "success": 645,
+      "method": "AgentDrug",
+      "group": "LogP",
+      "success_rate_full_denominator": 0.80625
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 167,
+      "method": "AgentDrug",
+      "group": "101_loose",
+      "success_rate_full_denominator": 0.835
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 163,
+      "method": "AgentDrug",
+      "group": "101_strict",
+      "success_rate_full_denominator": 0.815
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 163,
+      "method": "AgentDrug",
+      "group": "102_loose",
+      "success_rate_full_denominator": 0.815
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 152,
+      "method": "AgentDrug",
+      "group": "102_strict",
+      "success_rate_full_denominator": 0.76
+    },
+    {
+      "expected": 800,
+      "processed": 800,
+      "complete": 800,
+      "success": 663,
+      "method": "AgentDrug",
+      "group": "QED",
+      "success_rate_full_denominator": 0.82875
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 183,
+      "method": "AgentDrug",
+      "group": "103_loose",
+      "success_rate_full_denominator": 0.915
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 139,
+      "method": "AgentDrug",
+      "group": "103_strict",
+      "success_rate_full_denominator": 0.695
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 174,
+      "method": "AgentDrug",
+      "group": "104_loose",
+      "success_rate_full_denominator": 0.87
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 167,
+      "method": "AgentDrug",
+      "group": "104_strict",
+      "success_rate_full_denominator": 0.835
+    },
+    {
+      "expected": 800,
+      "processed": 800,
+      "complete": 800,
+      "success": 676,
+      "method": "AgentDrug",
+      "group": "TPSA",
+      "success_rate_full_denominator": 0.845
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 175,
+      "method": "AgentDrug",
+      "group": "105_loose",
+      "success_rate_full_denominator": 0.875
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 166,
+      "method": "AgentDrug",
+      "group": "105_strict",
+      "success_rate_full_denominator": 0.83
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 167,
+      "method": "AgentDrug",
+      "group": "106_loose",
+      "success_rate_full_denominator": 0.835
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 168,
+      "method": "AgentDrug",
+      "group": "106_strict",
+      "success_rate_full_denominator": 0.84
+    },
+    {
+      "expected": 800,
+      "processed": 800,
+      "complete": 800,
+      "success": 426,
+      "method": "AgentDrug",
+      "group": "HBA_HBD",
+      "success_rate_full_denominator": 0.5325
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 96,
+      "method": "AgentDrug",
+      "group": "107_loose",
+      "success_rate_full_denominator": 0.48
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 88,
+      "method": "AgentDrug",
+      "group": "107_strict",
+      "success_rate_full_denominator": 0.44
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 131,
+      "method": "AgentDrug",
+      "group": "108_loose",
+      "success_rate_full_denominator": 0.655
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 111,
+      "method": "AgentDrug",
+      "group": "108_strict",
+      "success_rate_full_denominator": 0.555
+    },
+    {
+      "expected": 2400,
+      "processed": 2400,
+      "complete": 2400,
+      "success": 1691,
+      "method": "AgentDrug",
+      "group": "Dual",
+      "success_rate_full_denominator": 0.7045833333333333
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 157,
+      "method": "AgentDrug",
+      "group": "201_loose",
+      "success_rate_full_denominator": 0.785
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 144,
+      "method": "AgentDrug",
+      "group": "201_strict",
+      "success_rate_full_denominator": 0.72
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 136,
+      "method": "AgentDrug",
+      "group": "202_loose",
+      "success_rate_full_denominator": 0.68
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 117,
+      "method": "AgentDrug",
+      "group": "202_strict",
+      "success_rate_full_denominator": 0.585
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 161,
+      "method": "AgentDrug",
+      "group": "203_loose",
+      "success_rate_full_denominator": 0.805
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 156,
+      "method": "AgentDrug",
+      "group": "203_strict",
+      "success_rate_full_denominator": 0.78
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 131,
+      "method": "AgentDrug",
+      "group": "204_loose",
+      "success_rate_full_denominator": 0.655
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 103,
+      "method": "AgentDrug",
+      "group": "204_strict",
+      "success_rate_full_denominator": 0.515
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 149,
+      "method": "AgentDrug",
+      "group": "205_loose",
+      "success_rate_full_denominator": 0.745
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 125,
+      "method": "AgentDrug",
+      "group": "205_strict",
+      "success_rate_full_denominator": 0.625
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 158,
+      "method": "AgentDrug",
+      "group": "206_loose",
+      "success_rate_full_denominator": 0.79
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 154,
+      "method": "AgentDrug",
+      "group": "206_strict",
+      "success_rate_full_denominator": 0.77
+    }
+  ],
+  "errors": []
+}

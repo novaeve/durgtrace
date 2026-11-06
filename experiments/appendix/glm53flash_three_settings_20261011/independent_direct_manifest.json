@@ -1,0 +1,39 @@
+{
+  "model": "glm-5.3-flash",
+  "generation": "independent_single_response_no_harness",
+  "created": 1791684299.5617704,
+  "expected": 4200,
+  "workers": 16,
+  "jobs_sha256": "51920261683856cf9c2883005f20ed3b754a6af2e9c4e79d27d9975b7249b9c9",
+  "runner_sha256": "66daad88820a6459494ab1557cf3fdb01e3909706bc472ec4807d5603abefd22",
+  "official_upstream": "https://open.bigmodel.cn/api/paas/v4/chat/completions",
+  "transport": "CPU localhost credential/concurrency gateway; messages unchanged",
+  "request": {
+    "temperature": 0,
+    "reasoning_effort": "low",
+    "max_tokens": 2048,
+    "n": 1
+  },
+  "prompt": "Original case instruction plus a single-SMILES output-format instruction; no system message",
+  "output_rule": "\n\nReturn exactly one final molecule as a SMILES string and nothing else. Do not give explanations or alternative molecules.",
+  "tools": false,
+  "history": false,
+  "feedback": false,
+  "candidate_selection": false,
+  "response_reuse_from_other_methods": false,
+  "parse": "Trim whole response only; reject multiple tokens, markdown fences or non-SMILES; no extraction or repair",
+  "scientific_retry": false,
+  "evaluation": "Official S2 strict directional score, no amplitude or similarity threshold",
+  "transport_fix": "Retry connection refused only: request never connected; no scientific retry",
+  "output_budget_overrides": {
+    "approved_case_count": 1120,
+    "case_list": "/data/chenfuxin/glm53flash_three_settings_20261011/direct/uncapped_retry1120/jobs.json",
+    "case_list_sha256": "6a86930303af2aee8aa56f957cce46c167341aa2e96ce100a7201b7a6df708b6",
+    "run_id": "uncapped_retry1120_1791691225175093326",
+    "request_budget": "omit max_tokens and max_completion_tokens",
+    "reason": "User requested rerunning only the reported 1120 truncated cases",
+    "no_full_dataset_rerun": true,
+    "non_target_results_preserved": true,
+    "original_receipts_archive": "/data/chenfuxin/glm53flash_three_settings_20261011/direct/uncapped_retry1120/previous_capped_results"
+  }
+}

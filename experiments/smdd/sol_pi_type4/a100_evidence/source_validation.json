@@ -1,0 +1,46 @@
+{
+  "passed": true,
+  "commands": [
+    [
+      "git",
+      "status",
+      "--short",
+      "--branch"
+    ],
+    [
+      "git",
+      "rev-parse",
+      "HEAD"
+    ],
+    [
+      "/yimin/zlc/sol_pi_type4_20261004/node/bin/node",
+      "--version"
+    ],
+    [
+      "/yimin/zlc/sol_pi_type4_20261004/bin/npm",
+      "--version"
+    ],
+    [
+      "/yimin/zlc/sol_pi_type4_20261004/bin/npm",
+      "run",
+      "check"
+    ],
+    [
+      "/yimin/zlc/sol_pi_type4_20261004/bin/npm",
+      "audit",
+      "--audit-level=high"
+    ],
+    [
+      "/yimin/zlc/sol_pi_type4_20261004/node/bin/node",
+      "scripts/check-pi-compat.mjs"
+    ],
+    [
+      "/yimin/zlc/sol_pi_type4_20261004/node/bin/node",
+      "node_modules/vitest/vitest.mjs",
+      "run",
+      "tests/all-mechanisms.test.ts"
+    ]
+  ],
+  "runtime": "frozen Pi0.86.1 npm installation copied with full checkout; source untouched",
+  "time": 1791107100.1769865
+}

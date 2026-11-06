@@ -1,0 +1,80 @@
+{
+  "model": "glm-5.3-flash",
+  "method": "MolClaw",
+  "expected": 4200,
+  "settings": {
+    "1_original_chatdrug": 1600,
+    "2_s2_prompt_chatdrug": 1600,
+    "3_original_s2": 1000
+  },
+  "mode": "both",
+  "workers": 16,
+  "initialization": "Byte-identical to preceding GPT6-luna agent three-setting jobs.",
+  "evaluation": "Official S2 descriptors; no Kekulize, amplitude or similarity cutoff; score one final answer only.",
+  "native_runtime": "Frozen Claude Code, original upstream both-mode prompt builder, skills and strict SCP MCP config; native turn/token policies retained.",
+  "provider": "Official BigModel API via shared adaptive loopback gateway",
+  "reasoning_effort": "low",
+  "temperature": "Native CLI value retained; not overridden.",
+  "proxy_port": 18854,
+  "jobs_sha256": "51920261683856cf9c2883005f20ed3b754a6af2e9c4e79d27d9975b7249b9c9",
+  "common_sha256": "b5472772b9cd5295b1964a616448e8594c5daa8b0fd18da963692b0b60f7be1c",
+  "frozen_dependencies": {
+    "/data2/chenfuxin/molclaw_20260924/smoke_agent.py": "8c8851b4a09cea456e6f3ccffb87edb205d77022feb4bba789c943dc3c942336",
+    "/data2/chenfuxin/molclaw_20260924/benchmark_runner.py": "efe9e5c34b734a742a6dbebe81a216f5a9cc0c431dd8b7ba7de4b9a04e5b74ce",
+    "/data2/chenfuxin/molclaw_20260924/launch_proxy.py": "bde07350e22c4e9f7bb1b69a0db6def52bd41c8f0a3e79053ba3485c948c2d06",
+    "/data2/chenfuxin/molclaw_20260924/source/MolClaw-main/molclaw_run/infer/claude_agent/run_claude.py": "6dbe18799953e03b58ab6cfed96008a0164c6d0da42726255e0706ef88ba30b1"
+  },
+  "code_hashes": {
+    "setup.py": "a2e04ce4327be3bcd699760cf07a381369e80193c82ed41749a76a3daaea5845",
+    "claw_agent.py": "2c1ffa7693067e5344ae0b9057a1aadd13b17010487fcf9b4059c9c0f323866d",
+    "test_adapter.py": "15d227eba46c7f5f1e7194511bc447f8a959c933b7486b308316cef90b70f6f7",
+    "audit_callback.py": "318d1a5a8cd58add60a90976240381efa8b099fa4c5882868232e7b7a5f1cfab",
+    "common.py": "b5472772b9cd5295b1964a616448e8594c5daa8b0fd18da963692b0b60f7be1c",
+    "claw_native.py": "e6e75d63d67560774e373a3760006cb81de428c5a61fffa728474b5cea4147e6",
+    "launch_proxy.py": "9e29f8f6f1d80b15873ee2beaa0ab2b91bd1e9e4e5144a589ab0a92c8ccda53d",
+    "run.py": "6854d127e795b1ad5dec49d2072c3f3c2a500ca36bcb7261e839dcabfd11a090"
+  },
+  "reference_prompt_note": "Setting2 historical DeepSeek reference has five cycled S2 variants, current experiment uses preceding GPT6-luna uniform initialization.",
+  "source_manifest": {
+    "model": "glm-5.3-flash",
+    "method": "MolClaw",
+    "expected": 4200,
+    "settings": {
+      "1_original_chatdrug": 1600,
+      "2_s2_prompt_chatdrug": 1600,
+      "3_original_s2": 1000
+    },
+    "mode": "both",
+    "workers": 4,
+    "initialization": "Byte-identical to preceding GPT6-luna agent three-setting jobs.",
+    "evaluation": "Official S2 descriptors; no Kekulize, amplitude or similarity cutoff; score one final answer only.",
+    "native_runtime": "Frozen Claude Code, original upstream both-mode prompt builder, skills and strict SCP MCP config; native turn/token policies retained.",
+    "provider": "Separate loopback LiteLLM proxy to previously user-authorized tok.fan key; primary and lightweight Claude CLI models all glm-5.3-flash.",
+    "reasoning_effort": "none",
+    "temperature": "Native CLI value retained; not overridden.",
+    "proxy_port": 18746,
+    "jobs_sha256": "51920261683856cf9c2883005f20ed3b754a6af2e9c4e79d27d9975b7249b9c9",
+    "common_sha256": "b5472772b9cd5295b1964a616448e8594c5daa8b0fd18da963692b0b60f7be1c",
+    "frozen_dependencies": {
+      "/data2/chenfuxin/molclaw_20260924/smoke_agent.py": "8c8851b4a09cea456e6f3ccffb87edb205d77022feb4bba789c943dc3c942336",
+      "/data2/chenfuxin/molclaw_20260924/benchmark_runner.py": "efe9e5c34b734a742a6dbebe81a216f5a9cc0c431dd8b7ba7de4b9a04e5b74ce",
+      "/data2/chenfuxin/molclaw_20260924/launch_proxy.py": "bde07350e22c4e9f7bb1b69a0db6def52bd41c8f0a3e79053ba3485c948c2d06",
+      "/data2/chenfuxin/molclaw_20260924/source/MolClaw-main/molclaw_run/infer/claude_agent/run_claude.py": "6dbe18799953e03b58ab6cfed96008a0164c6d0da42726255e0706ef88ba30b1"
+    },
+    "code_hashes": {
+      "setup.py": "3bbc9975138d05465ae4febb9f5309548fbbc3f65a4d174eecf87a7ec1b0928c",
+      "common.py": "b5472772b9cd5295b1964a616448e8594c5daa8b0fd18da963692b0b60f7be1c",
+      "run.py": "9da0dc7bd4973990f7133aea53136420d2e71e5ca496bec5cd9a7f19d5f1becb",
+      "claw_agent.py": "fa3547b08f4fe7f5ed93a7cbaa7d921befeb9bbc805da4884f73d7a045f65a25",
+      "test_adapter.py": "75307fe9e9d06b2d9e4bb315b3c80b646430a346881af00957a636df85eb55c9",
+      "claw_native.py": "e6e75d63d67560774e373a3760006cb81de428c5a61fffa728474b5cea4147e6",
+      "audit_callback.py": "e7d63235209d93824829e2a6ce455857d788f0ef4129961180ccc0a371ece6c3",
+      "launch_proxy.py": "8dda7ffe2748bc44f30899dd5c669ac495e9ddaa4b3404f2f5798fc54728da76"
+    },
+    "reference_prompt_note": "Setting2 historical DeepSeek reference has five cycled S2 variants, current experiment uses preceding GPT6-luna uniform initialization."
+  },
+  "cpu_host": "159.138.92.174 (shared gateway only)",
+  "migration": "Only runtime paths, model/provider and concurrency changed; native parsers, budgets, cases and evaluation retained.",
+  "sandbox_migration": "SoL-Pi original frozen Bubblewrap sandbox; allowlisted read-only dependency mounts and private task workspace, keys hidden by host relay.",
+  "host": "123.157.219.189"
+}

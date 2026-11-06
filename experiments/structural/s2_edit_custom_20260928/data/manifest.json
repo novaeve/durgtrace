@@ -1,0 +1,30 @@
+{
+  "repository": "phenixace/S2-TOMG-Bench-mini",
+  "revision": "d453ec713ef9da38bc2426a6d1591f5ffe787b03",
+  "files": {
+    "MolEdit_AddComponent.csv": {
+      "sha256": "89c9faf72beb215a0fb6f10d15de090979563e3fe4d2ab6fc33b28813818bd5e",
+      "rows": 500
+    },
+    "MolEdit_DelComponent.csv": {
+      "sha256": "1cfed288708de9e69bbf8166a289bbc737e2115f628276dcfdbf11ef5a0a3cff",
+      "rows": 500
+    },
+    "MolEdit_SubComponent.csv": {
+      "sha256": "6821bbc03bfc5c380425447af8dec3ba043bb987f24b1ca390194d2378ec997c",
+      "rows": 500
+    },
+    "MolCustom_AtomNum.csv": {
+      "sha256": "fe3f1dd119398c2899850f68b8f4f9d0a3652bfcf021ad14640714e358bacda1",
+      "rows": 500
+    },
+    "MolCustom_BondNum.csv": {
+      "sha256": "c60999d56e21afdb2e077b3c26fb6f2f3c45806805866c7aa492f6f0593e8df9",
+      "rows": 500
+    },
+    "MolCustom_FunctionalGroup.csv": {
+      "sha256": "f8b0820e6eb45e1565432aa5682906fdbc5a2dd13a497972b7a966df64008e26",
+      "rows": 500
+    }
+  }
+}

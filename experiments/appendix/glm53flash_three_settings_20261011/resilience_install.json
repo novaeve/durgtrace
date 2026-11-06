@@ -1,0 +1,8 @@
+{
+  "side": "gpu",
+  "user_cron_installed": true,
+  "restart_if_watcher_dead_seconds": 60,
+  "boot_restart": true,
+  "unrelated_cron_preserved": true,
+  "time": 1791731785.38821
+}

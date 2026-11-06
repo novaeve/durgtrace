@@ -1,0 +1,27 @@
+[
+  {
+    "task": "albuterol_similarity",
+    "requests": 40,
+    "identical_task_only_requests": true
+  },
+  {
+    "task": "amlodipine_mpo",
+    "requests": 32,
+    "identical_task_only_requests": true
+  },
+  {
+    "task": "celecoxib_rediscovery",
+    "requests": 56,
+    "identical_task_only_requests": true
+  },
+  {
+    "task": "deco_hop",
+    "requests": 51,
+    "identical_task_only_requests": true
+  },
+  {
+    "task": "qed",
+    "requests": 3,
+    "identical_task_only_requests": true
+  }
+]

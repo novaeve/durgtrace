@@ -1,0 +1,14 @@
+{
+  "phase": "complete",
+  "processed": 1120,
+  "expected": 1120,
+  "workers": 16,
+  "run_id": "uncapped_retry1120_1791691225175093326",
+  "success": 780,
+  "statuses": {
+    "complete": 1115,
+    "provider_limit": 5
+  },
+  "output_budget": "provider_default_no_client_token_cap",
+  "time": 1791772384.4451122
+}

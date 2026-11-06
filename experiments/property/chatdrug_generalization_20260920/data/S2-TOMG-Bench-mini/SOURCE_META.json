@@ -1,0 +1,153 @@
+{
+  "_id": "69816184f11eace8fc8b5700",
+  "id": "phenixace/S2-TOMG-Bench-mini",
+  "author": "phenixace",
+  "sha": "d453ec713ef9da38bc2426a6d1591f5ffe787b03",
+  "lastModified": "2026-02-03T06:45:54.000Z",
+  "private": false,
+  "gated": false,
+  "disabled": false,
+  "tags": [
+    "language:en",
+    "license:apache-2.0",
+    "size_categories:1K<n<10K",
+    "format:csv",
+    "modality:tabular",
+    "modality:text",
+    "library:datasets",
+    "library:pandas",
+    "library:polars",
+    "library:mlcroissant",
+    "arxiv:2412.14642",
+    "region:us"
+  ],
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tS^2-Bench Dataset (TOMG) (mini version, 4.5k entries)\n\t\n\nOfficial Huggingface Datasets for S^2-Bench: \"Speak-to-Structure: Evaluating LLMs in Open-domain Natural Language-Driven Molecule Generation\"\nPlease refer to our Github Repo for more usage and useful information.\nThis mini version offers a choice for researchers with limited resources.\n\n\t\n\t\t\n\t\n\t\n\t\tConfigurations\n\t\n\nEach configuration represents a different task:\n\nMolCustom_AtomNum: Molecular customized generation by atom\u2026 See the full description on the dataset page: https://huggingface.co/datasets/phenixace/S2-TOMG-Bench-mini.",
+  "downloads": 156,
+  "likes": 2,
+  "cardData": {
+    "license": "apache-2.0",
+    "language": [
+      "en"
+    ],
+    "configs": [
+      {
+        "config_name": "MolCustom_AtomNum",
+        "data_files": [
+          {
+            "split": "test",
+            "path": "MolCustom_AtomNum.csv"
+          }
+        ]
+      },
+      {
+        "config_name": "MolCustom_BondNum",
+        "data_files": [
+          {
+            "split": "test",
+            "path": "MolCustom_BondNum.csv"
+          }
+        ]
+      },
+      {
+        "config_name": "MolCustom_FunctionalGroup",
+        "data_files": [
+          {
+            "split": "test",
+            "path": "MolCustom_FunctionalGroup.csv"
+          }
+        ]
+      },
+      {
+        "config_name": "MolEdit_AddComponent",
+        "data_files": [
+          {
+            "split": "test",
+            "path": "MolEdit_AddComponent.csv"
+          }
+        ]
+      },
+      {
+        "config_name": "MolEdit_SubComponent",
+        "data_files": [
+          {
+            "split": "test",
+            "path": "MolEdit_SubComponent.csv"
+          }
+        ]
+      },
+      {
+        "config_name": "MolEdit_DelComponent",
+        "data_files": [
+          {
+            "split": "test",
+            "path": "MolEdit_DelComponent.csv"
+          }
+        ]
+      },
+      {
+        "config_name": "MolOpt_LogP",
+        "data_files": [
+          {
+            "split": "test",
+            "path": "MolOpt_LogP.csv"
+          }
+        ]
+      },
+      {
+        "config_name": "MolOpt_MR",
+        "data_files": [
+          {
+            "split": "test",
+            "path": "MolOpt_MR.csv"
+          }
+        ]
+      },
+      {
+        "config_name": "MolOpt_QED",
+        "data_files": [
+          {
+            "split": "test",
+            "path": "MolOpt_QED.csv"
+          }
+        ]
+      }
+    ]
+  },
+  "siblings": [
+    {
+      "rfilename": ".gitattributes"
+    },
+    {
+      "rfilename": "MolCustom_AtomNum.csv"
+    },
+    {
+      "rfilename": "MolCustom_BondNum.csv"
+    },
+    {
+      "rfilename": "MolCustom_FunctionalGroup.csv"
+    },
+    {
+      "rfilename": "MolEdit_AddComponent.csv"
+    },
+    {
+      "rfilename": "MolEdit_DelComponent.csv"
+    },
+    {
+      "rfilename": "MolEdit_SubComponent.csv"
+    },
+    {
+      "rfilename": "MolOpt_LogP.csv"
+    },
+    {
+      "rfilename": "MolOpt_MR.csv"
+    },
+    {
+      "rfilename": "MolOpt_QED.csv"
+    },
+    {
+      "rfilename": "README.md"
+    }
+  ],
+  "createdAt": "2026-02-03T02:46:28.000Z",
+  "usedStorage": 278775
+}

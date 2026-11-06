@@ -1,0 +1,11 @@
+name: molecular-agents-property-scoring
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - rdkit=2022.09.4
+  - numpy=1.26.4
+  - scipy=1.13.1
+  - pandas=2.3.3
+  - requests
+  - pyyaml

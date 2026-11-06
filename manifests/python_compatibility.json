@@ -1,0 +1,11 @@
+[
+  {
+    "path": "experiments/property/molingo_20260922/upstream/toolset/autodockvina_docking.py",
+    "minimum_python": [
+      3,
+      12
+    ],
+    "sha256": "a5d50d1c4dc1f661aaa116bdf0ea4122fffaf695e72ab252f65da0a0d141e10f",
+    "reason": "Frozen upstream docking helper uses PEP 701 f-string syntax. It is not loaded by the single-molecule property benchmark adapter; preserve original source and use Python 3.12+ for that upstream module."
+  }
+]

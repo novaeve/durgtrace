@@ -1,0 +1,24 @@
+{
+  "method": "MolClaw",
+  "model": "deepseek-v4.1-flash",
+  "provider": "Alibaba Bailian",
+  "expected": 5600,
+  "reference": "/data2/chenfuxin/chatdrug_prompt_aligned_bailian_20261006",
+  "cases_sha256": "d118b671cfa62b74f5366eddbd2296e3c23fb7f0ac59f1ed49e4cb62aeefdccf",
+  "evaluation": "ChatDrug original evaluate_molecule with thresholds zero, original RDKit 2022.09.4; Kekulize retained",
+  "online_feedback": "Native baseline unchanged; neither method consumes benchmark evaluator score during generation",
+  "prompt": "Exact cases.json from existing ChatDrug/AgentDrug full5600 variant",
+  "workers": 16,
+  "maximum_workers": 24,
+  "native_baseline": "/data2/chenfuxin/molclaw_20260924",
+  "reuse_candidate_root": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw",
+  "no_chemistry_retries": true,
+  "source_hashes": {
+    "/data/chenfuxin/chatdrug_prompt_aligned_full4_bailian_20261011/molclaw/claw_agent.py": "cf0553dddce562a0aa5082769929937d1c69de027ee5b893c2ee9e224b020803",
+    "/data/chenfuxin/chatdrug_prompt_aligned_full4_bailian_20261011/molclaw/driver.py": "2f00e8f08edf2dd46b07754f014d00eb874ff1522aa92a5d615e8a7f1e75195c",
+    "/data/chenfuxin/chatdrug_prompt_aligned_full4_bailian_20261011/molclaw/common.py": "f024b91e297bb0eff21a2a80c1c4969db1add54dc4fe6dce7fc98777df2defc3",
+    "/data/chenfuxin/chatdrug_prompt_aligned_full4_bailian_20261011/molclaw/claw_native.py": "e6e75d63d67560774e373a3760006cb81de428c5a61fffa728474b5cea4147e6",
+    "/data/chenfuxin/chatdrug_prompt_aligned_full4_bailian_20261011/molclaw/launch_proxy.py": "4f9149de577d82495011da7b3a4c36bcd40a888dc8a3e8eedddef640b09e22df"
+  },
+  "created": 1791731404.2463088
+}

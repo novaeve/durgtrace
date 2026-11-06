@@ -1,0 +1,47 @@
+{
+  "seed": 20260920,
+  "model": "claude-opus-5",
+  "temperature": 0,
+  "feedback_rounds": 2,
+  "source_cases": 80,
+  "target_cases": 40,
+  "target_data": {
+    "LogP": {
+      "sha256": "3eaa8ae35baadc857db95aa3cdac3864bfb8a0e2ca30a8f77af585dd4606268a",
+      "rows": 500,
+      "pilot_rows": 20
+    },
+    "QED": {
+      "sha256": "cf8288ca7ab0f2324d8f63e322981f5d39e650bd48613ebb1782efa2d08019f8",
+      "rows": 500,
+      "pilot_rows": 20
+    }
+  },
+  "source_input_sha256": "6fa09f81402bebe7c14c12404c4c5edba5de32abf8d88f4f733485b992e79daa",
+  "corpus_sha256": "35e3f1a52b1badc0697e373d73a18ad773f415936ff992f4c6baa2e067b3e6ae",
+  "corpus_rows": 249455,
+  "excluded_unique_structures": 1200,
+  "removed_test_overlap_rows": 1200,
+  "invalid_corpus_rows": 0,
+  "duplicate_canonical_rows": 0,
+  "retrieval_rows": 10000,
+  "retrieval_sha256": "855c6268d4111f9a3b957b5b7ad33bc71c213d464484aa0f7aaddbdf2714f868",
+  "canonical_retrieval_test_overlap": 0,
+  "rdkit_version": "2022.09.4",
+  "numpy_version": "1.26.4",
+  "pandas_version": "2.2.3",
+  "upstream_source_sha256": {
+    "upstream/ChatDrug/main_ChatDrug.py": "70af6f5fa7c62d721d0dc798294a4ac672c671a1ce28ce9c0ce507932e500ba2",
+    "upstream/ChatDrug/utils.py": "de1ba9159934867fd14f7be03beaa3ec7ad755e165d0b0beb2bf1f4117cd171a",
+    "upstream/ChatDrug/ChatDrug/task_and_evaluation/small_molecule_editing.py": "343cab327297db6a84c51e9f92b6d8b00102b07d7753ff0835535b38100e3498",
+    "upstream/S2-TOMG-Bench/evaluate.py": "dc11355b5c276d3d2f9f706cbbfa43c949c4b54045d2385196113a880a246c57",
+    "upstream/S2-TOMG-Bench/utils/evaluation.py": "7fb4039bd7f71be83449158bdcaae50da85dcf8f5021985599c4c27ad74617f0"
+  },
+  "protocol_notes": [
+    "First LLM response shared across arms for paired comparison.",
+    "Upstream conversation/ReDF/parse retained; invalid cases remain in denominator.",
+    "No target training or hyperparameter selection.",
+    "Independent3 repeats deterministic-temperature requests; not a diverse-temperature search.",
+    "Full mini LogP/QED inputs and all original 200 inputs excluded from fixed retrieval corpus."
+  ]
+}

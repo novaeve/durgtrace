@@ -1,0 +1,8 @@
+{
+  "no_progress_seconds": 1200,
+  "active_seconds_cap": 3600,
+  "denominator": 5600,
+  "user_request": "Check normal runtime; skip unreasonably stalled cases and count them as failures",
+  "scope": "Remaining episodes only, measured from recovery; pause time excluded",
+  "reference": "clean_runtime_summary.json"
+}

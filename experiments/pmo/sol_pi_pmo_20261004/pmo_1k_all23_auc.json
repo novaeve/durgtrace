@@ -1,0 +1,224 @@
+{
+  "method": "sol-pi",
+  "model": "deepseek-v4.1-flash",
+  "budget": 1000,
+  "seeds": [
+    0
+  ],
+  "tasks": 23,
+  "completed": 6,
+  "all_tasks_completed": false,
+  "mean_auc_complete_tasks": 0.9589635762542618,
+  "sum_auc_all23": null,
+  "comparison": [
+    {
+      "task": "albuterol_similarity",
+      "sol_pi_status": "completed",
+      "sol_pi_submissions": 1000,
+      "sol_pi_auc": 0.9772247322807082,
+      "codex_status": "skipped_long_truncation",
+      "codex_submissions": 110,
+      "codex_auc": null
+    },
+    {
+      "task": "amlodipine_mpo",
+      "sol_pi_status": "skipped_stalled",
+      "sol_pi_submissions": 571,
+      "sol_pi_auc": null,
+      "codex_status": "skipped_long_truncation",
+      "codex_submissions": 618,
+      "codex_auc": null
+    },
+    {
+      "task": "celecoxib_rediscovery",
+      "sol_pi_status": "error",
+      "sol_pi_submissions": 1000,
+      "sol_pi_auc": 0.9718858293983894,
+      "codex_status": "skipped_long_truncation",
+      "codex_submissions": 550,
+      "codex_auc": null
+    },
+    {
+      "task": "deco_hop",
+      "sol_pi_status": "error",
+      "sol_pi_submissions": 1000,
+      "sol_pi_auc": 0.9664914455642278,
+      "codex_status": "skipped_long_truncation",
+      "codex_submissions": 457,
+      "codex_auc": null
+    },
+    {
+      "task": "drd2",
+      "sol_pi_status": "error",
+      "sol_pi_submissions": 1000,
+      "sol_pi_auc": 0.9865145767209884,
+      "codex_status": "validated_finished",
+      "codex_submissions": 1000,
+      "codex_auc": 0.9816804424027965
+    },
+    {
+      "task": "fexofenadine_mpo",
+      "sol_pi_status": "skipped_stalled",
+      "sol_pi_submissions": 482,
+      "sol_pi_auc": null,
+      "codex_status": "skipped_long_truncation",
+      "codex_submissions": 938,
+      "codex_auc": null
+    },
+    {
+      "task": "gsk3b",
+      "sol_pi_status": "error",
+      "sol_pi_submissions": 538,
+      "sol_pi_auc": null,
+      "codex_status": "validated_finished",
+      "codex_submissions": 1000,
+      "codex_auc": 0.5705645436507909
+    },
+    {
+      "task": "isomers_c7h8n2o2",
+      "sol_pi_status": "error",
+      "sol_pi_submissions": 5,
+      "sol_pi_auc": null,
+      "codex_status": "skipped_long_truncation",
+      "codex_submissions": 13,
+      "codex_auc": null
+    },
+    {
+      "task": "isomers_c9h10n2o2pf2cl",
+      "sol_pi_status": "completed",
+      "sol_pi_submissions": 1000,
+      "sol_pi_auc": 0.9912125210660541,
+      "codex_status": "validated_finished",
+      "codex_submissions": 1000,
+      "codex_auc": 0.9961498247656554
+    },
+    {
+      "task": "jnk3",
+      "sol_pi_status": "error",
+      "sol_pi_submissions": 1000,
+      "sol_pi_auc": 0.28225153571428796,
+      "codex_status": "skipped_long_truncation",
+      "codex_submissions": 404,
+      "codex_auc": null
+    },
+    {
+      "task": "median1",
+      "sol_pi_status": "error",
+      "sol_pi_submissions": 1000,
+      "sol_pi_auc": 0.37821465443645536,
+      "codex_status": "validated_finished",
+      "codex_submissions": 1000,
+      "codex_auc": 0.3973013092838726
+    },
+    {
+      "task": "median2",
+      "sol_pi_status": "error",
+      "sol_pi_submissions": 674,
+      "sol_pi_auc": null,
+      "codex_status": "validated_finished",
+      "codex_submissions": 1000,
+      "codex_auc": 0.30113065196594874
+    },
+    {
+      "task": "mestranol_similarity",
+      "sol_pi_status": "completed",
+      "sol_pi_submissions": 1000,
+      "sol_pi_auc": 0.9955367102230344,
+      "codex_status": "skipped_long_truncation",
+      "codex_submissions": 267,
+      "codex_auc": null
+    },
+    {
+      "task": "osimertinib_mpo",
+      "sol_pi_status": "error",
+      "sol_pi_submissions": 363,
+      "sol_pi_auc": null,
+      "codex_status": "validated_finished",
+      "codex_submissions": 1000,
+      "codex_auc": 0.8868888600493198
+    },
+    {
+      "task": "perindopril_mpo",
+      "sol_pi_status": "error",
+      "sol_pi_submissions": 1000,
+      "sol_pi_auc": 0.5017506407996788,
+      "codex_status": "validated_finished",
+      "codex_submissions": 1000,
+      "codex_auc": 0.5762218159886393
+    },
+    {
+      "task": "qed",
+      "sol_pi_status": "completed",
+      "sol_pi_submissions": 1000,
+      "sol_pi_auc": 0.9043959801046451,
+      "codex_status": "validated_finished",
+      "codex_submissions": 1000,
+      "codex_auc": 0.9374561855381369
+    },
+    {
+      "task": "ranolazine_mpo",
+      "sol_pi_status": "error",
+      "sol_pi_submissions": 144,
+      "sol_pi_auc": null,
+      "codex_status": "validated_finished",
+      "codex_submissions": 1000,
+      "codex_auc": 0.8662761018158558
+    },
+    {
+      "task": "scaffold_hop",
+      "sol_pi_status": "completed",
+      "sol_pi_submissions": 1000,
+      "sol_pi_auc": 0.9895945901508781,
+      "codex_status": "validated_finished",
+      "codex_submissions": 1000,
+      "codex_auc": 0.992785816906918
+    },
+    {
+      "task": "sitagliptin_mpo",
+      "sol_pi_status": "error",
+      "sol_pi_submissions": 15,
+      "sol_pi_auc": null,
+      "codex_status": "validated_finished",
+      "codex_submissions": 1000,
+      "codex_auc": 0.44869373390453154
+    },
+    {
+      "task": "thiothixene_rediscovery",
+      "sol_pi_status": "completed",
+      "sol_pi_submissions": 1000,
+      "sol_pi_auc": 0.8958169237002503,
+      "codex_status": "validated_finished",
+      "codex_submissions": 1000,
+      "codex_auc": 0.884887187587776
+    },
+    {
+      "task": "troglitazon_rediscovery",
+      "sol_pi_status": "error",
+      "sol_pi_submissions": 1000,
+      "sol_pi_auc": 0.8670039019020257,
+      "codex_status": "validated_finished",
+      "codex_submissions": 1000,
+      "codex_auc": 0.8695723555229845
+    },
+    {
+      "task": "valsartan_smarts",
+      "sol_pi_status": "error",
+      "sol_pi_submissions": 74,
+      "sol_pi_auc": null,
+      "codex_status": "skipped_long_truncation",
+      "codex_submissions": 138,
+      "codex_auc": null
+    },
+    {
+      "task": "zaleplon_mpo",
+      "sol_pi_status": "error",
+      "sol_pi_submissions": 1000,
+      "sol_pi_auc": 0.7084328654855101,
+      "codex_status": "skipped_long_truncation",
+      "codex_submissions": 1,
+      "codex_auc": null
+    }
+  ],
+  "generated": 1791112134.6383114,
+  "incomplete_tail_policy": "no fabricated tail"
+}

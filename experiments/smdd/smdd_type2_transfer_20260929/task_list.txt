@@ -1,0 +1,28 @@
+# SMDD-Bench Type 2 — Interaction Point Discovery
+# Fixed order for the fresh Claude full-benchmark run.
+# The first task is intentionally included again so this run is self-contained.
+smdd_002_P00374_0
+smdd_002_O75874_0
+smdd_002_P00742_0
+smdd_002_P00797_0
+smdd_002_P00918_0
+smdd_002_P03372_0
+smdd_002_P04150_0
+smdd_002_P07900_0
+smdd_002_P08684_0
+smdd_002_P10275_0
+smdd_002_P11473_0
+smdd_002_P12821_0
+smdd_002_P14061_0
+smdd_002_P18031_0
+smdd_002_P22303_0
+smdd_002_P24941_0
+smdd_002_P28482_0
+smdd_002_P42574_0
+smdd_002_P45452_0
+smdd_002_P55055_0
+smdd_002_P56817_0
+smdd_002_Q15910_0
+smdd_002_Q92769_0
+smdd_002_Q9BY41_0
+smdd_002_Q9Y6K1_0

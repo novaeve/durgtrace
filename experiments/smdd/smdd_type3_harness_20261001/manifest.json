@@ -1,0 +1,30 @@
+{
+  "methods": [
+    "molclaw",
+    "codex"
+  ],
+  "tasks": 52,
+  "model": "deepseek-v4.1-flash",
+  "enable_thinking": true,
+  "reasoning_effort": "high",
+  "temperature": 1,
+  "max_calls": 100,
+  "cumulative_token_budget": 10000000,
+  "per_call_output_cap": null,
+  "boltz_budget": 8,
+  "admet_budget": 15,
+  "seed": 42,
+  "official_commit": "359ef1d7c042b85fc1c544662b4fd6fb381f346f",
+  "source_hashes": {
+    "run.py": "940e285b362d6062775e70535fbc9ae35f51840abab04d39570b46663b2886d3",
+    "start.py": "078d27bdf837fc693fdfb0dcf6c915e40952e743bf2e459922114d3a8ecff966",
+    "launch_all.py": "200730ee271dd13d51fde4c090432043929828006b59e2e4c9ec838b3d2f8acd",
+    "score.py": "992c8afb946236c12f96a821258eab9f1e0ee68610b7ab3f4953cbbeb721cb21",
+    "verify.py": "ddb797c7668d21db0abecdb5e56d92ce55e36c30712fd1f36d0bfd3d6f2cdcc8"
+  },
+  "codex_sha256": "bbc3341e44c9ead340ed9570c17be936e37870f570751a941699ffd04d672827",
+  "codex_version": "codex-cli 0.149.0",
+  "molclaw_cli_version": "2.1.281 (Claude Code)",
+  "protocol": "\u5b9e\u9a8c\u534f\u8bae.md",
+  "preserve_existing_three_groups": true
+}

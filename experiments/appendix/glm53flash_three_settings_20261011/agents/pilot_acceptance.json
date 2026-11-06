@@ -1,0 +1,367 @@
+{
+  "accepted": true,
+  "episodes": 40,
+  "evidence": [
+    {
+      "method": "ChatDrug",
+      "setting": "1_original_chatdrug",
+      "id": "source_101_loose_000",
+      "status": "complete",
+      "real_model_calls": 1,
+      "native_caps_verified": true,
+      "initial_prompt_verified": true
+    },
+    {
+      "method": "AgentDrug",
+      "setting": "1_original_chatdrug",
+      "id": "source_101_loose_000",
+      "status": "complete",
+      "real_model_calls": 1,
+      "native_caps_verified": true,
+      "initial_prompt_verified": true
+    },
+    {
+      "method": "ChatDrug",
+      "setting": "1_original_chatdrug",
+      "id": "source_101_strict_000",
+      "status": "complete",
+      "real_model_calls": 2,
+      "native_caps_verified": true,
+      "initial_prompt_verified": true
+    },
+    {
+      "method": "AgentDrug",
+      "setting": "1_original_chatdrug",
+      "id": "source_101_strict_000",
+      "status": "complete",
+      "real_model_calls": 1,
+      "native_caps_verified": true,
+      "initial_prompt_verified": true
+    },
+    {
+      "method": "ChatDrug",
+      "setting": "1_original_chatdrug",
+      "id": "source_102_loose_000",
+      "status": "complete",
+      "real_model_calls": 1,
+      "native_caps_verified": true,
+      "initial_prompt_verified": true
+    },
+    {
+      "method": "AgentDrug",
+      "setting": "1_original_chatdrug",
+      "id": "source_102_loose_000",
+      "status": "complete",
+      "real_model_calls": 1,
+      "native_caps_verified": true,
+      "initial_prompt_verified": true
+    },
+    {
+      "method": "ChatDrug",
+      "setting": "1_original_chatdrug",
+      "id": "source_102_strict_000",
+      "status": "complete",
+      "real_model_calls": 1,
+      "native_caps_verified": true,
+      "initial_prompt_verified": true
+    },
+    {
+      "method": "AgentDrug",
+      "setting": "1_original_chatdrug",
+      "id": "source_102_strict_000",
+      "status": "complete",
+      "real_model_calls": 1,
+      "native_caps_verified": true,
+      "initial_prompt_verified": true
+    },
+    {
+      "method": "ChatDrug",
+      "setting": "1_original_chatdrug",
+      "id": "source_103_loose_000",
+      "status": "complete",
+      "real_model_calls": 2,
+      "native_caps_verified": true,
+      "initial_prompt_verified": true
+    },
+    {
+      "method": "AgentDrug",
+      "setting": "1_original_chatdrug",
+      "id": "source_103_loose_000",
+      "status": "complete",
+      "real_model_calls": 1,
+      "native_caps_verified": true,
+      "initial_prompt_verified": true
+    },
+    {
+      "method": "ChatDrug",
+      "setting": "1_original_chatdrug",
+      "id": "source_103_strict_000",
+      "status": "complete",
+      "real_model_calls": 1,
+      "native_caps_verified": true,
+      "initial_prompt_verified": true
+    },
+    {
+      "method": "AgentDrug",
+      "setting": "1_original_chatdrug",
+      "id": "source_103_strict_000",
+      "status": "complete",
+      "real_model_calls": 4,
+      "native_caps_verified": true,
+      "initial_prompt_verified": true
+    },
+    {
+      "method": "ChatDrug",
+      "setting": "1_original_chatdrug",
+      "id": "source_104_loose_000",
+      "status": "complete",
+      "real_model_calls": 1,
+      "native_caps_verified": true,
+      "initial_prompt_verified": true
+    },
+    {
+      "method": "AgentDrug",
+      "setting": "1_original_chatdrug",
+      "id": "source_104_loose_000",
+      "status": "complete",
+      "real_model_calls": 1,
+      "native_caps_verified": true,
+      "initial_prompt_verified": true
+    },
+    {
+      "method": "ChatDrug",
+      "setting": "1_original_chatdrug",
+      "id": "source_104_strict_000",
+      "status": "complete",
+      "real_model_calls": 1,
+      "native_caps_verified": true,
+      "initial_prompt_verified": true
+    },
+    {
+      "method": "AgentDrug",
+      "setting": "1_original_chatdrug",
+      "id": "source_104_strict_000",
+      "status": "complete",
+      "real_model_calls": 3,
+      "native_caps_verified": true,
+      "initial_prompt_verified": true
+    },
+    {
+      "method": "ChatDrug",
+      "setting": "2_s2_prompt_chatdrug",
+      "id": "source_101_loose_000",
+      "status": "complete",
+      "real_model_calls": 1,
+      "native_caps_verified": true,
+      "initial_prompt_verified": true
+    },
+    {
+      "method": "AgentDrug",
+      "setting": "2_s2_prompt_chatdrug",
+      "id": "source_101_loose_000",
+      "status": "complete",
+      "real_model_calls": 1,
+      "native_caps_verified": true,
+      "initial_prompt_verified": true
+    },
+    {
+      "method": "ChatDrug",
+      "setting": "2_s2_prompt_chatdrug",
+      "id": "source_101_strict_000",
+      "status": "complete",
+      "real_model_calls": 1,
+      "native_caps_verified": true,
+      "initial_prompt_verified": true
+    },
+    {
+      "method": "AgentDrug",
+      "setting": "2_s2_prompt_chatdrug",
+      "id": "source_101_strict_000",
+      "status": "complete",
+      "real_model_calls": 1,
+      "native_caps_verified": true,
+      "initial_prompt_verified": true
+    },
+    {
+      "method": "ChatDrug",
+      "setting": "2_s2_prompt_chatdrug",
+      "id": "source_102_loose_000",
+      "status": "complete",
+      "real_model_calls": 1,
+      "native_caps_verified": true,
+      "initial_prompt_verified": true
+    },
+    {
+      "method": "AgentDrug",
+      "setting": "2_s2_prompt_chatdrug",
+      "id": "source_102_loose_000",
+      "status": "complete",
+      "real_model_calls": 1,
+      "native_caps_verified": true,
+      "initial_prompt_verified": true
+    },
+    {
+      "method": "ChatDrug",
+      "setting": "2_s2_prompt_chatdrug",
+      "id": "source_102_strict_000",
+      "status": "complete",
+      "real_model_calls": 2,
+      "native_caps_verified": true,
+      "initial_prompt_verified": true
+    },
+    {
+      "method": "AgentDrug",
+      "setting": "2_s2_prompt_chatdrug",
+      "id": "source_102_strict_000",
+      "status": "complete",
+      "real_model_calls": 2,
+      "native_caps_verified": true,
+      "initial_prompt_verified": true
+    },
+    {
+      "method": "ChatDrug",
+      "setting": "2_s2_prompt_chatdrug",
+      "id": "source_103_loose_000",
+      "status": "complete",
+      "real_model_calls": 3,
+      "native_caps_verified": true,
+      "initial_prompt_verified": true
+    },
+    {
+      "method": "AgentDrug",
+      "setting": "2_s2_prompt_chatdrug",
+      "id": "source_103_loose_000",
+      "status": "complete",
+      "real_model_calls": 2,
+      "native_caps_verified": true,
+      "initial_prompt_verified": true
+    },
+    {
+      "method": "ChatDrug",
+      "setting": "2_s2_prompt_chatdrug",
+      "id": "source_103_strict_000",
+      "status": "complete",
+      "real_model_calls": 1,
+      "native_caps_verified": true,
+      "initial_prompt_verified": true
+    },
+    {
+      "method": "AgentDrug",
+      "setting": "2_s2_prompt_chatdrug",
+      "id": "source_103_strict_000",
+      "status": "complete",
+      "real_model_calls": 4,
+      "native_caps_verified": true,
+      "initial_prompt_verified": true
+    },
+    {
+      "method": "ChatDrug",
+      "setting": "2_s2_prompt_chatdrug",
+      "id": "source_104_loose_000",
+      "status": "complete",
+      "real_model_calls": 1,
+      "native_caps_verified": true,
+      "initial_prompt_verified": true
+    },
+    {
+      "method": "AgentDrug",
+      "setting": "2_s2_prompt_chatdrug",
+      "id": "source_104_loose_000",
+      "status": "complete",
+      "real_model_calls": 2,
+      "native_caps_verified": true,
+      "initial_prompt_verified": true
+    },
+    {
+      "method": "ChatDrug",
+      "setting": "2_s2_prompt_chatdrug",
+      "id": "source_104_strict_000",
+      "status": "complete",
+      "real_model_calls": 3,
+      "native_caps_verified": true,
+      "initial_prompt_verified": true
+    },
+    {
+      "method": "AgentDrug",
+      "setting": "2_s2_prompt_chatdrug",
+      "id": "source_104_strict_000",
+      "status": "complete",
+      "real_model_calls": 1,
+      "native_caps_verified": true,
+      "initial_prompt_verified": true
+    },
+    {
+      "method": "ChatDrug",
+      "setting": "3_original_s2",
+      "id": "s2_LogP_190062",
+      "status": "complete",
+      "real_model_calls": 1,
+      "native_caps_verified": true,
+      "initial_prompt_verified": true
+    },
+    {
+      "method": "AgentDrug",
+      "setting": "3_original_s2",
+      "id": "s2_LogP_190062",
+      "status": "complete",
+      "real_model_calls": 1,
+      "native_caps_verified": true,
+      "initial_prompt_verified": true
+    },
+    {
+      "method": "ChatDrug",
+      "setting": "3_original_s2",
+      "id": "s2_LogP_21467",
+      "status": "complete",
+      "real_model_calls": 1,
+      "native_caps_verified": true,
+      "initial_prompt_verified": true
+    },
+    {
+      "method": "AgentDrug",
+      "setting": "3_original_s2",
+      "id": "s2_LogP_21467",
+      "status": "complete",
+      "real_model_calls": 1,
+      "native_caps_verified": true,
+      "initial_prompt_verified": true
+    },
+    {
+      "method": "ChatDrug",
+      "setting": "3_original_s2",
+      "id": "s2_QED_42956",
+      "status": "complete",
+      "real_model_calls": 1,
+      "native_caps_verified": true,
+      "initial_prompt_verified": true
+    },
+    {
+      "method": "AgentDrug",
+      "setting": "3_original_s2",
+      "id": "s2_QED_42956",
+      "status": "complete",
+      "real_model_calls": 2,
+      "native_caps_verified": true,
+      "initial_prompt_verified": true
+    },
+    {
+      "method": "ChatDrug",
+      "setting": "3_original_s2",
+      "id": "s2_QED_209835",
+      "status": "complete",
+      "real_model_calls": 1,
+      "native_caps_verified": true,
+      "initial_prompt_verified": true
+    },
+    {
+      "method": "AgentDrug",
+      "setting": "3_original_s2",
+      "id": "s2_QED_209835",
+      "status": "complete",
+      "real_model_calls": 1,
+      "native_caps_verified": true,
+      "initial_prompt_verified": true
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,168 @@
+{
+  "accepted": true,
+  "episodes": 20,
+  "evidence": [
+    {
+      "id": "source_101_loose_000",
+      "setting": "1_original_chatdrug",
+      "status": "complete",
+      "provider_receipts": 6,
+      "model": "glm-5.3-flash",
+      "mcp_verified": true
+    },
+    {
+      "id": "source_101_strict_000",
+      "setting": "1_original_chatdrug",
+      "status": "complete",
+      "provider_receipts": 5,
+      "model": "glm-5.3-flash",
+      "mcp_verified": true
+    },
+    {
+      "id": "source_102_loose_000",
+      "setting": "1_original_chatdrug",
+      "status": "complete",
+      "provider_receipts": 4,
+      "model": "glm-5.3-flash",
+      "mcp_verified": true
+    },
+    {
+      "id": "source_102_strict_000",
+      "setting": "1_original_chatdrug",
+      "status": "complete",
+      "provider_receipts": 4,
+      "model": "glm-5.3-flash",
+      "mcp_verified": true
+    },
+    {
+      "id": "source_103_loose_000",
+      "setting": "1_original_chatdrug",
+      "status": "complete",
+      "provider_receipts": 5,
+      "model": "glm-5.3-flash",
+      "mcp_verified": true
+    },
+    {
+      "id": "source_103_strict_000",
+      "setting": "1_original_chatdrug",
+      "status": "complete",
+      "provider_receipts": 4,
+      "model": "glm-5.3-flash",
+      "mcp_verified": true
+    },
+    {
+      "id": "source_104_loose_000",
+      "setting": "1_original_chatdrug",
+      "status": "complete",
+      "provider_receipts": 4,
+      "model": "glm-5.3-flash",
+      "mcp_verified": true
+    },
+    {
+      "id": "source_104_strict_000",
+      "setting": "1_original_chatdrug",
+      "status": "complete",
+      "provider_receipts": 6,
+      "model": "glm-5.3-flash",
+      "mcp_verified": true
+    },
+    {
+      "id": "source_101_loose_000",
+      "setting": "2_s2_prompt_chatdrug",
+      "status": "complete",
+      "provider_receipts": 7,
+      "model": "glm-5.3-flash",
+      "mcp_verified": true
+    },
+    {
+      "id": "source_101_strict_000",
+      "setting": "2_s2_prompt_chatdrug",
+      "status": "complete",
+      "provider_receipts": 6,
+      "model": "glm-5.3-flash",
+      "mcp_verified": true
+    },
+    {
+      "id": "source_102_loose_000",
+      "setting": "2_s2_prompt_chatdrug",
+      "status": "complete",
+      "provider_receipts": 7,
+      "model": "glm-5.3-flash",
+      "mcp_verified": true
+    },
+    {
+      "id": "source_102_strict_000",
+      "setting": "2_s2_prompt_chatdrug",
+      "status": "complete",
+      "provider_receipts": 5,
+      "model": "glm-5.3-flash",
+      "mcp_verified": true
+    },
+    {
+      "id": "source_103_loose_000",
+      "setting": "2_s2_prompt_chatdrug",
+      "status": "complete",
+      "provider_receipts": 7,
+      "model": "glm-5.3-flash",
+      "mcp_verified": true
+    },
+    {
+      "id": "source_103_strict_000",
+      "setting": "2_s2_prompt_chatdrug",
+      "status": "complete",
+      "provider_receipts": 10,
+      "model": "glm-5.3-flash",
+      "mcp_verified": true
+    },
+    {
+      "id": "source_104_loose_000",
+      "setting": "2_s2_prompt_chatdrug",
+      "status": "complete",
+      "provider_receipts": 5,
+      "model": "glm-5.3-flash",
+      "mcp_verified": true
+    },
+    {
+      "id": "source_104_strict_000",
+      "setting": "2_s2_prompt_chatdrug",
+      "status": "complete",
+      "provider_receipts": 10,
+      "model": "glm-5.3-flash",
+      "mcp_verified": true
+    },
+    {
+      "id": "s2_LogP_190062",
+      "setting": "3_original_s2",
+      "status": "complete",
+      "provider_receipts": 6,
+      "model": "glm-5.3-flash",
+      "mcp_verified": true
+    },
+    {
+      "id": "s2_LogP_21467",
+      "setting": "3_original_s2",
+      "status": "complete",
+      "provider_receipts": 4,
+      "model": "glm-5.3-flash",
+      "mcp_verified": true
+    },
+    {
+      "id": "s2_QED_42956",
+      "setting": "3_original_s2",
+      "status": "complete",
+      "provider_receipts": 7,
+      "model": "glm-5.3-flash",
+      "mcp_verified": true
+    },
+    {
+      "id": "s2_QED_209835",
+      "setting": "3_original_s2",
+      "status": "complete",
+      "provider_receipts": 6,
+      "model": "glm-5.3-flash",
+      "mcp_verified": true
+    }
+  ],
+  "failures": [],
+  "time": 1791731849.9928703
+}

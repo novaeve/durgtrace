@@ -1,0 +1,24 @@
+{
+  "argv": [
+    "/yimin/zlc/molclaw_type4_20261003/rootfs/opt/conda/bin/python",
+    "-m",
+    "boltz.main",
+    "predict",
+    "/yimin/zlc/sol_pi_type4_20261004/runs/solpi/smdd_004_A2A_Adenosine_0/workspace/boltz_call_1.yaml",
+    "--out_dir",
+    "/yimin/zlc/sol_pi_type4_20261004/runs/solpi/smdd_004_A2A_Adenosine_0/workspace/boltz_results/call_1",
+    "--cache",
+    "/yimin/zlc/molclaw_type4_20261003/boltz_cache",
+    "--use_msa_server",
+    "--use_potentials",
+    "--diffusion_samples",
+    "10",
+    "--seed",
+    "42",
+    "--diffusion_samples_affinity",
+    "10",
+    "--max_parallel_samples",
+    "1"
+  ],
+  "gpu": 0
+}

@@ -1,0 +1,1022 @@
+{
+  "paper_title": "When Do Molecular Agents Transfer? A Cross-Task Evaluation of Specialized and General-Purpose Workflows",
+  "paper_sha256": "ad03ceab9d8d0c7d0e44e2b1e8468daa06708c2131f8eb2f94589aae9a47b26e",
+  "tables": [
+    {
+      "id": "table_2",
+      "pdf_page": 4,
+      "headers": [
+        "Method",
+        "CD28",
+        "S2_MolOpt",
+        "S2_MolEdit",
+        "MLB_Editing",
+        "S2_MolCustom",
+        "MLB_Generation"
+      ],
+      "rows": [
+        [
+          "Baseline",
+          "29.20",
+          "63.13",
+          "53.60",
+          "72.50",
+          "21.33",
+          "39.75"
+        ],
+        [
+          "ChatDrug",
+          "64.23",
+          "82.33",
+          "80.07",
+          "48.00",
+          "21.93",
+          "18.75"
+        ],
+        [
+          "AgentDrug",
+          "69.13",
+          "88.47",
+          "79.20",
+          "51.00",
+          "50.80",
+          "19.75"
+        ],
+        [
+          "MolLingo",
+          "64.61",
+          "88.00",
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          "MolClaw",
+          "55.16",
+          "96.93",
+          "91.73",
+          "81.25",
+          "61.87",
+          "50.25"
+        ],
+        [
+          "SoL-Pi",
+          "72.70",
+          "90.40",
+          "95.40",
+          "83.25",
+          "57.13",
+          "63.50"
+        ],
+        [
+          "Codex",
+          "60.89",
+          "87.40",
+          "91.13",
+          "75.75",
+          "67.47",
+          "36.50"
+        ]
+      ],
+      "note": "Success rates in percent. Missing cells are unreported, never zero.",
+      "source": "submitted PDF; transcribed and checked",
+      "status": "reported_values_not_recomputed_from_raw_runs"
+    },
+    {
+      "id": "table_3",
+      "pdf_page": 4,
+      "headers": [
+        "Method",
+        "SMDD2_point_percent",
+        "SMDD3_success_percent",
+        "SMDD4_success_percent",
+        "PMO_mean_top10_AUC"
+      ],
+      "rows": [
+        [
+          "Baseline",
+          "40.00",
+          "13.46",
+          "52.94",
+          "0.426"
+        ],
+        [
+          "ChatDrug",
+          "13.33",
+          "1.92",
+          "2.35",
+          "0.254"
+        ],
+        [
+          "AgentDrug",
+          "9.33",
+          "1.92",
+          "2.06",
+          "0.360"
+        ],
+        [
+          "MolClaw",
+          "25.33",
+          "17.31",
+          "41.76",
+          "0.758"
+        ],
+        [
+          "LIDDIA",
+          null,
+          "0.00",
+          "9.71",
+          null
+        ],
+        [
+          "SoL-Pi",
+          "33.33",
+          "7.69",
+          "56.18",
+          "0.789"
+        ],
+        [
+          "Codex",
+          "44.00",
+          "13.46",
+          "52.35",
+          "0.759"
+        ]
+      ],
+      "note": "Type2 denominator=75 points; Type3=52; Type4=340; PMO=23 objectives, seed0, 1000 logical submissions.",
+      "source": "submitted PDF; transcribed and checked",
+      "status": "reported_values_not_recomputed_from_raw_runs"
+    },
+    {
+      "id": "table_4",
+      "pdf_page": 5,
+      "headers": [
+        "Method",
+        "Above",
+        "Below",
+        "Not_separable"
+      ],
+      "rows": [
+        [
+          "ChatDrug",
+          3,
+          6,
+          1
+        ],
+        [
+          "AgentDrug",
+          4,
+          6,
+          0
+        ],
+        [
+          "MolLingo",
+          2,
+          0,
+          0
+        ],
+        [
+          "MolClaw",
+          7,
+          1,
+          2
+        ],
+        [
+          "LIDDIA",
+          0,
+          2,
+          0
+        ],
+        [
+          "Codex",
+          5,
+          0,
+          5
+        ],
+        [
+          "SoL-Pi",
+          7,
+          0,
+          3
+        ]
+      ],
+      "note": "Reported task counts. Nine count tasks use unpaired two-proportion z-tests, p<0.05; PMO uses direct AUC comparison. Counts are not reconstructed from rounded percentages.",
+      "source": "submitted PDF; transcribed and checked",
+      "status": "reported_values_not_recomputed_from_raw_runs"
+    },
+    {
+      "id": "table_5",
+      "pdf_page": 7,
+      "headers": [
+        "Method",
+        "Default",
+        "Precomputed",
+        "AUC_change"
+      ],
+      "rows": [
+        [
+          "ChatDrug",
+          "0.254",
+          "0.430",
+          "+0.176"
+        ],
+        [
+          "AgentDrug",
+          "0.360",
+          "0.409",
+          "+0.049"
+        ]
+      ],
+      "note": "Default charges reference scoring to online budget. Precomputed continues search, excludes free references from online archive.",
+      "source": "submitted PDF; transcribed and checked",
+      "status": "reported_values_not_recomputed_from_raw_runs"
+    },
+    {
+      "id": "table_A1",
+      "pdf_page": 11,
+      "headers": [
+        "Method",
+        "CD",
+        "S²-O",
+        "S²-E",
+        "ML-E",
+        "S²-G",
+        "ML-G",
+        "PMO",
+        "T2",
+        "T3",
+        "T4"
+      ],
+      "rows": [
+        [
+          "Baseline",
+          "●",
+          "●",
+          "●",
+          "●",
+          "●",
+          "●",
+          "●",
+          "●",
+          "●",
+          "●"
+        ],
+        [
+          "ChatDrug",
+          "●",
+          "●",
+          "●",
+          "●",
+          "●",
+          "●",
+          "●",
+          "●",
+          "●",
+          "●"
+        ],
+        [
+          "AgentDrug",
+          "●",
+          "●",
+          "●",
+          "●",
+          "●",
+          "●",
+          "●",
+          "●",
+          "●",
+          "●"
+        ],
+        [
+          "MolLingo",
+          "●",
+          "●",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—"
+        ],
+        [
+          "MolClaw",
+          "●",
+          "●",
+          "●",
+          "●",
+          "●",
+          "●",
+          "●",
+          "●",
+          "●",
+          "●"
+        ],
+        [
+          "SoL-Pi",
+          "●",
+          "●",
+          "●",
+          "●",
+          "●",
+          "●",
+          "●",
+          "●",
+          "●",
+          "●"
+        ],
+        [
+          "Codex",
+          "●",
+          "●",
+          "●",
+          "●",
+          "●",
+          "●",
+          "●",
+          "●",
+          "●",
+          "●"
+        ],
+        [
+          "LIDDIA",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "●",
+          "●"
+        ]
+      ],
+      "note": "Coverage only; unreported cells are not failed experiments.",
+      "source": "submitted PDF, cross-checked against author table snapshot a1_coverage",
+      "status": "reported_values_not_recomputed_from_raw_runs"
+    },
+    {
+      "id": "table_A2",
+      "pdf_page": 11,
+      "headers": [
+        "Task",
+        "N",
+        "Baseline",
+        "ChatDrug",
+        "AgentDrug",
+        "MolLingo",
+        "MolClaw",
+        "SoL-pi",
+        "Codex"
+      ],
+      "rows": [
+        [
+          "101 LogP ↓",
+          "400",
+          "70.50",
+          "75.25",
+          "76.25",
+          "96.75",
+          "80.75",
+          "95.00",
+          "94.75"
+        ],
+        [
+          "102 LogP ↑",
+          "400",
+          "45.75",
+          "80.25",
+          "75.25",
+          "86.25",
+          "78.75",
+          "97.25",
+          "91.25"
+        ],
+        [
+          "103 QED ↑",
+          "400",
+          "25.00",
+          "66.25",
+          "77.00",
+          "35.00",
+          "39.00",
+          "59.25",
+          "45.75"
+        ],
+        [
+          "104 QED ↓",
+          "400",
+          "19.25",
+          "67.25",
+          "85.50",
+          "67.50",
+          "71.75",
+          "88.50",
+          "58.00"
+        ],
+        [
+          "105 TPSA ↓",
+          "400",
+          "6.25",
+          "69.75",
+          "87.00",
+          "67.50",
+          "40.50",
+          "72.75",
+          "60.00"
+        ],
+        [
+          "106 TPSA ↑",
+          "400",
+          "23.75",
+          "72.25",
+          "80.00",
+          "93.00",
+          "83.50",
+          "98.50",
+          "97.25"
+        ],
+        [
+          "107 HBA ↑",
+          "400",
+          "25.75",
+          "61.75",
+          "51.75",
+          "79.50",
+          "57.25",
+          "71.00",
+          "54.00"
+        ],
+        [
+          "108 HBD ↑",
+          "400",
+          "42.00",
+          "76.50",
+          "57.75",
+          "86.25",
+          "55.00",
+          "68.25",
+          "56.75"
+        ],
+        [
+          "201 LogP ↓ + HBA ↑",
+          "400",
+          "35.50",
+          "69.75",
+          "63.25",
+          "79.75",
+          "64.75",
+          "87.25",
+          "76.75"
+        ],
+        [
+          "202 LogP ↑ + HBA ↑",
+          "400",
+          "1.25",
+          "41.75",
+          "64.25",
+          "17.75",
+          "28.50",
+          "46.75",
+          "24.00"
+        ],
+        [
+          "203 LogP ↓ + HBD ↑",
+          "400",
+          "39.50",
+          "71.25",
+          "62.50",
+          "88.50",
+          "60.50",
+          "90.25",
+          "79.75"
+        ],
+        [
+          "204 LogP ↑ + HBD ↑",
+          "400",
+          "0.25",
+          "26.50",
+          "53.50",
+          "7.75",
+          "22.25",
+          "35.75",
+          "15.00"
+        ],
+        [
+          "205 LogP ↓ + TPSA ↓",
+          "400",
+          "0.50",
+          "41.75",
+          "59.50",
+          "3.50",
+          "5.50",
+          "12.50",
+          "3.00"
+        ],
+        [
+          "206 LogP ↓ + TPSA ↑",
+          "400",
+          "73.50",
+          "79.00",
+          "74.25",
+          "95.50",
+          "84.25",
+          "94.75",
+          "96.25"
+        ],
+        [
+          "Single-objective total",
+          "3200",
+          "32.28",
+          "71.16",
+          "73.81",
+          "76.47",
+          "63.31",
+          "81.31",
+          "69.72"
+        ],
+        [
+          "Dual-objective total",
+          "2400",
+          "25.08",
+          "55.00",
+          "62.88",
+          "48.79",
+          "44.29",
+          "61.21",
+          "49.13"
+        ],
+        [
+          "All tasks",
+          "5600",
+          "29.20",
+          "64.23",
+          "69.13",
+          "64.61",
+          "55.16",
+          "72.70",
+          "60.89"
+        ]
+      ],
+      "note": "ChatDrug-MolEdit task-wise success in percent; N=400 per task; loose and strict combined.",
+      "source": "submitted PDF, cross-checked against author table snapshot 05_task_profiles",
+      "status": "reported_values_not_recomputed_from_raw_runs"
+    },
+    {
+      "id": "table_A3",
+      "pdf_page": 11,
+      "headers": [
+        "Method",
+        "LogP",
+        "QED",
+        "MR",
+        "Overall"
+      ],
+      "rows": [
+        [
+          "Baseline",
+          "81.00",
+          "41.60",
+          "66.80",
+          "63.13"
+        ],
+        [
+          "ChatDrug",
+          "86.20",
+          "78.20",
+          "82.60",
+          "82.33"
+        ],
+        [
+          "AgentDrug",
+          "84.20",
+          "89.60",
+          "91.60",
+          "88.47"
+        ],
+        [
+          "MolLingo",
+          "94.00",
+          "75.60",
+          "94.40",
+          "88.00"
+        ],
+        [
+          "MolClaw",
+          "97.00",
+          "96.60",
+          "97.20",
+          "96.93"
+        ],
+        [
+          "SoL-Pi",
+          "99.80",
+          "76.40",
+          "95.00",
+          "90.40"
+        ],
+        [
+          "Codex",
+          "94.20",
+          "78.80",
+          "89.20",
+          "87.40"
+        ]
+      ],
+      "note": "S2-miniMolOpt: 500 instances per property; 1500 overall.",
+      "source": "submitted PDF, cross-checked against author table snapshot a2_s2_properties",
+      "status": "reported_values_not_recomputed_from_raw_runs"
+    },
+    {
+      "id": "table_A4",
+      "pdf_page": 11,
+      "headers": [
+        "Method",
+        "Timed / total",
+        "Mean (s)",
+        "Median (s)",
+        "P90 (s)"
+      ],
+      "rows": [
+        [
+          "Baseline",
+          "1500/1500",
+          "1.18",
+          "1.11",
+          "1.54"
+        ],
+        [
+          "ChatDrug",
+          "1500/1500",
+          "2.09",
+          "1.70",
+          "3.46"
+        ],
+        [
+          "AgentDrug",
+          "1500/1500",
+          "2.88",
+          "2.61",
+          "4.97"
+        ],
+        [
+          "MolLingo",
+          "1500/1500",
+          "15.05",
+          "13.82",
+          "18.48"
+        ],
+        [
+          "MolClaw",
+          "1500/1500",
+          "114.61",
+          "81.26",
+          "203.02"
+        ],
+        [
+          "SoL-Pi",
+          "1500/1500",
+          "119.23",
+          "37.94",
+          "192.22"
+        ],
+        [
+          "Codex",
+          "1500/1500",
+          "491.59",
+          "52.65",
+          "1908.60"
+        ]
+      ],
+      "note": "Retained executions include failures and timeouts. Codex: 430 without and 1070 with loop control. Measurement boundaries differ across methods.",
+      "source": "submitted PDF; transcribed and checked",
+      "status": "reported_values_not_recomputed_from_raw_runs"
+    },
+    {
+      "id": "table_A5",
+      "pdf_page": 12,
+      "headers": [
+        "Method",
+        "Original",
+        "Direction only",
+        "Direction only + new prompt",
+        "S²-miniMolOpt"
+      ],
+      "rows": [
+        [
+          "Baseline",
+          "29.20",
+          "44.25",
+          "44.79",
+          "63.13"
+        ],
+        [
+          "ChatDrug",
+          "64.23",
+          "68.20",
+          "69.82",
+          "82.33"
+        ],
+        [
+          "AgentDrug",
+          "69.13",
+          "72.68",
+          "73.23",
+          "88.47"
+        ],
+        [
+          "MolLingo",
+          "64.61",
+          "73.86",
+          "76.32",
+          "88.00"
+        ],
+        [
+          "MolClaw",
+          "55.16",
+          "72.23",
+          "86.96",
+          "96.93"
+        ],
+        [
+          "SoL-Pi",
+          "72.70",
+          "88.00",
+          "88.84",
+          "90.40"
+        ],
+        [
+          "Codex",
+          "60.89",
+          "78.05",
+          "82.25",
+          "87.40"
+        ]
+      ],
+      "note": "5600 CD instances. Direction-only rescores saved output with native ChatDrug descriptor calculations and zero thresholds. New-prompt column regenerates. S2=independent 1500-instance benchmark. Submitted MolClaw revised-prompt result (86.96) supersedes the missing cell in the earlier author snapshot.",
+      "source": "submitted PDF, cross-checked against author table snapshot 06_all_settings",
+      "status": "reported_values_not_recomputed_from_raw_runs"
+    },
+    {
+      "id": "table_A6",
+      "pdf_page": 12,
+      "headers": [
+        "Property",
+        "Method",
+        "Original",
+        "Direction only",
+        "Direction only + new prompt",
+        "S²"
+      ],
+      "rows": [
+        [
+          "LogP",
+          "Baseline",
+          "58.13",
+          "74.75",
+          "82.88",
+          "81.00"
+        ],
+        [
+          "LogP",
+          "ChatDrug",
+          "77.75",
+          "78.63",
+          "87.63",
+          "86.20"
+        ],
+        [
+          "LogP",
+          "AgentDrug",
+          "75.75",
+          "72.50",
+          "75.88",
+          "84.20"
+        ],
+        [
+          "LogP",
+          "MolLingo",
+          "91.50",
+          "95.50",
+          "97.00",
+          "94.00"
+        ],
+        [
+          "LogP",
+          "MolClaw",
+          "79.75",
+          "84.00",
+          "99.75",
+          "97.00"
+        ],
+        [
+          "LogP",
+          "SoL-Pi",
+          "96.13",
+          "99.13",
+          "99.88",
+          "99.80"
+        ],
+        [
+          "LogP",
+          "Codex",
+          "93.00",
+          "97.75",
+          "89.00",
+          "94.20"
+        ],
+        [
+          "QED",
+          "Baseline",
+          "22.13",
+          "38.50",
+          "32.63",
+          "41.60"
+        ],
+        [
+          "QED",
+          "ChatDrug",
+          "66.75",
+          "73.13",
+          "71.25",
+          "78.20"
+        ],
+        [
+          "QED",
+          "AgentDrug",
+          "81.25",
+          "84.00",
+          "82.88",
+          "89.60"
+        ],
+        [
+          "QED",
+          "MolLingo",
+          "51.25",
+          "70.13",
+          "78.38",
+          "75.60"
+        ],
+        [
+          "QED",
+          "MolClaw",
+          "55.38",
+          "69.38",
+          "98.88",
+          "96.60"
+        ],
+        [
+          "QED",
+          "SoL-Pi",
+          "73.88",
+          "91.50",
+          "78.88",
+          "76.40"
+        ],
+        [
+          "QED",
+          "Codex",
+          "51.88",
+          "74.38",
+          "68.25",
+          "78.80"
+        ]
+      ],
+      "note": "800 CD and 500 S2 per property. Rescored and prompt-variant columns use S2 descriptor calculations (RDKit 2022.09.4, no extra Kekulize). Comparison to Original also changes descriptor implementation.",
+      "source": "submitted PDF, cross-checked against author table snapshot 07_deepseek_properties",
+      "status": "reported_values_not_recomputed_from_raw_runs"
+    },
+    {
+      "id": "table_B1",
+      "pdf_page": 13,
+      "headers": [
+        "Property",
+        "Method",
+        "Native",
+        "Rescored",
+        "Prompt variant",
+        "S²"
+      ],
+      "rows": [
+        [
+          "LogP",
+          "Baseline",
+          "75.25",
+          "92.88",
+          "95.50",
+          "69.60"
+        ],
+        [
+          "LogP",
+          "ChatDrug",
+          "89.62",
+          "89.62",
+          "90.25",
+          "92.00"
+        ],
+        [
+          "LogP",
+          "AgentDrug",
+          "97.13",
+          "99.25",
+          "99.38",
+          "100.00"
+        ],
+        [
+          "LogP",
+          "MolLingo",
+          "38.88",
+          "43.25",
+          "79.88",
+          "68.40"
+        ],
+        [
+          "LogP",
+          "MolClaw",
+          "90.38",
+          "99.75",
+          "100.00",
+          "100.00"
+        ],
+        [
+          "LogP",
+          "SoL-Pi",
+          "89.13",
+          "99.25",
+          "100.00",
+          "99.80"
+        ],
+        [
+          "LogP",
+          "Codex",
+          "82.13",
+          "92.00",
+          "89.75",
+          "92.40"
+        ],
+        [
+          "QED",
+          "Baseline",
+          "40.25",
+          "56.88",
+          "57.50",
+          "27.60"
+        ],
+        [
+          "QED",
+          "ChatDrug",
+          "72.13",
+          "79.62",
+          "80.12",
+          "82.40"
+        ],
+        [
+          "QED",
+          "AgentDrug",
+          "78.50",
+          "88.50",
+          "93.75",
+          "98.60"
+        ],
+        [
+          "QED",
+          "MolLingo",
+          "21.00",
+          "35.25",
+          "62.75",
+          "55.80"
+        ],
+        [
+          "QED",
+          "MolClaw",
+          "73.13",
+          "97.38",
+          "99.50",
+          "100.00"
+        ],
+        [
+          "QED",
+          "SoL-Pi",
+          "61.75",
+          "82.75",
+          "99.50",
+          "99.20"
+        ],
+        [
+          "QED",
+          "Codex",
+          "64.38",
+          "80.13",
+          "76.13",
+          "85.00"
+        ]
+      ],
+      "note": "Supplementary GLM-5.3 Flash comparison only, same property-specific evaluation as A6.",
+      "source": "submitted PDF, cross-checked against author table snapshot b1_glm_properties",
+      "status": "reported_values_not_recomputed_from_raw_runs"
+    }
+  ]
+}

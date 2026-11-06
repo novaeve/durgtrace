@@ -1,0 +1,19 @@
+{
+  "pid": 2141101,
+  "updated": 1792130017.5004265,
+  "state": "complete",
+  "gpu_pool": [
+    0,
+    5,
+    7
+  ],
+  "concurrency_per_method": 2,
+  "active": {
+    "chatdrug": [],
+    "agentdrug": []
+  },
+  "blocked": {
+    "chatdrug": {},
+    "agentdrug": {}
+  }
+}

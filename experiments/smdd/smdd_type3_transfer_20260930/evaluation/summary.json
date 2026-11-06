@@ -1,0 +1,23 @@
+{
+  "deepseek": {
+    "expected": 52,
+    "evaluated": 52,
+    "passed": 7,
+    "failed": 45,
+    "errored": 0
+  },
+  "chatdrug": {
+    "expected": 52,
+    "evaluated": 52,
+    "passed": 1,
+    "failed": 51,
+    "errored": 0
+  },
+  "agentdrug": {
+    "expected": 52,
+    "evaluated": 52,
+    "passed": 1,
+    "failed": 51,
+    "errored": 0
+  }
+}

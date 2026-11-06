@@ -1,0 +1,213 @@
+{
+  "method": "MolLingo",
+  "expected": 5600,
+  "processed": 5600,
+  "success": 4274,
+  "reused": 320,
+  "statuses": {
+    "complete": 5600
+  },
+  "errors": {},
+  "phase": "complete",
+  "roles": {
+    "driver": {
+      "pid": 2433129,
+      "running": false
+    },
+    "driver_extra": {
+      "pid": 2454963,
+      "running": false
+    }
+  },
+  "groups": {
+    "101_loose": {
+      "expected": 200,
+      "processed": 200,
+      "success": 194
+    },
+    "101_strict": {
+      "expected": 200,
+      "processed": 200,
+      "success": 196
+    },
+    "102_loose": {
+      "expected": 200,
+      "processed": 200,
+      "success": 193
+    },
+    "102_strict": {
+      "expected": 200,
+      "processed": 200,
+      "success": 193
+    },
+    "103_loose": {
+      "expected": 200,
+      "processed": 200,
+      "success": 114
+    },
+    "103_strict": {
+      "expected": 200,
+      "processed": 200,
+      "success": 125
+    },
+    "104_loose": {
+      "expected": 200,
+      "processed": 200,
+      "success": 181
+    },
+    "104_strict": {
+      "expected": 200,
+      "processed": 200,
+      "success": 187
+    },
+    "105_loose": {
+      "expected": 200,
+      "processed": 200,
+      "success": 170
+    },
+    "105_strict": {
+      "expected": 200,
+      "processed": 200,
+      "success": 173
+    },
+    "106_loose": {
+      "expected": 200,
+      "processed": 200,
+      "success": 196
+    },
+    "106_strict": {
+      "expected": 200,
+      "processed": 200,
+      "success": 195
+    },
+    "107_loose": {
+      "expected": 200,
+      "processed": 200,
+      "success": 186
+    },
+    "107_strict": {
+      "expected": 200,
+      "processed": 200,
+      "success": 192
+    },
+    "108_loose": {
+      "expected": 200,
+      "processed": 200,
+      "success": 189
+    },
+    "108_strict": {
+      "expected": 200,
+      "processed": 200,
+      "success": 187
+    },
+    "201_loose": {
+      "expected": 200,
+      "processed": 200,
+      "success": 187
+    },
+    "201_strict": {
+      "expected": 200,
+      "processed": 200,
+      "success": 184
+    },
+    "202_loose": {
+      "expected": 200,
+      "processed": 200,
+      "success": 68
+    },
+    "202_strict": {
+      "expected": 200,
+      "processed": 200,
+      "success": 61
+    },
+    "203_loose": {
+      "expected": 200,
+      "processed": 200,
+      "success": 192
+    },
+    "203_strict": {
+      "expected": 200,
+      "processed": 200,
+      "success": 192
+    },
+    "204_loose": {
+      "expected": 200,
+      "processed": 200,
+      "success": 49
+    },
+    "204_strict": {
+      "expected": 200,
+      "processed": 200,
+      "success": 59
+    },
+    "205_loose": {
+      "expected": 200,
+      "processed": 200,
+      "success": 13
+    },
+    "205_strict": {
+      "expected": 200,
+      "processed": 200,
+      "success": 11
+    },
+    "206_loose": {
+      "expected": 200,
+      "processed": 200,
+      "success": 195
+    },
+    "206_strict": {
+      "expected": 200,
+      "processed": 200,
+      "success": 192
+    }
+  },
+  "updated": 1791733243.9725459,
+  "restart_history": [
+    {
+      "time": 1791732727.6745398,
+      "control": "concurrency.json",
+      "before": 32,
+      "after": 16,
+      "reason": "Backoff after repeated provider rate/gateway errors"
+    },
+    {
+      "time": 1791732727.6747649,
+      "control": "concurrency_extra.json",
+      "before": 32,
+      "after": 16,
+      "reason": "Backoff after repeated provider rate/gateway errors"
+    },
+    {
+      "time": 1791732970.4979193,
+      "control": "concurrency.json",
+      "before": 16,
+      "after": 32,
+      "reason": "Recover gradually after at least120s without provider rate/connection errors"
+    },
+    {
+      "time": 1791732970.4981287,
+      "control": "concurrency_extra.json",
+      "before": 16,
+      "after": 32,
+      "reason": "Recover gradually after at least120s without provider rate/connection errors"
+    },
+    {
+      "time": 1791733183.2877736,
+      "control": "concurrency.json",
+      "before": 32,
+      "after": 16,
+      "reason": "Backoff after repeated provider rate/gateway errors"
+    },
+    {
+      "time": 1791733183.2879875,
+      "control": "concurrency_extra.json",
+      "before": 32,
+      "after": 16,
+      "reason": "Backoff after repeated provider rate/gateway errors"
+    }
+  ],
+  "nominal_workers": 32,
+  "success_rate_full": 0.7632142857142857,
+  "active_started_without_final": 0,
+  "recent_rate_or_gateway_errors": 0
+}

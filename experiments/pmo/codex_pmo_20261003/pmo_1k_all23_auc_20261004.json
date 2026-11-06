@@ -1,0 +1,197 @@
+{
+  "method": "Codex (DeepSeek v4.1 Flash)",
+  "benchmark": "PMO-1K",
+  "target_count": 23,
+  "completed_1000": 13,
+  "partial_targets_included": 10,
+  "auc_protocol": "Trapezoidal area of actual recorded submission trajectory, start from zero, unique valid Top-10 mean, divide by 1000 for every target. No extrapolation or fill of unobserved tail.",
+  "sum_top10_auc": 12.392023430474815,
+  "mean_top10_auc": 0.5387836274119485,
+  "time": 1791093317.2143462,
+  "targets": [
+    {
+      "target": "albuterol_similarity",
+      "status": "skipped_long_truncation",
+      "submissions": 110,
+      "top10_auc_1k": 0.10946639755519065,
+      "top10_auc_observed": 0.9951490686835514,
+      "ledger_sha256": "b0fc902a145a768225a91b0e5a2e2f78d4943dfde88e58e988c7a38340988695"
+    },
+    {
+      "target": "amlodipine_mpo",
+      "status": "skipped_long_truncation",
+      "submissions": 618,
+      "top10_auc_1k": 0.5424245543689198,
+      "top10_auc_observed": 0.8777096349011646,
+      "ledger_sha256": "d286ff47ffb16bdc18546e9d9b752605ff764428f8db90ac75ed7428588d6ec3"
+    },
+    {
+      "target": "celecoxib_rediscovery",
+      "status": "skipped_long_truncation",
+      "submissions": 550,
+      "top10_auc_1k": 0.482259066467684,
+      "top10_auc_observed": 0.87683466630488,
+      "ledger_sha256": "ab57195b7b1b2730bdef743fe94bf9be762ac50bf71e34592aec87ddf32ce3aa"
+    },
+    {
+      "target": "deco_hop",
+      "status": "skipped_long_truncation",
+      "submissions": 457,
+      "top10_auc_1k": 0.366442644789726,
+      "top10_auc_observed": 0.801843861684302,
+      "ledger_sha256": "86cf1e6c342375ef22a56cf89af320d7c82aaf0e9a35fd2c19c696e6cf670ef5"
+    },
+    {
+      "target": "drd2",
+      "status": "validated_finished",
+      "submissions": 1000,
+      "top10_auc_1k": 0.9816804424027965,
+      "top10_auc_observed": 0.9816804424027965,
+      "ledger_sha256": "c421fb399212916e03b8b7ebca6ea7712fc3cd3a591c0f0c6cba7c794d6d6571"
+    },
+    {
+      "target": "fexofenadine_mpo",
+      "status": "skipped_long_truncation",
+      "submissions": 938,
+      "top10_auc_1k": 0.7282561226044342,
+      "top10_auc_observed": 0.7763924548021686,
+      "ledger_sha256": "462217ec15b410750c4ed7f56b21f9e0d978527d96ad653e5870f0469f2f7dc4"
+    },
+    {
+      "target": "gsk3b",
+      "status": "validated_finished",
+      "submissions": 1000,
+      "top10_auc_1k": 0.5705645436507909,
+      "top10_auc_observed": 0.5705645436507909,
+      "ledger_sha256": "97c352ec74461c4ff0cf439f511071c1942bd5070c1aeff69961e254b9d93025"
+    },
+    {
+      "target": "isomers_c7h8n2o2",
+      "status": "skipped_long_truncation",
+      "submissions": 13,
+      "top10_auc_1k": 0.01168729142747307,
+      "top10_auc_observed": 0.8990224174979284,
+      "ledger_sha256": "0a5307799ee5b178dc47ee3863d7329d3a90c2336579c60b7b73da6f6df7a051"
+    },
+    {
+      "target": "isomers_c9h10n2o2pf2cl",
+      "status": "validated_finished",
+      "submissions": 1000,
+      "top10_auc_1k": 0.9961498247656554,
+      "top10_auc_observed": 0.9961498247656554,
+      "ledger_sha256": "c080757914fe9a94eb956506d95de0b27486f34703ba250abfd23de7e02ce512"
+    },
+    {
+      "target": "jnk3",
+      "status": "skipped_long_truncation",
+      "submissions": 404,
+      "top10_auc_1k": 0.12493169444444435,
+      "top10_auc_observed": 0.30923686743674345,
+      "ledger_sha256": "f73c9cd326ea488c6b560d0d69fd6f2b18ac3e9aecd6f4ab7ea68b0871d5566b"
+    },
+    {
+      "target": "median1",
+      "status": "validated_finished",
+      "submissions": 1000,
+      "top10_auc_1k": 0.3973013092838726,
+      "top10_auc_observed": 0.3973013092838726,
+      "ledger_sha256": "867e6b465507fc2f55e56e0750946065992481de4952de6a7b5c5bff06b19a83"
+    },
+    {
+      "target": "median2",
+      "status": "validated_finished",
+      "submissions": 1000,
+      "top10_auc_1k": 0.30113065196594874,
+      "top10_auc_observed": 0.30113065196594874,
+      "ledger_sha256": "b873ec3401b473b39dbe6e3e9bf42be90dceff5b25f494875f6abfac57a4dcd7"
+    },
+    {
+      "target": "mestranol_similarity",
+      "status": "skipped_long_truncation",
+      "submissions": 267,
+      "top10_auc_1k": 0.2571299399773689,
+      "top10_auc_observed": 0.9630334830613068,
+      "ledger_sha256": "05e481462ff8f353decc2a4011fb7571b45467e4157476495ad352c45ae0eeb4"
+    },
+    {
+      "target": "osimertinib_mpo",
+      "status": "validated_finished",
+      "submissions": 1000,
+      "top10_auc_1k": 0.8868888600493198,
+      "top10_auc_observed": 0.8868888600493198,
+      "ledger_sha256": "e00cabe5049dab9ed73217c393be35196f96e4b13a3813d04aad939a01b698b0"
+    },
+    {
+      "target": "perindopril_mpo",
+      "status": "validated_finished",
+      "submissions": 1000,
+      "top10_auc_1k": 0.5762218159886393,
+      "top10_auc_observed": 0.5762218159886393,
+      "ledger_sha256": "185cf1248b22ddd978024eaa17a00c315be87e7fc6d1d4fd2fa45d35802b241d"
+    },
+    {
+      "target": "qed",
+      "status": "validated_finished",
+      "submissions": 1000,
+      "top10_auc_1k": 0.9374561855381369,
+      "top10_auc_observed": 0.9374561855381369,
+      "ledger_sha256": "d9195e5c93b94ec652a7b816dafdd4f80e8dc44c39505a46b81e476411661b5e"
+    },
+    {
+      "target": "ranolazine_mpo",
+      "status": "validated_finished",
+      "submissions": 1000,
+      "top10_auc_1k": 0.8662761018158558,
+      "top10_auc_observed": 0.8662761018158558,
+      "ledger_sha256": "5212efdc4f6038125338ba29933d23c1b4aed4c44b7724d0c34e71005ed71612"
+    },
+    {
+      "target": "scaffold_hop",
+      "status": "validated_finished",
+      "submissions": 1000,
+      "top10_auc_1k": 0.992785816906918,
+      "top10_auc_observed": 0.992785816906918,
+      "ledger_sha256": "7487ffcd3d1692b26431b674ccf34daf0cbdbfca48a2c2ea1d94218490d55368"
+    },
+    {
+      "target": "sitagliptin_mpo",
+      "status": "validated_finished",
+      "submissions": 1000,
+      "top10_auc_1k": 0.44869373390453154,
+      "top10_auc_observed": 0.44869373390453154,
+      "ledger_sha256": "4b9b9babb937c6c624416e0af8dd0ebdbb5f36f7e2f3c4b357872026a9624d4e"
+    },
+    {
+      "target": "thiothixene_rediscovery",
+      "status": "validated_finished",
+      "submissions": 1000,
+      "top10_auc_1k": 0.884887187587776,
+      "top10_auc_observed": 0.884887187587776,
+      "ledger_sha256": "f073baeedb6935c44a8889182e7114140d3d4ce5ee9ea4a204e3714396d3327e"
+    },
+    {
+      "target": "troglitazon_rediscovery",
+      "status": "validated_finished",
+      "submissions": 1000,
+      "top10_auc_1k": 0.8695723555229845,
+      "top10_auc_observed": 0.8695723555229845,
+      "ledger_sha256": "c28443449a2fdc506f37eae145cfa413ad80104833ba7b37049df1cfffcbb734"
+    },
+    {
+      "target": "valsartan_smarts",
+      "status": "skipped_long_truncation",
+      "submissions": 138,
+      "top10_auc_1k": 0.05980065176336463,
+      "top10_auc_observed": 0.4333380562562655,
+      "ledger_sha256": "147c451baad9a59aa9ad49391c81e7ba95ad0a06b94acfbf826de35dbf979cc1"
+    },
+    {
+      "target": "zaleplon_mpo",
+      "status": "skipped_long_truncation",
+      "submissions": 1,
+      "top10_auc_1k": 1.623769298420483e-05,
+      "top10_auc_observed": 0.01623769298420483,
+      "ledger_sha256": "03b82057a6ea98211a9e13b54a7e5618404d6ac75ea6ba4f5880c52b330d9a23"
+    }
+  ]
+}

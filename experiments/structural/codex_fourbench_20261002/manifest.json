@@ -1,0 +1,29 @@
+{
+  "method": "codex",
+  "cli": "codex-cli 0.149.0",
+  "model": "deepseek-v4.1-flash",
+  "temperature": 0,
+  "enable_thinking": false,
+  "workers": 2,
+  "count": 3800,
+  "case_sha256": "da312e6665807008cc758ba97e6f4289ce4501e3b1d5c82e5f540ac4ed845f6e",
+  "same_cases_as": "/data2/chenfuxin/molclaw_fourbench_20260929/cases.json",
+  "reviewer": false,
+  "memory": false,
+  "multi_agent": false,
+  "tools": "native Codex shell/file tools with RDKit; no MolClaw skills/SCP",
+  "limits": {
+    "wall_seconds": 3600,
+    "idle_seconds": 1800
+  },
+  "gold_access": "offline scorer only; hidden files not mounted",
+  "output_parser": "same unique <answer> parser as MolClaw",
+  "source_hashes": {
+    "run.py": "5b8c4c9ddfc2f85e7ea2ce4b85c0ebf04224c8e6f60a4f6916bbbd09d16e9086",
+    "preflight.py": "02341e378ea737e7f554d931f3a9baa4b4c790286f773119bcaa146c71f272e2",
+    "prepare.py": "029842dc7f50adaaca650a30e0ded6d9c92cc25142f36d97794341380a0c7f5f",
+    "score.py": "cba1f47d76db3e606f7cef28390f71101b99936a83aeb876e5522319267fc189",
+    "launch_proxy.py": "8399466193e90af2a7b107bbee1abf0ec4521fcb8385d06f033f02f7223ab378"
+  },
+  "codex_binary_sha256": "bbc3341e44c9ead340ed9570c17be936e37870f570751a941699ffd04d672827"
+}

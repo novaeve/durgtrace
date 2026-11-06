@@ -1,0 +1,719 @@
+{
+  "method": "MolClaw",
+  "expected": 5600,
+  "processed": 1299,
+  "success": 1199,
+  "reused": 320,
+  "statuses": {
+    "complete": 1299
+  },
+  "errors": {},
+  "phase": "running",
+  "roles": {
+    "driver": {
+      "pid": 2434852,
+      "running": true
+    },
+    "driver_extra": {
+      "pid": 2510380,
+      "running": true
+    }
+  },
+  "groups": {
+    "101_loose": {
+      "expected": 200,
+      "processed": 200,
+      "success": 197
+    },
+    "101_strict": {
+      "expected": 200,
+      "processed": 200,
+      "success": 195
+    },
+    "102_loose": {
+      "expected": 200,
+      "processed": 192,
+      "success": 189
+    },
+    "102_strict": {
+      "expected": 200,
+      "processed": 41,
+      "success": 41
+    },
+    "103_loose": {
+      "expected": 200,
+      "processed": 41,
+      "success": 41
+    },
+    "103_strict": {
+      "expected": 200,
+      "processed": 41,
+      "success": 41
+    },
+    "104_loose": {
+      "expected": 200,
+      "processed": 41,
+      "success": 41
+    },
+    "104_strict": {
+      "expected": 200,
+      "processed": 41,
+      "success": 40
+    },
+    "105_loose": {
+      "expected": 200,
+      "processed": 1,
+      "success": 1
+    },
+    "105_strict": {
+      "expected": 200,
+      "processed": 1,
+      "success": 1
+    },
+    "106_loose": {
+      "expected": 200,
+      "processed": 1,
+      "success": 1
+    },
+    "106_strict": {
+      "expected": 200,
+      "processed": 1,
+      "success": 1
+    },
+    "107_loose": {
+      "expected": 200,
+      "processed": 1,
+      "success": 1
+    },
+    "107_strict": {
+      "expected": 200,
+      "processed": 1,
+      "success": 1
+    },
+    "108_loose": {
+      "expected": 200,
+      "processed": 1,
+      "success": 1
+    },
+    "108_strict": {
+      "expected": 200,
+      "processed": 1,
+      "success": 1
+    },
+    "201_loose": {
+      "expected": 200,
+      "processed": 1,
+      "success": 1
+    },
+    "201_strict": {
+      "expected": 200,
+      "processed": 1,
+      "success": 1
+    },
+    "202_loose": {
+      "expected": 200,
+      "processed": 1,
+      "success": 1
+    },
+    "202_strict": {
+      "expected": 200,
+      "processed": 1,
+      "success": 1
+    },
+    "203_loose": {
+      "expected": 200,
+      "processed": 1,
+      "success": 1
+    },
+    "203_strict": {
+      "expected": 200,
+      "processed": 1,
+      "success": 1
+    },
+    "204_loose": {
+      "expected": 200,
+      "processed": 1,
+      "success": 1
+    },
+    "204_strict": {
+      "expected": 200,
+      "processed": 1,
+      "success": 1
+    },
+    "205_loose": {
+      "expected": 200,
+      "processed": 1,
+      "success": 0
+    },
+    "205_strict": {
+      "expected": 200,
+      "processed": 90,
+      "success": 20
+    },
+    "206_loose": {
+      "expected": 200,
+      "processed": 197,
+      "success": 185
+    },
+    "206_strict": {
+      "expected": 200,
+      "processed": 198,
+      "success": 193
+    }
+  },
+  "updated": 1791784895.681195,
+  "restart_history": [
+    {
+      "time": 1791769354.11733,
+      "control": "concurrency_extra.json",
+      "before": 56,
+      "after": 72,
+      "reason": "Gradually increase toward authorized target after quiet interval"
+    },
+    {
+      "time": 1791769474.4471903,
+      "control": "concurrency_extra.json",
+      "before": 72,
+      "after": 80,
+      "reason": "Gradually increase toward authorized target after quiet interval"
+    },
+    {
+      "time": 1791774468.9157734,
+      "control": "concurrency.json",
+      "before": 16,
+      "after": 8,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791774468.9162145,
+      "control": "concurrency_extra.json",
+      "before": 80,
+      "after": 40,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791774529.1300063,
+      "control": "concurrency.json",
+      "before": 8,
+      "after": 4,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791774529.1314378,
+      "control": "concurrency_extra.json",
+      "before": 40,
+      "after": 20,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791774589.344814,
+      "control": "concurrency.json",
+      "before": 4,
+      "after": 2,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791774589.345304,
+      "control": "concurrency_extra.json",
+      "before": 20,
+      "after": 10,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791774649.551748,
+      "control": "concurrency.json",
+      "before": 2,
+      "after": 1,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791774649.5584018,
+      "control": "concurrency_extra.json",
+      "before": 10,
+      "after": 5,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791774709.7774487,
+      "control": "concurrency_extra.json",
+      "before": 5,
+      "after": 2,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791774770.001626,
+      "control": "concurrency_extra.json",
+      "before": 2,
+      "after": 1,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791774950.6215677,
+      "control": "concurrency.json",
+      "before": 1,
+      "after": 16,
+      "reason": "Gradually increase toward authorized target after quiet interval"
+    },
+    {
+      "time": 1791774950.621771,
+      "control": "concurrency_extra.json",
+      "before": 1,
+      "after": 17,
+      "reason": "Gradually increase toward authorized target after quiet interval"
+    },
+    {
+      "time": 1791775040.9236858,
+      "control": "concurrency.json",
+      "before": 16,
+      "after": 8,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791775040.9240623,
+      "control": "concurrency_extra.json",
+      "before": 17,
+      "after": 8,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791775101.1170685,
+      "control": "concurrency.json",
+      "before": 8,
+      "after": 4,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791775101.117391,
+      "control": "concurrency_extra.json",
+      "before": 8,
+      "after": 4,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791775161.4712656,
+      "control": "concurrency.json",
+      "before": 4,
+      "after": 2,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791775161.4715707,
+      "control": "concurrency_extra.json",
+      "before": 4,
+      "after": 2,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791775281.9009635,
+      "control": "concurrency.json",
+      "before": 2,
+      "after": 16,
+      "reason": "Gradually increase toward authorized target after quiet interval"
+    },
+    {
+      "time": 1791775281.9011655,
+      "control": "concurrency_extra.json",
+      "before": 2,
+      "after": 18,
+      "reason": "Gradually increase toward authorized target after quiet interval"
+    },
+    {
+      "time": 1791775402.303961,
+      "control": "concurrency_extra.json",
+      "before": 18,
+      "after": 34,
+      "reason": "Gradually increase toward authorized target after quiet interval"
+    },
+    {
+      "time": 1791775522.705601,
+      "control": "concurrency_extra.json",
+      "before": 34,
+      "after": 50,
+      "reason": "Gradually increase toward authorized target after quiet interval"
+    },
+    {
+      "time": 1791775582.9243586,
+      "control": "concurrency.json",
+      "before": 16,
+      "after": 8,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791775582.9246044,
+      "control": "concurrency_extra.json",
+      "before": 50,
+      "after": 25,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791775643.3202775,
+      "control": "concurrency.json",
+      "before": 8,
+      "after": 4,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791775643.3205507,
+      "control": "concurrency_extra.json",
+      "before": 25,
+      "after": 12,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791775703.5070026,
+      "control": "concurrency.json",
+      "before": 4,
+      "after": 2,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791775703.5073211,
+      "control": "concurrency_extra.json",
+      "before": 12,
+      "after": 6,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791775763.735329,
+      "control": "concurrency.json",
+      "before": 2,
+      "after": 1,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791775763.7356515,
+      "control": "concurrency_extra.json",
+      "before": 6,
+      "after": 3,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791775824.1308856,
+      "control": "concurrency_extra.json",
+      "before": 3,
+      "after": 1,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791779800.172633,
+      "control": "concurrency.json",
+      "before": 1,
+      "after": 16,
+      "reason": "Gradually increase toward authorized target after quiet interval"
+    },
+    {
+      "time": 1791779800.173565,
+      "control": "concurrency_extra.json",
+      "before": 1,
+      "after": 17,
+      "reason": "Gradually increase toward authorized target after quiet interval"
+    },
+    {
+      "time": 1791779860.3998067,
+      "control": "concurrency.json",
+      "before": 16,
+      "after": 8,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791779860.4001954,
+      "control": "concurrency_extra.json",
+      "before": 17,
+      "after": 8,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791779920.6402755,
+      "control": "concurrency.json",
+      "before": 8,
+      "after": 4,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791779920.6406233,
+      "control": "concurrency_extra.json",
+      "before": 8,
+      "after": 4,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791779980.8398032,
+      "control": "concurrency.json",
+      "before": 4,
+      "after": 2,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791779980.840041,
+      "control": "concurrency_extra.json",
+      "before": 4,
+      "after": 2,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791780041.0832,
+      "control": "concurrency.json",
+      "before": 2,
+      "after": 1,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791780041.0834923,
+      "control": "concurrency_extra.json",
+      "before": 2,
+      "after": 1,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791782029.233922,
+      "control": "concurrency.json",
+      "before": 1,
+      "after": 16,
+      "reason": "Gradually increase toward authorized target after quiet interval"
+    },
+    {
+      "time": 1791782029.2341275,
+      "control": "concurrency_extra.json",
+      "before": 1,
+      "after": 17,
+      "reason": "Gradually increase toward authorized target after quiet interval"
+    },
+    {
+      "time": 1791782089.4709563,
+      "control": "concurrency.json",
+      "before": 16,
+      "after": 8,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791782089.4711764,
+      "control": "concurrency_extra.json",
+      "before": 17,
+      "after": 8,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791782149.6859484,
+      "control": "concurrency.json",
+      "before": 8,
+      "after": 4,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791782149.686201,
+      "control": "concurrency_extra.json",
+      "before": 8,
+      "after": 4,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791782209.9599056,
+      "control": "concurrency.json",
+      "before": 4,
+      "after": 2,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791782209.9602604,
+      "control": "concurrency_extra.json",
+      "before": 4,
+      "after": 2,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791782270.1604388,
+      "control": "concurrency.json",
+      "before": 2,
+      "after": 1,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791782270.1607447,
+      "control": "concurrency_extra.json",
+      "before": 2,
+      "after": 1,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791783052.9422722,
+      "control": "concurrency.json",
+      "before": 1,
+      "after": 16,
+      "reason": "Gradually increase toward authorized target after quiet interval"
+    },
+    {
+      "time": 1791783052.9424682,
+      "control": "concurrency_extra.json",
+      "before": 1,
+      "after": 17,
+      "reason": "Gradually increase toward authorized target after quiet interval"
+    },
+    {
+      "time": 1791783173.331139,
+      "control": "concurrency_extra.json",
+      "before": 17,
+      "after": 33,
+      "reason": "Gradually increase toward authorized target after quiet interval"
+    },
+    {
+      "time": 1791783293.728917,
+      "control": "concurrency_extra.json",
+      "before": 33,
+      "after": 49,
+      "reason": "Gradually increase toward authorized target after quiet interval"
+    },
+    {
+      "time": 1791783384.0557456,
+      "control": "concurrency.json",
+      "before": 16,
+      "after": 8,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791783384.0562842,
+      "control": "concurrency_extra.json",
+      "before": 49,
+      "after": 24,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791783444.28442,
+      "control": "concurrency.json",
+      "before": 8,
+      "after": 4,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791783444.2846837,
+      "control": "concurrency_extra.json",
+      "before": 24,
+      "after": 12,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791783504.4886506,
+      "control": "concurrency.json",
+      "before": 4,
+      "after": 2,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791783504.4888825,
+      "control": "concurrency_extra.json",
+      "before": 12,
+      "after": 6,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791783564.6957865,
+      "control": "concurrency.json",
+      "before": 2,
+      "after": 1,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791783564.6960216,
+      "control": "concurrency_extra.json",
+      "before": 6,
+      "after": 3,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791783624.9051745,
+      "control": "concurrency_extra.json",
+      "before": 3,
+      "after": 1,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791784016.4557116,
+      "control": "concurrency.json",
+      "before": 1,
+      "after": 16,
+      "reason": "Gradually increase toward authorized target after quiet interval"
+    },
+    {
+      "time": 1791784016.455925,
+      "control": "concurrency_extra.json",
+      "before": 1,
+      "after": 17,
+      "reason": "Gradually increase toward authorized target after quiet interval"
+    },
+    {
+      "time": 1791784136.934844,
+      "control": "concurrency_extra.json",
+      "before": 17,
+      "after": 33,
+      "reason": "Gradually increase toward authorized target after quiet interval"
+    },
+    {
+      "time": 1791784197.1625316,
+      "control": "concurrency.json",
+      "before": 16,
+      "after": 8,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791784197.1630135,
+      "control": "concurrency_extra.json",
+      "before": 33,
+      "after": 16,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791784257.3756278,
+      "control": "concurrency.json",
+      "before": 8,
+      "after": 4,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791784257.3759315,
+      "control": "concurrency_extra.json",
+      "before": 16,
+      "after": 8,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791784317.6233916,
+      "control": "concurrency.json",
+      "before": 4,
+      "after": 2,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791784317.6236172,
+      "control": "concurrency_extra.json",
+      "before": 8,
+      "after": 4,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791784377.8924236,
+      "control": "concurrency.json",
+      "before": 2,
+      "after": 1,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791784377.8927474,
+      "control": "concurrency_extra.json",
+      "before": 4,
+      "after": 2,
+      "reason": "Backoff after provider errors or host resource pressure"
+    },
+    {
+      "time": 1791784438.1238825,
+      "control": "concurrency_extra.json",
+      "before": 2,
+      "after": 1,
+      "reason": "Backoff after provider errors or host resource pressure"
+    }
+  ],
+  "nominal_workers": 2,
+  "success_rate_full": 0.21410714285714286,
+  "active_started_without_final": 45,
+  "recent_rate_or_gateway_errors": 0,
+  "resource_pressure": false,
+  "target_workers": 96
+}

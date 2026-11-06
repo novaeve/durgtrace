@@ -1,0 +1,77 @@
+{
+  "_id": "64685846ab75d9cb3c537004",
+  "id": "chao1224/ChatDrug_data",
+  "author": "chao1224",
+  "sha": "ac302b2bee9dee345fe28cf09771f8be7c527457",
+  "lastModified": "2023-05-20T05:25:14.000Z",
+  "private": false,
+  "gated": false,
+  "disabled": false,
+  "tags": [
+    "license:afl-3.0",
+    "region:us"
+  ],
+  "downloads": 60,
+  "likes": 1,
+  "cardData": {
+    "license": "afl-3.0"
+  },
+  "siblings": [
+    {
+      "rfilename": ".gitattributes"
+    },
+    {
+      "rfilename": "README.md"
+    },
+    {
+      "rfilename": "peptide/Data_S3.csv"
+    },
+    {
+      "rfilename": "peptide/class1_pseudosequences.csv"
+    },
+    {
+      "rfilename": "peptide/peptide_editing.json"
+    },
+    {
+      "rfilename": "peptide/peptide_editing_threshold.json"
+    },
+    {
+      "rfilename": "protein/downstream_datasets/secondary_structure/secondary_structure_casp12.lmdb/data.mdb"
+    },
+    {
+      "rfilename": "protein/downstream_datasets/secondary_structure/secondary_structure_casp12.lmdb/lock.mdb"
+    },
+    {
+      "rfilename": "protein/downstream_datasets/secondary_structure/secondary_structure_cb513.lmdb/data.mdb"
+    },
+    {
+      "rfilename": "protein/downstream_datasets/secondary_structure/secondary_structure_cb513.lmdb/lock.mdb"
+    },
+    {
+      "rfilename": "protein/downstream_datasets/secondary_structure/secondary_structure_train.lmdb/data.mdb"
+    },
+    {
+      "rfilename": "protein/downstream_datasets/secondary_structure/secondary_structure_train.lmdb/lock.mdb"
+    },
+    {
+      "rfilename": "protein/downstream_datasets/secondary_structure/secondary_structure_ts115.lmdb/data.mdb"
+    },
+    {
+      "rfilename": "protein/downstream_datasets/secondary_structure/secondary_structure_ts115.lmdb/lock.mdb"
+    },
+    {
+      "rfilename": "protein/downstream_datasets/secondary_structure/secondary_structure_valid.lmdb/data.mdb"
+    },
+    {
+      "rfilename": "protein/downstream_datasets/secondary_structure/secondary_structure_valid.lmdb/lock.mdb"
+    },
+    {
+      "rfilename": "small_molecule/250k_rndm_zinc_drugs_clean_3.csv"
+    },
+    {
+      "rfilename": "small_molecule/small_molecule_editing.txt"
+    }
+  ],
+  "createdAt": "2023-05-20T05:19:02.000Z",
+  "usedStorage": 602672121
+}

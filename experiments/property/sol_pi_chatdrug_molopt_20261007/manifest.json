@@ -1,0 +1,53 @@
+{
+  "method": "sol-pi",
+  "counts": {
+    "ChatDrug-MolEdit-28": 5600,
+    "S2-miniMolOpt": 1500
+  },
+  "model": "deepseek-v4.1-flash",
+  "temperature": 0,
+  "enable_thinking": false,
+  "reasoning_effort": null,
+  "workers": 8,
+  "pilot_cases": 2,
+  "key_source": "/data2/chenfuxin/molingo_20260922/private/deepseek_canchen.env",
+  "case_sha256": "81b3bed3ac18d3befddbd60afea5076b4ebe041226bfe3de0b9f920413066e92",
+  "original_case_source": "/data2/chenfuxin/molopt_original_bailian_20261007/cases.json",
+  "frozen_scorer_dependencies": {
+    "/data2/chenfuxin/chatdrug_generalization_20260920/full_experiment.py": "0998f12f5f4da4910606d6c2aca85befe91103775c7b9f64793fea99dbf7375d",
+    "/data2/chenfuxin/chatdrug_generalization_20260920/pilot.py": "0294a4125863744543545e9de6c7665646f17ba7442c1c4d6926fb856ba52331",
+    "/data2/chenfuxin/chatdrug_generalization_20260920/deepseek_check.py": "bc3de4735708ab814b38637aa038b503c7f56abc7745902785e9788fd71d18de"
+  },
+  "protocol": "original prompts, amplitude/loose/strict thresholds, Kekulize and S2 directional scores; no harmonization",
+  "submission": "one final answer per case; score only after the native episode ends",
+  "budget": {
+    "wall_seconds": 3600,
+    "idle_seconds": 1800,
+    "upstream_max_tokens": "omitted; native provider default"
+  },
+  "budget_comparison": "Native harness tools, reasoning context and call counts remain harness differences; not declared equal to ChatDrug/AgentDrug internal caps",
+  "execution": "same validated native SoL-Pi adapter, original benchmark Python/RDKit environment; both datasets interleaved",
+  "storage": {
+    "root": "/data/chenfuxin/sol_pi_chatdrug_molopt_20261007",
+    "shared_immutable_tools": [
+      "rg",
+      "fd"
+    ],
+    "minimum_free_gib_before_new_case": 20
+  },
+  "source_hashes": {
+    "relay.py": "41d13d52413781ae341747296fff31aee945ce17b9acb27bb09b6d23c5160b1f",
+    "prepare.py": "ace8df7025813220d655ff0f410c75d2ec7968d9515acbf2655431b4156fa129",
+    "status.py": "0a3be8ae6fe78509591e1e7948b9d06bb9f23bfe73de3052f2be8f15bd392a38",
+    "pipeline.py": "2b2439c881f6b13cf9774e0807433f824a426f13278a84a6440ed595b18b8bf2",
+    "score.py": "7ac0ac3dd7684b5a7d98bc287d508437e7429894c787b4f09d7e5058a067e92d",
+    "preflight.py": "ab871f2d84b270ffc9ffc7cd9d50cd65a601a5b02f48c6cbe1594d7e9837b129",
+    "test_policy.py": "664987282fe3a7acc4ff7bde7b9c5453dccc22e2352ce59382bc6a1f2f3a6865",
+    "start.py": "89ab063c5a190d13d5f040a05bd93dc45f1d301b432725b8f73fa1ea4e638df8",
+    "run.py": "a7946e4e6368252b57e6db9eb435b708ee5cbbf8471e2d4624c6741654817a5f",
+    "bridge/moledit.ts": "602778b1cf19b923284bc1835c4619b7bbc244107abccca5005a5fae3c66ff5f",
+    "source/original_full_experiment.py": "0998f12f5f4da4910606d6c2aca85befe91103775c7b9f64793fea99dbf7375d"
+  },
+  "same_models_for_primary_and_reducer": true,
+  "all_four_mechanisms": true
+}

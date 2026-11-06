@@ -1,0 +1,69 @@
+{
+  "synthetic": {
+    "accepted": true,
+    "cases": 9
+  },
+  "recorded_cases": [
+    {
+      "task": "celecoxib_rediscovery",
+      "decision": "completed"
+    },
+    {
+      "task": "deco_hop",
+      "decision": "completed"
+    },
+    {
+      "task": "drd2",
+      "decision": "completed"
+    },
+    {
+      "task": "gsk3b",
+      "decision": "retry_truncation"
+    },
+    {
+      "task": "isomers_c7h8n2o2",
+      "decision": "retry_truncation"
+    },
+    {
+      "task": "jnk3",
+      "decision": "completed"
+    },
+    {
+      "task": "median1",
+      "decision": "completed"
+    },
+    {
+      "task": "median2",
+      "decision": "retry_truncation"
+    },
+    {
+      "task": "osimertinib_mpo",
+      "decision": "retry_truncation"
+    },
+    {
+      "task": "perindopril_mpo",
+      "decision": "completed"
+    },
+    {
+      "task": "ranolazine_mpo",
+      "decision": "retry_truncation"
+    },
+    {
+      "task": "sitagliptin_mpo",
+      "decision": "retry_truncation"
+    },
+    {
+      "task": "troglitazon_rediscovery",
+      "decision": "completed"
+    },
+    {
+      "task": "valsartan_smarts",
+      "decision": "retry_truncation"
+    },
+    {
+      "task": "zaleplon_mpo",
+      "decision": "completed"
+    }
+  ],
+  "accepted": true
+}

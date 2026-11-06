@@ -1,0 +1,17 @@
+{
+  "model": "deepseek-v4.1-flash",
+  "provider": "Alibaba Bailian",
+  "enable_thinking": false,
+  "reasoning_effort": null,
+  "reasoning_effort_sent": false,
+  "molclaw_temperature": 1,
+  "existing_chatdrug_temperature": 1,
+  "existing_agentdrug_temperature": 0,
+  "existing_liddia_temperature": 1,
+  "verified_sources": [
+    "5090:/data2/chenfuxin/smdd_type4_full340_bailian_20260929/llm_gpu.py:9",
+    "5090:/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_parallel3/source/run_liddia_type4.py:64",
+    "CPU:/home/chenfuxin/smdd-migration/smdd-assets/experiments/type4_full340_bailian_20260929/batch.py:21"
+  ],
+  "old_experiments_modified": false
+}

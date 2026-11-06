@@ -1,0 +1,86 @@
+{
+  "model": "glm-5.3-flash",
+  "method": "Codex",
+  "expected": 4200,
+  "settings": {
+    "1_original_chatdrug": 1600,
+    "2_s2_prompt_chatdrug": 1600,
+    "3_original_s2": 1000
+  },
+  "jobs_sha256": "51920261683856cf9c2883005f20ed3b754a6af2e9c4e79d27d9975b7249b9c9",
+  "common_sha256": "b5472772b9cd5295b1964a616448e8594c5daa8b0fd18da963692b0b60f7be1c",
+  "provider": "Official GLM via existing 32-request shared gateway; real API key stays on CPU host",
+  "reasoning_effort": "low",
+  "temperature": 0,
+  "evaluation": "Same official S2 mol_prop strict direction only; no amplitude, no similarity cutoff, no Kekulize; one final parsed molecule",
+  "initialization": "Byte-identical jobs and instructions to preceding five GLM methods",
+  "created": 1791683452.9493363,
+  "workers": 16,
+  "native_cli": "codex-cli 0.149.0",
+  "cli_binary": "/data2/chenfuxin/smdd_codex_type2_bailian_20260929/bin/codex",
+  "cli_sha256": "bbc3341e44c9ead340ed9570c17be936e37870f570751a941699ffd04d672827",
+  "reference_roots": [
+    "/data/chenfuxin/codex_chatdrug_molopt_loopguard_c16_20261010",
+    "/data/chenfuxin/codex_chatdrug_s2init_bailian_20261010"
+  ],
+  "source_pins": {
+    "/data/chenfuxin/codex_chatdrug_molopt_loopguard_c16_20261010/run.py": "3548d79130eb714e19a05cf268c40d9b963a7ba49ac9e11eefa21021476f82d9",
+    "/data/chenfuxin/codex_chatdrug_molopt_loopguard_c16_20261010/relay.py": "0b3433e03ab2e1a0fe4446f1ab1b2eb482cb06db1e5f891ad9cc963ca88f7cfd",
+    "/data/chenfuxin/codex_chatdrug_molopt_loopguard_c16_20261010/legacy_relay.py": "e77ba0a92d8d09536cf1d7efd9ea5d7ebbcd1216398d90f58b303e462a1a0ec7",
+    "/data/chenfuxin/codex_chatdrug_molopt_loopguard_c16_20261010/bridge.py": "eb359295b69875adc0f9e89d0bbd47156c31b59514624abcb1b9988664fb4f19",
+    "/data/chenfuxin/codex_chatdrug_molopt_loopguard_c16_20261010/loop_control.py": "cd880e3204758e537a998534728e1c93a6f3d37461151e08e64483fab1161e5a",
+    "/data/chenfuxin/codex_chatdrug_molopt_loopguard_c16_20261010/adaptive_gate.py": "6b72531ba8dae2db2b123509f07c3a0e3dd53e0769f9d1e7dc7461723d8a579e",
+    "/data/chenfuxin/codex_chatdrug_molopt_loopguard_c16_20261010/process_cleanup.py": "b91b957b0c7788eac7b147b5618c506038ff7f27b536d0bc8a6ec7a9dce00852"
+  },
+  "native_budget": {
+    "wall_seconds": 3600,
+    "idle_seconds": 1800,
+    "proxy_startup_excluded": true,
+    "upstream_max_tokens": "omitted; provider default"
+  },
+  "loop_guard": {
+    "same_successful_tool_and_actual_output_and_workspace": true,
+    "warn_after": 3,
+    "request_final_and_tool_choice_none_after": 5,
+    "original_task_and_scoring_unchanged": true,
+    "prior_terminal_results_retained": true
+  },
+  "native_tools": "native Codex shell and file tools, RDKit 2022.09.4; case-local Responses transport adapter",
+  "reviewer": false,
+  "memory": false,
+  "multi_agent": false,
+  "max_tokens": null,
+  "transport_changes": "Only GLM model/provider settings; native Responses-to-Chat bridge, shell/file tools, isolation and loop guard retained",
+  "documentation": "https://learn.chatgpt.com/docs/config-file/config-advanced",
+  "code_hashes": {
+    "common.py": "b5472772b9cd5295b1964a616448e8594c5daa8b0fd18da963692b0b60f7be1c",
+    "native/legacy_relay.py": "41902e2b7a50e2bfca2f72b2fcba7d13dc27c600179da749e3c76538de4a6bf1",
+    "native/relay.py": "0037331ab1124b7e82291d0041885dd94e6da47c8012e89ce52a634a8f9ea0b6",
+    "native/bridge.py": "ec2c78ba6875ca25d658c6b6982e1c7d63a41b451dbf65064f78833f1713bb9e",
+    "native/loop_control.py": "cd880e3204758e537a998534728e1c93a6f3d37461151e08e64483fab1161e5a",
+    "native/process_cleanup.py": "b91b957b0c7788eac7b147b5618c506038ff7f27b536d0bc8a6ec7a9dce00852",
+    "native/adaptive_gate.py": "6b72531ba8dae2db2b123509f07c3a0e3dd53e0769f9d1e7dc7461723d8a579e",
+    "native/run.py": "46ce9f1d319a569da1817fe3f9e699ce610cbf2cd58c2e96e3225003424c8d1f"
+  },
+  "provider_history": [
+    {
+      "base_url": "https://tok.fan/v1",
+      "epoch": "relay_1791701288",
+      "since": 1791701367.4371622,
+      "previous_results_preserved": true,
+      "workers": 64,
+      "reasoning_effort": "low",
+      "temperature": 0
+    },
+    {
+      "base_url": "https://open.bigmodel.cn/api/paas/v4",
+      "epoch": "official_1791769965735541873",
+      "since": 1791770040.9322925,
+      "previous_results_preserved": true,
+      "reason": "User requested official key",
+      "workers": 64,
+      "reasoning_effort": "low",
+      "temperature": 0
+    }
+  ]
+}

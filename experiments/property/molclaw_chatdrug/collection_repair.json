@@ -1,0 +1,7 @@
+{
+  "time": 1791785480.671308,
+  "draining_old_pid": 1946676,
+  "new_pid": 1963088,
+  "preserved_episode_count": 64,
+  "policy": "Collect existing native results without rerunning; original parent drained, all already-started IDs excluded from new inference; final scoring remains central"
+}

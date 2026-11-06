@@ -1,0 +1,1606 @@
+{
+  "method": "MolClaw",
+  "records": [
+    {
+      "id": "source_101_loose_002",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_loose_002/result.json",
+      "source_sha256": "d71924153ab2f6f6c5f4dcc874fe9df448944a6290b4c380f358a28c7e568f72"
+    },
+    {
+      "id": "source_101_loose_007",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_loose_007/result.json",
+      "source_sha256": "a63808a9ef4d40483336451f479201af549c98c4b096e6ce1971e5cb39e06f6e"
+    },
+    {
+      "id": "source_101_loose_012",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_loose_012/result.json",
+      "source_sha256": "7c13dbbda66dce53998857ae9445d589f67c9794100c371178a8dc5c95faff2d"
+    },
+    {
+      "id": "source_101_loose_017",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_loose_017/result.json",
+      "source_sha256": "a2862446bf163856ef27b7d446f270d008c90f48a4496072bd622ac729effde6"
+    },
+    {
+      "id": "source_101_loose_022",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_loose_022/result.json",
+      "source_sha256": "ca59bddfe61e954009de163ad74f6219fe5cbc466a70b7569422be072bbacfbe"
+    },
+    {
+      "id": "source_101_loose_027",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_loose_027/result.json",
+      "source_sha256": "6646207f106569cb3d75179e0e7519a67f8f75178d4ffcecfe76068b899278a2"
+    },
+    {
+      "id": "source_101_loose_032",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_loose_032/result.json",
+      "source_sha256": "1743aff69d6d84cec0400929177cdfd1caf10a7b3552574cc7b23bf1032dcce6"
+    },
+    {
+      "id": "source_101_loose_037",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_loose_037/result.json",
+      "source_sha256": "f347a3a3e52c3adf59774cd67626e0e7eecadedb8746260f29d92358e7812edf"
+    },
+    {
+      "id": "source_101_loose_042",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_loose_042/result.json",
+      "source_sha256": "a410c2f43f6cbc8f9bfb907cc0fd501dd246e53f43541724f7ebdd4d497e2b74"
+    },
+    {
+      "id": "source_101_loose_047",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_loose_047/result.json",
+      "source_sha256": "508f67d6d3b306b08fd100ecdae9f7cf6e25e91e152316f93030c3fddfd1eff3"
+    },
+    {
+      "id": "source_101_loose_052",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_loose_052/result.json",
+      "source_sha256": "3fc1d6365004a12b3d15d82562ead92f6a4e76c5abd7f18f603259b93e8b46db"
+    },
+    {
+      "id": "source_101_loose_057",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_loose_057/result.json",
+      "source_sha256": "bdb53657418f8b829114af431ee5235f56a648dee1e8c1bef98e35536e38105b"
+    },
+    {
+      "id": "source_101_loose_062",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_loose_062/result.json",
+      "source_sha256": "d29f44b4529fac515ca9bb28ba5411b5acc3242cdf3531b4f539cd512d35d95d"
+    },
+    {
+      "id": "source_101_loose_067",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_loose_067/result.json",
+      "source_sha256": "64563600446863e98723ed8d396111a2c230a942d06537d316a5d1472e0f36ca"
+    },
+    {
+      "id": "source_101_loose_072",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_loose_072/result.json",
+      "source_sha256": "3e0e82109fe5ea24f08875a06c23563af1988b15d5a9c85fd8fe14135109135d"
+    },
+    {
+      "id": "source_101_loose_077",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_loose_077/result.json",
+      "source_sha256": "769db9fee23beda4c55cd4f4144ff1f0b2fb709de82c8ae9b972d5f2faab2e68"
+    },
+    {
+      "id": "source_101_loose_082",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_loose_082/result.json",
+      "source_sha256": "5f0784e8ff55d3709efbde501279eb351a6e1317901e2baf657b9ebaae1fae12"
+    },
+    {
+      "id": "source_101_loose_087",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_loose_087/result.json",
+      "source_sha256": "921760cbc4e8aa416ca19ed05b814cc7d58b120935d37ca80fb2e92510274378"
+    },
+    {
+      "id": "source_101_loose_092",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_loose_092/result.json",
+      "source_sha256": "0c5c776ccdfea64f6ada348dc7f331a3ea9a0beb0911dd231888de34b0c29c6e"
+    },
+    {
+      "id": "source_101_loose_097",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_loose_097/result.json",
+      "source_sha256": "8b13d52bc8c5483a53b9ef33990be2e8cf72eb2fdc68a7934138e4ca7a01b86a"
+    },
+    {
+      "id": "source_101_loose_102",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_loose_102/result.json",
+      "source_sha256": "0a4809282114fbecbe8c67344cd6bc45afcce5e453c3ec3717bca7ed0dfa8d0d"
+    },
+    {
+      "id": "source_101_loose_107",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_loose_107/result.json",
+      "source_sha256": "593059759f98484cd776c086180412128c2efd7ad61e7636ed2fb97b636a7f88"
+    },
+    {
+      "id": "source_101_loose_112",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_loose_112/result.json",
+      "source_sha256": "a029d6829322554a8fcfff83777e45b5d8ab52b1cf7191944e8f844d1e4086a4"
+    },
+    {
+      "id": "source_101_loose_117",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_loose_117/result.json",
+      "source_sha256": "8cf1f6bb528edc4d59607569096fc910237ef7784cebbdf3058d9e436974261e"
+    },
+    {
+      "id": "source_101_loose_122",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_loose_122/result.json",
+      "source_sha256": "c62b7468c5784a9835b8cf88cbe618e803ea4c89f4c07aef4d2b1e795e54bff9"
+    },
+    {
+      "id": "source_101_loose_127",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_loose_127/result.json",
+      "source_sha256": "ec897e899002e3cad227e709f6142051c9bb67d3ae159c3b91464e2fd0f4df0d"
+    },
+    {
+      "id": "source_101_loose_132",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_loose_132/result.json",
+      "source_sha256": "fa71eb7e3215dfd00c32478c38157ee874b336f9dc996b4c3a1310213a9b3e54"
+    },
+    {
+      "id": "source_101_loose_137",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_loose_137/result.json",
+      "source_sha256": "b2e5265dbce38c198f8b0104e6c79a5501ec12dbde2cadcb530820937f309ae5"
+    },
+    {
+      "id": "source_101_loose_142",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_loose_142/result.json",
+      "source_sha256": "868313f67158803da8623e857b4d1ab5a89088fad0193399038188df0e7e475f"
+    },
+    {
+      "id": "source_101_loose_147",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_loose_147/result.json",
+      "source_sha256": "b93eec3da2101143fbcacb13a4f0f097ca87f9fff2dd76366ba75439cc26e4c4"
+    },
+    {
+      "id": "source_101_loose_152",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_loose_152/result.json",
+      "source_sha256": "1717bdb64957cde04d81f83286eb85d32327b222601d20db3a38c59d612d0a4c"
+    },
+    {
+      "id": "source_101_loose_157",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_loose_157/result.json",
+      "source_sha256": "77bfde1ce36de56efb612e7f408caf403dfc5502be8a127b4bd0733b3181668a"
+    },
+    {
+      "id": "source_101_loose_162",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_loose_162/result.json",
+      "source_sha256": "696fa4156341ca2f1771ea53d4566663150432c66f71763210874707267674e3"
+    },
+    {
+      "id": "source_101_loose_167",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_loose_167/result.json",
+      "source_sha256": "eb570527448ebbc84a763ce8494172a65206cb31d58907a747cd3545878bd2fc"
+    },
+    {
+      "id": "source_101_loose_172",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_loose_172/result.json",
+      "source_sha256": "7ae370f5874f4b36562223214ab6fa45c771e791aa6dcb04f8bd83a839ecdfef"
+    },
+    {
+      "id": "source_101_loose_177",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_loose_177/result.json",
+      "source_sha256": "5a24da0b4bcfc68473e518fb176c4262b27eecafb60f8755197d78eafb4a42df"
+    },
+    {
+      "id": "source_101_loose_182",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_loose_182/result.json",
+      "source_sha256": "24d2e439fee913de64271e6cc2df708b6dd62bc6369b31e7292ac582c5ec6978"
+    },
+    {
+      "id": "source_101_loose_187",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_loose_187/result.json",
+      "source_sha256": "ca84bab56ae2d484b61ad0bd1501f49f999fbb0551c7d05cb3ba484a695ab7ce"
+    },
+    {
+      "id": "source_101_loose_192",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_loose_192/result.json",
+      "source_sha256": "746779aa6a14e1f2ac08cd382bce4c0bed2f88b828a7be2865786d8bea593365"
+    },
+    {
+      "id": "source_101_loose_197",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_loose_197/result.json",
+      "source_sha256": "fbdff3a9b22f4416a21bb6f17af780f05e9303dca91dcd78d54ba786f9b7a4bd"
+    },
+    {
+      "id": "source_101_strict_002",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_strict_002/result.json",
+      "source_sha256": "9ff6bc080d2a64417901cfe80065e807dd7f8e9fb4087b087bf09110efde3242"
+    },
+    {
+      "id": "source_101_strict_007",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_strict_007/result.json",
+      "source_sha256": "4f9251ad3b3e4663288d6b7d61df47ceb884a9844045cde4257023939ca98d19"
+    },
+    {
+      "id": "source_101_strict_012",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_strict_012/result.json",
+      "source_sha256": "479bfb1c067cf2d2baef84e5806603e3484b303020dc615e964f350fdd34b935"
+    },
+    {
+      "id": "source_101_strict_017",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_strict_017/result.json",
+      "source_sha256": "b48c64527169be51eafdc649fe3100ada69a74cbe39e87388e999ca99732ed22"
+    },
+    {
+      "id": "source_101_strict_022",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_strict_022/result.json",
+      "source_sha256": "d0b01af42bdc435ba534c43ee4be1602e029a2545df7f8a31dad821ae5079e72"
+    },
+    {
+      "id": "source_101_strict_027",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_strict_027/result.json",
+      "source_sha256": "5a5f15a978ba8fb0f704535df00091b44cfa8f96f3dbc6a6b83936313985b627"
+    },
+    {
+      "id": "source_101_strict_032",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_strict_032/result.json",
+      "source_sha256": "a01a7dbd26bf540b7d8592e4f1a6478eb987be4079a6eb56f371c755489d79ac"
+    },
+    {
+      "id": "source_101_strict_037",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_strict_037/result.json",
+      "source_sha256": "fd14a3a554b373535094a3e45fe61ae5718037b85842021622ff871d02ceeb8a"
+    },
+    {
+      "id": "source_101_strict_042",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_strict_042/result.json",
+      "source_sha256": "e71f1a63022fad063ec461e35e89a5d319176e3f5f937f378270644017c02b29"
+    },
+    {
+      "id": "source_101_strict_047",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_strict_047/result.json",
+      "source_sha256": "66d4e8420174f6d13f178ecf84077c00f2f475378f209679843252d60d4ffb61"
+    },
+    {
+      "id": "source_101_strict_052",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_strict_052/result.json",
+      "source_sha256": "7e0b7fba74f84f71779f6a750e51ed646bfb4646d3fb2992570f8714b7ab6450"
+    },
+    {
+      "id": "source_101_strict_057",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_strict_057/result.json",
+      "source_sha256": "2a09d4699134d488b02f5edd41ba540a85eff67d0b360f5d831251dffd006090"
+    },
+    {
+      "id": "source_101_strict_062",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_strict_062/result.json",
+      "source_sha256": "c85393052ed37a70c499342bea514aa9e119adb7dee44f611d23477682a2f05d"
+    },
+    {
+      "id": "source_101_strict_067",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_strict_067/result.json",
+      "source_sha256": "04217d8a0689fb35beee9bbc61cf8c5e64d6800da219777917ad2ec974bc7791"
+    },
+    {
+      "id": "source_101_strict_072",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_strict_072/result.json",
+      "source_sha256": "e1d13716c2997f11ed233f06e393ba151e973a9686c23283c3778617b7709c14"
+    },
+    {
+      "id": "source_101_strict_077",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_strict_077/result.json",
+      "source_sha256": "59341ea3bfe8be000636b5c36d912dab890d1b86b950ccade14ea827682dd3cd"
+    },
+    {
+      "id": "source_101_strict_082",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_strict_082/result.json",
+      "source_sha256": "ea934524ed183361858a720b69e3ae51e2e4ca4093af6d52087f0a84a59f3840"
+    },
+    {
+      "id": "source_101_strict_087",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_strict_087/result.json",
+      "source_sha256": "390a9cab7584bd418d4aede5ea49467d04f17c2d0af58cd9bf61ded3006bbbfe"
+    },
+    {
+      "id": "source_101_strict_092",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_strict_092/result.json",
+      "source_sha256": "ab14279e76260dfac04ff7ed2c49182e30aaa1da619b7ef1ab42155f7d73e77a"
+    },
+    {
+      "id": "source_101_strict_097",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_strict_097/result.json",
+      "source_sha256": "bd95fb2c06157f3e77bf57278e8873089f8af3eedb48b9c07c034610c3336770"
+    },
+    {
+      "id": "source_101_strict_102",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_strict_102/result.json",
+      "source_sha256": "0e9d78c05ebfb12f98d981af84b1172038246e4f3f5720eed956458c9d3432d1"
+    },
+    {
+      "id": "source_101_strict_107",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_strict_107/result.json",
+      "source_sha256": "4a96b06d5e65c5d6198498525ad3482503a02ba4bdba3a8b011a0c14f996ce24"
+    },
+    {
+      "id": "source_101_strict_112",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_strict_112/result.json",
+      "source_sha256": "d03b125862d374cbf9bf59c3af400c1286e29e8daffc25d508d9634736a18ccd"
+    },
+    {
+      "id": "source_101_strict_117",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_strict_117/result.json",
+      "source_sha256": "23773021df099b34299d8e237a18ea5558a101883defb7077f1972acbc33542f"
+    },
+    {
+      "id": "source_101_strict_122",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_strict_122/result.json",
+      "source_sha256": "fe43ad957380ca9c1ad61b8a279caf4f41ee2195b21ed820e3adeb4ddd988100"
+    },
+    {
+      "id": "source_101_strict_127",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_strict_127/result.json",
+      "source_sha256": "a726aedd9dc15a7478d97a3fd3d05c993fbc2c84d0d1cb85a35e38c6564d1e6c"
+    },
+    {
+      "id": "source_101_strict_132",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_strict_132/result.json",
+      "source_sha256": "0411e092796ada386fb7c7d6365d8501d94cbe7c79e20311042359154f078a92"
+    },
+    {
+      "id": "source_101_strict_137",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_strict_137/result.json",
+      "source_sha256": "648720938605a7b582d6d8cfdfe4a84e82a993e8c019dd1f3d50a32970b54de4"
+    },
+    {
+      "id": "source_101_strict_142",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_strict_142/result.json",
+      "source_sha256": "fadde88aad0d08657bf27eb30d07d2abdf6b2a2745fcb00f2bc5ebefc2273ed8"
+    },
+    {
+      "id": "source_101_strict_147",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_strict_147/result.json",
+      "source_sha256": "0e7e60c0e5bec30bd1658b063cb8cd5b114374b70078f7a4aab405ba83e0d88f"
+    },
+    {
+      "id": "source_101_strict_152",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_strict_152/result.json",
+      "source_sha256": "f68fc5908d2e2bec53632cb400bbf763424707f34929aab5fbb05c684c9d2e1c"
+    },
+    {
+      "id": "source_101_strict_157",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_strict_157/result.json",
+      "source_sha256": "850f1b1c918386e9d2491492167a010110abd6d396d9ddd0767d0dfc035b7d57"
+    },
+    {
+      "id": "source_101_strict_162",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_strict_162/result.json",
+      "source_sha256": "d321c12df5697c4299aa5c9507b3e114934870a56f0acca8712a10e36cd17324"
+    },
+    {
+      "id": "source_101_strict_167",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_strict_167/result.json",
+      "source_sha256": "38c5a755925106a848d5639e20b880f9a213faa21ec8526e5f53b4692551d5ba"
+    },
+    {
+      "id": "source_101_strict_172",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_strict_172/result.json",
+      "source_sha256": "74983e694cb0318d39f7fc26ef6689642da036d1577101853092af399969afe9"
+    },
+    {
+      "id": "source_101_strict_177",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_strict_177/result.json",
+      "source_sha256": "a742f9b29d64543e9ca44496b2671099d407272a69e2e5708abcbb8eaf9ff46d"
+    },
+    {
+      "id": "source_101_strict_182",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_strict_182/result.json",
+      "source_sha256": "59866965159e58be42e2271eb6ad81d587b4f3a60452526aaee62c7a28e9edc6"
+    },
+    {
+      "id": "source_101_strict_187",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_strict_187/result.json",
+      "source_sha256": "269216b1779aa39bddb14365fe62ff840734c60e04fbeb11a261e4a5d44c003e"
+    },
+    {
+      "id": "source_101_strict_192",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_strict_192/result.json",
+      "source_sha256": "124f35d0de9ba0051cbdc7e25f60679f196192c3f19ef8b674800ae4505d49ef"
+    },
+    {
+      "id": "source_101_strict_197",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_101_strict_197/result.json",
+      "source_sha256": "6ea00fba0c27b30205793ac53291381f91afaffccac8da021f8119e0e77fa798"
+    },
+    {
+      "id": "source_102_loose_002",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_loose_002/result.json",
+      "source_sha256": "7e36cfb36574ea7ee2e766c46b6ca319cd4d58105e9cacba734ea6ccb82c4140"
+    },
+    {
+      "id": "source_102_loose_007",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_loose_007/result.json",
+      "source_sha256": "9dfe2357b22b8e82c30786a092eec9d8a6934c77152af442b3505d3f726783ce"
+    },
+    {
+      "id": "source_102_loose_012",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_loose_012/result.json",
+      "source_sha256": "1ae2e4b11dc638f6834dd344b8936da75fdb514c8e1924aec0cc54e73786ce97"
+    },
+    {
+      "id": "source_102_loose_017",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_loose_017/result.json",
+      "source_sha256": "7f212e554e7fadbfb5e4912089158a6679b3e28db8fec45cede0aef67030dd5c"
+    },
+    {
+      "id": "source_102_loose_022",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_loose_022/result.json",
+      "source_sha256": "40342655ad057a2b010423f97c259f8b40f8b0850dd04549b0bd01ebd679b279"
+    },
+    {
+      "id": "source_102_loose_027",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_loose_027/result.json",
+      "source_sha256": "1197f88320686ddd34a006cdb79788526d9350cf859f253898cbc26e3b418983"
+    },
+    {
+      "id": "source_102_loose_032",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_loose_032/result.json",
+      "source_sha256": "ea8aecf6740c80097a42a7b3b99d25cd726521f4929a855cb70821d6853f9a07"
+    },
+    {
+      "id": "source_102_loose_037",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_loose_037/result.json",
+      "source_sha256": "1ecd1157a96034e49695f8db006d41bc4ec17cdebb05cafe0c1775cbd920a140"
+    },
+    {
+      "id": "source_102_loose_042",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_loose_042/result.json",
+      "source_sha256": "7cd0710e8144e2a667c6e84e3a2da1b47e291a58c1f515aa1440bb5820cd76c4"
+    },
+    {
+      "id": "source_102_loose_047",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_loose_047/result.json",
+      "source_sha256": "551eb9f216a1a37a429e8a1f324a249b869f304f941f8e246390c9061789f154"
+    },
+    {
+      "id": "source_102_loose_052",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_loose_052/result.json",
+      "source_sha256": "fee65d2714addfa507b848f86df1d49bc6382af6e5fa9524328447459cf8e8bd"
+    },
+    {
+      "id": "source_102_loose_057",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_loose_057/result.json",
+      "source_sha256": "deb432e4ee3d794f5a73f8026163e0c5f6a42a042279f8ac1c422d97ef6dd609"
+    },
+    {
+      "id": "source_102_loose_062",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_loose_062/result.json",
+      "source_sha256": "22467818f468bc5f26c4fd09657b5931dcb9672475a910cfa0872d4314876596"
+    },
+    {
+      "id": "source_102_loose_067",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_loose_067/result.json",
+      "source_sha256": "5039d697fd89c3394409c1d5b3d983690f0c99ed910a9d6db7c48a6ffb12f458"
+    },
+    {
+      "id": "source_102_loose_072",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_loose_072/result.json",
+      "source_sha256": "6d3c7488dd80066dbd102d1a624af891e4d17cf87300f9ee65bfbe48f715e3bd"
+    },
+    {
+      "id": "source_102_loose_077",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_loose_077/result.json",
+      "source_sha256": "e2d1db0f0551090eb0f102684510f576edd8840a7b87951d460e83c0eddb5141"
+    },
+    {
+      "id": "source_102_loose_082",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_loose_082/result.json",
+      "source_sha256": "9ce0ecfe7221d2619301403da5153f2bf83cf100ebf551c58312928d373bbd6c"
+    },
+    {
+      "id": "source_102_loose_087",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_loose_087/result.json",
+      "source_sha256": "ed9148857b064cd6cac3af6a374e1a8f29ead034120e0aa0ef778f4800133f42"
+    },
+    {
+      "id": "source_102_loose_092",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_loose_092/result.json",
+      "source_sha256": "df17fabcc9ae06b946148491eb868fd0c81db0f229217be259ffb5536628e13f"
+    },
+    {
+      "id": "source_102_loose_097",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_loose_097/result.json",
+      "source_sha256": "c96d01a9d6dca2fb2ab86d65d3e16fc29c6444f7ca0b8c7f54d1fb8673cfc8b1"
+    },
+    {
+      "id": "source_102_loose_102",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_loose_102/result.json",
+      "source_sha256": "954b8773911c836e8df7c0796e160f7e08944388105c04112a0f6b9895b47ad1"
+    },
+    {
+      "id": "source_102_loose_107",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_loose_107/result.json",
+      "source_sha256": "8975ffc9088a6ad44d2d921b48c8ac29f281b7ec392ab5c16d1e463de67bf0a9"
+    },
+    {
+      "id": "source_102_loose_112",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_loose_112/result.json",
+      "source_sha256": "352855db39c53a7c1aa945d276bd805ef5fb7fd248fb1d8fbd754e33227d190c"
+    },
+    {
+      "id": "source_102_loose_117",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_loose_117/result.json",
+      "source_sha256": "92e59062beb4881417d6d087ca1fca414dc2bc9eea803c67f68ce3bfbd9c357c"
+    },
+    {
+      "id": "source_102_loose_122",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_loose_122/result.json",
+      "source_sha256": "83d7871f6ae6acc68f6b31bf56c4a1b25d780ad87926b5275937cd25d1884f51"
+    },
+    {
+      "id": "source_102_loose_127",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_loose_127/result.json",
+      "source_sha256": "bbe9f8dae59840fbf1850769f76a99d83996a257a5ac8c6843fae4b791a101e7"
+    },
+    {
+      "id": "source_102_loose_132",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_loose_132/result.json",
+      "source_sha256": "d53830bf1c53a28b4f86a2983032f741820b558d352967d593eed33b25abe54e"
+    },
+    {
+      "id": "source_102_loose_137",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_loose_137/result.json",
+      "source_sha256": "861457141bd228e2508b0949bb5f84bdb786799975a9382d9902d02738770fa8"
+    },
+    {
+      "id": "source_102_loose_142",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_loose_142/result.json",
+      "source_sha256": "263e6902d670d148de41781216964a6d19fce12d3dcfa441e60d8df0d92d944f"
+    },
+    {
+      "id": "source_102_loose_147",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_loose_147/result.json",
+      "source_sha256": "083ee32e28a696ecf6655c2c852a7ebea85aeb857f58cc097b7427db22eabb75"
+    },
+    {
+      "id": "source_102_loose_152",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_loose_152/result.json",
+      "source_sha256": "063fd8e61a1bda52862113868b6e96662611703eec94ddcdaafe7050bf7123cc"
+    },
+    {
+      "id": "source_102_loose_157",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_loose_157/result.json",
+      "source_sha256": "3c85dbbd71b906673866ff2e1c8416255c4a09f6b494b15b7906c848954def75"
+    },
+    {
+      "id": "source_102_loose_162",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_loose_162/result.json",
+      "source_sha256": "8914a29500645b14949c504bcf2c8878072c1ad00b5d073d83f9bc81bf75034c"
+    },
+    {
+      "id": "source_102_loose_167",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_loose_167/result.json",
+      "source_sha256": "81480512e67a07866b05d26ab4deb29e9350ebb1ede4c46bd4c108fe3fff3ef8"
+    },
+    {
+      "id": "source_102_loose_172",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_loose_172/result.json",
+      "source_sha256": "75bf62995e40e0a9d84ce82acff8036c3f732f2474070af0e477f536b7ad436c"
+    },
+    {
+      "id": "source_102_loose_177",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_loose_177/result.json",
+      "source_sha256": "269c6d8d51303ca164b0c0d39361ce66d472cd126350439ac001d3915e1ff14d"
+    },
+    {
+      "id": "source_102_loose_182",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_loose_182/result.json",
+      "source_sha256": "137009b98e664d49f11f5e655c493337a4439a16639fb03e961474ab5d880aa8"
+    },
+    {
+      "id": "source_102_loose_187",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_loose_187/result.json",
+      "source_sha256": "a6662e47830e7cf87f4ed9300846ddd04d0a55c5175deeecf2a2bb8bb81cb25d"
+    },
+    {
+      "id": "source_102_loose_192",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_loose_192/result.json",
+      "source_sha256": "061e0a72b1610dd84d5e935522fb0b16a477dfa647c147661e9feaf1a6360cf7"
+    },
+    {
+      "id": "source_102_loose_197",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_loose_197/result.json",
+      "source_sha256": "894d6995a0ef6cad0eb3c9a592bf37f5f0cc56c66e5173f5b9140f82e78ef3f1"
+    },
+    {
+      "id": "source_102_strict_002",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_strict_002/result.json",
+      "source_sha256": "d8df36d8f1621583c2cac7a0a4fab0ec66ceddf3cd049e27328b62efd6ba0cf3"
+    },
+    {
+      "id": "source_102_strict_007",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_strict_007/result.json",
+      "source_sha256": "339ad155140c0aded9f585fdb10fdf8fb7d48b52e7b2c8c51417eb3c80db7023"
+    },
+    {
+      "id": "source_102_strict_012",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_strict_012/result.json",
+      "source_sha256": "f2831716c81d1bc2e860d671ab13b736f4714b58e2b8bf67104069d73c44a548"
+    },
+    {
+      "id": "source_102_strict_017",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_strict_017/result.json",
+      "source_sha256": "0e948aa8502773db24ff00ae37fea946c1255dfc686c324ef411fd0be1b11b86"
+    },
+    {
+      "id": "source_102_strict_022",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_strict_022/result.json",
+      "source_sha256": "ec8733c68fd2d557c0b233d1f15eefb1b682024daea73140ac06be78e100b3b5"
+    },
+    {
+      "id": "source_102_strict_027",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_strict_027/result.json",
+      "source_sha256": "684a1158bb57d041e84295417aaa3e212ca6f8fd748bfc4cbbb96e87842ec94b"
+    },
+    {
+      "id": "source_102_strict_032",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_strict_032/result.json",
+      "source_sha256": "3a4a49fb9d3b2acf7484c374cb9a115ecc801e84dfee02af578c63c3fd318c0f"
+    },
+    {
+      "id": "source_102_strict_037",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_strict_037/result.json",
+      "source_sha256": "6f68a136b029ed69e562d95c02a1b6b7f9c0c6dc5baf8c4375809392d02e797f"
+    },
+    {
+      "id": "source_102_strict_042",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_strict_042/result.json",
+      "source_sha256": "fb0f7d420b24bbf9c81abe465b921f80e5615972932b001751a51bd18382f099"
+    },
+    {
+      "id": "source_102_strict_047",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_strict_047/result.json",
+      "source_sha256": "bba0c5c8eff47a4964d06de0e05ee1cd28487bbe366a4aace88a4bcf7ec3b45d"
+    },
+    {
+      "id": "source_102_strict_052",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_strict_052/result.json",
+      "source_sha256": "66f21f3ba0f0301e37bfe66185cdc732df919288e42c876fcd8f1f18893facc4"
+    },
+    {
+      "id": "source_102_strict_057",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_strict_057/result.json",
+      "source_sha256": "bda0dbe8c99fab7de1a2a764c0933e489dd04e67155f4733889078577644e00a"
+    },
+    {
+      "id": "source_102_strict_062",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_strict_062/result.json",
+      "source_sha256": "f3bbd12fcb8a527347e89487b53780e5c6a3c858cb38c8033e36d27535eaa017"
+    },
+    {
+      "id": "source_102_strict_067",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_strict_067/result.json",
+      "source_sha256": "3130f93189736cfcee67a8ebe4b3ff4cfbcbb2673d03f744c91df44b9dda840f"
+    },
+    {
+      "id": "source_102_strict_072",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_strict_072/result.json",
+      "source_sha256": "618d3c41acb8f8454cf86d6fc14f5f08b2b3d7f48ed55bd9b3ebf1f59e9d0ee1"
+    },
+    {
+      "id": "source_102_strict_077",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_strict_077/result.json",
+      "source_sha256": "b4c6298ca6ef5e1505b39a90e5e4349a1cb86e56815d086f09f8b67d08c725d5"
+    },
+    {
+      "id": "source_102_strict_082",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_strict_082/result.json",
+      "source_sha256": "3070e3f103e41bed7185306bf42c44f7d8025c3756a15a6536ad9d4d51f9c43a"
+    },
+    {
+      "id": "source_102_strict_087",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_strict_087/result.json",
+      "source_sha256": "5818bbf5eb94589a53744790dea44146344d12288f0875da73243c972337e010"
+    },
+    {
+      "id": "source_102_strict_092",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_strict_092/result.json",
+      "source_sha256": "da4cc07b77d2d0d313ef3210e7b9d58817a2eb9c17892aa855064a034f1896db"
+    },
+    {
+      "id": "source_102_strict_097",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_strict_097/result.json",
+      "source_sha256": "ab0822600fab72167503ce8ddcb6c9c11e0547b616c045f141ddf3c374509a72"
+    },
+    {
+      "id": "source_102_strict_102",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_strict_102/result.json",
+      "source_sha256": "6c50529ff0c58e57d87a624a428d6315e5af46377a3f17e21e3ade4a457d39e9"
+    },
+    {
+      "id": "source_102_strict_107",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_strict_107/result.json",
+      "source_sha256": "0affd50f4655d8abb4b5d4835aaa5a6110426979aad2f38d4105449897d23f32"
+    },
+    {
+      "id": "source_102_strict_112",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_strict_112/result.json",
+      "source_sha256": "184b3da11c4d9bb526e672723210a5ba7b6c0dfb055de99d2470a30a354fb6db"
+    },
+    {
+      "id": "source_102_strict_117",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_strict_117/result.json",
+      "source_sha256": "baeec32a479ab4bbabacdfb6fd2d1d12ed48b401ef78247fdf8a4fe163018c63"
+    },
+    {
+      "id": "source_102_strict_122",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_strict_122/result.json",
+      "source_sha256": "059e4c5b187669cecdc3e4fabef3e2dc153977ed78af0ec93b4b3d39b05599b0"
+    },
+    {
+      "id": "source_102_strict_127",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_strict_127/result.json",
+      "source_sha256": "6ab19d68dc8d725fb7c385abe6c67fa0290703538ec59c8711d54e27101e1421"
+    },
+    {
+      "id": "source_102_strict_132",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_strict_132/result.json",
+      "source_sha256": "d100633c1ae7b17c92179f3e95649f3d57218f3eb18ee90d815d69a8f23d6805"
+    },
+    {
+      "id": "source_102_strict_137",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_strict_137/result.json",
+      "source_sha256": "dd9a335c2eb162ae4a949b3405c80e81d63b006a32893809bc149a332b530eb7"
+    },
+    {
+      "id": "source_102_strict_142",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_strict_142/result.json",
+      "source_sha256": "6c26247241affec9dd7ca24abfc417ba903c7a1c4b468e8e29c98b41267d6161"
+    },
+    {
+      "id": "source_102_strict_147",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_strict_147/result.json",
+      "source_sha256": "b022b7cd36f1cf335787f42b5fcd6b96ffeeae0285830f0dbadfd632c5aefa95"
+    },
+    {
+      "id": "source_102_strict_152",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_strict_152/result.json",
+      "source_sha256": "d57c4e9565997f0e496efb56a898e4f037fec450054592f8ed6175f0769bdb37"
+    },
+    {
+      "id": "source_102_strict_157",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_strict_157/result.json",
+      "source_sha256": "6ad4ab06714a899a7cd537e4a1f68df3f36e6c17555a9ccadfafe36312da8702"
+    },
+    {
+      "id": "source_102_strict_162",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_strict_162/result.json",
+      "source_sha256": "ebb355c2887dfcef7f02a7222f87ecfe98a9fd5d5921e06d2a8ca984a2d649d5"
+    },
+    {
+      "id": "source_102_strict_167",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_strict_167/result.json",
+      "source_sha256": "21238457c00988d14d04dd5a43ed34670ecec1676894489c34e2475236f404db"
+    },
+    {
+      "id": "source_102_strict_172",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_strict_172/result.json",
+      "source_sha256": "6232a90b19f24ea0342ebb3ef7bbafa6015c7e017358f338a6d3e31c66532a22"
+    },
+    {
+      "id": "source_102_strict_177",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_strict_177/result.json",
+      "source_sha256": "78e1f91ff4144b5e0952688d643f0e27f90dadb6f9a97fe097e99d77dc80be08"
+    },
+    {
+      "id": "source_102_strict_182",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_strict_182/result.json",
+      "source_sha256": "4b1f25a7178b083d9145bf2677ce25b29cb0328c60ab4a5da41f4736ecc98ab6"
+    },
+    {
+      "id": "source_102_strict_187",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_strict_187/result.json",
+      "source_sha256": "b33172dfa94633c1337335fb947514c4d52a71a85b5b61af48731ef614532faa"
+    },
+    {
+      "id": "source_102_strict_192",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_strict_192/result.json",
+      "source_sha256": "cdaa11af20a6a8ef2218eaa9b9d0aa62e103f9007ff6167e78a40b41df29fc50"
+    },
+    {
+      "id": "source_102_strict_197",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_102_strict_197/result.json",
+      "source_sha256": "cb30b0417cf27098045be10808e6c7f42d591739a879b9c37c67fdfc99a108b6"
+    },
+    {
+      "id": "source_103_loose_002",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_loose_002/result.json",
+      "source_sha256": "5065b1fa259bbc048c1cde73ee1445e754a8a1bc305af2a27d7aa8a4fe3b858b"
+    },
+    {
+      "id": "source_103_loose_007",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_loose_007/result.json",
+      "source_sha256": "5dc34ceed5e114894c496c1c2a36e10dbde8561990669d140934b1ed6485c7f4"
+    },
+    {
+      "id": "source_103_loose_012",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_loose_012/result.json",
+      "source_sha256": "8fb5d655ac1c2bafb785b0cc27a2e2ae1ba4613cd95ea9710c728387744a762e"
+    },
+    {
+      "id": "source_103_loose_017",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_loose_017/result.json",
+      "source_sha256": "e7ea577c826f0eb18593c3c2eea3e60060ab48dd8c73b9250a063ca56e4bd7bd"
+    },
+    {
+      "id": "source_103_loose_022",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_loose_022/result.json",
+      "source_sha256": "16a37aa2f60f4a6a0b747e15c3c4d9c297d44d5262415c577f226d82d408fb68"
+    },
+    {
+      "id": "source_103_loose_027",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_loose_027/result.json",
+      "source_sha256": "b130c468e4297a3ec8156fcc869458ad8b0c1cea43cf3ebb6bb94ce340601330"
+    },
+    {
+      "id": "source_103_loose_032",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_loose_032/result.json",
+      "source_sha256": "a5a9c9f67a38a2beff088544ded2986c1ec593381768058cb9b68960804f2277"
+    },
+    {
+      "id": "source_103_loose_037",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_loose_037/result.json",
+      "source_sha256": "69223cb7f3c60082a67becf9025923d332a134a8ea31102e178e39c18c37141e"
+    },
+    {
+      "id": "source_103_loose_042",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_loose_042/result.json",
+      "source_sha256": "4666135a097b31547b43d9504d01ff2de38194b11e11acc671f44ad9c96b0b0a"
+    },
+    {
+      "id": "source_103_loose_047",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_loose_047/result.json",
+      "source_sha256": "1552a8bff0e6b629adeaf8bc6cbfc3abec6fc15a4d77b178992b514478d32cd2"
+    },
+    {
+      "id": "source_103_loose_052",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_loose_052/result.json",
+      "source_sha256": "a40b14155c63d8b1fd8fb38d7d9398d66b0072c7523a0ba91193fb278df80f3d"
+    },
+    {
+      "id": "source_103_loose_057",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_loose_057/result.json",
+      "source_sha256": "3e25090388bf47f7ee4e0fab99b836426fb3a0f5e428cb717a778173b390fd10"
+    },
+    {
+      "id": "source_103_loose_062",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_loose_062/result.json",
+      "source_sha256": "3c335bee9ff1232123ac7468c8755d650d42c2e9924d6b45844e223c0b77c25d"
+    },
+    {
+      "id": "source_103_loose_067",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_loose_067/result.json",
+      "source_sha256": "e2ff5470066435d1cc5c9b7124eaab3f4938c0905e6faa3b8990a98789ca12f4"
+    },
+    {
+      "id": "source_103_loose_072",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_loose_072/result.json",
+      "source_sha256": "d38c46b6ea42e9084d264f60d91943c8cc703427b2b9b73d5083d8adb8a98f59"
+    },
+    {
+      "id": "source_103_loose_077",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_loose_077/result.json",
+      "source_sha256": "3906b783312b501caedd3220dc25746862a03c68c94bb6a8ce5a29c452e3d75e"
+    },
+    {
+      "id": "source_103_loose_082",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_loose_082/result.json",
+      "source_sha256": "9f10caa16ff3a342e07c241505753186517c276029b5e347c266c032710ceb64"
+    },
+    {
+      "id": "source_103_loose_087",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_loose_087/result.json",
+      "source_sha256": "126523ee297c52618fa81421807f8604523371920481fb7effb1302a21b79633"
+    },
+    {
+      "id": "source_103_loose_092",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_loose_092/result.json",
+      "source_sha256": "98fffcd6ee5b8f0abc167b449b42357bf6e0b720703e4270bc752d705eb173f4"
+    },
+    {
+      "id": "source_103_loose_097",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_loose_097/result.json",
+      "source_sha256": "b894664a1ebadb6df2093e41700464260cf416936f15c6341bfbb2ae2e44d528"
+    },
+    {
+      "id": "source_103_loose_102",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_loose_102/result.json",
+      "source_sha256": "7fd5a03b2f4f6c278d108cb828f5a2de966bf4f5bf9d8679f5e0097aaa095adb"
+    },
+    {
+      "id": "source_103_loose_107",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_loose_107/result.json",
+      "source_sha256": "a6f32a68f952e036baf6c6f482d8fa1fd8190778720ad628e5fb6316b13808e3"
+    },
+    {
+      "id": "source_103_loose_112",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_loose_112/result.json",
+      "source_sha256": "b687bc5a5ea1a7359bce887bac5502256daba8cc8f411f9c53d1fc911a2cfabb"
+    },
+    {
+      "id": "source_103_loose_117",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_loose_117/result.json",
+      "source_sha256": "69e498d30d4e7f3c65c20f0015d3ed7c4b9607fa8aba462398b18e730aa6b705"
+    },
+    {
+      "id": "source_103_loose_122",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_loose_122/result.json",
+      "source_sha256": "4d25ba221e4fc4f4676700ed8ebc402b6190bb6864a987fd06eb1172d651246a"
+    },
+    {
+      "id": "source_103_loose_127",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_loose_127/result.json",
+      "source_sha256": "c34161f8b7faa8253f02974bbc622a4f31df98b672109e086c877cb3c8904627"
+    },
+    {
+      "id": "source_103_loose_132",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_loose_132/result.json",
+      "source_sha256": "6ef39bf3859ee80405fa07319b85c0b48c31fa8c013a3a6864d0fd87b7001160"
+    },
+    {
+      "id": "source_103_loose_137",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_loose_137/result.json",
+      "source_sha256": "f0d9a5edc505468cee02c93c6aea141368d1b0a67aaf576865e2146e35c67da3"
+    },
+    {
+      "id": "source_103_loose_142",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_loose_142/result.json",
+      "source_sha256": "53dd39c9d540abf55b180941e578756894112ebc1f48f187d5bdffabbbd09c33"
+    },
+    {
+      "id": "source_103_loose_147",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_loose_147/result.json",
+      "source_sha256": "485c35bb8be99655aa1390aac0258dd66ba45c22712cb05307e8db507f544026"
+    },
+    {
+      "id": "source_103_loose_152",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_loose_152/result.json",
+      "source_sha256": "fe8e22e9ab17aa23e989c97241abcef3cae783313c21685a491eea7bf6aaba0e"
+    },
+    {
+      "id": "source_103_loose_157",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_loose_157/result.json",
+      "source_sha256": "4e4db90885314ab7172e0eeb047bb9d05dffc6975e0aeedc47b6c502122064cc"
+    },
+    {
+      "id": "source_103_loose_162",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_loose_162/result.json",
+      "source_sha256": "b15590c8ae905caa1c985ea9ad150f4bec07d85d70e2912c00cdd9caacb0c922"
+    },
+    {
+      "id": "source_103_loose_167",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_loose_167/result.json",
+      "source_sha256": "00608ef33f2eb614f5219f77f86891f53848acf7a82abee439ba4102dbe26f27"
+    },
+    {
+      "id": "source_103_loose_172",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_loose_172/result.json",
+      "source_sha256": "40234aa2dd06fb3129c49cbb6bf456dafa607926c86ed507d97863c6adfa651a"
+    },
+    {
+      "id": "source_103_loose_177",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_loose_177/result.json",
+      "source_sha256": "ee00a39034ce283b98938439fa542edc9ff7746c6c52abb32748be99ebef2929"
+    },
+    {
+      "id": "source_103_loose_182",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_loose_182/result.json",
+      "source_sha256": "42f585aa4bdbe61d296a2229e59887c85b220b9287a2503df2c42d414f00a432"
+    },
+    {
+      "id": "source_103_loose_187",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_loose_187/result.json",
+      "source_sha256": "9416911f6017b478d03245f237c79795aa2d1d7345ee2bcf80759cab8fd5dc4f"
+    },
+    {
+      "id": "source_103_loose_192",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_loose_192/result.json",
+      "source_sha256": "bff50d0793bb73b5e19d435609dd65d35b7ddd6967c7722131e65c473e29582e"
+    },
+    {
+      "id": "source_103_loose_197",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_loose_197/result.json",
+      "source_sha256": "c42f251c407a081a8afb8a5a687ce5368f3b16329d7b65e682c313db94d6e467"
+    },
+    {
+      "id": "source_103_strict_002",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_strict_002/result.json",
+      "source_sha256": "21273df617c9587732b0291929476377cda0e865269b241184831759fc762ecd"
+    },
+    {
+      "id": "source_103_strict_007",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_strict_007/result.json",
+      "source_sha256": "39c4ce654090892e2d4a4f4eb880797b3c2ba6c262943e46760f015428afd7a0"
+    },
+    {
+      "id": "source_103_strict_012",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_strict_012/result.json",
+      "source_sha256": "6f8f60a46216e8be0f5c96603447623ef1ab9436179925323ad474c7be591807"
+    },
+    {
+      "id": "source_103_strict_017",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_strict_017/result.json",
+      "source_sha256": "7d5792ec44687ed3ccc433377329ff68114e119f6aaa0fa09d8f50b6d755ec65"
+    },
+    {
+      "id": "source_103_strict_022",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_strict_022/result.json",
+      "source_sha256": "4482c2f01e9a8cbf33d66404f64a3f3b3d7375dc9bac779d845517362ef33875"
+    },
+    {
+      "id": "source_103_strict_027",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_strict_027/result.json",
+      "source_sha256": "0a8ddfecba49ab48856e7e7918132f8aa14295fcc83fb85c8806ffeee7d11273"
+    },
+    {
+      "id": "source_103_strict_032",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_strict_032/result.json",
+      "source_sha256": "f1fb9d563091ae44c4e067b66a40affeed83d4f1379458470bbb36bf48723f14"
+    },
+    {
+      "id": "source_103_strict_037",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_strict_037/result.json",
+      "source_sha256": "18e23241bd578da8b593e263a173d6a264ebc4ccb2f9faa34d6788418667611a"
+    },
+    {
+      "id": "source_103_strict_042",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_strict_042/result.json",
+      "source_sha256": "5bdc1b0afb23f4e37d610cb9a64a4fccdd0039d09f1ae39822c7dfb8620f6f76"
+    },
+    {
+      "id": "source_103_strict_047",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_strict_047/result.json",
+      "source_sha256": "f00549c21fea9fec614736b3efdffe237ef9a83e65775a559369158ac7c28a05"
+    },
+    {
+      "id": "source_103_strict_052",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_strict_052/result.json",
+      "source_sha256": "0c472331d3b205e1bc70697f545aa4c1b76e496681a253379ec7329c9de5085b"
+    },
+    {
+      "id": "source_103_strict_057",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_strict_057/result.json",
+      "source_sha256": "4d69c019ffc8465085d7a3e35909ee518341ea24471395b0845ba301f717d5e9"
+    },
+    {
+      "id": "source_103_strict_062",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_strict_062/result.json",
+      "source_sha256": "63d0ff4d9ca0730f788b0d03fbedbc23589a4b29499f6aac5ef5c46492792e47"
+    },
+    {
+      "id": "source_103_strict_067",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_strict_067/result.json",
+      "source_sha256": "4fe1441056c03314097a9021eda1c578f34dd2ef2294b8ab50fca8157b6c472b"
+    },
+    {
+      "id": "source_103_strict_072",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_strict_072/result.json",
+      "source_sha256": "a931e117094fc780205b2140d23f8410f98ac5059a0ddb0b887e39b5dcbfd397"
+    },
+    {
+      "id": "source_103_strict_077",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_strict_077/result.json",
+      "source_sha256": "22c254e3b62e0bb318e5177cf5984e2cc4d0748b306c81e9b228cb389aa1f9fb"
+    },
+    {
+      "id": "source_103_strict_082",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_strict_082/result.json",
+      "source_sha256": "dff84608359e60ccc07426e847788b98c4ecbeee39a23482ca2c6e7336d4b673"
+    },
+    {
+      "id": "source_103_strict_087",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_strict_087/result.json",
+      "source_sha256": "0ab09ab2867262e348aac68ef50c7b988678da5a73ef2c83d30d7804f1fa5e1d"
+    },
+    {
+      "id": "source_103_strict_092",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_strict_092/result.json",
+      "source_sha256": "85ae01cdae4cbf17c752131ed6e369e21825aeddc04bd413f42998728534040d"
+    },
+    {
+      "id": "source_103_strict_097",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_strict_097/result.json",
+      "source_sha256": "4db62c78072f5bd648e2dbe700e7a2ac6cf8056bbaf7b82f8b6b6db313521b6e"
+    },
+    {
+      "id": "source_103_strict_102",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_strict_102/result.json",
+      "source_sha256": "ee244cabc2a5ffcdad5c95a3770c5a9fb4533b8c8972ce83647daf6d082a40b8"
+    },
+    {
+      "id": "source_103_strict_107",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_strict_107/result.json",
+      "source_sha256": "ab7063db3a3173ed9afd6238005c52c0bfa64b6e23515e8114264053663a4c0c"
+    },
+    {
+      "id": "source_103_strict_112",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_strict_112/result.json",
+      "source_sha256": "7e5d04528a2634a75be77db703caa59c29332c03d97ce12e85d03aefed256b36"
+    },
+    {
+      "id": "source_103_strict_117",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_strict_117/result.json",
+      "source_sha256": "dfe6372dc80d0fbf97124a63ade4840d5f1a11fa0eb66dec479b034a9b1deb9d"
+    },
+    {
+      "id": "source_103_strict_122",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_strict_122/result.json",
+      "source_sha256": "ecf817dc5ffb184a3fe75f11ac4a067bb8599ca35ebd508a7e6602180d76d348"
+    },
+    {
+      "id": "source_103_strict_127",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_strict_127/result.json",
+      "source_sha256": "b4e8c79096044dcb1358b16779056108667cd7b34966074a83cd2e88a313d2ec"
+    },
+    {
+      "id": "source_103_strict_132",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_strict_132/result.json",
+      "source_sha256": "94043d48dfd00294631182fc1b1406d73cd90b301f7666d33b392cdfd37fbd2e"
+    },
+    {
+      "id": "source_103_strict_137",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_strict_137/result.json",
+      "source_sha256": "1e0739d5a34a61cc0d0b0922444c050f22122c9ae2d908835fd18368b9f30915"
+    },
+    {
+      "id": "source_103_strict_142",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_strict_142/result.json",
+      "source_sha256": "acb449941fabde14dbe0603849e82be42fa2c3c1ca10de6b2fc3ff66dbc905e2"
+    },
+    {
+      "id": "source_103_strict_147",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_strict_147/result.json",
+      "source_sha256": "4445e070580c4aeb41b9d29424ed726003de868c98cfb64ff599ff7543cd436b"
+    },
+    {
+      "id": "source_103_strict_152",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_strict_152/result.json",
+      "source_sha256": "c7b05b6c7b586d926411813612ee1090202f0ae5d52137bd44177fa1af621213"
+    },
+    {
+      "id": "source_103_strict_157",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_strict_157/result.json",
+      "source_sha256": "0f9fd4f5166c51ea1c3b5ac7937cb738951037c0784d4c759a25d657746c4dab"
+    },
+    {
+      "id": "source_103_strict_162",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_strict_162/result.json",
+      "source_sha256": "0e87f5b780a94cb6f0c23db2d1f1a89e803cd32194864613be528832361e450b"
+    },
+    {
+      "id": "source_103_strict_167",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_strict_167/result.json",
+      "source_sha256": "2959b1050e05626b2120bff5010b0f0abd200bf9911635972d92115fbcb636d1"
+    },
+    {
+      "id": "source_103_strict_172",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_strict_172/result.json",
+      "source_sha256": "217d73a7ac6242b1e5798b02eacc2b74ecf943a2fdd735158972fc2325cdb0af"
+    },
+    {
+      "id": "source_103_strict_177",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_strict_177/result.json",
+      "source_sha256": "f217def8423dd2211bb4019819bb6282b5edb2495718ea138bc7dea3248e9595"
+    },
+    {
+      "id": "source_103_strict_182",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_strict_182/result.json",
+      "source_sha256": "d179644f0bf3e83b65e50afdb3788094d9d0340622aefa0d67d9f717563698e3"
+    },
+    {
+      "id": "source_103_strict_187",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_strict_187/result.json",
+      "source_sha256": "5e1011100a365266ead27d3209be0eb00b02c9e1b803eeb8bbdd88279d90c3cd"
+    },
+    {
+      "id": "source_103_strict_192",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_strict_192/result.json",
+      "source_sha256": "5320818153504b32153c6aacb8cbbf47ce0c2ca24c49b32c2696ef4a640970e4"
+    },
+    {
+      "id": "source_103_strict_197",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_103_strict_197/result.json",
+      "source_sha256": "55b90072d72112e902fcffb12732b2859245a45948aef77d9dc8a08231e2c1f3"
+    },
+    {
+      "id": "source_104_loose_002",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_loose_002/result.json",
+      "source_sha256": "b6f79c8bc720c0f39597c5bfce69b18c535c2f91e795509435076e8ac3d31bc9"
+    },
+    {
+      "id": "source_104_loose_007",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_loose_007/result.json",
+      "source_sha256": "f943440e082928d0a8876a7d7f57f682aafb04507846e470ce71203807ea0ea5"
+    },
+    {
+      "id": "source_104_loose_012",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_loose_012/result.json",
+      "source_sha256": "c1c808158243a5025ae820c21cb7b8166c8ea46964d0c3b7cf37d071da7e32ab"
+    },
+    {
+      "id": "source_104_loose_017",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_loose_017/result.json",
+      "source_sha256": "741ff476c1af8019642bfbf1c71a98f3a3413c096da64e705f57e8828d6687d1"
+    },
+    {
+      "id": "source_104_loose_022",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_loose_022/result.json",
+      "source_sha256": "e0bb566c94f7a55fb1b4885b33a9a570f41595f36effa325e9e6bbfb96f104af"
+    },
+    {
+      "id": "source_104_loose_027",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_loose_027/result.json",
+      "source_sha256": "f15c89dac52221c73d0385e5546a631c45762e7d607014f2ab1f7532afc6f2ff"
+    },
+    {
+      "id": "source_104_loose_032",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_loose_032/result.json",
+      "source_sha256": "bf531d8030917830211c5fb9c5494e7f0269a5eeb50c1d7f300c76d1fe7599a9"
+    },
+    {
+      "id": "source_104_loose_037",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_loose_037/result.json",
+      "source_sha256": "cd943206b5dfd3c57911107b5765723c1e79b3badf4832e42b84c8c26f6dac20"
+    },
+    {
+      "id": "source_104_loose_042",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_loose_042/result.json",
+      "source_sha256": "ca3a852cd1a111eeed88f7747c3d84fa394770bf7d24f2715bddf30bf09d7d89"
+    },
+    {
+      "id": "source_104_loose_047",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_loose_047/result.json",
+      "source_sha256": "7a78dc831087bee93e4488ddae2a3ab23395d2da08615e3934304bd95d48826e"
+    },
+    {
+      "id": "source_104_loose_052",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_loose_052/result.json",
+      "source_sha256": "146c54c347bcce84b6065c77750fcba5d1fb61b153fbb90dbffed779a910d141"
+    },
+    {
+      "id": "source_104_loose_057",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_loose_057/result.json",
+      "source_sha256": "6ecdb1e77250d1d0870afe622be445b3498edd658e9323bf1b9204a3a83e9bd9"
+    },
+    {
+      "id": "source_104_loose_062",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_loose_062/result.json",
+      "source_sha256": "f7693266b943168454e7026387ed2f196ab5f0c45dd5217d2be95444c7918d11"
+    },
+    {
+      "id": "source_104_loose_067",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_loose_067/result.json",
+      "source_sha256": "a559e12622f68912e84b63c5cfc9da8705f89640b0ef972e6804a2d7ada53e57"
+    },
+    {
+      "id": "source_104_loose_072",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_loose_072/result.json",
+      "source_sha256": "d92c64731ab592aa0cfb7322d604117be76fdbdca666427308e21fad21b1434e"
+    },
+    {
+      "id": "source_104_loose_077",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_loose_077/result.json",
+      "source_sha256": "9e3e605e1c354c7aa3a21d9e9cafc563460e2209f8ada77032011ebd47b992f3"
+    },
+    {
+      "id": "source_104_loose_082",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_loose_082/result.json",
+      "source_sha256": "a851a2dce3a1706e25a1288d350b8d144013c3e4eb71797bf16bb9f5d8fe41ca"
+    },
+    {
+      "id": "source_104_loose_087",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_loose_087/result.json",
+      "source_sha256": "29c5f436539bb5ad2427a9c97282e4f551b9c8ec2fa629edbc503273025e0ca2"
+    },
+    {
+      "id": "source_104_loose_092",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_loose_092/result.json",
+      "source_sha256": "3979c1f2f8d1fd5afebcac06e6c4a357c88f677b899bcec7a0a2542906e33548"
+    },
+    {
+      "id": "source_104_loose_097",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_loose_097/result.json",
+      "source_sha256": "aa0093dad82e97e50673578f3df1692657f5452be324002dc5869f00643ebe9b"
+    },
+    {
+      "id": "source_104_loose_102",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_loose_102/result.json",
+      "source_sha256": "b38ff603218434c7705aa540b948c13241b23123131cc92ece21cee474f7e08e"
+    },
+    {
+      "id": "source_104_loose_107",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_loose_107/result.json",
+      "source_sha256": "44240e4671e5400d3a8ca4c1ed66bbc89e00f9259234d621aa03fbe0ef83fd92"
+    },
+    {
+      "id": "source_104_loose_112",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_loose_112/result.json",
+      "source_sha256": "4184fdcfdb2ce89e4d97a96e6efd9bf2fef7aa2a518637eecf0a5b20d13b9211"
+    },
+    {
+      "id": "source_104_loose_117",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_loose_117/result.json",
+      "source_sha256": "7b41b60874ca0bcb3dd82af495068a0c5d75e9dee93a73c88a5a8058582961f1"
+    },
+    {
+      "id": "source_104_loose_122",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_loose_122/result.json",
+      "source_sha256": "35ef6bc4228556948f2a690eefc2209d6aee2c326861a5ad8a3b58dba1c3ceb4"
+    },
+    {
+      "id": "source_104_loose_127",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_loose_127/result.json",
+      "source_sha256": "03c251a50d9e58c84b12e534c4a83606f501ac9cd7697cbeb7158ffd697806f2"
+    },
+    {
+      "id": "source_104_loose_132",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_loose_132/result.json",
+      "source_sha256": "d6ede803112987ac46a73978a56ea5f91ac2f6e8e5955aa2e75026bb36c7ab8a"
+    },
+    {
+      "id": "source_104_loose_137",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_loose_137/result.json",
+      "source_sha256": "8c642674a95c6de26e6145293da98dd3bd5949c5147be0b93a15e57503288bcb"
+    },
+    {
+      "id": "source_104_loose_142",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_loose_142/result.json",
+      "source_sha256": "1e902d2f97dd8de0a0583ef20016ab7277a5da84f84acd2084564d669429ab5b"
+    },
+    {
+      "id": "source_104_loose_147",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_loose_147/result.json",
+      "source_sha256": "49dd76154e01d0741679e9742fa61413874d7687a07841edc4e32413f764b824"
+    },
+    {
+      "id": "source_104_loose_152",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_loose_152/result.json",
+      "source_sha256": "9798658392eeffb3e31641c09e56871c86ad03fce630de522081d2756fbb5d8f"
+    },
+    {
+      "id": "source_104_loose_157",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_loose_157/result.json",
+      "source_sha256": "05061ff8ce3b57137ab9370d468fafb383f89a72b76d846d203c46f0a92a6f7b"
+    },
+    {
+      "id": "source_104_loose_162",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_loose_162/result.json",
+      "source_sha256": "8c94a5eeef93f33b05b8bab3663281c9de4a13db8714b53df5ba672c71930a8d"
+    },
+    {
+      "id": "source_104_loose_167",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_loose_167/result.json",
+      "source_sha256": "8e68eadcb036b14b7a0f285ea25d50f31ff57d4bee6ed2611d3329cd6c15632b"
+    },
+    {
+      "id": "source_104_loose_172",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_loose_172/result.json",
+      "source_sha256": "56ba526d273e166f90a8d0c65645f1175d5d93067c70909877e9abf6a92dbff1"
+    },
+    {
+      "id": "source_104_loose_177",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_loose_177/result.json",
+      "source_sha256": "9ba5950d3bd704d55e6e45925587e421955bfae9791baef8eb03fff094ee8815"
+    },
+    {
+      "id": "source_104_loose_182",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_loose_182/result.json",
+      "source_sha256": "fbb2dea5215a22e5686186f16b46ff034b3c66566345244b792b845c5a669464"
+    },
+    {
+      "id": "source_104_loose_187",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_loose_187/result.json",
+      "source_sha256": "339664725f442e296910fa7bdf9e9a439c800d237b5e9afb5706c3bd3efc579c"
+    },
+    {
+      "id": "source_104_loose_192",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_loose_192/result.json",
+      "source_sha256": "4e75463716885f194b13dacf6837839b0ec430a974c50c6f58f371997d293e54"
+    },
+    {
+      "id": "source_104_loose_197",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_loose_197/result.json",
+      "source_sha256": "9475c8f92dbd4e81e6ceba9dabedd3154aee180bad13cbc687cc421b2525de53"
+    },
+    {
+      "id": "source_104_strict_002",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_strict_002/result.json",
+      "source_sha256": "0602bfcb118af8212922a54114a30dd176ac4f078ee265823b63e160065dd21c"
+    },
+    {
+      "id": "source_104_strict_007",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_strict_007/result.json",
+      "source_sha256": "4bdf258aad36f1246a069188d80b81124a08c30fae8aaa751690be7111be7ebb"
+    },
+    {
+      "id": "source_104_strict_012",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_strict_012/result.json",
+      "source_sha256": "15c34deda6370f983d84da65fd1409fd8f34edf697ce98fb4ec6cca3c44bd1d9"
+    },
+    {
+      "id": "source_104_strict_017",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_strict_017/result.json",
+      "source_sha256": "730c5a0d7255fb9ba71c653896dcfcedeacf757ecfee719aa80f2d3a89549ba2"
+    },
+    {
+      "id": "source_104_strict_022",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_strict_022/result.json",
+      "source_sha256": "a2c2f7f660c5e2a123ba912ddd2633692ad4e2544ccb052ce2c3ceed8193434e"
+    },
+    {
+      "id": "source_104_strict_027",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_strict_027/result.json",
+      "source_sha256": "258f437f286ec9be7d9b6c0b57528e37e1f1f189c7253ba0e2a02a67b962fa8f"
+    },
+    {
+      "id": "source_104_strict_032",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_strict_032/result.json",
+      "source_sha256": "f01c2e62e96e6124ca2d4c8d55f612f5dcb4e1b480d8ed6287338370a51ff233"
+    },
+    {
+      "id": "source_104_strict_037",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_strict_037/result.json",
+      "source_sha256": "4f57ec6da8a3abdf0e0fda1c222593a50939a1b78d96eb1f03de596e439e3e21"
+    },
+    {
+      "id": "source_104_strict_042",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_strict_042/result.json",
+      "source_sha256": "ffe55d62a940946c8bb7cdc7816b86c0e8cc7302339206c94387e461d0262777"
+    },
+    {
+      "id": "source_104_strict_047",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_strict_047/result.json",
+      "source_sha256": "1a3f484b1676455344c90ed0b4cf6177e083f3c903d8afd10cc0d0746cc46155"
+    },
+    {
+      "id": "source_104_strict_052",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_strict_052/result.json",
+      "source_sha256": "6db374ea663b168f6daaa2e328a54f4cbb6ff532940c0fcfaabfa05c5d96a98d"
+    },
+    {
+      "id": "source_104_strict_057",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_strict_057/result.json",
+      "source_sha256": "a88a503b70c9d6bbf5c4e97b5963f6a9053fde8bb23c237b0018979a045deebb"
+    },
+    {
+      "id": "source_104_strict_062",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_strict_062/result.json",
+      "source_sha256": "3b4e2938db8cb1154536d38c919cc5de809ce222c613619a41227eabbd25b75b"
+    },
+    {
+      "id": "source_104_strict_067",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_strict_067/result.json",
+      "source_sha256": "a17f18b8152c91eaabd32772e8d814592adc09cb27e8a3e54ec301ce961cfe25"
+    },
+    {
+      "id": "source_104_strict_072",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_strict_072/result.json",
+      "source_sha256": "30810080a482df9e201faa07c9a34bc713566e9a1ad0a1fc82e3a38c077be7c4"
+    },
+    {
+      "id": "source_104_strict_077",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_strict_077/result.json",
+      "source_sha256": "d0c8eedd15d808e8206e72a73f3875369019d3f992a8b525af3097713b85a6ab"
+    },
+    {
+      "id": "source_104_strict_082",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_strict_082/result.json",
+      "source_sha256": "1c3acff60ab22504dd7b868b4fdf01605851e0a6056cb45b162be46c397d041b"
+    },
+    {
+      "id": "source_104_strict_087",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_strict_087/result.json",
+      "source_sha256": "dd98deebf3a172889a940cfcba4d1c64f72aa545cc74cb5c29e93fa652098355"
+    },
+    {
+      "id": "source_104_strict_092",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_strict_092/result.json",
+      "source_sha256": "162f2a21cf51038169a6fb6b15200706cf67e8a950c836c6d564d8aacbc73ff8"
+    },
+    {
+      "id": "source_104_strict_097",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_strict_097/result.json",
+      "source_sha256": "f0205107399bc83bae0a5d42420f5e9156387d2f5815864ebd0c17e276ecd09c"
+    },
+    {
+      "id": "source_104_strict_102",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_strict_102/result.json",
+      "source_sha256": "89e7912bf667f8230d8fa45625ab806b096b21fad01da89d7451b2451ea16219"
+    },
+    {
+      "id": "source_104_strict_107",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_strict_107/result.json",
+      "source_sha256": "416f9af5f29a418b624ef7d96e45e85ac393c6c8451c9346a5ba36e8baaf324c"
+    },
+    {
+      "id": "source_104_strict_112",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_strict_112/result.json",
+      "source_sha256": "60b0a463437a7c25534cf32d0d13ea27f9bbc585e79dc9485277dfe8ebb34fcd"
+    },
+    {
+      "id": "source_104_strict_117",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_strict_117/result.json",
+      "source_sha256": "7c467f0accdd0f5bbcc622a6ff60c0af0912e3cc0df548fbc934eec76b270d67"
+    },
+    {
+      "id": "source_104_strict_122",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_strict_122/result.json",
+      "source_sha256": "57c3a5d7baead0a330ed2e3efe73cec6845fac7cf6d5fd9c2e971b164e2b7f6d"
+    },
+    {
+      "id": "source_104_strict_127",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_strict_127/result.json",
+      "source_sha256": "5d09e09e728b2c42b58dbc019d0733fd8c2e32a1ef2452b82e3e8c8a9fe9c8c8"
+    },
+    {
+      "id": "source_104_strict_132",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_strict_132/result.json",
+      "source_sha256": "4ee2c50b96466783badec6cac8079b2597dec3ef874025de6023669720672f58"
+    },
+    {
+      "id": "source_104_strict_137",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_strict_137/result.json",
+      "source_sha256": "241e4fd4d87119ea9fd2d53eaaf7e8409ef8fc6c0614b7394d551228c8fbca31"
+    },
+    {
+      "id": "source_104_strict_142",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_strict_142/result.json",
+      "source_sha256": "1ad47b7a09fbdf7235937a90d702d13751b5e65fbae5d262e447ed9d57bc31d5"
+    },
+    {
+      "id": "source_104_strict_147",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_strict_147/result.json",
+      "source_sha256": "23f4fa2df8e2e680c409edf05aba11554c862abdb999f98ee1c7cf7755fd2fc3"
+    },
+    {
+      "id": "source_104_strict_152",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_strict_152/result.json",
+      "source_sha256": "92f8e06a8f9a0ccdb062f564ac4b067e79b35525027b09dac36acdc37f51db80"
+    },
+    {
+      "id": "source_104_strict_157",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_strict_157/result.json",
+      "source_sha256": "aa70c2b841849772aee9f77bec963e7b99ba332eb4f0ceea18cd5361990202da"
+    },
+    {
+      "id": "source_104_strict_162",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_strict_162/result.json",
+      "source_sha256": "61235d0446d89cb09c528ca31338380e76cd0478d89fe9b01b0b20360298193e"
+    },
+    {
+      "id": "source_104_strict_167",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_strict_167/result.json",
+      "source_sha256": "7e7259dc035341fb3f508414fb694df7591ba081b3b149dc9657922b2db7f6b1"
+    },
+    {
+      "id": "source_104_strict_172",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_strict_172/result.json",
+      "source_sha256": "48d3323934ee35b0fe2967d7f0559effb06df8200e5fee3ea01cf2232a0012b7"
+    },
+    {
+      "id": "source_104_strict_177",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_strict_177/result.json",
+      "source_sha256": "fc11f5e0ac2991b21a08aa2168f4124fb13c020a2df99049227fed653a2e363d"
+    },
+    {
+      "id": "source_104_strict_182",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_strict_182/result.json",
+      "source_sha256": "9e153586010fa38b1b5c5ff19420172d35cf86e282c7b1aa47dd90e4e61e4ef5"
+    },
+    {
+      "id": "source_104_strict_187",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_strict_187/result.json",
+      "source_sha256": "0bce8a483b847522dff3782760d01726eda16c3a8a7242ac64e367ab99830f04"
+    },
+    {
+      "id": "source_104_strict_192",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_strict_192/result.json",
+      "source_sha256": "2a224811464ccc5126da3b54339a6a89ff258387a6cf49d51063585ecf432315"
+    },
+    {
+      "id": "source_104_strict_197",
+      "source": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw/source_104_strict_197/result.json",
+      "source_sha256": "9e38fb4d3b2c0f9449fb3f0f0f81113e36ad1ff59d1abaddc441c8cf32483212"
+    }
+  ],
+  "criteria": "Exact input molecule, task instruction and native baseline code/config; no benchmark feedback during generation; all matched cases including failures reused"
+}

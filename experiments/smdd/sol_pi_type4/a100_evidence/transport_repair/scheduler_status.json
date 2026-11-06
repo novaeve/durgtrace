@@ -1,0 +1,54 @@
+{
+  "pid": 193774,
+  "updated": 1791190193.479811,
+  "state": "running",
+  "concurrency_per_method": 4,
+  "gpu_pool": [
+    0,
+    1
+  ],
+  "active": {
+    "solpi": [
+      {
+        "task": "smdd_004_ACE_4",
+        "pid": 192699,
+        "identity": "181251601"
+      },
+      {
+        "task": "smdd_004_ACE_7",
+        "pid": 193770,
+        "identity": "181272964"
+      },
+      {
+        "task": "smdd_004_ACE_8",
+        "pid": 193771,
+        "identity": "181272964"
+      },
+      {
+        "task": "smdd_004_ACE_9",
+        "pid": 193772,
+        "identity": "181272965"
+      }
+    ]
+  },
+  "blocked": {
+    "solpi": {}
+  },
+  "counts": {
+    "solpi": {
+      "total": 340,
+      "completed": 25,
+      "evaluation": {
+        "failed": 11,
+        "not_evaluated": 2,
+        "passed": 12
+      },
+      "agent": {
+        "complete": 25
+      },
+      "active": 4,
+      "waiting": 311,
+      "pilot_passed": true
+    }
+  }
+}

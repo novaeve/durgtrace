@@ -1,0 +1,20 @@
+{
+  "original_entry": "optimize_mol_tomg",
+  "changes": [
+    "Replace string identity comparison with equality",
+    "Parse JSON/Python list with or without fenced code, instead of unbound results",
+    "Allow benchmark task instruction override for source properties/multi-objective"
+  ],
+  "unchanged": [
+    "3 proposed modifications by original function default",
+    "Cartesian product of original and substitute blocks",
+    "Original smiles_post_processing and reconstruct_mol",
+    "No added similarity or ADMET threshold"
+  ],
+  "external_adaptations": [
+    "Tokenizer vocab path to included vocab20.json",
+    "Cached PubChem block names, original fallback on lookup failure",
+    "DeepSeek without web_search, no manually set output token cap",
+    "Benchmark candidate-set scoring and separately reported deterministic first valid candidate"
+  ]
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "/path/to/restored/rootfs",
+    "target": "/data2/chenfuxin/liddia_smdd_type4_20260928/evaluator_rootfs",
+    "readonly": true
+  },
+  {
+    "source": "/path/to/private/model.env",
+    "target": "/release/experiments/smdd/molclaw_type4/private/model.env",
+    "readonly": true
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "repo": "chao1224/ChatDrug_data",
+  "revision": "ac302b2bee9dee345fe28cf09771f8be7c527457",
+  "files": [
+    {
+      "file": "small_molecule/small_molecule_editing.txt",
+      "bytes": 8417,
+      "sha256": "6fa09f81402bebe7c14c12404c4c5edba5de32abf8d88f4f733485b992e79daa"
+    },
+    {
+      "file": "small_molecule/250k_rndm_zinc_drugs_clean_3.csv",
+      "bytes": 22606589,
+      "sha256": "35e3f1a52b1badc0697e373d73a18ad773f415936ff992f4c6baa2e067b3e6ae",
+      "rows": 249455,
+      "columns": [
+        "smiles",
+        "logP",
+        "qed",
+        "SAS"
+      ],
+      "example": {
+        "smiles": "CC(C)(C)c1ccc2occ(CC(=O)Nc3ccccc3F)c2c1\n",
+        "logP": "5.0506",
+        "qed": "0.702012232801",
+        "SAS": "2.0840945720726807"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "start": 1791857384.5389872,
+  "tests": [
+    {
+      "tool": "is_valid_smiles",
+      "seconds": 25.025413513183594,
+      "exception": "TimeoutError",
+      "message": ""
+    },
+    {
+      "tool": "pred_mol_admet",
+      "seconds": 45.02024984359741,
+      "exception": "TimeoutError",
+      "message": ""
+    }
+  ],
+  "initialize_seconds": 20.868871212005615,
+  "end": 1791857475.4567006
+}

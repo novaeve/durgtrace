@@ -1,0 +1,9 @@
+{
+  "returncode": 0,
+  "structures": 1,
+  "affinity_files": 1,
+  "seconds": 91.41372108459473,
+  "synthetic_input": true,
+  "smoke_samples": 1,
+  "production_samples": 10
+}

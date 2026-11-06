@@ -1,0 +1,15 @@
+Property,Method,Native,Rescored,Prompt variant,S²
+LogP,Baseline,75.25,92.88,95.50,69.60
+LogP,ChatDrug,89.62,89.62,90.25,92.00
+LogP,AgentDrug,97.13,99.25,99.38,100.00
+LogP,MolLingo,38.88,43.25,79.88,68.40
+LogP,MolClaw,90.38,99.75,100.00,100.00
+LogP,SoL-Pi,89.13,99.25,100.00,99.80
+LogP,Codex,82.13,92.00,89.75,92.40
+QED,Baseline,40.25,56.88,57.50,27.60
+QED,ChatDrug,72.13,79.62,80.12,82.40
+QED,AgentDrug,78.50,88.50,93.75,98.60
+QED,MolLingo,21.00,35.25,62.75,55.80
+QED,MolClaw,73.13,97.38,99.50,100.00
+QED,SoL-Pi,61.75,82.75,99.50,99.20
+QED,Codex,64.38,80.13,76.13,85.00

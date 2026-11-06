@@ -1,0 +1,3676 @@
+{
+  "pattern": "generation/pocket_*/output/**/samples_[0-9]+.pt",
+  "targets": [
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/pilot/smdd_004_ABL1_1/generation/pocket_2e42db33b8ce/output/config_protein.pdb_2026_09_28__15_56_34/samples_3.pt",
+      "bytes": 458899779,
+      "inode": 210246323
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/pilot/smdd_004_ABL1_1/generation/pocket_2e42db33b8ce/output/config_protein.pdb_2026_09_28__15_56_34/samples_22.pt",
+      "bytes": 596361385,
+      "inode": 210249856
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/pilot/smdd_004_ABL1_1/generation/pocket_2e42db33b8ce/output/config_protein.pdb_2026_09_28__15_56_34/samples_23.pt",
+      "bytes": 660933721,
+      "inode": 210250060
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/pilot/smdd_004_ABL1_1/generation/pocket_2e42db33b8ce/output/config_protein.pdb_2026_09_28__15_56_34/samples_12.pt",
+      "bytes": 507799293,
+      "inode": 210249432
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/pilot/smdd_004_ABL1_1/generation/pocket_2e42db33b8ce/output/config_protein.pdb_2026_09_28__15_56_34/samples_7.pt",
+      "bytes": 470471511,
+      "inode": 210247973
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/pilot/smdd_004_ABL1_1/generation/pocket_2e42db33b8ce/output/config_protein.pdb_2026_09_28__15_56_34/samples_2.pt",
+      "bytes": 457906435,
+      "inode": 210246013
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/pilot/smdd_004_ABL1_1/generation/pocket_2e42db33b8ce/output/config_protein.pdb_2026_09_28__15_56_34/samples_14.pt",
+      "bytes": 511243683,
+      "inode": 210249434
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/pilot/smdd_004_ABL1_1/generation/pocket_2e42db33b8ce/output/config_protein.pdb_2026_09_28__15_56_34/samples_21.pt",
+      "bytes": 546213391,
+      "inode": 210249853
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/pilot/smdd_004_ABL1_1/generation/pocket_2e42db33b8ce/output/config_protein.pdb_2026_09_28__15_56_34/samples_15.pt",
+      "bytes": 516932949,
+      "inode": 210249435
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/pilot/smdd_004_ABL1_1/generation/pocket_2e42db33b8ce/output/config_protein.pdb_2026_09_28__15_56_34/samples_1.pt",
+      "bytes": 456937603,
+      "inode": 210245677
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/pilot/smdd_004_ABL1_1/generation/pocket_2e42db33b8ce/output/config_protein.pdb_2026_09_28__15_56_34/samples_5.pt",
+      "bytes": 462357831,
+      "inode": 210247040
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/pilot/smdd_004_ABL1_1/generation/pocket_2e42db33b8ce/output/config_protein.pdb_2026_09_28__15_56_34/samples_13.pt",
+      "bytes": 508708477,
+      "inode": 210249433
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/pilot/smdd_004_ABL1_1/generation/pocket_2e42db33b8ce/output/config_protein.pdb_2026_09_28__15_56_34/samples_6.pt",
+      "bytes": 466400015,
+      "inode": 210247581
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/pilot/smdd_004_ABL1_1/generation/pocket_2e42db33b8ce/output/config_protein.pdb_2026_09_28__15_56_34/samples_10.pt",
+      "bytes": 491893223,
+      "inode": 210249132
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/pilot/smdd_004_ABL1_1/generation/pocket_2e42db33b8ce/output/config_protein.pdb_2026_09_28__15_56_34/samples_18.pt",
+      "bytes": 533889195,
+      "inode": 210249846
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/pilot/smdd_004_ABL1_1/generation/pocket_2e42db33b8ce/output/config_protein.pdb_2026_09_28__15_56_34/samples_4.pt",
+      "bytes": 459900163,
+      "inode": 210246751
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/pilot/smdd_004_ABL1_1/generation/pocket_2e42db33b8ce/output/config_protein.pdb_2026_09_28__15_56_34/samples_20.pt",
+      "bytes": 542120771,
+      "inode": 210249849
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/pilot/smdd_004_ABL1_1/generation/pocket_2e42db33b8ce/output/config_protein.pdb_2026_09_28__15_56_34/samples_16.pt",
+      "bytes": 525699411,
+      "inode": 210249643
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/pilot/smdd_004_ABL1_1/generation/pocket_2e42db33b8ce/output/config_protein.pdb_2026_09_28__15_56_34/samples_9.pt",
+      "bytes": 484736183,
+      "inode": 210248976
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/pilot/smdd_004_ABL1_1/generation/pocket_2e42db33b8ce/output/config_protein.pdb_2026_09_28__15_56_34/samples_8.pt",
+      "bytes": 474515679,
+      "inode": 210248564
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/pilot/smdd_004_ABL1_1/generation/pocket_2e42db33b8ce/output/config_protein.pdb_2026_09_28__15_56_34/samples_17.pt",
+      "bytes": 528225593,
+      "inode": 210249845
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/pilot/smdd_004_ABL1_1/generation/pocket_2e42db33b8ce/output/config_protein.pdb_2026_09_28__15_56_34/samples_19.pt",
+      "bytes": 538009591,
+      "inode": 210249848
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/pilot/smdd_004_ABL1_1/generation/pocket_2e42db33b8ce/output/config_protein.pdb_2026_09_28__15_56_34/samples_11.pt",
+      "bytes": 499077823,
+      "inode": 210249133
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_98e387356414/output/config_protein.pdb_2026_09_29__00_40_04/samples_3.pt",
+      "bytes": 533955587,
+      "inode": 210905272
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_98e387356414/output/config_protein.pdb_2026_09_29__00_40_04/samples_12.pt",
+      "bytes": 580545023,
+      "inode": 210905902
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_98e387356414/output/config_protein.pdb_2026_09_29__00_40_04/samples_7.pt",
+      "bytes": 537903683,
+      "inode": 210905693
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_98e387356414/output/config_protein.pdb_2026_09_29__00_40_04/samples_2.pt",
+      "bytes": 479699903,
+      "inode": 210905269
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_98e387356414/output/config_protein.pdb_2026_09_29__00_40_04/samples_14.pt",
+      "bytes": 642130597,
+      "inode": 210906313
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_98e387356414/output/config_protein.pdb_2026_09_29__00_40_04/samples_15.pt",
+      "bytes": 655887471,
+      "inode": 210906317
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_98e387356414/output/config_protein.pdb_2026_09_29__00_40_04/samples_1.pt",
+      "bytes": 193312349,
+      "inode": 210905267
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_98e387356414/output/config_protein.pdb_2026_09_29__00_40_04/samples_5.pt",
+      "bytes": 535940355,
+      "inode": 210905483
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_98e387356414/output/config_protein.pdb_2026_09_29__00_40_04/samples_13.pt",
+      "bytes": 610391199,
+      "inode": 210906108
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_98e387356414/output/config_protein.pdb_2026_09_29__00_40_04/samples_6.pt",
+      "bytes": 536899139,
+      "inode": 210905692
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_98e387356414/output/config_protein.pdb_2026_09_29__00_40_04/samples_10.pt",
+      "bytes": 549754719,
+      "inode": 210905900
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_98e387356414/output/config_protein.pdb_2026_09_29__00_40_04/samples_18.pt",
+      "bytes": 718795477,
+      "inode": 210906530
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_98e387356414/output/config_protein.pdb_2026_09_29__00_40_04/samples_4.pt",
+      "bytes": 535009219,
+      "inode": 210905274
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_98e387356414/output/config_protein.pdb_2026_09_29__00_40_04/samples_20.pt",
+      "bytes": 799396407,
+      "inode": 210906737
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_98e387356414/output/config_protein.pdb_2026_09_29__00_40_04/samples_16.pt",
+      "bytes": 680449117,
+      "inode": 210906525
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_98e387356414/output/config_protein.pdb_2026_09_29__00_40_04/samples_9.pt",
+      "bytes": 541593479,
+      "inode": 210905899
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_98e387356414/output/config_protein.pdb_2026_09_29__00_40_04/samples_8.pt",
+      "bytes": 540628359,
+      "inode": 210905898
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_98e387356414/output/config_protein.pdb_2026_09_29__00_40_04/samples_17.pt",
+      "bytes": 701431871,
+      "inode": 210906528
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_98e387356414/output/config_protein.pdb_2026_09_29__00_40_04/samples_19.pt",
+      "bytes": 765438539,
+      "inode": 210906532
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_98e387356414/output/config_protein.pdb_2026_09_29__00_40_04/samples_11.pt",
+      "bytes": 556117969,
+      "inode": 210905901
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_66d92d17116c/output/config_protein.pdb_2026_09_29__00_55_13/samples_3.pt",
+      "bytes": 533966019,
+      "inode": 210907071
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_66d92d17116c/output/config_protein.pdb_2026_09_29__00_55_13/samples_22.pt",
+      "bytes": 808887631,
+      "inode": 210908213
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_66d92d17116c/output/config_protein.pdb_2026_09_29__00_55_13/samples_12.pt",
+      "bytes": 571477889,
+      "inode": 210907578
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_66d92d17116c/output/config_protein.pdb_2026_09_29__00_55_13/samples_7.pt",
+      "bytes": 543252175,
+      "inode": 210907285
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_66d92d17116c/output/config_protein.pdb_2026_09_29__00_55_13/samples_2.pt",
+      "bytes": 502795129,
+      "inode": 210907070
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_66d92d17116c/output/config_protein.pdb_2026_09_29__00_55_13/samples_14.pt",
+      "bytes": 609530297,
+      "inode": 210907582
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_66d92d17116c/output/config_protein.pdb_2026_09_29__00_55_13/samples_21.pt",
+      "bytes": 785887559,
+      "inode": 210908008
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_66d92d17116c/output/config_protein.pdb_2026_09_29__00_55_13/samples_15.pt",
+      "bytes": 628719349,
+      "inode": 210907779
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_66d92d17116c/output/config_protein.pdb_2026_09_29__00_55_13/samples_1.pt",
+      "bytes": 196859041,
+      "inode": 210907069
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_66d92d17116c/output/config_protein.pdb_2026_09_29__00_55_13/samples_5.pt",
+      "bytes": 535944643,
+      "inode": 210907278
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_66d92d17116c/output/config_protein.pdb_2026_09_29__00_55_13/samples_13.pt",
+      "bytes": 590480701,
+      "inode": 210907579
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_66d92d17116c/output/config_protein.pdb_2026_09_29__00_55_13/samples_6.pt",
+      "bytes": 538681223,
+      "inode": 210907281
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_66d92d17116c/output/config_protein.pdb_2026_09_29__00_55_13/samples_10.pt",
+      "bytes": 555115601,
+      "inode": 210907291
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_66d92d17116c/output/config_protein.pdb_2026_09_29__00_55_13/samples_18.pt",
+      "bytes": 709796375,
+      "inode": 210907996
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_66d92d17116c/output/config_protein.pdb_2026_09_29__00_55_13/samples_4.pt",
+      "bytes": 535014915,
+      "inode": 210907072
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_66d92d17116c/output/config_protein.pdb_2026_09_29__00_55_13/samples_20.pt",
+      "bytes": 762955135,
+      "inode": 210908003
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_66d92d17116c/output/config_protein.pdb_2026_09_29__00_55_13/samples_16.pt",
+      "bytes": 662352353,
+      "inode": 210907788
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_66d92d17116c/output/config_protein.pdb_2026_09_29__00_55_13/samples_9.pt",
+      "bytes": 552336671,
+      "inode": 210907290
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_66d92d17116c/output/config_protein.pdb_2026_09_29__00_55_13/samples_8.pt",
+      "bytes": 547782743,
+      "inode": 210907287
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_66d92d17116c/output/config_protein.pdb_2026_09_29__00_55_13/samples_17.pt",
+      "bytes": 701539583,
+      "inode": 210907989
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_66d92d17116c/output/config_protein.pdb_2026_09_29__00_55_13/samples_19.pt",
+      "bytes": 741818781,
+      "inode": 210908000
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_66d92d17116c/output/config_protein.pdb_2026_09_29__00_55_13/samples_11.pt",
+      "bytes": 561483331,
+      "inode": 210907373
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_218cdfad687c/output/config_protein.pdb_2026_09_29__01_09_57/samples_3.pt",
+      "bytes": 533963395,
+      "inode": 210908555
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_218cdfad687c/output/config_protein.pdb_2026_09_29__01_09_57/samples_12.pt",
+      "bytes": 582312357,
+      "inode": 210909386
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_218cdfad687c/output/config_protein.pdb_2026_09_29__01_09_57/samples_7.pt",
+      "bytes": 539679687,
+      "inode": 210908969
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_218cdfad687c/output/config_protein.pdb_2026_09_29__01_09_57/samples_2.pt",
+      "bytes": 532997891,
+      "inode": 210908553
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_218cdfad687c/output/config_protein.pdb_2026_09_29__01_09_57/samples_14.pt",
+      "bytes": 604113223,
+      "inode": 210909388
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_218cdfad687c/output/config_protein.pdb_2026_09_29__01_09_57/samples_15.pt",
+      "bytes": 636016397,
+      "inode": 210909594
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_218cdfad687c/output/config_protein.pdb_2026_09_29__01_09_57/samples_1.pt",
+      "bytes": 205726347,
+      "inode": 210908552
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_218cdfad687c/output/config_protein.pdb_2026_09_29__01_09_57/samples_5.pt",
+      "bytes": 535935619,
+      "inode": 210908764
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_218cdfad687c/output/config_protein.pdb_2026_09_29__01_09_57/samples_13.pt",
+      "bytes": 585044939,
+      "inode": 210909387
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_218cdfad687c/output/config_protein.pdb_2026_09_29__01_09_57/samples_6.pt",
+      "bytes": 536896515,
+      "inode": 210908766
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_218cdfad687c/output/config_protein.pdb_2026_09_29__01_09_57/samples_10.pt",
+      "bytes": 553329835,
+      "inode": 210909382
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_218cdfad687c/output/config_protein.pdb_2026_09_29__01_09_57/samples_18.pt",
+      "bytes": 740839709,
+      "inode": 210909803
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_218cdfad687c/output/config_protein.pdb_2026_09_29__01_09_57/samples_4.pt",
+      "bytes": 535006467,
+      "inode": 210908560
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_218cdfad687c/output/config_protein.pdb_2026_09_29__01_09_57/samples_20.pt",
+      "bytes": 828768535,
+      "inode": 210910009
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_218cdfad687c/output/config_protein.pdb_2026_09_29__01_09_57/samples_16.pt",
+      "bytes": 658754197,
+      "inode": 210909799
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_218cdfad687c/output/config_protein.pdb_2026_09_29__01_09_57/samples_9.pt",
+      "bytes": 552354399,
+      "inode": 210908973
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_218cdfad687c/output/config_protein.pdb_2026_09_29__01_09_57/samples_8.pt",
+      "bytes": 540619143,
+      "inode": 210908971
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_218cdfad687c/output/config_protein.pdb_2026_09_29__01_09_57/samples_17.pt",
+      "bytes": 716169455,
+      "inode": 210909802
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_218cdfad687c/output/config_protein.pdb_2026_09_29__01_09_57/samples_19.pt",
+      "bytes": 785666605,
+      "inode": 210910008
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_11/generation/pocket_218cdfad687c/output/config_protein.pdb_2026_09_29__01_09_57/samples_11.pt",
+      "bytes": 566901941,
+      "inode": 210909385
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_68a5caed5877/output/config_protein.pdb_2026_09_28__21_25_14/samples_3.pt",
+      "bytes": 526368131,
+      "inode": 210767909
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_68a5caed5877/output/config_protein.pdb_2026_09_28__21_25_14/samples_12.pt",
+      "bytes": 574075813,
+      "inode": 210769138
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_68a5caed5877/output/config_protein.pdb_2026_09_28__21_25_14/samples_7.pt",
+      "bytes": 537356051,
+      "inode": 210768523
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_68a5caed5877/output/config_protein.pdb_2026_09_28__21_25_14/samples_2.pt",
+      "bytes": 525401603,
+      "inode": 210767907
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_68a5caed5877/output/config_protein.pdb_2026_09_28__21_25_14/samples_14.pt",
+      "bytes": 592016251,
+      "inode": 210769342
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_68a5caed5877/output/config_protein.pdb_2026_09_28__21_25_14/samples_21.pt",
+      "bytes": 778788563,
+      "inode": 210770369
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_68a5caed5877/output/config_protein.pdb_2026_09_28__21_25_14/samples_15.pt",
+      "bytes": 610939703,
+      "inode": 210769343
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_68a5caed5877/output/config_protein.pdb_2026_09_28__21_25_14/samples_1.pt",
+      "bytes": 242989465,
+      "inode": 210767906
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_68a5caed5877/output/config_protein.pdb_2026_09_28__21_25_14/samples_5.pt",
+      "bytes": 530085703,
+      "inode": 210768115
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_68a5caed5877/output/config_protein.pdb_2026_09_28__21_25_14/samples_13.pt",
+      "bytes": 575004645,
+      "inode": 210769333
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_68a5caed5877/output/config_protein.pdb_2026_09_28__21_25_14/samples_6.pt",
+      "bytes": 532804619,
+      "inode": 210768116
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_68a5caed5877/output/config_protein.pdb_2026_09_28__21_25_14/samples_10.pt",
+      "bytes": 557920117,
+      "inode": 210768926
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_68a5caed5877/output/config_protein.pdb_2026_09_28__21_25_14/samples_18.pt",
+      "bytes": 673014109,
+      "inode": 210769958
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_68a5caed5877/output/config_protein.pdb_2026_09_28__21_25_14/samples_4.pt",
+      "bytes": 527395203,
+      "inode": 210768114
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_68a5caed5877/output/config_protein.pdb_2026_09_28__21_25_14/samples_20.pt",
+      "bytes": 738067983,
+      "inode": 210770364
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_68a5caed5877/output/config_protein.pdb_2026_09_28__21_25_14/samples_16.pt",
+      "bytes": 633364607,
+      "inode": 210769543
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_68a5caed5877/output/config_protein.pdb_2026_09_28__21_25_14/samples_9.pt",
+      "bytes": 549851179,
+      "inode": 210768526
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_68a5caed5877/output/config_protein.pdb_2026_09_28__21_25_14/samples_8.pt",
+      "bytes": 547141159,
+      "inode": 210768525
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_68a5caed5877/output/config_protein.pdb_2026_09_28__21_25_14/samples_17.pt",
+      "bytes": 652284539,
+      "inode": 210769753
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_68a5caed5877/output/config_protein.pdb_2026_09_28__21_25_14/samples_19.pt",
+      "bytes": 706394377,
+      "inode": 210769959
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_68a5caed5877/output/config_protein.pdb_2026_09_28__21_25_14/samples_11.pt",
+      "bytes": 564190759,
+      "inode": 210768933
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_80b40aebfb47/output/config_protein.pdb_2026_09_28__21_08_40/samples_3.pt",
+      "bytes": 526368643,
+      "inode": 210765416
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_80b40aebfb47/output/config_protein.pdb_2026_09_28__21_08_40/samples_22.pt",
+      "bytes": 740378447,
+      "inode": 210767492
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_80b40aebfb47/output/config_protein.pdb_2026_09_28__21_08_40/samples_23.pt",
+      "bytes": 763189079,
+      "inode": 210767696
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_80b40aebfb47/output/config_protein.pdb_2026_09_28__21_08_40/samples_12.pt",
+      "bytes": 568785651,
+      "inode": 210766663
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_80b40aebfb47/output/config_protein.pdb_2026_09_28__21_08_40/samples_7.pt",
+      "bytes": 537345299,
+      "inode": 210766046
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_80b40aebfb47/output/config_protein.pdb_2026_09_28__21_08_40/samples_2.pt",
+      "bytes": 525402691,
+      "inode": 210765217
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_80b40aebfb47/output/config_protein.pdb_2026_09_28__21_08_40/samples_14.pt",
+      "bytes": 583141309,
+      "inode": 210766665
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_80b40aebfb47/output/config_protein.pdb_2026_09_28__21_08_40/samples_21.pt",
+      "bytes": 708625865,
+      "inode": 210767490
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_80b40aebfb47/output/config_protein.pdb_2026_09_28__21_08_40/samples_15.pt",
+      "bytes": 602068153,
+      "inode": 210766666
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_80b40aebfb47/output/config_protein.pdb_2026_09_28__21_08_40/samples_1.pt",
+      "bytes": 248233535,
+      "inode": 210765216
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_80b40aebfb47/output/config_protein.pdb_2026_09_28__21_08_40/samples_5.pt",
+      "bytes": 528322179,
+      "inode": 210765635
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_80b40aebfb47/output/config_protein.pdb_2026_09_28__21_08_40/samples_13.pt",
+      "bytes": 576843339,
+      "inode": 210766664
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_80b40aebfb47/output/config_protein.pdb_2026_09_28__21_08_40/samples_6.pt",
+      "bytes": 532804171,
+      "inode": 210765839
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_80b40aebfb47/output/config_protein.pdb_2026_09_28__21_08_40/samples_10.pt",
+      "bytes": 547283857,
+      "inode": 210766440
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_80b40aebfb47/output/config_protein.pdb_2026_09_28__21_08_40/samples_18.pt",
+      "bytes": 644408061,
+      "inode": 210767076
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_80b40aebfb47/output/config_protein.pdb_2026_09_28__21_08_40/samples_4.pt",
+      "bytes": 527390787,
+      "inode": 210765425
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_80b40aebfb47/output/config_protein.pdb_2026_09_28__21_08_40/samples_20.pt",
+      "bytes": 693256857,
+      "inode": 210767285
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_80b40aebfb47/output/config_protein.pdb_2026_09_28__21_08_40/samples_16.pt",
+      "bytes": 615535811,
+      "inode": 210766667
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_80b40aebfb47/output/config_protein.pdb_2026_09_28__21_08_40/samples_9.pt",
+      "bytes": 544532255,
+      "inode": 210766252
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_80b40aebfb47/output/config_protein.pdb_2026_09_28__21_08_40/samples_8.pt",
+      "bytes": 538287891,
+      "inode": 210766251
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_80b40aebfb47/output/config_protein.pdb_2026_09_28__21_08_40/samples_17.pt",
+      "bytes": 630873587,
+      "inode": 210766872
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_80b40aebfb47/output/config_protein.pdb_2026_09_28__21_08_40/samples_19.pt",
+      "bytes": 663389625,
+      "inode": 210767078
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_80b40aebfb47/output/config_protein.pdb_2026_09_28__21_08_40/samples_11.pt",
+      "bytes": 555339433,
+      "inode": 210766662
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_fa8ef9a832d1/output/config_protein.pdb_2026_09_28__21_48_45/samples_3.pt",
+      "bytes": 526364227,
+      "inode": 210772338
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_fa8ef9a832d1/output/config_protein.pdb_2026_09_28__21_48_45/samples_12.pt",
+      "bytes": 561629659,
+      "inode": 210773254
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_fa8ef9a832d1/output/config_protein.pdb_2026_09_28__21_48_45/samples_7.pt",
+      "bytes": 539104407,
+      "inode": 210772754
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_fa8ef9a832d1/output/config_protein.pdb_2026_09_28__21_48_45/samples_2.pt",
+      "bytes": 525401667,
+      "inode": 210772336
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_fa8ef9a832d1/output/config_protein.pdb_2026_09_28__21_48_45/samples_14.pt",
+      "bytes": 592056699,
+      "inode": 210773664
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_fa8ef9a832d1/output/config_protein.pdb_2026_09_28__21_48_45/samples_21.pt",
+      "bytes": 769963285,
+      "inode": 210774286
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_fa8ef9a832d1/output/config_protein.pdb_2026_09_28__21_48_45/samples_15.pt",
+      "bytes": 603820831,
+      "inode": 210773867
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_fa8ef9a832d1/output/config_protein.pdb_2026_09_28__21_48_45/samples_1.pt",
+      "bytes": 242989401,
+      "inode": 210772335
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_fa8ef9a832d1/output/config_protein.pdb_2026_09_28__21_48_45/samples_5.pt",
+      "bytes": 530077191,
+      "inode": 210772730
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_fa8ef9a832d1/output/config_protein.pdb_2026_09_28__21_48_45/samples_13.pt",
+      "bytes": 575032869,
+      "inode": 210773456
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_fa8ef9a832d1/output/config_protein.pdb_2026_09_28__21_48_45/samples_6.pt",
+      "bytes": 532799115,
+      "inode": 210772752
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_fa8ef9a832d1/output/config_protein.pdb_2026_09_28__21_48_45/samples_10.pt",
+      "bytes": 554353321,
+      "inode": 210773048
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_fa8ef9a832d1/output/config_protein.pdb_2026_09_28__21_48_45/samples_18.pt",
+      "bytes": 660510035,
+      "inode": 210774274
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_fa8ef9a832d1/output/config_protein.pdb_2026_09_28__21_48_45/samples_4.pt",
+      "bytes": 527397827,
+      "inode": 210772339
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_fa8ef9a832d1/output/config_protein.pdb_2026_09_28__21_48_45/samples_20.pt",
+      "bytes": 711157909,
+      "inode": 210774283
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_fa8ef9a832d1/output/config_protein.pdb_2026_09_28__21_48_45/samples_16.pt",
+      "bytes": 619084559,
+      "inode": 210773868
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_fa8ef9a832d1/output/config_protein.pdb_2026_09_28__21_48_45/samples_9.pt",
+      "bytes": 546292643,
+      "inode": 210773047
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_fa8ef9a832d1/output/config_protein.pdb_2026_09_28__21_48_45/samples_8.pt",
+      "bytes": 543581407,
+      "inode": 210772961
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_fa8ef9a832d1/output/config_protein.pdb_2026_09_28__21_48_45/samples_17.pt",
+      "bytes": 648775151,
+      "inode": 210774074
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_fa8ef9a832d1/output/config_protein.pdb_2026_09_28__21_48_45/samples_19.pt",
+      "bytes": 677678953,
+      "inode": 210774280
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_0/generation/pocket_fa8ef9a832d1/output/config_protein.pdb_2026_09_28__21_48_45/samples_11.pt",
+      "bytes": 555320361,
+      "inode": 210773049
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_18/generation/pocket_57876628c623/output/config_protein.pdb_2026_09_29__07_26_54/samples_3.pt",
+      "bytes": 515906755,
+      "inode": 211289284
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_18/generation/pocket_57876628c623/output/config_protein.pdb_2026_09_29__07_26_54/samples_22.pt",
+      "bytes": 773984145,
+      "inode": 211290621
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_18/generation/pocket_57876628c623/output/config_protein.pdb_2026_09_29__07_26_54/samples_12.pt",
+      "bytes": 554266983,
+      "inode": 211289914
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_18/generation/pocket_57876628c623/output/config_protein.pdb_2026_09_29__07_26_54/samples_7.pt",
+      "bytes": 519870659,
+      "inode": 211289498
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_18/generation/pocket_57876628c623/output/config_protein.pdb_2026_09_29__07_26_54/samples_2.pt",
+      "bytes": 298684095,
+      "inode": 211289080
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_18/generation/pocket_57876628c623/output/config_protein.pdb_2026_09_29__07_26_54/samples_14.pt",
+      "bytes": 582403873,
+      "inode": 211289919
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_18/generation/pocket_57876628c623/output/config_protein.pdb_2026_09_29__07_26_54/samples_21.pt",
+      "bytes": 741044773,
+      "inode": 211290620
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_18/generation/pocket_57876628c623/output/config_protein.pdb_2026_09_29__07_26_54/samples_15.pt",
+      "bytes": 597479441,
+      "inode": 211290127
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_18/generation/pocket_57876628c623/output/config_protein.pdb_2026_09_29__07_26_54/samples_1.pt",
+      "bytes": 123360819,
+      "inode": 211289078
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_18/generation/pocket_57876628c623/output/config_protein.pdb_2026_09_29__07_26_54/samples_5.pt",
+      "bytes": 517875267,
+      "inode": 211289286
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_18/generation/pocket_57876628c623/output/config_protein.pdb_2026_09_29__07_26_54/samples_13.pt",
+      "bytes": 565705867,
+      "inode": 211289918
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_18/generation/pocket_57876628c623/output/config_protein.pdb_2026_09_29__07_26_54/samples_6.pt",
+      "bytes": 518838787,
+      "inode": 211289290
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_18/generation/pocket_57876628c623/output/config_protein.pdb_2026_09_29__07_26_54/samples_10.pt",
+      "bytes": 531404063,
+      "inode": 211289504
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_18/generation/pocket_57876628c623/output/config_protein.pdb_2026_09_29__07_26_54/samples_18.pt",
+      "bytes": 633774819,
+      "inode": 211290334
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_18/generation/pocket_57876628c623/output/config_protein.pdb_2026_09_29__07_26_54/samples_4.pt",
+      "bytes": 516925763,
+      "inode": 211289285
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_18/generation/pocket_57876628c623/output/config_protein.pdb_2026_09_29__07_26_54/samples_20.pt",
+      "bytes": 720584515,
+      "inode": 211290619
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_18/generation/pocket_57876628c623/output/config_protein.pdb_2026_09_29__07_26_54/samples_16.pt",
+      "bytes": 605425513,
+      "inode": 211290128
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_18/generation/pocket_57876628c623/output/config_protein.pdb_2026_09_29__07_26_54/samples_9.pt",
+      "bytes": 521744131,
+      "inode": 211289502
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_18/generation/pocket_57876628c623/output/config_protein.pdb_2026_09_29__07_26_54/samples_8.pt",
+      "bytes": 520800451,
+      "inode": 211289499
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_18/generation/pocket_57876628c623/output/config_protein.pdb_2026_09_29__07_26_54/samples_17.pt",
+      "bytes": 620461017,
+      "inode": 211290333
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_18/generation/pocket_57876628c623/output/config_protein.pdb_2026_09_29__07_26_54/samples_19.pt",
+      "bytes": 685984625,
+      "inode": 211290539
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_18/generation/pocket_57876628c623/output/config_protein.pdb_2026_09_29__07_26_54/samples_11.pt",
+      "bytes": 541081501,
+      "inode": 211289913
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_4/generation/pocket_e79d1bf6eb7d/output/config_protein.pdb_2026_09_29__12_23_52/samples_3.pt",
+      "bytes": 547268355,
+      "inode": 211823620
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_4/generation/pocket_e79d1bf6eb7d/output/config_protein.pdb_2026_09_29__12_23_52/samples_12.pt",
+      "bytes": 607720009,
+      "inode": 211825173
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_4/generation/pocket_e79d1bf6eb7d/output/config_protein.pdb_2026_09_29__12_23_52/samples_7.pt",
+      "bytes": 551211395,
+      "inode": 211824410
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_4/generation/pocket_e79d1bf6eb7d/output/config_protein.pdb_2026_09_29__12_23_52/samples_2.pt",
+      "bytes": 546300547,
+      "inode": 211823397
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_4/generation/pocket_e79d1bf6eb7d/output/config_protein.pdb_2026_09_29__12_23_52/samples_14.pt",
+      "bytes": 652273779,
+      "inode": 211825488
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_4/generation/pocket_e79d1bf6eb7d/output/config_protein.pdb_2026_09_29__12_23_52/samples_15.pt",
+      "bytes": 688616581,
+      "inode": 211825503
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_4/generation/pocket_e79d1bf6eb7d/output/config_protein.pdb_2026_09_29__12_23_52/samples_1.pt",
+      "bytes": 201787425,
+      "inode": 211823194
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_4/generation/pocket_e79d1bf6eb7d/output/config_protein.pdb_2026_09_29__12_23_52/samples_5.pt",
+      "bytes": 549232835,
+      "inode": 211823856
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_4/generation/pocket_e79d1bf6eb7d/output/config_protein.pdb_2026_09_29__12_23_52/samples_13.pt",
+      "bytes": 623464377,
+      "inode": 211825461
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_4/generation/pocket_e79d1bf6eb7d/output/config_protein.pdb_2026_09_29__12_23_52/samples_6.pt",
+      "bytes": 550230915,
+      "inode": 211823915
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_4/generation/pocket_e79d1bf6eb7d/output/config_protein.pdb_2026_09_29__12_23_52/samples_10.pt",
+      "bytes": 559590419,
+      "inode": 211825123
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_4/generation/pocket_e79d1bf6eb7d/output/config_protein.pdb_2026_09_29__12_23_52/samples_18.pt",
+      "bytes": 756745783,
+      "inode": 211825920
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_4/generation/pocket_e79d1bf6eb7d/output/config_protein.pdb_2026_09_29__12_23_52/samples_4.pt",
+      "bytes": 548301763,
+      "inode": 211823640
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_4/generation/pocket_e79d1bf6eb7d/output/config_protein.pdb_2026_09_29__12_23_52/samples_20.pt",
+      "bytes": 796156655,
+      "inode": 211826145
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_4/generation/pocket_e79d1bf6eb7d/output/config_protein.pdb_2026_09_29__12_23_52/samples_16.pt",
+      "bytes": 715620953,
+      "inode": 211825504
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_4/generation/pocket_e79d1bf6eb7d/output/config_protein.pdb_2026_09_29__12_23_52/samples_9.pt",
+      "bytes": 554963335,
+      "inode": 211825102
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_4/generation/pocket_e79d1bf6eb7d/output/config_protein.pdb_2026_09_29__12_23_52/samples_8.pt",
+      "bytes": 552152515,
+      "inode": 211824865
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_4/generation/pocket_e79d1bf6eb7d/output/config_protein.pdb_2026_09_29__12_23_52/samples_17.pt",
+      "bytes": 733379503,
+      "inode": 211825716
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_4/generation/pocket_e79d1bf6eb7d/output/config_protein.pdb_2026_09_29__12_23_52/samples_19.pt",
+      "bytes": 778298585,
+      "inode": 211826143
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_4/generation/pocket_e79d1bf6eb7d/output/config_protein.pdb_2026_09_29__12_23_52/samples_11.pt",
+      "bytes": 590108723,
+      "inode": 211825149
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_4/generation/pocket_c903fc0b4505/output/config_protein.pdb_2026_09_29__12_38_43/samples_3.pt",
+      "bytes": 547267907,
+      "inode": 211826951
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_4/generation/pocket_c903fc0b4505/output/config_protein.pdb_2026_09_29__12_38_43/samples_12.pt",
+      "bytes": 581874357,
+      "inode": 211827686
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_4/generation/pocket_c903fc0b4505/output/config_protein.pdb_2026_09_29__12_38_43/samples_7.pt",
+      "bytes": 551206083,
+      "inode": 211827372
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_4/generation/pocket_c903fc0b4505/output/config_protein.pdb_2026_09_29__12_38_43/samples_2.pt",
+      "bytes": 546298371,
+      "inode": 211826945
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_4/generation/pocket_c903fc0b4505/output/config_protein.pdb_2026_09_29__12_38_43/samples_14.pt",
+      "bytes": 613392085,
+      "inode": 211827923
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_4/generation/pocket_c903fc0b4505/output/config_protein.pdb_2026_09_29__12_38_43/samples_15.pt",
+      "bytes": 621845229,
+      "inode": 211827935
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_4/generation/pocket_c903fc0b4505/output/config_protein.pdb_2026_09_29__12_38_43/samples_1.pt",
+      "bytes": 189062515,
+      "inode": 211826944
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_4/generation/pocket_c903fc0b4505/output/config_protein.pdb_2026_09_29__12_38_43/samples_5.pt",
+      "bytes": 549227203,
+      "inode": 211827161
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_4/generation/pocket_c903fc0b4505/output/config_protein.pdb_2026_09_29__12_38_43/samples_13.pt",
+      "bytes": 601305393,
+      "inode": 211827912
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_4/generation/pocket_c903fc0b4505/output/config_protein.pdb_2026_09_29__12_38_43/samples_6.pt",
+      "bytes": 550219779,
+      "inode": 211827164
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_4/generation/pocket_c903fc0b4505/output/config_protein.pdb_2026_09_29__12_38_43/samples_10.pt",
+      "bytes": 555903559,
+      "inode": 211827592
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_4/generation/pocket_c903fc0b4505/output/config_protein.pdb_2026_09_29__12_38_43/samples_18.pt",
+      "bytes": 688130681,
+      "inode": 211826922
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_4/generation/pocket_c903fc0b4505/output/config_protein.pdb_2026_09_29__12_38_43/samples_4.pt",
+      "bytes": 548302083,
+      "inode": 211826952
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_4/generation/pocket_c903fc0b4505/output/config_protein.pdb_2026_09_29__12_38_43/samples_16.pt",
+      "bytes": 639530819,
+      "inode": 211828140
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_4/generation/pocket_c903fc0b4505/output/config_protein.pdb_2026_09_29__12_38_43/samples_9.pt",
+      "bytes": 554944839,
+      "inode": 211826946
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_4/generation/pocket_c903fc0b4505/output/config_protein.pdb_2026_09_29__12_38_43/samples_8.pt",
+      "bytes": 553983943,
+      "inode": 211827583
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_4/generation/pocket_c903fc0b4505/output/config_protein.pdb_2026_09_29__12_38_43/samples_17.pt",
+      "bytes": 655438195,
+      "inode": 211828141
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_4/generation/pocket_c903fc0b4505/output/config_protein.pdb_2026_09_29__12_38_43/samples_19.pt",
+      "bytes": 698455223,
+      "inode": 211828376
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_4/generation/pocket_c903fc0b4505/output/config_protein.pdb_2026_09_29__12_38_43/samples_11.pt",
+      "bytes": 564254303,
+      "inode": 211827676
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_13/generation/pocket_08fb0bbb687d/output/config_protein.pdb_2026_09_29__02_45_58/samples_3.pt",
+      "bytes": 530007815,
+      "inode": 211054876
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_13/generation/pocket_08fb0bbb687d/output/config_protein.pdb_2026_09_29__02_45_58/samples_12.pt",
+      "bytes": 570729203,
+      "inode": 211056015
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_13/generation/pocket_08fb0bbb687d/output/config_protein.pdb_2026_09_29__02_45_58/samples_7.pt",
+      "bytes": 541013783,
+      "inode": 211055294
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_13/generation/pocket_08fb0bbb687d/output/config_protein.pdb_2026_09_29__02_45_58/samples_2.pt",
+      "bytes": 529044615,
+      "inode": 211054875
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_13/generation/pocket_08fb0bbb687d/output/config_protein.pdb_2026_09_29__02_45_58/samples_14.pt",
+      "bytes": 629927411,
+      "inode": 211056095
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_13/generation/pocket_08fb0bbb687d/output/config_protein.pdb_2026_09_29__02_45_58/samples_15.pt",
+      "bytes": 666878315,
+      "inode": 211057248
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_13/generation/pocket_08fb0bbb687d/output/config_protein.pdb_2026_09_29__02_45_58/samples_1.pt",
+      "bytes": 296495765,
+      "inode": 211054874
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_13/generation/pocket_08fb0bbb687d/output/config_protein.pdb_2026_09_29__02_45_58/samples_5.pt",
+      "bytes": 531987975,
+      "inode": 211055290
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_13/generation/pocket_08fb0bbb687d/output/config_protein.pdb_2026_09_29__02_45_58/samples_13.pt",
+      "bytes": 593140731,
+      "inode": 211056094
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_13/generation/pocket_08fb0bbb687d/output/config_protein.pdb_2026_09_29__02_45_58/samples_6.pt",
+      "bytes": 534714763,
+      "inode": 211055292
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_13/generation/pocket_08fb0bbb687d/output/config_protein.pdb_2026_09_29__02_45_58/samples_10.pt",
+      "bytes": 561676571,
+      "inode": 211055806
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_13/generation/pocket_08fb0bbb687d/output/config_protein.pdb_2026_09_29__02_45_58/samples_4.pt",
+      "bytes": 531018631,
+      "inode": 211055084
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_13/generation/pocket_08fb0bbb687d/output/config_protein.pdb_2026_09_29__02_45_58/samples_16.pt",
+      "bytes": 718198099,
+      "inode": 211057462
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_13/generation/pocket_08fb0bbb687d/output/config_protein.pdb_2026_09_29__02_45_58/samples_9.pt",
+      "bytes": 548222563,
+      "inode": 211055804
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_13/generation/pocket_08fb0bbb687d/output/config_protein.pdb_2026_09_29__02_45_58/samples_8.pt",
+      "bytes": 541969687,
+      "inode": 211055481
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_13/generation/pocket_08fb0bbb687d/output/config_protein.pdb_2026_09_29__02_45_58/samples_17.pt",
+      "bytes": 758798551,
+      "inode": 211057471
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_13/generation/pocket_08fb0bbb687d/output/config_protein.pdb_2026_09_29__02_45_58/samples_11.pt",
+      "bytes": 562634075,
+      "inode": 211055807
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_22/generation/pocket_b0642c6af5f5/output/config_protein.pdb_2026_09_29__10_34_56/samples_3.pt",
+      "bytes": 534901123,
+      "inode": 211179119
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_22/generation/pocket_b0642c6af5f5/output/config_protein.pdb_2026_09_29__10_34_56/samples_22.pt",
+      "bytes": 764226265,
+      "inode": 211179142
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_22/generation/pocket_b0642c6af5f5/output/config_protein.pdb_2026_09_29__10_34_56/samples_23.pt",
+      "bytes": 776282045,
+      "inode": 211179143
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_22/generation/pocket_b0642c6af5f5/output/config_protein.pdb_2026_09_29__10_34_56/samples_12.pt",
+      "bytes": 579700121,
+      "inode": 211179130
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_22/generation/pocket_b0642c6af5f5/output/config_protein.pdb_2026_09_29__10_34_56/samples_7.pt",
+      "bytes": 540612743,
+      "inode": 211179123
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_22/generation/pocket_b0642c6af5f5/output/config_protein.pdb_2026_09_29__10_34_56/samples_2.pt",
+      "bytes": 395097439,
+      "inode": 211179118
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_22/generation/pocket_b0642c6af5f5/output/config_protein.pdb_2026_09_29__10_34_56/samples_14.pt",
+      "bytes": 641442943,
+      "inode": 211179132
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_22/generation/pocket_b0642c6af5f5/output/config_protein.pdb_2026_09_29__10_34_56/samples_21.pt",
+      "bytes": 744854045,
+      "inode": 211179141
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_22/generation/pocket_b0642c6af5f5/output/config_protein.pdb_2026_09_29__10_34_56/samples_15.pt",
+      "bytes": 669738233,
+      "inode": 211179133
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_22/generation/pocket_b0642c6af5f5/output/config_protein.pdb_2026_09_29__10_34_56/samples_1.pt",
+      "bytes": 135025467,
+      "inode": 211179117
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_22/generation/pocket_b0642c6af5f5/output/config_protein.pdb_2026_09_29__10_34_56/samples_5.pt",
+      "bytes": 536842563,
+      "inode": 211179121
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_22/generation/pocket_b0642c6af5f5/output/config_protein.pdb_2026_09_29__10_34_56/samples_24.pt",
+      "bytes": 812287759,
+      "inode": 211179144
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_22/generation/pocket_b0642c6af5f5/output/config_protein.pdb_2026_09_29__10_34_56/samples_13.pt",
+      "bytes": 611431391,
+      "inode": 211179131
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_22/generation/pocket_b0642c6af5f5/output/config_protein.pdb_2026_09_29__10_34_56/samples_6.pt",
+      "bytes": 537827779,
+      "inode": 211179122
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_22/generation/pocket_b0642c6af5f5/output/config_protein.pdb_2026_09_29__10_34_56/samples_10.pt",
+      "bytes": 550679135,
+      "inode": 211179126
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_22/generation/pocket_b0642c6af5f5/output/config_protein.pdb_2026_09_29__10_34_56/samples_18.pt",
+      "bytes": 725481351,
+      "inode": 211179138
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_22/generation/pocket_b0642c6af5f5/output/config_protein.pdb_2026_09_29__10_34_56/samples_4.pt",
+      "bytes": 535916035,
+      "inode": 211179120
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_22/generation/pocket_b0642c6af5f5/output/config_protein.pdb_2026_09_29__10_34_56/samples_20.pt",
+      "bytes": 738416939,
+      "inode": 211179140
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_22/generation/pocket_b0642c6af5f5/output/config_protein.pdb_2026_09_29__10_34_56/samples_16.pt",
+      "bytes": 679767863,
+      "inode": 211179134
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_22/generation/pocket_b0642c6af5f5/output/config_protein.pdb_2026_09_29__10_34_56/samples_9.pt",
+      "bytes": 544328459,
+      "inode": 211179125
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_22/generation/pocket_b0642c6af5f5/output/config_protein.pdb_2026_09_29__10_34_56/samples_8.pt",
+      "bytes": 543354827,
+      "inode": 211179124
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_22/generation/pocket_b0642c6af5f5/output/config_protein.pdb_2026_09_29__10_34_56/samples_17.pt",
+      "bytes": 698966835,
+      "inode": 211179137
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_22/generation/pocket_b0642c6af5f5/output/config_protein.pdb_2026_09_29__10_34_56/samples_19.pt",
+      "bytes": 737463019,
+      "inode": 211179139
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_22/generation/pocket_b0642c6af5f5/output/config_protein.pdb_2026_09_29__10_34_56/samples_11.pt",
+      "bytes": 562486723,
+      "inode": 211179129
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_097ab6608369/output/config_protein.pdb_2026_09_28__23_26_55/samples_3.pt",
+      "bytes": 523523075,
+      "inode": 210897009
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_097ab6608369/output/config_protein.pdb_2026_09_28__23_26_55/samples_22.pt",
+      "bytes": 760853411,
+      "inode": 210898479
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_097ab6608369/output/config_protein.pdb_2026_09_28__23_26_55/samples_23.pt",
+      "bytes": 769080955,
+      "inode": 210898486
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_097ab6608369/output/config_protein.pdb_2026_09_28__23_26_55/samples_12.pt",
+      "bytes": 579960611,
+      "inode": 210897843
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_097ab6608369/output/config_protein.pdb_2026_09_28__23_26_55/samples_7.pt",
+      "bytes": 527462979,
+      "inode": 210897221
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_097ab6608369/output/config_protein.pdb_2026_09_28__23_26_55/samples_2.pt",
+      "bytes": 372771535,
+      "inode": 210897007
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_097ab6608369/output/config_protein.pdb_2026_09_28__23_26_55/samples_14.pt",
+      "bytes": 636866749,
+      "inode": 210898051
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_097ab6608369/output/config_protein.pdb_2026_09_28__23_26_55/samples_21.pt",
+      "bytes": 749101375,
+      "inode": 210898275
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_097ab6608369/output/config_protein.pdb_2026_09_28__23_26_55/samples_15.pt",
+      "bytes": 662836945,
+      "inode": 210898055
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_097ab6608369/output/config_protein.pdb_2026_09_28__23_26_55/samples_1.pt",
+      "bytes": 161703165,
+      "inode": 210897006
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_097ab6608369/output/config_protein.pdb_2026_09_28__23_26_55/samples_5.pt",
+      "bytes": 525503427,
+      "inode": 210897015
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_097ab6608369/output/config_protein.pdb_2026_09_28__23_26_55/samples_13.pt",
+      "bytes": 612820111,
+      "inode": 210897844
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_097ab6608369/output/config_protein.pdb_2026_09_28__23_26_55/samples_6.pt",
+      "bytes": 526462211,
+      "inode": 210897016
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_097ab6608369/output/config_protein.pdb_2026_09_28__23_26_55/samples_10.pt",
+      "bytes": 546210871,
+      "inode": 210897633
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_097ab6608369/output/config_protein.pdb_2026_09_28__23_26_55/samples_18.pt",
+      "bytes": 697786429,
+      "inode": 210898268
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_097ab6608369/output/config_protein.pdb_2026_09_28__23_26_55/samples_4.pt",
+      "bytes": 524555459,
+      "inode": 210897014
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_097ab6608369/output/config_protein.pdb_2026_09_28__23_26_55/samples_20.pt",
+      "bytes": 735562101,
+      "inode": 210898273
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_097ab6608369/output/config_protein.pdb_2026_09_28__23_26_55/samples_16.pt",
+      "bytes": 683374579,
+      "inode": 210898057
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_097ab6608369/output/config_protein.pdb_2026_09_28__23_26_55/samples_9.pt",
+      "bytes": 538160535,
+      "inode": 210897631
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_097ab6608369/output/config_protein.pdb_2026_09_28__23_26_55/samples_8.pt",
+      "bytes": 531923915,
+      "inode": 210897223
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_097ab6608369/output/config_protein.pdb_2026_09_28__23_26_55/samples_17.pt",
+      "bytes": 691468747,
+      "inode": 210898265
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_097ab6608369/output/config_protein.pdb_2026_09_28__23_26_55/samples_19.pt",
+      "bytes": 729220483,
+      "inode": 210898271
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_097ab6608369/output/config_protein.pdb_2026_09_28__23_26_55/samples_11.pt",
+      "bytes": 559528193,
+      "inode": 210897635
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_d3dcd2df49d8/output/config_protein.pdb_2026_09_28__23_03_56/samples_3.pt",
+      "bytes": 523521283,
+      "inode": 210783632
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_d3dcd2df49d8/output/config_protein.pdb_2026_09_28__23_03_56/samples_22.pt",
+      "bytes": 716262701,
+      "inode": 210784895
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_d3dcd2df49d8/output/config_protein.pdb_2026_09_28__23_03_56/samples_23.pt",
+      "bytes": 746151501,
+      "inode": 210785098
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_d3dcd2df49d8/output/config_protein.pdb_2026_09_28__23_03_56/samples_12.pt",
+      "bytes": 587055163,
+      "inode": 210784270
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_d3dcd2df49d8/output/config_protein.pdb_2026_09_28__23_03_56/samples_7.pt",
+      "bytes": 529214983,
+      "inode": 210783843
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_d3dcd2df49d8/output/config_protein.pdb_2026_09_28__23_03_56/samples_2.pt",
+      "bytes": 374512625,
+      "inode": 210783631
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_d3dcd2df49d8/output/config_protein.pdb_2026_09_28__23_03_56/samples_14.pt",
+      "bytes": 615566901,
+      "inode": 210784276
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_d3dcd2df49d8/output/config_protein.pdb_2026_09_28__23_03_56/samples_21.pt",
+      "bytes": 700884349,
+      "inode": 210785096
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_d3dcd2df49d8/output/config_protein.pdb_2026_09_28__23_03_56/samples_15.pt",
+      "bytes": 637977405,
+      "inode": 210784278
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_d3dcd2df49d8/output/config_protein.pdb_2026_09_28__23_03_56/samples_1.pt",
+      "bytes": 156487383,
+      "inode": 210783629
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_d3dcd2df49d8/output/config_protein.pdb_2026_09_28__23_03_56/samples_5.pt",
+      "bytes": 525502595,
+      "inode": 210783840
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_d3dcd2df49d8/output/config_protein.pdb_2026_09_28__23_03_56/samples_13.pt",
+      "bytes": 602190827,
+      "inode": 210784275
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_d3dcd2df49d8/output/config_protein.pdb_2026_09_28__23_03_56/samples_6.pt",
+      "bytes": 526464323,
+      "inode": 210783841
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_d3dcd2df49d8/output/config_protein.pdb_2026_09_28__23_03_56/samples_10.pt",
+      "bytes": 544437201,
+      "inode": 210784059
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_d3dcd2df49d8/output/config_protein.pdb_2026_09_28__23_03_56/samples_18.pt",
+      "bytes": 683675021,
+      "inode": 210784893
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_d3dcd2df49d8/output/config_protein.pdb_2026_09_28__23_03_56/samples_4.pt",
+      "bytes": 524555523,
+      "inode": 210783838
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_d3dcd2df49d8/output/config_protein.pdb_2026_09_28__23_03_56/samples_20.pt",
+      "bytes": 698147159,
+      "inode": 210784903
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_d3dcd2df49d8/output/config_protein.pdb_2026_09_28__23_03_56/samples_16.pt",
+      "bytes": 658533727,
+      "inode": 210784486
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_d3dcd2df49d8/output/config_protein.pdb_2026_09_28__23_03_56/samples_9.pt",
+      "bytes": 534625935,
+      "inode": 210784053
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_d3dcd2df49d8/output/config_protein.pdb_2026_09_28__23_03_56/samples_8.pt",
+      "bytes": 530166791,
+      "inode": 210784051
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_d3dcd2df49d8/output/config_protein.pdb_2026_09_28__23_03_56/samples_17.pt",
+      "bytes": 670195971,
+      "inode": 210784489
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_d3dcd2df49d8/output/config_protein.pdb_2026_09_28__23_03_56/samples_19.pt",
+      "bytes": 690003007,
+      "inode": 210784902
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_10/generation/pocket_d3dcd2df49d8/output/config_protein.pdb_2026_09_28__23_03_56/samples_11.pt",
+      "bytes": 552452649,
+      "inode": 210784062
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_4a626f4e2552/output/config_protein.pdb_2026_09_28__20_04_17/samples_3.pt",
+      "bytes": 458900803,
+      "inode": 210644500
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_4a626f4e2552/output/config_protein.pdb_2026_09_28__20_04_17/samples_22.pt",
+      "bytes": 628052449,
+      "inode": 210647054
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_4a626f4e2552/output/config_protein.pdb_2026_09_28__20_04_17/samples_23.pt",
+      "bytes": 700586511,
+      "inode": 210647055
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_4a626f4e2552/output/config_protein.pdb_2026_09_28__20_04_17/samples_12.pt",
+      "bytes": 506239639,
+      "inode": 210645609
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_4a626f4e2552/output/config_protein.pdb_2026_09_28__20_04_17/samples_7.pt",
+      "bytes": 467392335,
+      "inode": 210644912
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_4a626f4e2552/output/config_protein.pdb_2026_09_28__20_04_17/samples_2.pt",
+      "bytes": 457910659,
+      "inode": 210644498
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_4a626f4e2552/output/config_protein.pdb_2026_09_28__20_04_17/samples_14.pt",
+      "bytes": 517501051,
+      "inode": 210645812
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_4a626f4e2552/output/config_protein.pdb_2026_09_28__20_04_17/samples_21.pt",
+      "bytes": 569960841,
+      "inode": 210647053
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_4a626f4e2552/output/config_protein.pdb_2026_09_28__20_04_17/samples_15.pt",
+      "bytes": 518512507,
+      "inode": 210646219
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_4a626f4e2552/output/config_protein.pdb_2026_09_28__20_04_17/samples_1.pt",
+      "bytes": 456937219,
+      "inode": 210644496
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_4a626f4e2552/output/config_protein.pdb_2026_09_28__20_04_17/samples_5.pt",
+      "bytes": 460825603,
+      "inode": 210644502
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_4a626f4e2552/output/config_protein.pdb_2026_09_28__20_04_17/samples_13.pt",
+      "bytes": 510273123,
+      "inode": 210645615
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_4a626f4e2552/output/config_protein.pdb_2026_09_28__20_04_17/samples_6.pt",
+      "bytes": 463326727,
+      "inode": 210644911
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_4a626f4e2552/output/config_protein.pdb_2026_09_28__20_04_17/samples_10.pt",
+      "bytes": 495013491,
+      "inode": 210645210
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_4a626f4e2552/output/config_protein.pdb_2026_09_28__20_04_17/samples_18.pt",
+      "bytes": 529156153,
+      "inode": 210646635
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_4a626f4e2552/output/config_protein.pdb_2026_09_28__20_04_17/samples_4.pt",
+      "bytes": 459902723,
+      "inode": 210644501
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_4a626f4e2552/output/config_protein.pdb_2026_09_28__20_04_17/samples_20.pt",
+      "bytes": 550022849,
+      "inode": 210646837
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_4a626f4e2552/output/config_protein.pdb_2026_09_28__20_04_17/samples_16.pt",
+      "bytes": 519419707,
+      "inode": 210646423
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_4a626f4e2552/output/config_protein.pdb_2026_09_28__20_04_17/samples_9.pt",
+      "bytes": 481667375,
+      "inode": 210645209
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_4a626f4e2552/output/config_protein.pdb_2026_09_28__20_04_17/samples_8.pt",
+      "bytes": 472975131,
+      "inode": 210644913
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_4a626f4e2552/output/config_protein.pdb_2026_09_28__20_04_17/samples_17.pt",
+      "bytes": 521935585,
+      "inode": 210646631
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_4a626f4e2552/output/config_protein.pdb_2026_09_28__20_04_17/samples_19.pt",
+      "bytes": 542736297,
+      "inode": 210646636
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_4a626f4e2552/output/config_protein.pdb_2026_09_28__20_04_17/samples_11.pt",
+      "bytes": 500647973,
+      "inode": 210645211
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_9d08cb79b052/output/config_protein.pdb_2026_09_28__18_49_03/samples_3.pt",
+      "bytes": 458899843,
+      "inode": 210506799
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_9d08cb79b052/output/config_protein.pdb_2026_09_28__18_49_03/samples_22.pt",
+      "bytes": 596267241,
+      "inode": 210508371
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_9d08cb79b052/output/config_protein.pdb_2026_09_28__18_49_03/samples_23.pt",
+      "bytes": 641758161,
+      "inode": 210508585
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_9d08cb79b052/output/config_protein.pdb_2026_09_28__18_49_03/samples_12.pt",
+      "bytes": 509342563,
+      "inode": 210507340
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_9d08cb79b052/output/config_protein.pdb_2026_09_28__18_49_03/samples_7.pt",
+      "bytes": 470471511,
+      "inode": 210507054
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_9d08cb79b052/output/config_protein.pdb_2026_09_28__18_49_03/samples_2.pt",
+      "bytes": 457906499,
+      "inode": 210506790
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_9d08cb79b052/output/config_protein.pdb_2026_09_28__18_49_03/samples_14.pt",
+      "bytes": 511237539,
+      "inode": 210507587
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_9d08cb79b052/output/config_protein.pdb_2026_09_28__18_49_03/samples_21.pt",
+      "bytes": 579429421,
+      "inode": 210508358
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_9d08cb79b052/output/config_protein.pdb_2026_09_28__18_49_03/samples_15.pt",
+      "bytes": 513804745,
+      "inode": 210507800
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_9d08cb79b052/output/config_protein.pdb_2026_09_28__18_49_03/samples_1.pt",
+      "bytes": 456937731,
+      "inode": 210506777
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_9d08cb79b052/output/config_protein.pdb_2026_09_28__18_49_03/samples_5.pt",
+      "bytes": 462357959,
+      "inode": 210506825
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_9d08cb79b052/output/config_protein.pdb_2026_09_28__18_49_03/samples_24.pt",
+      "bytes": 720778263,
+      "inode": 210508687
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_9d08cb79b052/output/config_protein.pdb_2026_09_28__18_49_03/samples_13.pt",
+      "bytes": 510251427,
+      "inode": 210507566
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_9d08cb79b052/output/config_protein.pdb_2026_09_28__18_49_03/samples_6.pt",
+      "bytes": 466399951,
+      "inode": 210506842
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_9d08cb79b052/output/config_protein.pdb_2026_09_28__18_49_03/samples_10.pt",
+      "bytes": 491893479,
+      "inode": 210507302
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_9d08cb79b052/output/config_protein.pdb_2026_09_28__18_49_03/samples_18.pt",
+      "bytes": 543332495,
+      "inode": 210508079
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_9d08cb79b052/output/config_protein.pdb_2026_09_28__18_49_03/samples_4.pt",
+      "bytes": 459900099,
+      "inode": 210506816
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_9d08cb79b052/output/config_protein.pdb_2026_09_28__18_49_03/samples_20.pt",
+      "bytes": 554740595,
+      "inode": 210508341
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_9d08cb79b052/output/config_protein.pdb_2026_09_28__18_49_03/samples_16.pt",
+      "bytes": 517847061,
+      "inode": 210508033
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_9d08cb79b052/output/config_protein.pdb_2026_09_28__18_49_03/samples_9.pt",
+      "bytes": 484736055,
+      "inode": 210507095
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_9d08cb79b052/output/config_protein.pdb_2026_09_28__18_49_03/samples_8.pt",
+      "bytes": 474515743,
+      "inode": 210507072
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_9d08cb79b052/output/config_protein.pdb_2026_09_28__18_49_03/samples_17.pt",
+      "bytes": 528236793,
+      "inode": 210508058
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_9d08cb79b052/output/config_protein.pdb_2026_09_28__18_49_03/samples_19.pt",
+      "bytes": 549045313,
+      "inode": 210508105
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_9d08cb79b052/output/config_protein.pdb_2026_09_28__18_49_03/samples_11.pt",
+      "bytes": 499077375,
+      "inode": 210507331
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_a8b19b7023f1/output/config_protein.pdb_2026_09_28__19_33_22/samples_3.pt",
+      "bytes": 458906115,
+      "inode": 210636605
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_a8b19b7023f1/output/config_protein.pdb_2026_09_28__19_33_22/samples_22.pt",
+      "bytes": 599837301,
+      "inode": 210639726
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_a8b19b7023f1/output/config_protein.pdb_2026_09_28__19_33_22/samples_23.pt",
+      "bytes": 646917123,
+      "inode": 210639934
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_a8b19b7023f1/output/config_protein.pdb_2026_09_28__19_33_22/samples_12.pt",
+      "bytes": 487689615,
+      "inode": 210637434
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_a8b19b7023f1/output/config_protein.pdb_2026_09_28__19_33_22/samples_7.pt",
+      "bytes": 465842187,
+      "inode": 210637017
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_a8b19b7023f1/output/config_protein.pdb_2026_09_28__19_33_22/samples_2.pt",
+      "bytes": 457908803,
+      "inode": 210636587
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_a8b19b7023f1/output/config_protein.pdb_2026_09_28__19_33_22/samples_14.pt",
+      "bytes": 497393805,
+      "inode": 210637840
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_a8b19b7023f1/output/config_protein.pdb_2026_09_28__19_33_22/samples_21.pt",
+      "bytes": 570325321,
+      "inode": 210639518
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_a8b19b7023f1/output/config_protein.pdb_2026_09_28__19_33_22/samples_15.pt",
+      "bytes": 503089663,
+      "inode": 210638259
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_a8b19b7023f1/output/config_protein.pdb_2026_09_28__19_33_22/samples_1.pt",
+      "bytes": 456936451,
+      "inode": 210636393
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_a8b19b7023f1/output/config_protein.pdb_2026_09_28__19_33_22/samples_5.pt",
+      "bytes": 462351431,
+      "inode": 210636804
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_a8b19b7023f1/output/config_protein.pdb_2026_09_28__19_33_22/samples_24.pt",
+      "bytes": 706809409,
+      "inode": 210639940
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_a8b19b7023f1/output/config_protein.pdb_2026_09_28__19_33_22/samples_13.pt",
+      "bytes": 493284609,
+      "inode": 210637636
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_a8b19b7023f1/output/config_protein.pdb_2026_09_28__19_33_22/samples_6.pt",
+      "bytes": 463313415,
+      "inode": 210636812
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_a8b19b7023f1/output/config_protein.pdb_2026_09_28__19_33_22/samples_10.pt",
+      "bytes": 473350879,
+      "inode": 210637431
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_a8b19b7023f1/output/config_protein.pdb_2026_09_28__19_33_22/samples_18.pt",
+      "bytes": 524785031,
+      "inode": 210638467
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_a8b19b7023f1/output/config_protein.pdb_2026_09_28__19_33_22/samples_4.pt",
+      "bytes": 459894723,
+      "inode": 210636607
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_a8b19b7023f1/output/config_protein.pdb_2026_09_28__19_33_22/samples_20.pt",
+      "bytes": 555159411,
+      "inode": 210639308
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_a8b19b7023f1/output/config_protein.pdb_2026_09_28__19_33_22/samples_16.pt",
+      "bytes": 505587493,
+      "inode": 210638261
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_a8b19b7023f1/output/config_protein.pdb_2026_09_28__19_33_22/samples_9.pt",
+      "bytes": 469295695,
+      "inode": 210637224
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_a8b19b7023f1/output/config_protein.pdb_2026_09_28__19_33_22/samples_8.pt",
+      "bytes": 466797195,
+      "inode": 210637020
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_a8b19b7023f1/output/config_protein.pdb_2026_09_28__19_33_22/samples_17.pt",
+      "bytes": 514397283,
+      "inode": 210638262
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_a8b19b7023f1/output/config_protein.pdb_2026_09_28__19_33_22/samples_19.pt",
+      "bytes": 533651525,
+      "inode": 210638887
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_a8b19b7023f1/output/config_protein.pdb_2026_09_28__19_33_22/samples_11.pt",
+      "bytes": 478975441,
+      "inode": 210637433
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_db0d3a3b0adb/output/config_protein.pdb_2026_09_28__19_20_25/samples_3.pt",
+      "bytes": 458899523,
+      "inode": 210520661
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_db0d3a3b0adb/output/config_protein.pdb_2026_09_28__19_20_25/samples_22.pt",
+      "bytes": 562306021,
+      "inode": 210524992
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_db0d3a3b0adb/output/config_protein.pdb_2026_09_28__19_20_25/samples_23.pt",
+      "bytes": 622096355,
+      "inode": 210524996
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_db0d3a3b0adb/output/config_protein.pdb_2026_09_28__19_20_25/samples_12.pt",
+      "bytes": 478371371,
+      "inode": 210524114
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_db0d3a3b0adb/output/config_protein.pdb_2026_09_28__19_20_25/samples_7.pt",
+      "bytes": 465849739,
+      "inode": 210521969
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_db0d3a3b0adb/output/config_protein.pdb_2026_09_28__19_20_25/samples_2.pt",
+      "bytes": 457909571,
+      "inode": 210520025
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_db0d3a3b0adb/output/config_protein.pdb_2026_09_28__19_20_25/samples_14.pt",
+      "bytes": 481812433,
+      "inode": 210524590
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_db0d3a3b0adb/output/config_protein.pdb_2026_09_28__19_20_25/samples_21.pt",
+      "bytes": 520076681,
+      "inode": 210524994
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_db0d3a3b0adb/output/config_protein.pdb_2026_09_28__19_20_25/samples_15.pt",
+      "bytes": 487523587,
+      "inode": 210524982
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_db0d3a3b0adb/output/config_protein.pdb_2026_09_28__19_20_25/samples_1.pt",
+      "bytes": 456936899,
+      "inode": 210519387
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_db0d3a3b0adb/output/config_protein.pdb_2026_09_28__19_20_25/samples_5.pt",
+      "bytes": 460822595,
+      "inode": 210521540
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_db0d3a3b0adb/output/config_protein.pdb_2026_09_28__19_20_25/samples_24.pt",
+      "bytes": 723418237,
+      "inode": 210524999
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_db0d3a3b0adb/output/config_protein.pdb_2026_09_28__19_20_25/samples_13.pt",
+      "bytes": 479281579,
+      "inode": 210524349
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_db0d3a3b0adb/output/config_protein.pdb_2026_09_28__19_20_25/samples_6.pt",
+      "bytes": 464864139,
+      "inode": 210521749
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_db0d3a3b0adb/output/config_protein.pdb_2026_09_28__19_20_25/samples_10.pt",
+      "bytes": 473355103,
+      "inode": 210523676
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_db0d3a3b0adb/output/config_protein.pdb_2026_09_28__19_20_25/samples_18.pt",
+      "bytes": 491900329,
+      "inode": 210524991
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_db0d3a3b0adb/output/config_protein.pdb_2026_09_28__19_20_25/samples_4.pt",
+      "bytes": 459905667,
+      "inode": 210521332
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_db0d3a3b0adb/output/config_protein.pdb_2026_09_28__19_20_25/samples_20.pt",
+      "bytes": 501720295,
+      "inode": 210524993
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_db0d3a3b0adb/output/config_protein.pdb_2026_09_28__19_20_25/samples_16.pt",
+      "bytes": 488436803,
+      "inode": 210523631
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_db0d3a3b0adb/output/config_protein.pdb_2026_09_28__19_20_25/samples_9.pt",
+      "bytes": 469314575,
+      "inode": 210522863
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_db0d3a3b0adb/output/config_protein.pdb_2026_09_28__19_20_25/samples_8.pt",
+      "bytes": 466800843,
+      "inode": 210522420
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_db0d3a3b0adb/output/config_protein.pdb_2026_09_28__19_20_25/samples_17.pt",
+      "bytes": 489401219,
+      "inode": 210524988
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_db0d3a3b0adb/output/config_protein.pdb_2026_09_28__19_20_25/samples_19.pt",
+      "bytes": 497612443,
+      "inode": 210524989
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_db0d3a3b0adb/output/config_protein.pdb_2026_09_28__19_20_25/samples_11.pt",
+      "bytes": 477442027,
+      "inode": 210523899
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_3ff67660db28/output/config_protein.pdb_2026_09_28__19_01_24/samples_3.pt",
+      "bytes": 458905987,
+      "inode": 210509127
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_3ff67660db28/output/config_protein.pdb_2026_09_28__19_01_24/samples_22.pt",
+      "bytes": 621493641,
+      "inode": 210511312
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_3ff67660db28/output/config_protein.pdb_2026_09_28__19_01_24/samples_23.pt",
+      "bytes": 668583063,
+      "inode": 210511330
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_3ff67660db28/output/config_protein.pdb_2026_09_28__19_01_24/samples_12.pt",
+      "bytes": 509318563,
+      "inode": 210509924
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_3ff67660db28/output/config_protein.pdb_2026_09_28__19_01_24/samples_7.pt",
+      "bytes": 473548639,
+      "inode": 210509619
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_3ff67660db28/output/config_protein.pdb_2026_09_28__19_01_24/samples_2.pt",
+      "bytes": 457910723,
+      "inode": 210508905
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_3ff67660db28/output/config_protein.pdb_2026_09_28__19_01_24/samples_14.pt",
+      "bytes": 517456955,
+      "inode": 210510174
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_3ff67660db28/output/config_protein.pdb_2026_09_28__19_01_24/samples_21.pt",
+      "bytes": 585612869,
+      "inode": 210511307
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_3ff67660db28/output/config_protein.pdb_2026_09_28__19_01_24/samples_15.pt",
+      "bytes": 523161773,
+      "inode": 210510402
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_3ff67660db28/output/config_protein.pdb_2026_09_28__19_01_24/samples_1.pt",
+      "bytes": 456937731,
+      "inode": 210508896
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_3ff67660db28/output/config_protein.pdb_2026_09_28__19_01_24/samples_5.pt",
+      "bytes": 460835587,
+      "inode": 210509597
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_3ff67660db28/output/config_protein.pdb_2026_09_28__19_01_24/samples_13.pt",
+      "bytes": 514911701,
+      "inode": 210510144
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_3ff67660db28/output/config_protein.pdb_2026_09_28__19_01_24/samples_6.pt",
+      "bytes": 471009051,
+      "inode": 210509606
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_3ff67660db28/output/config_protein.pdb_2026_09_28__19_01_24/samples_10.pt",
+      "bytes": 487210165,
+      "inode": 210509880
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_3ff67660db28/output/config_protein.pdb_2026_09_28__19_01_24/samples_18.pt",
+      "bytes": 547943041,
+      "inode": 210510876
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_3ff67660db28/output/config_protein.pdb_2026_09_28__19_01_24/samples_4.pt",
+      "bytes": 459907715,
+      "inode": 210509563
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_3ff67660db28/output/config_protein.pdb_2026_09_28__19_01_24/samples_20.pt",
+      "bytes": 565680893,
+      "inode": 210511266
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_3ff67660db28/output/config_protein.pdb_2026_09_28__19_01_24/samples_16.pt",
+      "bytes": 530341381,
+      "inode": 210510432
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_3ff67660db28/output/config_protein.pdb_2026_09_28__19_01_24/samples_9.pt",
+      "bytes": 486265275,
+      "inode": 210509865
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_3ff67660db28/output/config_protein.pdb_2026_09_28__19_01_24/samples_8.pt",
+      "bytes": 482206515,
+      "inode": 210509836
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_3ff67660db28/output/config_protein.pdb_2026_09_28__19_01_24/samples_17.pt",
+      "bytes": 535994999,
+      "inode": 210510667
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_3ff67660db28/output/config_protein.pdb_2026_09_28__19_01_24/samples_19.pt",
+      "bytes": 550503783,
+      "inode": 210511113
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_3ff67660db28/output/config_protein.pdb_2026_09_28__19_01_24/samples_11.pt",
+      "bytes": 495946675,
+      "inode": 210509905
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_0cfac59009f8/output/config_protein.pdb_2026_09_28__19_48_07/samples_3.pt",
+      "bytes": 458901251,
+      "inode": 210640702
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_0cfac59009f8/output/config_protein.pdb_2026_09_28__19_48_07/samples_22.pt",
+      "bytes": 694391069,
+      "inode": 210643945
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_0cfac59009f8/output/config_protein.pdb_2026_09_28__19_48_07/samples_12.pt",
+      "bytes": 501531685,
+      "inode": 210642694
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_0cfac59009f8/output/config_protein.pdb_2026_09_28__19_48_07/samples_7.pt",
+      "bytes": 478158955,
+      "inode": 210641542
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_0cfac59009f8/output/config_protein.pdb_2026_09_28__19_48_07/samples_2.pt",
+      "bytes": 457910339,
+      "inode": 210640494
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_0cfac59009f8/output/config_protein.pdb_2026_09_28__19_48_07/samples_14.pt",
+      "bytes": 517483067,
+      "inode": 210642900
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_0cfac59009f8/output/config_protein.pdb_2026_09_28__19_48_07/samples_21.pt",
+      "bytes": 629951853,
+      "inode": 210643740
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_0cfac59009f8/output/config_protein.pdb_2026_09_28__19_48_07/samples_15.pt",
+      "bytes": 518474683,
+      "inode": 210643320
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_0cfac59009f8/output/config_protein.pdb_2026_09_28__19_48_07/samples_1.pt",
+      "bytes": 456936707,
+      "inode": 210640492
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_0cfac59009f8/output/config_protein.pdb_2026_09_28__19_48_07/samples_5.pt",
+      "bytes": 460828291,
+      "inode": 210641126
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_0cfac59009f8/output/config_protein.pdb_2026_09_28__19_48_07/samples_13.pt",
+      "bytes": 508679997,
+      "inode": 210642695
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_0cfac59009f8/output/config_protein.pdb_2026_09_28__19_48_07/samples_6.pt",
+      "bytes": 467938451,
+      "inode": 210641127
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_0cfac59009f8/output/config_protein.pdb_2026_09_28__19_48_07/samples_10.pt",
+      "bytes": 490290049,
+      "inode": 210641955
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_0cfac59009f8/output/config_protein.pdb_2026_09_28__19_48_07/samples_18.pt",
+      "bytes": 546431771,
+      "inode": 210643735
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_0cfac59009f8/output/config_protein.pdb_2026_09_28__19_48_07/samples_4.pt",
+      "bytes": 459903619,
+      "inode": 210641122
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_0cfac59009f8/output/config_protein.pdb_2026_09_28__19_48_07/samples_20.pt",
+      "bytes": 583101023,
+      "inode": 210643737
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_0cfac59009f8/output/config_protein.pdb_2026_09_28__19_48_07/samples_16.pt",
+      "bytes": 525672403,
+      "inode": 210643524
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_0cfac59009f8/output/config_protein.pdb_2026_09_28__19_48_07/samples_9.pt",
+      "bytes": 484695607,
+      "inode": 210641769
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_0cfac59009f8/output/config_protein.pdb_2026_09_28__19_48_07/samples_8.pt",
+      "bytes": 482180083,
+      "inode": 210641545
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_0cfac59009f8/output/config_protein.pdb_2026_09_28__19_48_07/samples_17.pt",
+      "bytes": 537641373,
+      "inode": 210643530
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_0cfac59009f8/output/config_protein.pdb_2026_09_28__19_48_07/samples_19.pt",
+      "bytes": 566340067,
+      "inode": 210643736
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_1/generation/pocket_0cfac59009f8/output/config_protein.pdb_2026_09_28__19_48_07/samples_11.pt",
+      "bytes": 495924339,
+      "inode": 210642367
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_15/generation/pocket_6762437e42e8/output/config_protein.pdb_2026_09_29__03_34_58/samples_3.pt",
+      "bytes": 516852035,
+      "inode": 211061706
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_15/generation/pocket_6762437e42e8/output/config_protein.pdb_2026_09_29__03_34_58/samples_12.pt",
+      "bytes": 624886999,
+      "inode": 211062738
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_15/generation/pocket_6762437e42e8/output/config_protein.pdb_2026_09_29__03_34_58/samples_7.pt",
+      "bytes": 524253835,
+      "inode": 211062115
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_15/generation/pocket_6762437e42e8/output/config_protein.pdb_2026_09_29__03_34_58/samples_2.pt",
+      "bytes": 472899049,
+      "inode": 211061497
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_15/generation/pocket_6762437e42e8/output/config_protein.pdb_2026_09_29__03_34_58/samples_14.pt",
+      "bytes": 640775495,
+      "inode": 211062743
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_15/generation/pocket_6762437e42e8/output/config_protein.pdb_2026_09_29__03_34_58/samples_15.pt",
+      "bytes": 654103889,
+      "inode": 211062928
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_15/generation/pocket_6762437e42e8/output/config_protein.pdb_2026_09_29__03_34_58/samples_1.pt",
+      "bytes": 190534689,
+      "inode": 211061416
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_15/generation/pocket_6762437e42e8/output/config_protein.pdb_2026_09_29__03_34_58/samples_5.pt",
+      "bytes": 520541831,
+      "inode": 211061708
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_15/generation/pocket_6762437e42e8/output/config_protein.pdb_2026_09_29__03_34_58/samples_13.pt",
+      "bytes": 636310331,
+      "inode": 211062739
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_15/generation/pocket_6762437e42e8/output/config_protein.pdb_2026_09_29__03_34_58/samples_6.pt",
+      "bytes": 523274379,
+      "inode": 211061709
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_15/generation/pocket_6762437e42e8/output/config_protein.pdb_2026_09_29__03_34_58/samples_10.pt",
+      "bytes": 584520915,
+      "inode": 211062531
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_15/generation/pocket_6762437e42e8/output/config_protein.pdb_2026_09_29__03_34_58/samples_18.pt",
+      "bytes": 683417035,
+      "inode": 211063243
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_15/generation/pocket_6762437e42e8/output/config_protein.pdb_2026_09_29__03_34_58/samples_4.pt",
+      "bytes": 517882755,
+      "inode": 211061707
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_15/generation/pocket_6762437e42e8/output/config_protein.pdb_2026_09_29__03_34_58/samples_16.pt",
+      "bytes": 660303171,
+      "inode": 211062931
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_15/generation/pocket_6762437e42e8/output/config_protein.pdb_2026_09_29__03_34_58/samples_9.pt",
+      "bytes": 553945611,
+      "inode": 211062326
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_15/generation/pocket_6762437e42e8/output/config_protein.pdb_2026_09_29__03_34_58/samples_8.pt",
+      "bytes": 537348839,
+      "inode": 211062119
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_15/generation/pocket_6762437e42e8/output/config_protein.pdb_2026_09_29__03_34_58/samples_17.pt",
+      "bytes": 668346395,
+      "inode": 211063242
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_15/generation/pocket_6762437e42e8/output/config_protein.pdb_2026_09_29__03_34_58/samples_11.pt",
+      "bytes": 611672397,
+      "inode": 211062534
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_20/generation/pocket_bb9798d41a83/output/config_protein.pdb_2026_09_29__08_39_01/samples_3.pt",
+      "bytes": 518734083,
+      "inode": 211298683
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_20/generation/pocket_bb9798d41a83/output/config_protein.pdb_2026_09_29__08_39_01/samples_22.pt",
+      "bytes": 714310265,
+      "inode": 211300216
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_20/generation/pocket_bb9798d41a83/output/config_protein.pdb_2026_09_29__08_39_01/samples_23.pt",
+      "bytes": 760055023,
+      "inode": 211300422
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_20/generation/pocket_bb9798d41a83/output/config_protein.pdb_2026_09_29__08_39_01/samples_12.pt",
+      "bytes": 546759043,
+      "inode": 211299194
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_20/generation/pocket_bb9798d41a83/output/config_protein.pdb_2026_09_29__08_39_01/samples_7.pt",
+      "bytes": 524427207,
+      "inode": 211298781
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_20/generation/pocket_bb9798d41a83/output/config_protein.pdb_2026_09_29__08_39_01/samples_2.pt",
+      "bytes": 353822109,
+      "inode": 211298680
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_20/generation/pocket_bb9798d41a83/output/config_protein.pdb_2026_09_29__08_39_01/samples_14.pt",
+      "bytes": 560903693,
+      "inode": 211299399
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_20/generation/pocket_bb9798d41a83/output/config_protein.pdb_2026_09_29__08_39_01/samples_21.pt",
+      "bytes": 679423655,
+      "inode": 211300215
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_20/generation/pocket_bb9798d41a83/output/config_protein.pdb_2026_09_29__08_39_01/samples_15.pt",
+      "bytes": 576076413,
+      "inode": 211299595
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_20/generation/pocket_bb9798d41a83/output/config_protein.pdb_2026_09_29__08_39_01/samples_1.pt",
+      "bytes": 125765781,
+      "inode": 211298678
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_20/generation/pocket_bb9798d41a83/output/config_protein.pdb_2026_09_29__08_39_01/samples_5.pt",
+      "bytes": 520722755,
+      "inode": 211298772
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_20/generation/pocket_bb9798d41a83/output/config_protein.pdb_2026_09_29__08_39_01/samples_13.pt",
+      "bytes": 554690587,
+      "inode": 211299398
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_20/generation/pocket_bb9798d41a83/output/config_protein.pdb_2026_09_29__08_39_01/samples_6.pt",
+      "bytes": 521679491,
+      "inode": 211298774
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_20/generation/pocket_bb9798d41a83/output/config_protein.pdb_2026_09_29__08_39_01/samples_10.pt",
+      "bytes": 530794771,
+      "inode": 211298986
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_20/generation/pocket_bb9798d41a83/output/config_protein.pdb_2026_09_29__08_39_01/samples_18.pt",
+      "bytes": 624891545,
+      "inode": 211299806
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_20/generation/pocket_bb9798d41a83/output/config_protein.pdb_2026_09_29__08_39_01/samples_4.pt",
+      "bytes": 519787971,
+      "inode": 211298763
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_20/generation/pocket_bb9798d41a83/output/config_protein.pdb_2026_09_29__08_39_01/samples_20.pt",
+      "bytes": 653527763,
+      "inode": 211300012
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_20/generation/pocket_bb9798d41a83/output/config_protein.pdb_2026_09_29__08_39_01/samples_16.pt",
+      "bytes": 592906451,
+      "inode": 211299601
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_20/generation/pocket_bb9798d41a83/output/config_protein.pdb_2026_09_29__08_39_01/samples_9.pt",
+      "bytes": 528073483,
+      "inode": 211298784
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_20/generation/pocket_bb9798d41a83/output/config_protein.pdb_2026_09_29__08_39_01/samples_8.pt",
+      "bytes": 525369351,
+      "inode": 211298783
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_20/generation/pocket_bb9798d41a83/output/config_protein.pdb_2026_09_29__08_39_01/samples_17.pt",
+      "bytes": 613315509,
+      "inode": 211299805
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_20/generation/pocket_bb9798d41a83/output/config_protein.pdb_2026_09_29__08_39_01/samples_19.pt",
+      "bytes": 634742871,
+      "inode": 211299807
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_20/generation/pocket_bb9798d41a83/output/config_protein.pdb_2026_09_29__08_39_01/samples_11.pt",
+      "bytes": 533508217,
+      "inode": 211299190
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_6/generation/pocket_5bdec9557ff0/output/config_protein.pdb_2026_09_28__20_49_13/samples_3.pt",
+      "bytes": 481383943,
+      "inode": 210652588
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_6/generation/pocket_5bdec9557ff0/output/config_protein.pdb_2026_09_28__20_49_13/samples_12.pt",
+      "bytes": 520774489,
+      "inode": 210654096
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_6/generation/pocket_5bdec9557ff0/output/config_protein.pdb_2026_09_28__20_49_13/samples_7.pt",
+      "bytes": 493339227,
+      "inode": 210653296
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_6/generation/pocket_5bdec9557ff0/output/config_protein.pdb_2026_09_28__20_49_13/samples_2.pt",
+      "bytes": 480399239,
+      "inode": 210652386
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_6/generation/pocket_5bdec9557ff0/output/config_protein.pdb_2026_09_28__20_49_13/samples_14.pt",
+      "bytes": 529187889,
+      "inode": 210654116
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_6/generation/pocket_5bdec9557ff0/output/config_protein.pdb_2026_09_28__20_49_13/samples_15.pt",
+      "bytes": 533446013,
+      "inode": 210654117
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_6/generation/pocket_5bdec9557ff0/output/config_protein.pdb_2026_09_28__20_49_13/samples_1.pt",
+      "bytes": 275556125,
+      "inode": 210652385
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_6/generation/pocket_5bdec9557ff0/output/config_protein.pdb_2026_09_28__20_49_13/samples_5.pt",
+      "bytes": 483334087,
+      "inode": 210652997
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_6/generation/pocket_5bdec9557ff0/output/config_protein.pdb_2026_09_28__20_49_13/samples_13.pt",
+      "bytes": 521727513,
+      "inode": 210654112
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_6/generation/pocket_5bdec9557ff0/output/config_protein.pdb_2026_09_28__20_49_13/samples_6.pt",
+      "bytes": 484297863,
+      "inode": 210652999
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_6/generation/pocket_5bdec9557ff0/output/config_protein.pdb_2026_09_28__20_49_13/samples_10.pt",
+      "bytes": 515598797,
+      "inode": 210653700
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_6/generation/pocket_5bdec9557ff0/output/config_protein.pdb_2026_09_28__20_49_13/samples_18.pt",
+      "bytes": 605237497,
+      "inode": 210654663
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_6/generation/pocket_5bdec9557ff0/output/config_protein.pdb_2026_09_28__20_49_13/samples_4.pt",
+      "bytes": 482387847,
+      "inode": 210652798
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_6/generation/pocket_5bdec9557ff0/output/config_protein.pdb_2026_09_28__20_49_13/samples_20.pt",
+      "bytes": 673134697,
+      "inode": 210654665
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_6/generation/pocket_5bdec9557ff0/output/config_protein.pdb_2026_09_28__20_49_13/samples_16.pt",
+      "bytes": 552401631,
+      "inode": 210654529
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_6/generation/pocket_5bdec9557ff0/output/config_protein.pdb_2026_09_28__20_49_13/samples_9.pt",
+      "bytes": 506553079,
+      "inode": 210653298
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_6/generation/pocket_5bdec9557ff0/output/config_protein.pdb_2026_09_28__20_49_13/samples_8.pt",
+      "bytes": 497533731,
+      "inode": 210653297
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_6/generation/pocket_5bdec9557ff0/output/config_protein.pdb_2026_09_28__20_49_13/samples_17.pt",
+      "bytes": 573038439,
+      "inode": 210654530
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_6/generation/pocket_5bdec9557ff0/output/config_protein.pdb_2026_09_28__20_49_13/samples_19.pt",
+      "bytes": 629264461,
+      "inode": 210654525
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_6/generation/pocket_5bdec9557ff0/output/config_protein.pdb_2026_09_28__20_49_13/samples_11.pt",
+      "bytes": 518199731,
+      "inode": 210653701
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_6/generation/pocket_4d2524e10aad/output/config_protein.pdb_2026_09_28__21_02_08/samples_3.pt",
+      "bytes": 482978379,
+      "inode": 210764353
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_6/generation/pocket_4d2524e10aad/output/config_protein.pdb_2026_09_28__21_02_08/samples_12.pt",
+      "bytes": 509392399,
+      "inode": 210764979
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_6/generation/pocket_4d2524e10aad/output/config_protein.pdb_2026_09_28__21_02_08/samples_7.pt",
+      "bytes": 496528291,
+      "inode": 210764561
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_6/generation/pocket_4d2524e10aad/output/config_protein.pdb_2026_09_28__21_02_08/samples_2.pt",
+      "bytes": 481994955,
+      "inode": 210764349
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_6/generation/pocket_4d2524e10aad/output/config_protein.pdb_2026_09_28__21_02_08/samples_1.pt",
+      "bytes": 270777847,
+      "inode": 210764139
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_6/generation/pocket_4d2524e10aad/output/config_protein.pdb_2026_09_28__21_02_08/samples_5.pt",
+      "bytes": 484932363,
+      "inode": 210764356
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_6/generation/pocket_4d2524e10aad/output/config_protein.pdb_2026_09_28__21_02_08/samples_6.pt",
+      "bytes": 487490383,
+      "inode": 210764560
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_6/generation/pocket_4d2524e10aad/output/config_protein.pdb_2026_09_28__21_02_08/samples_10.pt",
+      "bytes": 505851945,
+      "inode": 210764769
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_6/generation/pocket_4d2524e10aad/output/config_protein.pdb_2026_09_28__21_02_08/samples_4.pt",
+      "bytes": 483988043,
+      "inode": 210764354
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_6/generation/pocket_4d2524e10aad/output/config_protein.pdb_2026_09_28__21_02_08/samples_9.pt",
+      "bytes": 504899315,
+      "inode": 210764564
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_6/generation/pocket_4d2524e10aad/output/config_protein.pdb_2026_09_28__21_02_08/samples_8.pt",
+      "bytes": 500730539,
+      "inode": 210764562
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_6/generation/pocket_4d2524e10aad/output/config_protein.pdb_2026_09_28__21_02_08/samples_11.pt",
+      "bytes": 508443727,
+      "inode": 210764563
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_6/generation/pocket_a40d71e776e5/output/config_protein.pdb_2026_09_29__13_07_17/samples_3.pt",
+      "bytes": 519709315,
+      "inode": 211945106
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_6/generation/pocket_a40d71e776e5/output/config_protein.pdb_2026_09_29__13_07_17/samples_2.pt",
+      "bytes": 416702117,
+      "inode": 211944990
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_6/generation/pocket_a40d71e776e5/output/config_protein.pdb_2026_09_29__13_07_17/samples_1.pt",
+      "bytes": 170869513,
+      "inode": 211944592
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_6/generation/pocket_a40d71e776e5/output/config_protein.pdb_2026_09_29__13_07_17/samples_4.pt",
+      "bytes": 437690368,
+      "inode": 211945120
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_0f3a29d499e2/output/config_protein.pdb_2026_09_29__04_49_04/samples_3.pt",
+      "bytes": 523535171,
+      "inode": 211162377
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_0f3a29d499e2/output/config_protein.pdb_2026_09_29__04_49_04/samples_12.pt",
+      "bytes": 576294423,
+      "inode": 211163018
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_0f3a29d499e2/output/config_protein.pdb_2026_09_29__04_49_04/samples_7.pt",
+      "bytes": 543260839,
+      "inode": 211162598
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_0f3a29d499e2/output/config_protein.pdb_2026_09_29__04_49_04/samples_2.pt",
+      "bytes": 459865971,
+      "inode": 211162375
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_0f3a29d499e2/output/config_protein.pdb_2026_09_29__04_49_04/samples_14.pt",
+      "bytes": 603033835,
+      "inode": 211163223
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_0f3a29d499e2/output/config_protein.pdb_2026_09_29__04_49_04/samples_15.pt",
+      "bytes": 639690403,
+      "inode": 211163224
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_0f3a29d499e2/output/config_protein.pdb_2026_09_29__04_49_04/samples_1.pt",
+      "bytes": 193000609,
+      "inode": 211162371
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_0f3a29d499e2/output/config_protein.pdb_2026_09_29__04_49_04/samples_5.pt",
+      "bytes": 525514179,
+      "inode": 211162593
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_0f3a29d499e2/output/config_protein.pdb_2026_09_29__04_49_04/samples_13.pt",
+      "bytes": 587870843,
+      "inode": 211163222
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_0f3a29d499e2/output/config_protein.pdb_2026_09_29__04_49_04/samples_6.pt",
+      "bytes": 533481555,
+      "inode": 211162596
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_0f3a29d499e2/output/config_protein.pdb_2026_09_29__04_49_04/samples_10.pt",
+      "bytes": 558460033,
+      "inode": 211163012
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_0f3a29d499e2/output/config_protein.pdb_2026_09_29__04_49_04/samples_18.pt",
+      "bytes": 781912439,
+      "inode": 211163432
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_0f3a29d499e2/output/config_protein.pdb_2026_09_29__04_49_04/samples_4.pt",
+      "bytes": 524563715,
+      "inode": 211162586
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_0f3a29d499e2/output/config_protein.pdb_2026_09_29__04_49_04/samples_16.pt",
+      "bytes": 665588663,
+      "inode": 211163225
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_0f3a29d499e2/output/config_protein.pdb_2026_09_29__04_49_04/samples_9.pt",
+      "bytes": 546893483,
+      "inode": 211163008
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_0f3a29d499e2/output/config_protein.pdb_2026_09_29__04_49_04/samples_8.pt",
+      "bytes": 544191527,
+      "inode": 211162804
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_0f3a29d499e2/output/config_protein.pdb_2026_09_29__04_49_04/samples_17.pt",
+      "bytes": 736211393,
+      "inode": 211163429
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_0f3a29d499e2/output/config_protein.pdb_2026_09_29__04_49_04/samples_11.pt",
+      "bytes": 559413313,
+      "inode": 211163017
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_5f54de5f340b/output/config_protein.pdb_2026_09_29__04_10_35/samples_3.pt",
+      "bytes": 523533251,
+      "inode": 211159054
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_5f54de5f340b/output/config_protein.pdb_2026_09_29__04_10_35/samples_12.pt",
+      "bytes": 579793123,
+      "inode": 211160098
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_5f54de5f340b/output/config_protein.pdb_2026_09_29__04_10_35/samples_7.pt",
+      "bytes": 545003243,
+      "inode": 211159476
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_5f54de5f340b/output/config_protein.pdb_2026_09_29__04_10_35/samples_2.pt",
+      "bytes": 458122833,
+      "inode": 211158854
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_5f54de5f340b/output/config_protein.pdb_2026_09_29__04_10_35/samples_14.pt",
+      "bytes": 642078383,
+      "inode": 211160103
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_5f54de5f340b/output/config_protein.pdb_2026_09_29__04_10_35/samples_15.pt",
+      "bytes": 676965249,
+      "inode": 211160309
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_5f54de5f340b/output/config_protein.pdb_2026_09_29__04_10_35/samples_1.pt",
+      "bytes": 186045721,
+      "inode": 211158853
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_5f54de5f340b/output/config_protein.pdb_2026_09_29__04_10_35/samples_5.pt",
+      "bytes": 530761423,
+      "inode": 211159066
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_5f54de5f340b/output/config_protein.pdb_2026_09_29__04_10_35/samples_13.pt",
+      "bytes": 589610273,
+      "inode": 211160099
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_5f54de5f340b/output/config_protein.pdb_2026_09_29__04_10_35/samples_6.pt",
+      "bytes": 536966811,
+      "inode": 211159270
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_5f54de5f340b/output/config_protein.pdb_2026_09_29__04_10_35/samples_10.pt",
+      "bytes": 560213927,
+      "inode": 211159892
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_5f54de5f340b/output/config_protein.pdb_2026_09_29__04_10_35/samples_18.pt",
+      "bytes": 794131969,
+      "inode": 211160524
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_5f54de5f340b/output/config_protein.pdb_2026_09_29__04_10_35/samples_4.pt",
+      "bytes": 524566403,
+      "inode": 211159065
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_5f54de5f340b/output/config_protein.pdb_2026_09_29__04_10_35/samples_16.pt",
+      "bytes": 711775379,
+      "inode": 211160312
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_5f54de5f340b/output/config_protein.pdb_2026_09_29__04_10_35/samples_9.pt",
+      "bytes": 552163959,
+      "inode": 211159479
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_5f54de5f340b/output/config_protein.pdb_2026_09_29__04_10_35/samples_8.pt",
+      "bytes": 547698351,
+      "inode": 211159477
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_5f54de5f340b/output/config_protein.pdb_2026_09_29__04_10_35/samples_17.pt",
+      "bytes": 760961813,
+      "inode": 211160316
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_5f54de5f340b/output/config_protein.pdb_2026_09_29__04_10_35/samples_11.pt",
+      "bytes": 568233087,
+      "inode": 211159893
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_a1bf79c1e42b/output/config_protein.pdb_2026_09_29__04_29_23/samples_3.pt",
+      "bytes": 523532419,
+      "inode": 211161088
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_a1bf79c1e42b/output/config_protein.pdb_2026_09_29__04_29_23/samples_12.pt",
+      "bytes": 569287807,
+      "inode": 211162225
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_a1bf79c1e42b/output/config_protein.pdb_2026_09_29__04_29_23/samples_7.pt",
+      "bytes": 536228311,
+      "inode": 211161790
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_a1bf79c1e42b/output/config_protein.pdb_2026_09_29__04_29_23/samples_2.pt",
+      "bytes": 433737205,
+      "inode": 211161087
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_a1bf79c1e42b/output/config_protein.pdb_2026_09_29__04_29_23/samples_14.pt",
+      "bytes": 606690743,
+      "inode": 211162230
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_a1bf79c1e42b/output/config_protein.pdb_2026_09_29__04_29_23/samples_15.pt",
+      "bytes": 630888805,
+      "inode": 211162232
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_a1bf79c1e42b/output/config_protein.pdb_2026_09_29__04_29_23/samples_1.pt",
+      "bytes": 180829555,
+      "inode": 211160882
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_a1bf79c1e42b/output/config_protein.pdb_2026_09_29__04_29_23/samples_5.pt",
+      "bytes": 532511891,
+      "inode": 211161502
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_a1bf79c1e42b/output/config_protein.pdb_2026_09_29__04_29_23/samples_13.pt",
+      "bytes": 582643017,
+      "inode": 211162229
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_a1bf79c1e42b/output/config_protein.pdb_2026_09_29__04_29_23/samples_6.pt",
+      "bytes": 535216087,
+      "inode": 211161710
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_a1bf79c1e42b/output/config_protein.pdb_2026_09_29__04_29_23/samples_10.pt",
+      "bytes": 546147127,
+      "inode": 211162014
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_a1bf79c1e42b/output/config_protein.pdb_2026_09_29__04_29_23/samples_18.pt",
+      "bytes": 742692915,
+      "inode": 211162236
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_a1bf79c1e42b/output/config_protein.pdb_2026_09_29__04_29_23/samples_4.pt",
+      "bytes": 524560963,
+      "inode": 211161293
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_a1bf79c1e42b/output/config_protein.pdb_2026_09_29__04_29_23/samples_16.pt",
+      "bytes": 665703031,
+      "inode": 211162233
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_a1bf79c1e42b/output/config_protein.pdb_2026_09_29__04_29_23/samples_9.pt",
+      "bytes": 539868571,
+      "inode": 211162009
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_a1bf79c1e42b/output/config_protein.pdb_2026_09_29__04_29_23/samples_8.pt",
+      "bytes": 537159639,
+      "inode": 211161999
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_a1bf79c1e42b/output/config_protein.pdb_2026_09_29__04_29_23/samples_17.pt",
+      "bytes": 705948219,
+      "inode": 211162228
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_a1bf79c1e42b/output/config_protein.pdb_2026_09_29__04_29_23/samples_19.pt",
+      "bytes": 779500011,
+      "inode": 211162237
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_a1bf79c1e42b/output/config_protein.pdb_2026_09_29__04_29_23/samples_11.pt",
+      "bytes": 550637507,
+      "inode": 211162227
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_4b6e2236444d/output/config_protein.pdb_2026_09_29__03_52_16/samples_3.pt",
+      "bytes": 523534467,
+      "inode": 211063695
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_4b6e2236444d/output/config_protein.pdb_2026_09_29__03_52_16/samples_12.pt",
+      "bytes": 563904205,
+      "inode": 211064206
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_4b6e2236444d/output/config_protein.pdb_2026_09_29__03_52_16/samples_7.pt",
+      "bytes": 543223783,
+      "inode": 211063906
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_4b6e2236444d/output/config_protein.pdb_2026_09_29__03_52_16/samples_2.pt",
+      "bytes": 456381743,
+      "inode": 211063491
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_4b6e2236444d/output/config_protein.pdb_2026_09_29__03_52_16/samples_14.pt",
+      "bytes": 594202989,
+      "inode": 211064208
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_4b6e2236444d/output/config_protein.pdb_2026_09_29__03_52_16/samples_15.pt",
+      "bytes": 611271363,
+      "inode": 211064209
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_4b6e2236444d/output/config_protein.pdb_2026_09_29__03_52_16/samples_1.pt",
+      "bytes": 189523165,
+      "inode": 211063490
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_4b6e2236444d/output/config_protein.pdb_2026_09_29__03_52_16/samples_5.pt",
+      "bytes": 530761423,
+      "inode": 211063698
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_4b6e2236444d/output/config_protein.pdb_2026_09_29__03_52_16/samples_13.pt",
+      "bytes": 571932709,
+      "inode": 211064207
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_4b6e2236444d/output/config_protein.pdb_2026_09_29__03_52_16/samples_6.pt",
+      "bytes": 540475107,
+      "inode": 211063904
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_4b6e2236444d/output/config_protein.pdb_2026_09_29__03_52_16/samples_10.pt",
+      "bytes": 549619459,
+      "inode": 211064201
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_4b6e2236444d/output/config_protein.pdb_2026_09_29__03_52_16/samples_18.pt",
+      "bytes": 719547077,
+      "inode": 211064212
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_4b6e2236444d/output/config_protein.pdb_2026_09_29__03_52_16/samples_4.pt",
+      "bytes": 524559811,
+      "inode": 211063697
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_4b6e2236444d/output/config_protein.pdb_2026_09_29__03_52_16/samples_16.pt",
+      "bytes": 644298095,
+      "inode": 211064210
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_4b6e2236444d/output/config_protein.pdb_2026_09_29__03_52_16/samples_9.pt",
+      "bytes": 546874283,
+      "inode": 211064113
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_4b6e2236444d/output/config_protein.pdb_2026_09_29__03_52_16/samples_8.pt",
+      "bytes": 545929707,
+      "inode": 211064112
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_4b6e2236444d/output/config_protein.pdb_2026_09_29__03_52_16/samples_17.pt",
+      "bytes": 663101227,
+      "inode": 211064211
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_4b6e2236444d/output/config_protein.pdb_2026_09_29__03_52_16/samples_19.pt",
+      "bytes": 754573527,
+      "inode": 211064213
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_16/generation/pocket_4b6e2236444d/output/config_protein.pdb_2026_09_29__03_52_16/samples_11.pt",
+      "bytes": 554100175,
+      "inode": 211064202
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_3/generation/pocket_7240cb3cf535/output/config_protein.pdb_2026_09_28__20_33_39/samples_3.pt",
+      "bytes": 440820547,
+      "inode": 210650300
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_3/generation/pocket_7240cb3cf535/output/config_protein.pdb_2026_09_28__20_33_39/samples_12.pt",
+      "bytes": 461457169,
+      "inode": 210651134
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_3/generation/pocket_7240cb3cf535/output/config_protein.pdb_2026_09_28__20_33_39/samples_7.pt",
+      "bytes": 446249351,
+      "inode": 210650715
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_3/generation/pocket_7240cb3cf535/output/config_protein.pdb_2026_09_28__20_33_39/samples_2.pt",
+      "bytes": 439857027,
+      "inode": 210650282
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_3/generation/pocket_7240cb3cf535/output/config_protein.pdb_2026_09_28__20_33_39/samples_14.pt",
+      "bytes": 496346965,
+      "inode": 210651341
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_3/generation/pocket_7240cb3cf535/output/config_protein.pdb_2026_09_28__20_33_39/samples_15.pt",
+      "bytes": 527438541,
+      "inode": 210651546
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_3/generation/pocket_7240cb3cf535/output/config_protein.pdb_2026_09_28__20_33_39/samples_1.pt",
+      "bytes": 295528759,
+      "inode": 210650094
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_3/generation/pocket_7240cb3cf535/output/config_protein.pdb_2026_09_28__20_33_39/samples_5.pt",
+      "bytes": 442780739,
+      "inode": 210650505
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_3/generation/pocket_7240cb3cf535/output/config_protein.pdb_2026_09_28__20_33_39/samples_13.pt",
+      "bytes": 477366477,
+      "inode": 210651335
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_3/generation/pocket_7240cb3cf535/output/config_protein.pdb_2026_09_28__20_33_39/samples_6.pt",
+      "bytes": 443768515,
+      "inode": 210649857
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_3/generation/pocket_7240cb3cf535/output/config_protein.pdb_2026_09_28__20_33_39/samples_10.pt",
+      "bytes": 453548153,
+      "inode": 210650932
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_3/generation/pocket_7240cb3cf535/output/config_protein.pdb_2026_09_28__20_33_39/samples_4.pt",
+      "bytes": 441842115,
+      "inode": 210650301
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_3/generation/pocket_7240cb3cf535/output/config_protein.pdb_2026_09_28__20_33_39/samples_16.pt",
+      "bytes": 591700809,
+      "inode": 210651547
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_3/generation/pocket_7240cb3cf535/output/config_protein.pdb_2026_09_28__20_33_39/samples_9.pt",
+      "bytes": 451099407,
+      "inode": 210650929
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_3/generation/pocket_7240cb3cf535/output/config_protein.pdb_2026_09_28__20_33_39/samples_8.pt",
+      "bytes": 448652683,
+      "inode": 210650923
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_3/generation/pocket_7240cb3cf535/output/config_protein.pdb_2026_09_28__20_33_39/samples_17.pt",
+      "bytes": 665222761,
+      "inode": 210651548
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_3/generation/pocket_7240cb3cf535/output/config_protein.pdb_2026_09_28__20_33_39/samples_11.pt",
+      "bytes": 456004959,
+      "inode": 210651133
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_21/generation/pocket_d64d5586a5ed/output/config_protein.pdb_2026_09_29__10_01_53/samples_3.pt",
+      "bytes": 518734083,
+      "inode": 211308755
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_21/generation/pocket_d64d5586a5ed/output/config_protein.pdb_2026_09_29__10_01_53/samples_22.pt",
+      "bytes": 714310265,
+      "inode": 211309770
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_21/generation/pocket_d64d5586a5ed/output/config_protein.pdb_2026_09_29__10_01_53/samples_23.pt",
+      "bytes": 760054895,
+      "inode": 211309771
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_21/generation/pocket_d64d5586a5ed/output/config_protein.pdb_2026_09_29__10_01_53/samples_12.pt",
+      "bytes": 546758979,
+      "inode": 211309760
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_21/generation/pocket_d64d5586a5ed/output/config_protein.pdb_2026_09_29__10_01_53/samples_7.pt",
+      "bytes": 524427207,
+      "inode": 211309386
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_21/generation/pocket_d64d5586a5ed/output/config_protein.pdb_2026_09_29__10_01_53/samples_2.pt",
+      "bytes": 353822109,
+      "inode": 211308753
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_21/generation/pocket_d64d5586a5ed/output/config_protein.pdb_2026_09_29__10_01_53/samples_14.pt",
+      "bytes": 560903693,
+      "inode": 211309569
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_21/generation/pocket_d64d5586a5ed/output/config_protein.pdb_2026_09_29__10_01_53/samples_21.pt",
+      "bytes": 679423463,
+      "inode": 211309769
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_21/generation/pocket_d64d5586a5ed/output/config_protein.pdb_2026_09_29__10_01_53/samples_15.pt",
+      "bytes": 576076285,
+      "inode": 211309763
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_21/generation/pocket_d64d5586a5ed/output/config_protein.pdb_2026_09_29__10_01_53/samples_1.pt",
+      "bytes": 125765717,
+      "inode": 211308752
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_21/generation/pocket_d64d5586a5ed/output/config_protein.pdb_2026_09_29__10_01_53/samples_5.pt",
+      "bytes": 520722691,
+      "inode": 211309006
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_21/generation/pocket_d64d5586a5ed/output/config_protein.pdb_2026_09_29__10_01_53/samples_13.pt",
+      "bytes": 554690587,
+      "inode": 211309567
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_21/generation/pocket_d64d5586a5ed/output/config_protein.pdb_2026_09_29__10_01_53/samples_6.pt",
+      "bytes": 521679491,
+      "inode": 211309010
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_21/generation/pocket_d64d5586a5ed/output/config_protein.pdb_2026_09_29__10_01_53/samples_10.pt",
+      "bytes": 530794771,
+      "inode": 211309584
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_21/generation/pocket_d64d5586a5ed/output/config_protein.pdb_2026_09_29__10_01_53/samples_18.pt",
+      "bytes": 624891417,
+      "inode": 211309766
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_21/generation/pocket_d64d5586a5ed/output/config_protein.pdb_2026_09_29__10_01_53/samples_4.pt",
+      "bytes": 519787971,
+      "inode": 211308830
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_21/generation/pocket_d64d5586a5ed/output/config_protein.pdb_2026_09_29__10_01_53/samples_20.pt",
+      "bytes": 653527507,
+      "inode": 211309768
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_21/generation/pocket_d64d5586a5ed/output/config_protein.pdb_2026_09_29__10_01_53/samples_16.pt",
+      "bytes": 592906259,
+      "inode": 211309764
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_21/generation/pocket_d64d5586a5ed/output/config_protein.pdb_2026_09_29__10_01_53/samples_9.pt",
+      "bytes": 528073547,
+      "inode": 211309581
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_21/generation/pocket_d64d5586a5ed/output/config_protein.pdb_2026_09_29__10_01_53/samples_8.pt",
+      "bytes": 525369351,
+      "inode": 211309388
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_21/generation/pocket_d64d5586a5ed/output/config_protein.pdb_2026_09_29__10_01_53/samples_17.pt",
+      "bytes": 613315509,
+      "inode": 211309765
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_21/generation/pocket_d64d5586a5ed/output/config_protein.pdb_2026_09_29__10_01_53/samples_19.pt",
+      "bytes": 634742551,
+      "inode": 211309767
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_21/generation/pocket_d64d5586a5ed/output/config_protein.pdb_2026_09_29__10_01_53/samples_11.pt",
+      "bytes": 533508281,
+      "inode": 211309759
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_3/generation/pocket_0ed2e5929b25/output/config_protein.pdb_2026_09_29__11_53_44/samples_3.pt",
+      "bytes": 547268355,
+      "inode": 211582611
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_3/generation/pocket_0ed2e5929b25/output/config_protein.pdb_2026_09_29__11_53_44/samples_12.pt",
+      "bytes": 607719881,
+      "inode": 211583536
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_3/generation/pocket_0ed2e5929b25/output/config_protein.pdb_2026_09_29__11_53_44/samples_7.pt",
+      "bytes": 551211331,
+      "inode": 211583218
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_3/generation/pocket_0ed2e5929b25/output/config_protein.pdb_2026_09_29__11_53_44/samples_2.pt",
+      "bytes": 546300483,
+      "inode": 211582284
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_3/generation/pocket_0ed2e5929b25/output/config_protein.pdb_2026_09_29__11_53_44/samples_14.pt",
+      "bytes": 652273779,
+      "inode": 211583798
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_3/generation/pocket_0ed2e5929b25/output/config_protein.pdb_2026_09_29__11_53_44/samples_15.pt",
+      "bytes": 688616517,
+      "inode": 211584021
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_3/generation/pocket_0ed2e5929b25/output/config_protein.pdb_2026_09_29__11_53_44/samples_1.pt",
+      "bytes": 201787361,
+      "inode": 211582397
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_3/generation/pocket_0ed2e5929b25/output/config_protein.pdb_2026_09_29__11_53_44/samples_5.pt",
+      "bytes": 549232899,
+      "inode": 211582871
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_3/generation/pocket_0ed2e5929b25/output/config_protein.pdb_2026_09_29__11_53_44/samples_13.pt",
+      "bytes": 623464249,
+      "inode": 211583792
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_3/generation/pocket_0ed2e5929b25/output/config_protein.pdb_2026_09_29__11_53_44/samples_6.pt",
+      "bytes": 550230851,
+      "inode": 211583125
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_3/generation/pocket_0ed2e5929b25/output/config_protein.pdb_2026_09_29__11_53_44/samples_10.pt",
+      "bytes": 559590419,
+      "inode": 211583497
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_3/generation/pocket_0ed2e5929b25/output/config_protein.pdb_2026_09_29__11_53_44/samples_18.pt",
+      "bytes": 756745655,
+      "inode": 211584656
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_3/generation/pocket_0ed2e5929b25/output/config_protein.pdb_2026_09_29__11_53_44/samples_4.pt",
+      "bytes": 548301635,
+      "inode": 211582648
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_3/generation/pocket_0ed2e5929b25/output/config_protein.pdb_2026_09_29__11_53_44/samples_20.pt",
+      "bytes": 796156079,
+      "inode": 211584723
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_3/generation/pocket_0ed2e5929b25/output/config_protein.pdb_2026_09_29__11_53_44/samples_16.pt",
+      "bytes": 715620889,
+      "inode": 211584249
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_3/generation/pocket_0ed2e5929b25/output/config_protein.pdb_2026_09_29__11_53_44/samples_9.pt",
+      "bytes": 554963399,
+      "inode": 211583458
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_3/generation/pocket_0ed2e5929b25/output/config_protein.pdb_2026_09_29__11_53_44/samples_8.pt",
+      "bytes": 552152643,
+      "inode": 211583268
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_3/generation/pocket_0ed2e5929b25/output/config_protein.pdb_2026_09_29__11_53_44/samples_17.pt",
+      "bytes": 733379375,
+      "inode": 211584528
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_3/generation/pocket_0ed2e5929b25/output/config_protein.pdb_2026_09_29__11_53_44/samples_19.pt",
+      "bytes": 778298585,
+      "inode": 211584712
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_3/generation/pocket_0ed2e5929b25/output/config_protein.pdb_2026_09_29__11_53_44/samples_11.pt",
+      "bytes": 590108659,
+      "inode": 211583504
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_3/generation/pocket_f81b33f1ec36/output/config_protein.pdb_2026_09_29__12_09_04/samples_3.pt",
+      "bytes": 547267907,
+      "inode": 211585126
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_3/generation/pocket_f81b33f1ec36/output/config_protein.pdb_2026_09_29__12_09_04/samples_12.pt",
+      "bytes": 581874293,
+      "inode": 211586157
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_3/generation/pocket_f81b33f1ec36/output/config_protein.pdb_2026_09_29__12_09_04/samples_7.pt",
+      "bytes": 551206211,
+      "inode": 211585915
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_3/generation/pocket_f81b33f1ec36/output/config_protein.pdb_2026_09_29__12_09_04/samples_2.pt",
+      "bytes": 546298371,
+      "inode": 211585085
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_3/generation/pocket_f81b33f1ec36/output/config_protein.pdb_2026_09_29__12_09_04/samples_14.pt",
+      "bytes": 613392149,
+      "inode": 211586168
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_3/generation/pocket_f81b33f1ec36/output/config_protein.pdb_2026_09_29__12_09_04/samples_15.pt",
+      "bytes": 621845229,
+      "inode": 211586180
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_3/generation/pocket_f81b33f1ec36/output/config_protein.pdb_2026_09_29__12_09_04/samples_1.pt",
+      "bytes": 189062515,
+      "inode": 211585082
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_3/generation/pocket_f81b33f1ec36/output/config_protein.pdb_2026_09_29__12_09_04/samples_5.pt",
+      "bytes": 549227331,
+      "inode": 211585659
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_3/generation/pocket_f81b33f1ec36/output/config_protein.pdb_2026_09_29__12_09_04/samples_13.pt",
+      "bytes": 601305329,
+      "inode": 211586166
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_3/generation/pocket_f81b33f1ec36/output/config_protein.pdb_2026_09_29__12_09_04/samples_6.pt",
+      "bytes": 550219971,
+      "inode": 211585685
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_3/generation/pocket_f81b33f1ec36/output/config_protein.pdb_2026_09_29__12_09_04/samples_10.pt",
+      "bytes": 555903687,
+      "inode": 211586121
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_3/generation/pocket_f81b33f1ec36/output/config_protein.pdb_2026_09_29__12_09_04/samples_18.pt",
+      "bytes": 688130681,
+      "inode": 211586236
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_3/generation/pocket_f81b33f1ec36/output/config_protein.pdb_2026_09_29__12_09_04/samples_4.pt",
+      "bytes": 548301955,
+      "inode": 211585585
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_3/generation/pocket_f81b33f1ec36/output/config_protein.pdb_2026_09_29__12_09_04/samples_16.pt",
+      "bytes": 639530883,
+      "inode": 211586208
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_3/generation/pocket_f81b33f1ec36/output/config_protein.pdb_2026_09_29__12_09_04/samples_9.pt",
+      "bytes": 554944903,
+      "inode": 211585996
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_3/generation/pocket_f81b33f1ec36/output/config_protein.pdb_2026_09_29__12_09_04/samples_8.pt",
+      "bytes": 553983943,
+      "inode": 211585965
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_3/generation/pocket_f81b33f1ec36/output/config_protein.pdb_2026_09_29__12_09_04/samples_17.pt",
+      "bytes": 655438259,
+      "inode": 211586219
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_3/generation/pocket_f81b33f1ec36/output/config_protein.pdb_2026_09_29__12_09_04/samples_19.pt",
+      "bytes": 698455223,
+      "inode": 211586252
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_3/generation/pocket_f81b33f1ec36/output/config_protein.pdb_2026_09_29__12_09_04/samples_11.pt",
+      "bytes": 564254559,
+      "inode": 211586140
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_c899ddc07c00/output/config_protein.pdb_2026_09_29__05_40_54/samples_3.pt",
+      "bytes": 503517059,
+      "inode": 211167093
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_c899ddc07c00/output/config_protein.pdb_2026_09_29__05_40_54/samples_12.pt",
+      "bytes": 566724513,
+      "inode": 211167717
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_c899ddc07c00/output/config_protein.pdb_2026_09_29__05_40_54/samples_7.pt",
+      "bytes": 507471363,
+      "inode": 211167306
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_c899ddc07c00/output/config_protein.pdb_2026_09_29__05_40_54/samples_2.pt",
+      "bytes": 274745579,
+      "inode": 211167088
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_c899ddc07c00/output/config_protein.pdb_2026_09_29__05_40_54/samples_14.pt",
+      "bytes": 606174309,
+      "inode": 211167721
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_c899ddc07c00/output/config_protein.pdb_2026_09_29__05_40_54/samples_21.pt",
+      "bytes": 731789987,
+      "inode": 211168136
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_c899ddc07c00/output/config_protein.pdb_2026_09_29__05_40_54/samples_15.pt",
+      "bytes": 627787501,
+      "inode": 211167722
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_c899ddc07c00/output/config_protein.pdb_2026_09_29__05_40_54/samples_1.pt",
+      "bytes": 103671391,
+      "inode": 211166885
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_c899ddc07c00/output/config_protein.pdb_2026_09_29__05_40_54/samples_5.pt",
+      "bytes": 505509123,
+      "inode": 211167099
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_c899ddc07c00/output/config_protein.pdb_2026_09_29__05_40_54/samples_13.pt",
+      "bytes": 591556789,
+      "inode": 211167720
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_c899ddc07c00/output/config_protein.pdb_2026_09_29__05_40_54/samples_6.pt",
+      "bytes": 506472963,
+      "inode": 211167304
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_c899ddc07c00/output/config_protein.pdb_2026_09_29__05_40_54/samples_10.pt",
+      "bytes": 523918161,
+      "inode": 211167513
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_c899ddc07c00/output/config_protein.pdb_2026_09_29__05_40_54/samples_18.pt",
+      "bytes": 677009711,
+      "inode": 211167725
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_c899ddc07c00/output/config_protein.pdb_2026_09_29__05_40_54/samples_4.pt",
+      "bytes": 504577155,
+      "inode": 211167094
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_c899ddc07c00/output/config_protein.pdb_2026_09_29__05_40_54/samples_20.pt",
+      "bytes": 701419037,
+      "inode": 211167931
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_c899ddc07c00/output/config_protein.pdb_2026_09_29__05_40_54/samples_16.pt",
+      "bytes": 649315829,
+      "inode": 211167723
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_c899ddc07c00/output/config_protein.pdb_2026_09_29__05_40_54/samples_9.pt",
+      "bytes": 511074823,
+      "inode": 211167512
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_c899ddc07c00/output/config_protein.pdb_2026_09_29__05_40_54/samples_8.pt",
+      "bytes": 508413315,
+      "inode": 211167511
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_c899ddc07c00/output/config_protein.pdb_2026_09_29__05_40_54/samples_17.pt",
+      "bytes": 670892605,
+      "inode": 211167724
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_c899ddc07c00/output/config_protein.pdb_2026_09_29__05_40_54/samples_19.pt",
+      "bytes": 696954449,
+      "inode": 211167930
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_c899ddc07c00/output/config_protein.pdb_2026_09_29__05_40_54/samples_11.pt",
+      "bytes": 540189607,
+      "inode": 211167515
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_eba7605b8109/output/config_protein.pdb_2026_09_29__06_07_01/samples_3.pt",
+      "bytes": 503517379,
+      "inode": 211169539
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_eba7605b8109/output/config_protein.pdb_2026_09_29__06_07_01/samples_22.pt",
+      "bytes": 679790153,
+      "inode": 211170790
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_eba7605b8109/output/config_protein.pdb_2026_09_29__06_07_01/samples_23.pt",
+      "bytes": 726014437,
+      "inode": 211170976
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_eba7605b8109/output/config_protein.pdb_2026_09_29__06_07_01/samples_12.pt",
+      "bytes": 541186919,
+      "inode": 211170159
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_eba7605b8109/output/config_protein.pdb_2026_09_29__06_07_01/samples_7.pt",
+      "bytes": 507466243,
+      "inode": 211169745
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_eba7605b8109/output/config_protein.pdb_2026_09_29__06_07_01/samples_2.pt",
+      "bytes": 269719685,
+      "inode": 211169538
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_eba7605b8109/output/config_protein.pdb_2026_09_29__06_07_01/samples_14.pt",
+      "bytes": 580662059,
+      "inode": 211170365
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_eba7605b8109/output/config_protein.pdb_2026_09_29__06_07_01/samples_21.pt",
+      "bytes": 664949017,
+      "inode": 211170788
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_eba7605b8109/output/config_protein.pdb_2026_09_29__06_07_01/samples_15.pt",
+      "bytes": 592008527,
+      "inode": 211170366
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_eba7605b8109/output/config_protein.pdb_2026_09_29__06_07_01/samples_1.pt",
+      "bytes": 100327387,
+      "inode": 211169537
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_eba7605b8109/output/config_protein.pdb_2026_09_29__06_07_01/samples_5.pt",
+      "bytes": 505506691,
+      "inode": 211169541
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_eba7605b8109/output/config_protein.pdb_2026_09_29__06_07_01/samples_24.pt",
+      "bytes": 756553515,
+      "inode": 211171202
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_eba7605b8109/output/config_protein.pdb_2026_09_29__06_07_01/samples_13.pt",
+      "bytes": 545531187,
+      "inode": 211170364
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_eba7605b8109/output/config_protein.pdb_2026_09_29__06_07_01/samples_6.pt",
+      "bytes": 506458883,
+      "inode": 211169542
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_eba7605b8109/output/config_protein.pdb_2026_09_29__06_07_01/samples_10.pt",
+      "bytes": 517136057,
+      "inode": 211170155
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_eba7605b8109/output/config_protein.pdb_2026_09_29__06_07_01/samples_18.pt",
+      "bytes": 620569929,
+      "inode": 211170781
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_eba7605b8109/output/config_protein.pdb_2026_09_29__06_07_01/samples_4.pt",
+      "bytes": 504579523,
+      "inode": 211169540
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_eba7605b8109/output/config_protein.pdb_2026_09_29__06_07_01/samples_20.pt",
+      "bytes": 641504299,
+      "inode": 211170786
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_eba7605b8109/output/config_protein.pdb_2026_09_29__06_07_01/samples_16.pt",
+      "bytes": 610094859,
+      "inode": 211170367
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_eba7605b8109/output/config_protein.pdb_2026_09_29__06_07_01/samples_9.pt",
+      "bytes": 512753419,
+      "inode": 211169951
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_eba7605b8109/output/config_protein.pdb_2026_09_29__06_07_01/samples_8.pt",
+      "bytes": 510093319,
+      "inode": 211169950
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_eba7605b8109/output/config_protein.pdb_2026_09_29__06_07_01/samples_17.pt",
+      "bytes": 617917859,
+      "inode": 211170776
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_eba7605b8109/output/config_protein.pdb_2026_09_29__06_07_01/samples_19.pt",
+      "bytes": 637050591,
+      "inode": 211170784
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_eba7605b8109/output/config_protein.pdb_2026_09_29__06_07_01/samples_11.pt",
+      "bytes": 524882897,
+      "inode": 211170158
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_6f917994325f/output/config_protein.pdb_2026_09_29__05_53_34/samples_3.pt",
+      "bytes": 503513731,
+      "inode": 211168277
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_6f917994325f/output/config_protein.pdb_2026_09_29__05_53_34/samples_12.pt",
+      "bytes": 580303505,
+      "inode": 211168696
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_6f917994325f/output/config_protein.pdb_2026_09_29__05_53_34/samples_7.pt",
+      "bytes": 507470403,
+      "inode": 211168485
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_6f917994325f/output/config_protein.pdb_2026_09_29__05_53_34/samples_2.pt",
+      "bytes": 246267177,
+      "inode": 211168273
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_6f917994325f/output/config_protein.pdb_2026_09_29__05_53_34/samples_14.pt",
+      "bytes": 645409935,
+      "inode": 211168702
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_6f917994325f/output/config_protein.pdb_2026_09_29__05_53_34/samples_15.pt",
+      "bytes": 668741565,
+      "inode": 211168908
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_6f917994325f/output/config_protein.pdb_2026_09_29__05_53_34/samples_1.pt",
+      "bytes": 96983255,
+      "inode": 211168272
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_6f917994325f/output/config_protein.pdb_2026_09_29__05_53_34/samples_5.pt",
+      "bytes": 505505667,
+      "inode": 211168279
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_6f917994325f/output/config_protein.pdb_2026_09_29__05_53_34/samples_13.pt",
+      "bytes": 613676771,
+      "inode": 211168698
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_6f917994325f/output/config_protein.pdb_2026_09_29__05_53_34/samples_6.pt",
+      "bytes": 506466115,
+      "inode": 211168280
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_6f917994325f/output/config_protein.pdb_2026_09_29__05_53_34/samples_10.pt",
+      "bytes": 532413135,
+      "inode": 211168693
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_6f917994325f/output/config_protein.pdb_2026_09_29__05_53_34/samples_18.pt",
+      "bytes": 699049309,
+      "inode": 211169123
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_6f917994325f/output/config_protein.pdb_2026_09_29__05_53_34/samples_4.pt",
+      "bytes": 504570371,
+      "inode": 211168278
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_6f917994325f/output/config_protein.pdb_2026_09_29__05_53_34/samples_20.pt",
+      "bytes": 726929047,
+      "inode": 211169128
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_6f917994325f/output/config_protein.pdb_2026_09_29__05_53_34/samples_16.pt",
+      "bytes": 683392109,
+      "inode": 211169119
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_6f917994325f/output/config_protein.pdb_2026_09_29__05_53_34/samples_9.pt",
+      "bytes": 512754699,
+      "inode": 211168487
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_6f917994325f/output/config_protein.pdb_2026_09_29__05_53_34/samples_8.pt",
+      "bytes": 508406211,
+      "inode": 211168486
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_6f917994325f/output/config_protein.pdb_2026_09_29__05_53_34/samples_17.pt",
+      "bytes": 691200901,
+      "inode": 211169121
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_6f917994325f/output/config_protein.pdb_2026_09_29__05_53_34/samples_19.pt",
+      "bytes": 710350337,
+      "inode": 211169125
+    },
+    {
+      "path": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ACE_17/generation/pocket_6f917994325f/output/config_protein.pdb_2026_09_29__05_53_34/samples_11.pt",
+      "bytes": 558891785,
+      "inode": 211168694
+    }
+  ],
+  "count": 733,
+  "bytes": 405420937380,
+  "free_before": 52062638080,
+  "status": "complete",
+  "deleted": 733,
+  "free_after": 457303838720
+}

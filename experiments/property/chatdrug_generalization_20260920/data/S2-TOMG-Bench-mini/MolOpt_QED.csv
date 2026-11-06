@@ -1,0 +1,501 @@
+index,Instruction,molecule,QED
+42956,Please optimize the molecule N#Cc1ccc(-c2noc(/C=C/c3ccccc3OC(F)(F)F)n2)nc1 to have a lower QED value.,N#Cc1ccc(-c2noc(/C=C/c3ccccc3OC(F)(F)F)n2)nc1,0.6988060821007962
+209835,Modify the molecule COC(=O)ON1C(=O)c2ccccc2N[C@H]1c1ccccc1[N+](=O)[O-] to have a higher QED value.,COC(=O)ON1C(=O)c2ccccc2N[C@H]1c1ccccc1[N+](=O)[O-],0.5179605707715023
+70467,Optimize the molecule C[C@H]1[C@H](c2ccccc2)CC[NH+]1CC(C)(C)S(C)(=O)=O to have a higher QED value.,C[C@H]1[C@H](c2ccccc2)CC[NH+]1CC(C)(C)S(C)(=O)=O,0.9086158652684
+237510,Please modify the molecule CCNC(=O)[C@@]1(Cc2cc(-c3ccccc3)no2)CCCN(C(=O)Cc2cccc(C)c2)C1 to decrease its QED value.,CCNC(=O)[C@@]1(Cc2cc(-c3ccccc3)no2)CCCN(C(=O)Cc2cccc(C)c2)C1,0.592008139447021
+237511,Optimize the molecule COc1ccc(CC[NH2+][C@H]2C[C@H](C)[NH+](C)C[C@@H]2C)cc1OC to have a lower QED value.,COc1ccc(CC[NH2+][C@H]2C[C@H](C)[NH+](C)C[C@@H]2C)cc1OC,0.783631443988572
+145699,Modify the molecule Cc1ccc(NCc2noc(C3CC3)n2)cc1C(=O)N(C)C to have a lower QED value.,Cc1ccc(NCc2noc(C3CC3)n2)cc1C(=O)N(C)C,0.9185771750724115
+120958,Modify the molecule O=C(N[C@H](Cc1c[nH]c2ccccc12)C(=O)NCc1nnc2ccccn12)c1cccs1 to have a lower QED value.,O=C(N[C@H](Cc1c[nH]c2ccccc12)C(=O)NCc1nnc2ccccn12)c1cccs1,0.3590021959285272
+46339,Please modify the molecule CC(C)(CNC(=O)Nc1cnn(-c2ccccc2F)c1)N1CCOCC1 to increase its QED value.,CC(C)(CNC(=O)Nc1cnn(-c2ccccc2F)c1)N1CCOCC1,0.8568595082203737
+127493,Please modify the molecule O=C(Cn1ccc(=O)c2cccc(F)c21)Nc1ccccc1F to decrease its QED value.,O=C(Cn1ccc(=O)c2cccc(F)c21)Nc1ccccc1F,0.8079454005045634
+210525,Modify the molecule COc1ccc(S(=O)(=O)N2CCC[C@H]2C(=O)Nc2nnc(Cc3ccc(C)c(C)c3)o2)cc1 to have a higher QED value.,COc1ccc(S(=O)(=O)N2CCC[C@H]2C(=O)Nc2nnc(Cc3ccc(C)c(C)c3)o2)cc1,0.5642443749436569
+160694,Please optimize the molecule O=C(Cc1ccc(F)cc1)Nc1nc(-c2ccc(F)cc2)cs1 to have a higher QED value.,O=C(Cc1ccc(F)cc1)Nc1nc(-c2ccc(F)cc2)cs1,0.7760810347446965
+138263,Please optimize the molecule COc1ccc(CNC(=O)Nc2ccc(F)cc2OCC(F)F)cn1 to have a higher QED value.,COc1ccc(CNC(=O)Nc2ccc(F)cc2OCC(F)F)cn1,0.8000832351534057
+110618,Optimize the molecule CCc1noc(CN(C)CCc2cccs2)n1 to have a higher QED value.,CCc1noc(CN(C)CCc2cccs2)n1,0.790166448106738
+23814,Please optimize the molecule CC[C@@H](CO)NC(=O)C(=O)Nc1c(Br)c(C)nn1-c1cc(C)cc(C)c1 to have a higher QED value.,CC[C@@H](CO)NC(=O)C(=O)Nc1c(Br)c(C)nn1-c1cc(C)cc(C)c1,0.6438984690453813
+28667,Please modify the molecule O=S(=O)([N-]c1cn[nH]c1-c1ccccn1)c1ccc2ccccc2c1 to decrease its QED value.,O=S(=O)([N-]c1cn[nH]c1-c1ccccn1)c1ccc2ccccc2c1,0.6023687039714253
+15903,Modify the molecule C[C@H]1CO[C@@H](c2ccccc2)[C@H](C)N1Cc1ccn(C)c1 to have a lower QED value.,C[C@H]1CO[C@@H](c2ccccc2)[C@H](C)N1Cc1ccn(C)c1,0.8594858595543812
+56303,Modify the molecule COc1ccccc1-n1nc(C(=O)N2CCCC[C@H]2C)c2ccccc2c1=O to have a higher QED value.,COc1ccccc1-n1nc(C(=O)N2CCCC[C@H]2C)c2ccccc2c1=O,0.7016591599691048
+145200,Optimize the molecule COc1ccc2c(CC(=O)Nc3ccc(N4CC[NH+](Cc5ccccc5)CC4)cc3)coc2c1 to have a lower QED value.,COc1ccc2c(CC(=O)Nc3ccc(N4CC[NH+](Cc5ccccc5)CC4)cc3)coc2c1,0.4468105213924717
+65340,Modify the molecule CCOc1ccc(CCC(=O)N2CCN([C@@H]3CCS(=O)(=O)C3)CC2)cc1 to increase its QED value.,CCOc1ccc(CCC(=O)N2CCN([C@@H]3CCS(=O)(=O)C3)CC2)cc1,0.7452815560990087
+36608,Optimize the molecule C[C@@H](CNC(=O)N[C@@H]1CCN(c2cccc(Cl)c2)C1=O)[NH+](C)C1CC1 to have a higher QED value.,C[C@@H](CNC(=O)N[C@@H]1CCN(c2cccc(Cl)c2)C1=O)[NH+](C)C1CC1,0.6981584765689589
+163234,Optimize the molecule O=C(Cc1csc(NC(=O)Nc2ccccc2)n1)Nc1cccc(Br)c1 to have a higher QED value.,O=C(Cc1csc(NC(=O)Nc2ccccc2)n1)Nc1cccc(Br)c1,0.5463150344948328
+137586,Please modify the molecule Cc1ccc(C)c(OCC(=O)N/N=C/c2ccsc2)c1 to increase its QED value.,Cc1ccc(C)c(OCC(=O)N/N=C/c2ccsc2)c1,0.6791312223566626
+5142,Modify the molecule C[C@H](NC(=O)N[C@@H]1C[C@H]1C)c1ccc(S(=O)(=O)N(C)C)cc1 to decrease its QED value.,C[C@H](NC(=O)N[C@@H]1C[C@H]1C)c1ccc(S(=O)(=O)N(C)C)cc1,0.8647909760954854
+133553,Please optimize the molecule COC(=O)c1ccccc1NC(=O)N1CCC[C@H]1c1nc2ccccc2s1 to have a lower QED value.,COC(=O)c1ccccc1NC(=O)N1CCC[C@H]1c1nc2ccccc2s1,0.6804692853956466
+112357,Optimize the molecule Nc1c(Nc2cccc(Cl)c2)ncnc1N1CCCCCC1 to have a lower QED value.,Nc1c(Nc2cccc(Cl)c2)ncnc1N1CCCCCC1,0.9000297659692988
+219774,Modify the molecule CSc1ccc(NC(=O)C(=O)N[C@@H]2c3ccccc3C[C@H]2C)cc1F to increase its QED value.,CSc1ccc(NC(=O)C(=O)N[C@@H]2c3ccccc3C[C@H]2C)cc1F,0.6517721821053646
+175057,Modify the molecule Cc1noc(C)c1CCC(=O)N1CCC[C@@H](c2ncc3c(n2)CC[NH+](C)C3)C1 to have a higher QED value.,Cc1noc(C)c1CCC(=O)N1CCC[C@@H](c2ncc3c(n2)CC[NH+](C)C3)C1,0.8508117085984573
+134534,Please modify the molecule CC[C@@H]1CCCCCN1C(=O)Nc1cnn(CC(F)F)c1 to increase its QED value.,CC[C@@H]1CCCCCN1C(=O)Nc1cnn(CC(F)F)c1,0.926898883726485
+109233,Please modify the molecule C[NH+](C)C1([C@H](N)Cc2ccc(F)cc2Cl)CCCC1 to decrease its QED value.,C[NH+](C)C1([C@H](N)Cc2ccc(F)cc2Cl)CCCC1,0.8683535619969667
+124453,Please optimize the molecule C[C@@]1(Cc2ccccc2)CC[NH2+]C[C@@H]1c1ccc(F)cc1 to have a higher QED value.,C[C@@]1(Cc2ccccc2)CC[NH2+]C[C@@H]1c1ccc(F)cc1,0.8915993580109517
+122268,Modify the molecule COC(=O)c1cc(S(=O)(=O)N[C@H](C)c2nc3ccccc3[nH]2)oc1C to decrease its QED value.,COC(=O)c1cc(S(=O)(=O)N[C@H](C)c2nc3ccccc3[nH]2)oc1C,0.672320453658493
+236283,Please modify the molecule CC(C)CCOCC[NH+]1CC[C@@H](C(=O)[O-])[C@@H]1C to increase its QED value.,CC(C)CCOCC[NH+]1CC[C@@H](C(=O)[O-])[C@@H]1C,0.5892037719201372
+78965,Modify the molecule O=C(NC[C@H](O)c1ccc2ccccc2c1)[C@@H]1C[C@@H]1c1ccco1 to have a higher QED value.,O=C(NC[C@H](O)c1ccc2ccccc2c1)[C@@H]1C[C@@H]1c1ccco1,0.7570247625965048
+49346,Optimize the molecule O=C(Oc1ccc2c(c1)O/C(=C\c1ccco1)C2=O)c1ccccc1Br to have a higher QED value.,O=C(Oc1ccc2c(c1)O/C(=C\c1ccco1)C2=O)c1ccccc1Br,0.3493800870387266
+6409,Please optimize the molecule Cc1cc(NC(=O)C(=O)c2ccc(C(C)(C)C)cc2)n(C)n1 to have a higher QED value.,Cc1cc(NC(=O)C(=O)c2ccc(C(C)(C)C)cc2)n(C)n1,0.69989889203855
+234385,Modify the molecule COc1ccc(-c2noc(Cn3nc(C)c4ccccc4c3=O)n2)cc1OC to have a higher QED value.,COc1ccc(-c2noc(Cn3nc(C)c4ccccc4c3=O)n2)cc1OC,0.5271209716033358
+208925,Modify the molecule O=C(NC[C@@H](c1cccs1)N1CCOCC1)C1(c2ccc(Cl)cc2)CCCC1 to have a lower QED value.,O=C(NC[C@@H](c1cccs1)N1CCOCC1)C1(c2ccc(Cl)cc2)CCCC1,0.7552916948550135
+139732,Modify the molecule Cc1ccc(F)cc1C(=O)N[C@@H](c1nc2ccccc2[nH]1)C(C)C to have a lower QED value.,Cc1ccc(F)cc1C(=O)N[C@@H](c1nc2ccccc2[nH]1)C(C)C,0.7572941838926592
+233680,Please optimize the molecule CCOC(=O)c1ccc(NC(=O)[C@H](C)NC(=O)C(C)(C)C)cc1 to have a higher QED value.,CCOC(=O)c1ccc(NC(=O)[C@H](C)NC(=O)C(C)(C)C)cc1,0.8156900658447577
+15268,Please modify the molecule C[C@@H](Cc1cccs1)[NH2+][C@H](C)[C@@H](C)C(=O)[O-] to decrease its QED value.,C[C@@H](Cc1cccs1)[NH2+][C@H](C)[C@@H](C)C(=O)[O-],0.762970230290034
+27820,Please modify the molecule CC[C@@H]1NN=C(NC(=O)c2[nH]c(C)c(C(=O)OC(C)C)c2C)S1 to decrease its QED value.,CC[C@@H]1NN=C(NC(=O)c2[nH]c(C)c(C(=O)OC(C)C)c2C)S1,0.7320640539475702
+239823,Optimize the molecule Cc1ccc2c(c1)N(C)C(=O)[C@@](C)(C(=O)N1CCc3ccccc3C1)O2 to have a lower QED value.,Cc1ccc2c(c1)N(C)C(=O)[C@@](C)(C(=O)N1CCc3ccccc3C1)O2,0.7432517398391217
+184429,Modify the molecule COC(=O)c1cccc(C(=O)Nc2ccccc2C(C)C)c1 to decrease its QED value.,COC(=O)c1cccc(C(=O)Nc2ccccc2C(C)C)c1,0.8720771922466123
+34201,Please optimize the molecule C[NH2+][C@H]1c2cc(OC)ccc2C[C@@H]1n1cc(C)cn1 to have a lower QED value.,C[NH2+][C@H]1c2cc(OC)ccc2C[C@@H]1n1cc(C)cn1,0.8996766521113876
+13408,Modify the molecule O=C(C[C@H]1NC(=O)c2ccccc2N=C1O)Nc1nnc(CCc2ccccc2)s1 to have a higher QED value.,O=C(C[C@H]1NC(=O)c2ccccc2N=C1O)Nc1nnc(CCc2ccccc2)s1,0.5655897693650862
+68545,Please optimize the molecule Cc1cc(S(C)(=O)=O)ccc1NC(=O)Cc1c(C)[nH]c2ccccc12 to have a lower QED value.,Cc1cc(S(C)(=O)=O)ccc1NC(=O)Cc1c(C)[nH]c2ccccc12,0.7521213317067416
+37992,Please modify the molecule Cc1nc(C(C)C)sc1[C@H](C)[NH2+]CCCC(=O)N1Cc2ccccc2C1 to decrease its QED value.,Cc1nc(C(C)C)sc1[C@H](C)[NH2+]CCCC(=O)N1Cc2ccccc2C1,0.7561508998961934
+202930,Optimize the molecule CC[NH+]1CCC(CCNC(=O)N2CCN(c3ccccc3OC)CC2)CC1 to have a higher QED value.,CC[NH+]1CCC(CCNC(=O)N2CCN(c3ccccc3OC)CC2)CC1,0.7863995024267006
+70124,Modify the molecule O=C(NC1CCCCC1)NC1C[C@@H]2CCC[C@H](C1)[NH2+]2 to increase its QED value.,O=C(NC1CCCCC1)NC1C[C@@H]2CCC[C@H](C1)[NH2+]2,0.6923665072660727
+201803,Please optimize the molecule CCOc1ccc(S(=O)(=O)Nc2cccc([N+](=O)[O-])c2)cc1 to have a lower QED value.,CCOc1ccc(S(=O)(=O)Nc2cccc([N+](=O)[O-])c2)cc1,0.6510386786578429
+125002,Please optimize the molecule CC[NH+](Cc1ccccc1)[C@@H](C)c1ccc(C(=O)OC)o1 to have a higher QED value.,CC[NH+](Cc1ccccc1)[C@@H](C)c1ccc(C(=O)OC)o1,0.829054175473191
+199241,Please modify the molecule Cc1cccc(C2(O)CCN(C(=O)c3nn4c(C)cc(C)nc4c3Cl)CC2)c1 to increase its QED value.,Cc1cccc(C2(O)CCN(C(=O)c3nn4c(C)cc(C)nc4c3Cl)CC2)c1,0.7174648112105498
+131914,Optimize the molecule C[C@@H]1CN(S(=O)(=O)c2ccc(C(=O)[O-])cc2)[C@H](C)CO1 to have a higher QED value.,C[C@@H]1CN(S(=O)(=O)c2ccc(C(=O)[O-])cc2)[C@H](C)CO1,0.774162880530919
+68936,Modify the molecule CC(C)CCN(C)C(=O)c1cc(N2CCCC2=O)ccc1Cl to decrease its QED value.,CC(C)CCN(C)C(=O)c1cc(N2CCCC2=O)ccc1Cl,0.8309379370359936
+101047,Please optimize the molecule CC(C)(C)Oc1ccc(C(=O)Nc2ccc(OCC(N)=O)cc2)cc1 to have a higher QED value.,CC(C)(C)Oc1ccc(C(=O)Nc2ccc(OCC(N)=O)cc2)cc1,0.8441886177641882
+76133,Optimize the molecule CNC(=O)CC1CCN(c2ccc(S(=O)(=O)NC)cn2)CC1 to have a lower QED value.,CNC(=O)CC1CCN(c2ccc(S(=O)(=O)NC)cn2)CC1,0.8141627598545024
+111764,Modify the molecule Cc1cc(NC(=O)c2ccc(C)s2)n(Cc2ccccc2)n1 to increase its QED value.,Cc1cc(NC(=O)c2ccc(C)s2)n(Cc2ccccc2)n1,0.7949949836472993
+232506,Modify the molecule [NH3+][C@@H]1C(=O)N2C(C(=O)[O-])=CCS[C@@H]12 to increase its QED value.,[NH3+][C@@H]1C(=O)N2C(C(=O)[O-])=CCS[C@@H]12,0.4612591651088388
+8927,Modify the molecule COC(=O)c1ccc(OCc2ccc(OC)c(OC)c2Br)cc1 to have a higher QED value.,COC(=O)c1ccc(OCc2ccc(OC)c(OC)c2Br)cc1,0.7122825522386683
+169111,Please optimize the molecule COc1ccc(CCNc2ncnc3c2cnn3-c2cc(Cl)ccc2C)cc1OC to have a lower QED value.,COc1ccc(CCNc2ncnc3c2cnn3-c2cc(Cl)ccc2C)cc1OC,0.4730743858252039
+154511,Modify the molecule Cc1noc(C)c1CC(=O)N1CCc2nc(NC(=O)c3ccccn3)sc2C1 to have a lower QED value.,Cc1noc(C)c1CC(=O)N1CCc2nc(NC(=O)c3ccccn3)sc2C1,0.7259093517489863
+77592,Modify the molecule C[NH+](C)[C@H]1CC[C@H](NS(=O)(=O)c2ccc(F)cc2C(F)(F)F)C1 to have a higher QED value.,C[NH+](C)[C@H]1CC[C@H](NS(=O)(=O)c2ccc(F)cc2C(F)(F)F)C1,0.7975078356044866
+85742,Please optimize the molecule Cc1cc(CN2CCN(C(=O)Nc3ccc(Cl)c(C(F)(F)F)c3)CC2)on1 to have a higher QED value.,Cc1cc(CN2CCN(C(=O)Nc3ccc(Cl)c(C(F)(F)F)c3)CC2)on1,0.8424159751121095
+139830,Modify the molecule CC[NH+](C)CC(=O)NCc1ccccc1Cn1cccn1 to decrease its QED value.,CC[NH+](C)CC(=O)NCc1ccccc1Cn1cccn1,0.7577632247510325
+135975,Please modify the molecule CC(C)(C)OC(=O)N1CCC2(CC1)C[C@H](O)CO2 to increase its QED value.,CC(C)(C)OC(=O)N1CCC2(CC1)C[C@H](O)CO2,0.7148204236668687
+47904,Optimize the molecule O=C(CNc1cccc(F)c1)Nc1ccc(SC(F)F)cc1 to have a lower QED value.,O=C(CNc1cccc(F)c1)Nc1ccc(SC(F)F)cc1,0.782164044302277
+13740,Modify the molecule Brc1cnc(C2CCCCC2)s1 to have a higher QED value.,Brc1cnc(C2CCCCC2)s1,0.7305632053256059
+159260,Optimize the molecule CCCCNC(=O)N1CCN(CCNC(=O)c2ccccc2F)CC1 to have a lower QED value.,CCCCNC(=O)N1CCN(CCNC(=O)c2ccccc2F)CC1,0.7356673381412213
+239193,Optimize the molecule O=C(Cn1ccc2occc2c1=O)C1CCOCC1 to have a higher QED value.,O=C(Cn1ccc2occc2c1=O)C1CCOCC1,0.8414038267599723
+199059,Modify the molecule CCCCN(C(=O)N[C@H](C)Cc1cc(C)cc(C)c1)[C@H]1CCS(=O)(=O)C1 to increase its QED value.,CCCCN(C(=O)N[C@H](C)Cc1cc(C)cc(C)c1)[C@H]1CCS(=O)(=O)C1,0.7896235198873729
+204054,Modify the molecule O=C(N[C@H](CO)c1ccccc1F)c1csc2c1CCCC2 to increase its QED value.,O=C(N[C@H](CO)c1ccccc1F)c1csc2c1CCCC2,0.9088234812270924
+152245,Please modify the molecule C[C@H]1CCC[C@@H](N2C(=O)[C@H]3CCCN3C(=O)[C@H]2C)[C@@H]1C to increase its QED value.,C[C@H]1CCC[C@@H](N2C(=O)[C@H]3CCCN3C(=O)[C@H]2C)[C@@H]1C,0.7361685995946262
+147186,Optimize the molecule Cc1cnc([C@H](C)NC(=O)NCCc2nc(C(C)C)no2)s1 to have a lower QED value.,Cc1cnc([C@H](C)NC(=O)NCCc2nc(C(C)C)no2)s1,0.8519603237763789
+237787,Modify the molecule CCN(c1ccc(C(=O)N(C)[C@H]2CCCC[C@@H]2S(C)(=O)=O)cc1)C(C)C to increase its QED value.,CCN(c1ccc(C(=O)N(C)[C@H]2CCCC[C@@H]2S(C)(=O)=O)cc1)C(C)C,0.7593488510858926
+69108,Modify the molecule CN1CCCc2cc(CNC(=O)C[C@@H]3CCCO3)ccc21 to have a higher QED value.,CN1CCCc2cc(CNC(=O)C[C@@H]3CCCO3)ccc21,0.923735794923589
+237437,Modify the molecule C[C@@H]1CC([NH+]2CCC[C@H](c3nnc4ccc(C(F)(F)F)cn34)C2)C[C@@H](C)O1 to have a lower QED value.,C[C@@H]1CC([NH+]2CCC[C@H](c3nnc4ccc(C(F)(F)F)cn34)C2)C[C@@H](C)O1,0.8666014206883716
+233578,Please modify the molecule CCC[NH2+][C@@H]1CCC[C@@H]([NH+](C)CC(C)C)C1 to increase its QED value.,CCC[NH2+][C@@H]1CCC[C@@H]([NH+](C)CC(C)C)C1,0.6583627257241398
+59233,Optimize the molecule N#CCCN(C(=O)CC1(O)CCCCC1)c1ccc2c(c1)OCCO2 to have a higher QED value.,N#CCCN(C(=O)CC1(O)CCCCC1)c1ccc2c(c1)OCCO2,0.887923905357749
+199770,Modify the molecule CCc1ccc(C2=CCN(C(=O)C3CCN(C(=O)C(C)(C)C)CC3)CC2)cc1 to have a higher QED value.,CCc1ccc(C2=CCN(C(=O)C3CCN(C(=O)C(C)(C)C)CC3)CC2)cc1,0.7878947367077035
+7004,Modify the molecule CN(CCOCC1CC1)C(=O)c1cnn2c(-c3ccccc3)ccnc12 to decrease its QED value.,CN(CCOCC1CC1)C(=O)c1cnn2c(-c3ccccc3)ccnc12,0.6149112812770889
+69551,Optimize the molecule Oc1ccc(-c2n[nH]cc2Oc2ccccc2)c(O)c1O to have a lower QED value.,Oc1ccc(-c2n[nH]cc2Oc2ccccc2)c(O)c1O,0.5541131817630056
+200045,Please optimize the molecule CCC[NH+]1CCN(c2ccccc2CN2CCN(CC(F)F)CC2)CC1 to have a higher QED value.,CCC[NH+]1CCN(c2ccccc2CN2CCN(CC(F)F)CC2)CC1,0.7787295937746176
+223910,Modify the molecule COc1ccc(-c2nc(SCC(C)C)nc([O-])c2C#N)cc1 to have a higher QED value.,COc1ccc(-c2nc(SCC(C)C)nc([O-])c2C#N)cc1,0.6232260856558758
+170347,Modify the molecule C=C[C@]1(C)C[C@H]([C@@]2(C)C3=C(CC[C@@H]2C)CCC32SCCS2)OC1=O to decrease its QED value.,C=C[C@]1(C)C[C@H]([C@@]2(C)C3=C(CC[C@@H]2C)CCC32SCCS2)OC1=O,0.4969872753438418
+58962,Modify the molecule CNC(=O)c1cc(NC(=O)C(=O)NCCC[NH+]2CCCC[C@H]2C)ccc1F to have a higher QED value.,CNC(=O)c1cc(NC(=O)C(=O)NCCC[NH+]2CCCC[C@H]2C)ccc1F,0.4169734614889288
+12411,Modify the molecule C[C@H](c1ccc(Cl)cc1)N(C(=O)C[C@@H](O)c1ccccc1)C1CC1 to have a higher QED value.,C[C@H](c1ccc(Cl)cc1)N(C(=O)C[C@@H](O)c1ccccc1)C1CC1,0.8375385345493376
+4900,Optimize the molecule CCc1nn(C)cc1CNc1cnc2c(c1)CN(C(=O)OC(C)(C)C)CC2 to have a lower QED value.,CCc1nn(C)cc1CNc1cnc2c(c1)CN(C(=O)OC(C)(C)C)CC2,0.8928612749203314
+233279,Modify the molecule CCCNC(=O)CN(C)c1ccc([C@H](C)O)c(O)c1 to increase its QED value.,CCCNC(=O)CN(C)c1ccc([C@H](C)O)c(O)c1,0.7276341749674132
+138135,Please modify the molecule Cc1nn(C)c(C)c1C(=O)C(=O)N1C[C@@H](C)CC[C@H]1C to increase its QED value.,Cc1nn(C)c(C)c1C(=O)C(=O)N1C[C@@H](C)CC[C@H]1C,0.6122873283111131
+48343,Please modify the molecule O=C(N/N=C/[C@@H]1C=NN=C1c1ccccc1)c1ccc2ccccc2c1 to increase its QED value.,O=C(N/N=C/[C@@H]1C=NN=C1c1ccccc1)c1ccc2ccccc2c1,0.5715056382227086
+110806,Modify the molecule Cc1cc(C)n(CC(=O)N[C@H](c2ccccc2)C2CC2)n1 to increase its QED value.,Cc1cc(C)n(CC(=O)N[C@H](c2ccccc2)C2CC2)n1,0.9168782501030804
+127429,Modify the molecule N#CCCN(C(=O)c1ccccc1Cl)C1CCCCC1 to have a higher QED value.,N#CCCN(C(=O)c1ccccc1Cl)C1CCCCC1,0.840151893243005
+194070,Please optimize the molecule CO[C@H]1CCCC[C@@H]1NC(=O)NNC(=O)c1ccccc1Cl to have a higher QED value.,CO[C@H]1CCCC[C@@H]1NC(=O)NNC(=O)c1ccccc1Cl,0.7456380388758728
+173017,Optimize the molecule O=C(c1cccc(Cl)c1)N1CCN(C(=O)c2cccs2)CC1 to have a lower QED value.,O=C(c1cccc(Cl)c1)N1CCN(C(=O)c2cccs2)CC1,0.8467542750052505
+224125,Please modify the molecule CCCN(CCC)C(=O)c1cc(S(=O)(=O)N2CCOCC2)ccc1F to increase its QED value.,CCCN(CCC)C(=O)c1cc(S(=O)(=O)N2CCOCC2)ccc1F,0.7352185234271676
+103458,Optimize the molecule Cc1noc(C)c1[C@H](C)NC(=O)c1cccc(O)c1 to have a lower QED value.,Cc1noc(C)c1[C@H](C)NC(=O)c1cccc(O)c1,0.8885973129183085
+83043,Modify the molecule C[C@@H](O)C[C@@H](C)CNC(=O)c1cc([N+](=O)[O-])ccc1N1CCCCC1 to increase its QED value.,C[C@@H](O)C[C@@H](C)CNC(=O)c1cc([N+](=O)[O-])ccc1N1CCCCC1,0.5827563697246579
+3338,Modify the molecule C[C@@H](c1ccco1)N(C)C(=O)c1cn(CC2CCCCC2)nn1 to have a lower QED value.,C[C@@H](c1ccco1)N(C)C(=O)c1cn(CC2CCCCC2)nn1,0.8488581006460791
+235229,Please modify the molecule CN1C(=O)C(=Cc2ccsc2)C(=O)N(C)C1=S to decrease its QED value.,CN1C(=O)C(=Cc2ccsc2)C(=O)N(C)C1=S,0.4374876804535355
+241176,Modify the molecule O=C([O-])c1ccnc(Sc2ccc3nnnn3n2)c1 to have a higher QED value.,O=C([O-])c1ccnc(Sc2ccc3nnnn3n2)c1,0.6236614843363986
+3053,Modify the molecule CCCN1C(=O)c2ccccc2N[C@H]1c1ccccc1OC[C@@H]1CCCO1 to increase its QED value.,CCCN1C(=O)c2ccccc2N[C@H]1c1ccccc1OC[C@@H]1CCCO1,0.831557494771053
+142716,Optimize the molecule CC[C@H]1CCC[C@@H](Oc2ncncc2N)C1 to have a lower QED value.,CC[C@H]1CCC[C@@H](Oc2ncncc2N)C1,0.8510099051861751
+127574,Please optimize the molecule CC1CC[NH+]([C@@H](C)CNC(=O)N(C)C[C@@H]2CCCO2)CC1 to have a lower QED value.,CC1CC[NH+]([C@@H](C)CNC(=O)N(C)C[C@@H]2CCCO2)CC1,0.7767796984298699
+196169,Modify the molecule CC(C)CCNc1cc(C(=O)N(C)C)ccc1Cl to increase its QED value.,CC(C)CCNc1cc(C(=O)N(C)C)ccc1Cl,0.8864740869191448
+119163,Modify the molecule COc1ccc(Nc2c(Cc3ccccc3)c(C)nc3ncnn23)c(OC)c1 to have a lower QED value.,COc1ccc(Nc2c(Cc3ccccc3)c(C)nc3ncnn23)c(OC)c1,0.5527829827003214
+170817,Modify the molecule Cc1ccc(NC(=O)CCC(=O)c2cccs2)c(F)c1 to increase its QED value.,Cc1ccc(NC(=O)CCC(=O)c2cccs2)c(F)c1,0.8517122502124624
+198800,Modify the molecule CCc1cc2c(NCC(=O)N[C@@H](c3ccc(C)cc3)c3cccnc3)ncnc2s1 to decrease its QED value.,CCc1cc2c(NCC(=O)N[C@@H](c3ccc(C)cc3)c3cccnc3)ncnc2s1,0.4692802704495091
+134502,Modify the molecule C[C@H](SCc1cccc(C(N)=O)c1)C(=O)N[C@H](C)c1ccccc1 to decrease its QED value.,C[C@H](SCc1cccc(C(N)=O)c1)C(=O)N[C@H](C)c1ccccc1,0.8108793894034372
+71115,Modify the molecule CCOC(=O)[C@H](C)c1nc([C@H]2CN(C)CCO2)no1 to have a lower QED value.,CCOC(=O)[C@H](C)c1nc([C@H]2CN(C)CCO2)no1,0.7458123362908268
+243151,Modify the molecule CO[C@@H](CNC(=O)[C@@H](C)CSC)c1ccc(F)cc1 to decrease its QED value.,CO[C@@H](CNC(=O)[C@@H](C)CSC)c1ccc(F)cc1,0.8367097441517719
+134698,Please modify the molecule COCC[C@@H](C)C(=O)N(Cc1ccco1)c1ccc(C)cc1 to increase its QED value.,COCC[C@@H](C)C(=O)N(Cc1ccco1)c1ccc(C)cc1,0.7810513634499007
+85530,Optimize the molecule CC[NH2+][C@H](C)c1cc(F)ccc1O[C@@H](C)c1ccccc1 to have a lower QED value.,CC[NH2+][C@H](C)c1cc(F)ccc1O[C@@H](C)c1ccccc1,0.863043301370299
+167929,Modify the molecule Cc1nn(C)cc1-c1cc(C(=O)[O-])n2nc(C)c(Br)c2n1 to have a lower QED value.,Cc1nn(C)cc1-c1cc(C(=O)[O-])n2nc(C)c(Br)c2n1,0.6851622996470704
+637,Please modify the molecule Cc1ccc(-c2cccc(F)c2C(=O)[O-])c(C)c1 to increase its QED value.,Cc1ccc(-c2cccc(F)c2C(=O)[O-])c(C)c1,0.8125044807876062
+143532,Please modify the molecule COc1cccc(-n2cnc3cc(C(=O)Nc4ccccc4F)ccc3c2=O)c1 to increase its QED value.,COc1cccc(-n2cnc3cc(C(=O)Nc4ccccc4F)ccc3c2=O)c1,0.5764584302702965
+79199,Modify the molecule C#CCCN1CCN(C(=O)c2ccc(N3CCCC3=O)cc2)CC1 to have a lower QED value.,C#CCCN1CCN(C(=O)c2ccc(N3CCCC3=O)cc2)CC1,0.7899112698629192
+88563,Please optimize the molecule CC[NH+](CC)C[C@H]1CCN(C(=O)Cn2nc([O-])c3ccccc3c2=O)C1 to have a lower QED value.,CC[NH+](CC)C[C@H]1CCN(C(=O)Cn2nc([O-])c3ccccc3c2=O)C1,0.7361470331164718
+98844,Please optimize the molecule CCCCN1C(=O)[C@@H]2[C@H](Cc3c[nH]c4ccccc34)N[C@]3(C(=O)Nc4ccccc43)[C@@H]2C1=O to have a lower QED value.,CCCCN1C(=O)[C@@H]2[C@H](Cc3c[nH]c4ccccc34)N[C@]3(C(=O)Nc4ccccc43)[C@@H]2C1=O,0.5298148295339166
+65078,Modify the molecule COc1ccccc1CC(=O)N1CCC[C@H]1c1ncc2c(n1)CCN(C(C)=O)C2 to decrease its QED value.,COc1ccccc1CC(=O)N1CCC[C@H]1c1ncc2c(n1)CCN(C(C)=O)C2,0.7953963052782284
+20943,Please modify the molecule Cc1cc(C(=O)N[C@@H](C)c2cccc(S(N)(=O)=O)c2)c(C)o1 to increase its QED value.,Cc1cc(C(=O)N[C@@H](C)c2cccc(S(N)(=O)=O)c2)c(C)o1,0.8986806688647067
+213519,Please modify the molecule O=C([O-])[C@H]1C[C@H]2CCCC[C@H]2[NH+]1CC(=O)N1CCCC1 to increase its QED value.,O=C([O-])[C@H]1C[C@H]2CCCC[C@H]2[NH+]1CC(=O)N1CCCC1,0.6895750257162434
+202903,Modify the molecule CS(=O)(=O)Cc1ccccc1NS(=O)(=O)c1ccc2c(c1)CCCC2 to have a lower QED value.,CS(=O)(=O)Cc1ccccc1NS(=O)(=O)c1ccc2c(c1)CCCC2,0.8661150316133419
+85918,Optimize the molecule CC(=O)N1CCC(CCC(=O)NCC(C)(C)c2cccc(Cl)c2)CC1 to have a higher QED value.,CC(=O)N1CCC(CCC(=O)NCC(C)(C)c2cccc(Cl)c2)CC1,0.8347483418598752
+25674,Please optimize the molecule CCC[NH2+]CC/C=C/c1cnccc1C to have a higher QED value.,CCC[NH2+]CC/C=C/c1cnccc1C,0.7046420606467527
+28233,Optimize the molecule CCC[NH2+]CC(C)(C)COc1cccc(C)c1C to have a higher QED value.,CCC[NH2+]CC(C)(C)COc1cccc(C)c1C,0.7397781724571242
+29512,Please optimize the molecule CC[C@H]1CC(=O)N(C[C@@H]([NH3+])c2ccc(OC(C)C)cc2)C1 to have a lower QED value.,CC[C@H]1CC(=O)N(C[C@@H]([NH3+])c2ccc(OC(C)C)cc2)C1,0.8714413914958667
+160479,Modify the molecule CC(C)c1nc2cc(NC(=O)C(=O)NC[C@H]3CCC[C@H](C)C3)ccc2o1 to increase its QED value.,CC(C)c1nc2cc(NC(=O)C(=O)NC[C@H]3CCC[C@H](C)C3)ccc2o1,0.814565979770001
+97000,Modify the molecule C[C@H](Cc1ccsc1)[NH2+][C@H]1CCCC[C@@H]1[C@@H]1CCC[NH2+]1 to have a lower QED value.,C[C@H](Cc1ccsc1)[NH2+][C@H]1CCCC[C@@H]1[C@@H]1CCC[NH2+]1,0.8256745478494255
+223742,Optimize the molecule O=C(NNC(=O)c1sccc1C1CC1)c1cc(Br)c[nH]1 to have a higher QED value.,O=C(NNC(=O)c1sccc1C1CC1)c1cc(Br)c[nH]1,0.7418719446843184
+147547,Please optimize the molecule CC[C@H](C(=O)OC1CN(c2nc3ccc(F)cc3s2)C1)c1ccccc1 to have a lower QED value.,CC[C@H](C(=O)OC1CN(c2nc3ccc(F)cc3s2)C1)c1ccccc1,0.6259937894959365
+195918,Optimize the molecule COc1ccc(-c2n[nH]cc2C[NH+](C)[C@H](C)c2ccc3c(c2)OCCO3)c(F)c1 to have a higher QED value.,COc1ccc(-c2n[nH]cc2C[NH+](C)[C@H](C)c2ccc3c(c2)OCCO3)c(F)c1,0.6704507051266638
+13765,Modify the molecule CCCN[C@]1(C#N)CCC[C@H](Sc2ccccc2C)C1 to have a higher QED value.,CCCN[C@]1(C#N)CCC[C@H](Sc2ccccc2C)C1,0.8775667497383829
+14994,Please optimize the molecule COC(=O)[C@H](C)C[S@](=O)Cc1nc(C)c(C)s1 to have a lower QED value.,COC(=O)[C@H](C)C[S@](=O)Cc1nc(C)c(C)s1,0.7691569436526353
+6960,Please optimize the molecule COc1cccc(C(=O)NC[C@H](C)N(C)c2ccccc2)c1F to have a lower QED value.,COc1cccc(C(=O)NC[C@H](C)N(C)c2ccccc2)c1F,0.8902559012340826
+59843,Optimize the molecule O=C(OCCCNC(=O)c1cc2ccccc2oc1=O)c1cc2cc(Br)ccc2o1 to have a higher QED value.,O=C(OCCCNC(=O)c1cc2ccccc2oc1=O)c1cc2cc(Br)ccc2o1,0.2567362922674088
+60229,Modify the molecule COCCN(CC(C)C)C(=O)NCc1cnn(C)c1 to have a higher QED value.,COCCN(CC(C)C)C(=O)NCc1cnn(C)c1,0.8089823059341026
+185066,Modify the molecule COC(=O)[C@]1([NH2+]C2CC2)CCC[C@@H](OCC(F)(F)F)C1 to decrease its QED value.,COC(=O)[C@]1([NH2+]C2CC2)CCC[C@@H](OCC(F)(F)F)C1,0.7742817862253059
+104578,Optimize the molecule Cc1nc(N2CCOCC2)ncc1C(=O)Nc1ccc(O)cc1 to have a higher QED value.,Cc1nc(N2CCOCC2)ncc1C(=O)Nc1ccc(O)cc1,0.8364443886707397
+176640,Please modify the molecule C[C@H](CCc1ccccc1)CC(=O)NC1CC[NH+](C)CC1 to increase its QED value.,C[C@H](CCc1ccccc1)CC(=O)NC1CC[NH+](C)CC1,0.816179490139379
+16695,Please modify the molecule C[C@H]1SCCC[C@]1(C[NH3+])N1CC[C@H]([NH+]2CCCC2)C1 to increase its QED value.,C[C@H]1SCCC[C@]1(C[NH3+])N1CC[C@H]([NH+]2CCCC2)C1,0.7425020071275592
+175312,Modify the molecule COc1ccc(N2C[C@H](C(=O)Nc3cccc(-n4c(C)c[nH]c4=O)c3)CC2=O)cc1 to increase its QED value.,COc1ccc(N2C[C@H](C(=O)Nc3cccc(-n4c(C)c[nH]c4=O)c3)CC2=O)cc1,0.6803595097667575
+228991,Modify the molecule CCN(CC)C(=O)Oc1cccc(Br)c1 to decrease its QED value.,CCN(CC)C(=O)Oc1cccc(Br)c1,0.8445502786329475
+124372,Modify the molecule COc1ccc([C@@H](NC(=O)c2cnc(C(C)(C)C)nc2)c2ccncc2)cc1 to have a lower QED value.,COc1ccc([C@@H](NC(=O)c2cnc(C(C)(C)C)nc2)c2ccncc2)cc1,0.7346851540497128
+236495,Modify the molecule Cc1noc(C)c1C[C@H](C)N[C@H](C)c1nc2ccc(Cl)cc2n1C to decrease its QED value.,Cc1noc(C)c1C[C@H](C)N[C@H](C)c1nc2ccc(Cl)cc2n1C,0.7548254112688969
+231037,Please optimize the molecule O=C(C[C@H](O)c1ccccc1)N1CCOCC12CCCC2 to have a higher QED value.,O=C(C[C@H](O)c1ccccc1)N1CCOCC12CCCC2,0.9284882304845204
+178800,Modify the molecule CN(CC(=O)Nc1ccccc1)S(=O)(=O)c1cc(C(F)(F)F)ccc1Cl to decrease its QED value.,CN(CC(=O)Nc1ccccc1)S(=O)(=O)c1cc(C(F)(F)F)ccc1Cl,0.8243343507430115
+65700,Please modify the molecule O=C(N[C@H]1CCS(=O)(=O)C1)[C@@H]1Cc2ccccc2S1 to decrease its QED value.,O=C(N[C@H]1CCS(=O)(=O)C1)[C@@H]1Cc2ccccc2S1,0.8846244996744197
+73909,Please optimize the molecule CC(C)(Cc1cccc(Cl)c1)C(=O)OCc1cccnc1 to have a lower QED value.,CC(C)(Cc1cccc(Cl)c1)C(=O)OCc1cccnc1,0.782344350010339
+23434,Modify the molecule C[C@H](CCc1ccc(O)cc1)NC(=O)N(C)CCc1ccccn1 to increase its QED value.,C[C@H](CCc1ccc(O)cc1)NC(=O)N(C)CCc1ccccn1,0.821450598155835
+36749,Optimize the molecule N#C[C@@H]1CNCCN1CCOc1ccc(F)cc1 to have a lower QED value.,N#C[C@@H]1CNCCN1CCOc1ccc(F)cc1,0.8646084845717752
+168259,Optimize the molecule C[C@@H]1CCC[NH+](CCNC(=O)NCc2csc(N(C)C)n2)C1 to have a higher QED value.,C[C@@H]1CCC[NH+](CCNC(=O)NCc2csc(N(C)C)n2)C1,0.7056582835576422
+243432,Please modify the molecule CC(C)C[C@@H](C(=O)Nc1cccc([S@@](C)=O)c1)N1CCCCC1=O to increase its QED value.,CC(C)C[C@@H](C(=O)Nc1cccc([S@@](C)=O)c1)N1CCCCC1=O,0.8577651056790374
+77940,Modify the molecule CCCC(=O)Nc1ccc(-n2cnc(C(=O)N3CCCCCC3)c2)nc1 to have a higher QED value.,CCCC(=O)Nc1ccc(-n2cnc(C(=O)N3CCCCCC3)c2)nc1,0.8938911834335609
+222350,Optimize the molecule O=C(NCc1ccc(N2CC[NH+](CC3CC3)CC2)cc1)[C@H]1CCn2cc[nH+]c2C1 to have a higher QED value.,O=C(NCc1ccc(N2CC[NH+](CC3CC3)CC2)cc1)[C@H]1CCn2cc[nH+]c2C1,0.7391163729154725
+244340,Please optimize the molecule N=C1/C(=C\c2ccc(O)c(Br)c2)C(=O)N=C2SC(N3CCCC3)=NN12 to have a lower QED value.,N=C1/C(=C\c2ccc(O)c(Br)c2)C(=O)N=C2SC(N3CCCC3)=NN12,0.6821550158509172
+247431,Modify the molecule CO[C@H](C)C(=O)[n+]1ccc(C)cc1NC1CCCCC1 to increase its QED value.,CO[C@H](C)C(=O)[n+]1ccc(C)cc1NC1CCCCC1,0.8604550377335206
+182640,Modify the molecule CN(CCS(C)(=O)=O)C(=O)N1CCC(C(=O)[O-])CC1 to decrease its QED value.,CN(CCS(C)(=O)=O)C(=O)N1CCC(C(=O)[O-])CC1,0.6305831699297145
+183801,Modify the molecule CCCSc1nnc(N/N=C/c2ccc([N+](=O)[O-])cc2)[nH]1 to have a higher QED value.,CCCSc1nnc(N/N=C/c2ccc([N+](=O)[O-])cc2)[nH]1,0.3520889210767381
+236665,Modify the molecule C[C@]1(C(=O)[O-])[C@H]2CC[C@H](C2)[C@H]1C(=O)[O-] to have a higher QED value.,C[C@]1(C(=O)[O-])[C@H]2CC[C@H](C2)[C@H]1C(=O)[O-],0.5401752818264837
+41005,Modify the molecule COc1ccccc1NC(=O)[C@@H]1CCCN(c2cnc3ccccc3n2)C1 to have a higher QED value.,COc1ccccc1NC(=O)[C@@H]1CCCN(c2cnc3ccccc3n2)C1,0.7694198879468761
+148234,Modify the molecule COC(=O)c1ccc(CSc2ccc(-c3ccc(Br)cc3)nn2)o1 to have a lower QED value.,COC(=O)c1ccc(CSc2ccc(-c3ccc(Br)cc3)nn2)o1,0.4575206305591111
+68580,Please modify the molecule CCc1ccccc1[N-]S(=O)(=O)CC to decrease its QED value.,CCc1ccccc1[N-]S(=O)(=O)CC,0.7698124362216566
+113355,Please optimize the molecule O=C(NCCc1c(F)cccc1F)NCc1ccc(-n2ccnc2)c(F)c1 to have a higher QED value.,O=C(NCCc1c(F)cccc1F)NCc1ccc(-n2ccnc2)c(F)c1,0.6953881764171509
+232781,Please optimize the molecule CCOC(=O)C1(C)CC[NH+]([C@H](C)C(=O)Nc2cccc(CC)c2)CC1 to have a higher QED value.,CCOC(=O)C1(C)CC[NH+]([C@H](C)C(=O)Nc2cccc(CC)c2)CC1,0.7719944534100224
+934,Please modify the molecule CC(C)C(=O)Nc1cccc(NC(=O)C(=O)NCC[C@H]2C[C@H]3CC[C@@H]2C3)c1 to decrease its QED value.,CC(C)C(=O)Nc1cccc(NC(=O)C(=O)NCC[C@H]2C[C@H]3CC[C@@H]2C3)c1,0.6713853282058602
+148607,Please optimize the molecule NC(=O)NCc1ccc(NC(=O)[C@H](Oc2ccccc2)c2ccccc2)cc1 to have a higher QED value.,NC(=O)NCc1ccc(NC(=O)[C@H](Oc2ccccc2)c2ccccc2)cc1,0.5887574760084611
+87416,Modify the molecule C[C@@H](CNC(=O)c1cc2cc(C(F)(F)F)ccc2n1C)N1CCOCC1 to decrease its QED value.,C[C@@H](CNC(=O)c1cc2cc(C(F)(F)F)ccc2n1C)N1CCOCC1,0.9014173633646748
+232827,Please optimize the molecule Cc1ccc(-c2nnc(NC(=O)C(=O)N3C[C@H]4[C@@H](C3)C4(C)C)s2)c(C)c1 to have a lower QED value.,Cc1ccc(-c2nnc(NC(=O)C(=O)N3C[C@H]4[C@@H](C3)C4(C)C)s2)c(C)c1,0.825044094901027
+240981,Optimize the molecule COc1cccc(NC(=O)CCN2C(=O)[C@@H]3Cc4cc(OC)c(OC)cc4CN3C2=O)c1 to have a higher QED value.,COc1cccc(NC(=O)CCN2C(=O)[C@@H]3Cc4cc(OC)c(OC)cc4CN3C2=O)c1,0.6658563324913912
+63305,Please optimize the molecule COc1ccc2nc(N(CCN3CCOCC3)C(=O)/C=C/c3ccccc3)sc2c1 to have a lower QED value.,COc1ccc2nc(N(CCN3CCOCC3)C(=O)/C=C/c3ccccc3)sc2c1,0.54281066631148
+18077,Please modify the molecule CCN(CC)S(=O)(=O)c1ccc(C)c(C(=O)Nc2cc(Cl)ccc2Cl)c1 to decrease its QED value.,CCN(CC)S(=O)(=O)c1ccc(C)c(C(=O)Nc2cc(Cl)ccc2Cl)c1,0.7509458372048419
+244833,Modify the molecule CCCNC/C(Cl)=C/Cl to decrease its QED value.,CCCNC/C(Cl)=C/Cl,0.6347661294154887
+209283,Modify the molecule Cc1cccc([C@H](C)Sc2nnc(N(C)C)s2)c1 to have a higher QED value.,Cc1cccc([C@H](C)Sc2nnc(N(C)C)s2)c1,0.7967785363707789
+17035,Optimize the molecule CC(C)(C)NC(=O)N1CC[C@@]2(C1)C(=O)Nc1ccccc12 to have a lower QED value.,CC(C)(C)NC(=O)N1CC[C@@]2(C1)C(=O)Nc1ccccc12,0.7672840546205785
+91445,Please optimize the molecule O=C(Nc1cccc(C(F)(F)F)c1)c1cccc(NC(=O)[C@H]2CC(=O)N(C3CCCC3)C2)c1 to have a lower QED value.,O=C(Nc1cccc(C(F)(F)F)c1)c1cccc(NC(=O)[C@H]2CC(=O)N(C3CCCC3)C2)c1,0.6812279879358415
+166165,Modify the molecule Cc1ccc(F)cc1NC(=O)[C@@H]1CCC[NH+]1Cc1ccc(F)cc1 to decrease its QED value.,Cc1ccc(F)cc1NC(=O)[C@@H]1CCC[NH+]1Cc1ccc(F)cc1,0.8865385393033118
+176634,Modify the molecule CCCCC(=O)N1C[C@@H](C)C[C@H](C)C1 to have a higher QED value.,CCCCC(=O)N1C[C@@H](C)C[C@H](C)C1,0.6809009012799756
+3593,Please modify the molecule O=C([O-])C12C[C@@H]3C[C@H](C1)CC(n1cc([N+](=O)[O-])cn1)(C3)C2 to increase its QED value.,O=C([O-])C12C[C@@H]3C[C@H](C1)CC(n1cc([N+](=O)[O-])cn1)(C3)C2,0.6060282283128797
+132591,Please optimize the molecule CCOC(=O)/C(C#N)=C\N[C@]1(C)CCS(=O)(=O)C1 to have a lower QED value.,CCOC(=O)/C(C#N)=C\N[C@]1(C)CCS(=O)(=O)C1,0.4435277728037187
+202437,Modify the molecule CC[C@@H](C)N(C)C(=O)N[C@H](C)c1ccc(OCC(F)(F)F)cc1 to have a lower QED value.,CC[C@@H](C)N(C)C(=O)N[C@H](C)c1ccc(OCC(F)(F)F)cc1,0.8509302539029984
+105117,Please modify the molecule COc1ccc(-c2noc([C@@H]3CCCN3C(=O)NCc3ccc(C)cc3)n2)cc1 to decrease its QED value.,COc1ccc(-c2noc([C@@H]3CCCN3C(=O)NCc3ccc(C)cc3)n2)cc1,0.7070091998278119
+127690,Modify the molecule CC(C)[C@H](C(=O)NCc1ccccn1)c1ccc(Cl)cc1 to increase its QED value.,CC(C)[C@H](C(=O)NCc1ccccn1)c1ccc(Cl)cc1,0.9127522388112796
+209054,Modify the molecule CC[C@H](C)[C@@H](C)[NH+](Cc1ccccc1NC(C)=O)C1CC1 to increase its QED value.,CC[C@H](C)[C@@H](C)[NH+](Cc1ccccc1NC(C)=O)C1CC1,0.7947000285490468
+227912,Please modify the molecule CCOc1ccc(CN(C)C(=O)Nc2ccc([N+](=O)[O-])cc2)cc1 to increase its QED value.,CCOc1ccc(CN(C)C(=O)Nc2ccc([N+](=O)[O-])cc2)cc1,0.6472373503775699
+147774,Modify the molecule Cc1cc(C(=O)NCC[C@@H](O)c2ccccc2)[nH]n1 to decrease its QED value.,Cc1cc(C(=O)NCC[C@@H](O)c2ccccc2)[nH]n1,0.7623691247086475
+138076,Modify the molecule O=C(CN1C(=O)c2ccccc2C1=O)Nc1nc2c(s1)CCc1ccccc1-2 to have a higher QED value.,O=C(CN1C(=O)c2ccccc2C1=O)Nc1nc2c(s1)CCc1ccccc1-2,0.6981991582892725
+27522,Modify the molecule COc1ccc(C[NH2+]C[C@@H](C(C)C)N(C)C)cc1F to have a lower QED value.,COc1ccc(C[NH2+]C[C@@H](C(C)C)N(C)C)cc1F,0.8122562897213572
+108342,Modify the molecule N#Cc1ccccc1NC(=O)CN1C(=O)c2ccc(Br)cc2C1=O to have a lower QED value.,N#Cc1ccccc1NC(=O)CN1C(=O)c2ccc(Br)cc2C1=O,0.8240420986489739
+63225,Please modify the molecule Cc1ccc(C(=O)NC(=S)Nc2ccccc2Br)cc1I to increase its QED value.,Cc1ccc(C(=O)NC(=S)Nc2ccccc2Br)cc1I,0.4973711187761932
+223027,Please optimize the molecule COC(=O)c1c(NC(=O)C=CC(=O)[O-])sc(C)c1C to have a lower QED value.,COC(=O)c1c(NC(=O)C=CC(=O)[O-])sc(C)c1C,0.6365957255629017
+171095,Modify the molecule CC(=O)N1CCCc2cc(NC(=O)NCC(C)(C)c3ccncc3)ccc21 to increase its QED value.,CC(=O)N1CCCc2cc(NC(=O)NCC(C)(C)c3ccncc3)ccc21,0.8698851762343651
+105651,Modify the molecule COc1cc2ncn(Cc3cnn(-c4ccccc4OC)c3)c(=O)c2cc1OC to decrease its QED value.,COc1cc2ncn(Cc3cnn(-c4ccccc4OC)c3)c(=O)c2cc1OC,0.5018911296889801
+207389,Modify the molecule CCc1ccc(NC(=O)N2CCOc3ccccc32)cc1 to have a lower QED value.,CCc1ccc(NC(=O)N2CCOc3ccccc32)cc1,0.9125567804658052
+21126,Please optimize the molecule NC1=NC(=O)[C@](Cc2cccs2)(c2cccs2)N1 to have a lower QED value.,NC1=NC(=O)[C@](Cc2cccs2)(c2cccs2)N1,0.896887799161657
+15981,Optimize the molecule CCCc1nc(-c2cc(Cl)cs2)nc(NC)c1Br to have a higher QED value.,CCCc1nc(-c2cc(Cl)cs2)nc(NC)c1Br,0.8778095402819667
+224266,Optimize the molecule CC[C@H]1CCCC[C@@H]1NC(=O)C(=O)Nc1cccc(Oc2ccccn2)c1 to have a lower QED value.,CC[C@H]1CCCC[C@@H]1NC(=O)C(=O)Nc1cccc(Oc2ccccn2)c1,0.785674652628451
+73279,Modify the molecule COCC(=O)N1CC[C@@H](c2c(C(=O)N(C)C)sc3ncccc23)C1 to have a lower QED value.,COCC(=O)N1CC[C@@H](c2c(C(=O)N(C)C)sc3ncccc23)C1,0.8481487533341994
+245647,Modify the molecule Cc1ccc(C)c(NC(=S)N[C@H](NC(=O)N2CCOCC2)C(Cl)(Cl)Cl)c1 to have a higher QED value.,Cc1ccc(C)c(NC(=S)N[C@H](NC(=O)N2CCOCC2)C(Cl)(Cl)Cl)c1,0.3829257463728698
+67643,Please modify the molecule O=C([O-])[C@@H]1[NH2+]CCc2[nH]c(-c3ccc(N4CC[NH2+]CC4)cc3)nc21 to decrease its QED value.,O=C([O-])[C@@H]1[NH2+]CCc2[nH]c(-c3ccc(N4CC[NH2+]CC4)cc3)nc21,0.5731431690008608
+249359,Optimize the molecule C[C@H](C(=O)Nc1cccc(-c2ccc3c(c2)CCO3)c1)n1cccn1 to have a lower QED value.,C[C@H](C(=O)Nc1cccc(-c2ccc3c(c2)CCO3)c1)n1cccn1,0.7921578777928029
+185312,Modify the molecule O=C(CCOc1ccccc1)N1CCC[C@H](C(=O)N2CCC(O)CC2)C1 to decrease its QED value.,O=C(CCOc1ccccc1)N1CCC[C@H](C(=O)N2CCC(O)CC2)C1,0.8673003592534868
+189435,Modify the molecule Cc1cc(C(=O)CSc2nccn2C)c(C)n1Cc1ccc(F)cc1 to have a higher QED value.,Cc1cc(C(=O)CSc2nccn2C)c(C)n1Cc1ccc(F)cc1,0.4944248769441322
+11892,Optimize the molecule CCCNC(=O)c1ccc(C)c(N(C)S(C)(=O)=O)c1 to have a higher QED value.,CCCNC(=O)c1ccc(C)c(N(C)S(C)(=O)=O)c1,0.8914011318709513
+227322,Please modify the molecule C[C@@H]1[NH2+]CC[C@H]1C(=O)N[C@@H]1CCCc2c1cnn2CCO to decrease its QED value.,C[C@@H]1[NH2+]CC[C@H]1C(=O)N[C@@H]1CCCc2c1cnn2CCO,0.689024845099285
+138503,Modify the molecule Cn1cnnc1CSCc1noc(-c2ccccc2Cl)n1 to decrease its QED value.,Cn1cnnc1CSCc1noc(-c2ccccc2Cl)n1,0.7192852988576742
+38674,Please optimize the molecule C[C@@H]([NH2+][C@@H]1CC[C@H]([NH+](C)C)C1)[C@H](C)c1ccccc1 to have a lower QED value.,C[C@@H]([NH2+][C@@H]1CC[C@H]([NH+](C)C)C1)[C@H](C)c1ccccc1,0.783517639178574
+158565,Please optimize the molecule COc1cc(/C=N/NC(=O)C[N+](C)(C)C)cc(OC)c1OC to have a lower QED value.,COc1cc(/C=N/NC(=O)C[N+](C)(C)C)cc(OC)c1OC,0.4608114841792308
+93709,Please modify the molecule CCc1noc(C)c1C(=O)O[C@@H](C)C(=O)Nc1cccc(C#N)c1 to decrease its QED value.,CCc1noc(C)c1C(=O)O[C@@H](C)C(=O)Nc1cccc(C#N)c1,0.8462258960927246
+161220,Modify the molecule Cc1ccc(-c2ncco2)cc1NC(=O)Cc1c(C)[nH]c2ccccc12 to decrease its QED value.,Cc1ccc(-c2ncco2)cc1NC(=O)Cc1c(C)[nH]c2ccccc12,0.5667523135618758
+64397,Optimize the molecule Cn1nc2n(c1=O)CC[NH+](Cc1cnn(-c3ccccc3)n1)C2 to have a lower QED value.,Cn1nc2n(c1=O)CC[NH+](Cc1cnn(-c3ccccc3)n1)C2,0.6564759668768837
+53249,Please modify the molecule O=C(Nc1ccccc1N1CCOCC1)c1c[nH]c2ccccc2c1=O to increase its QED value.,O=C(Nc1ccccc1N1CCOCC1)c1c[nH]c2ccccc2c1=O,0.762232121936729
+118342,Please optimize the molecule C[NH+](Cc1cn(Cc2ccccc2)nc1-c1cc2ccccc2o1)CC1CCOCC1 to have a higher QED value.,C[NH+](Cc1cn(Cc2ccccc2)nc1-c1cc2ccccc2o1)CC1CCOCC1,0.4986300661637268
+208315,Modify the molecule O=S(=O)(Nc1ccc(Br)cc1Cl)c1ccc(F)cc1 to have a lower QED value.,O=S(=O)(Nc1ccc(Br)cc1Cl)c1ccc(F)cc1,0.8931258626225127
+236888,Modify the molecule O=C(COc1ccc(Cl)cc1)c1ccc(O)cc1O to have a lower QED value.,O=C(COc1ccc(Cl)cc1)c1ccc(O)cc1O,0.8438435153663986
+63308,Please optimize the molecule O=C([O-])Cn1cccc1C(=O)N1CCC2(CCCC2)CC1 to have a lower QED value.,O=C([O-])Cn1cccc1C(=O)N1CCC2(CCCC2)CC1,0.8346514665028865
+100889,Modify the molecule Cc1ccc(C2=NN=C(C(=O)N/N=C/c3ccccc3Cl)C2)s1 to increase its QED value.,Cc1ccc(C2=NN=C(C(=O)N/N=C/c3ccccc3Cl)C2)s1,0.6699758594170596
+63565,Please optimize the molecule CC[C@@H](C)NC(=O)[C@@H](C)n1c2ccccc2c2cnn(C)c(=O)c21 to have a higher QED value.,CC[C@@H](C)NC(=O)[C@@H](C)n1c2ccccc2c2cnn(C)c(=O)c21,0.8000592543465666
+234320,Please modify the molecule C[C@H]1CN(c2ccc(C(=O)NCC3(c4ccncc4)CC3)cn2)C[C@@H](C)O1 to increase its QED value.,C[C@H]1CN(c2ccc(C(=O)NCC3(c4ccncc4)CC3)cn2)C[C@@H](C)O1,0.8808363482254882
+53211,Modify the molecule COCc1nc(C)cc(Oc2ccc(OCc3nc(C)no3)cc2)n1 to have a higher QED value.,COCc1nc(C)cc(Oc2ccc(OCc3nc(C)no3)cc2)n1,0.6468127476778758
+178723,Please modify the molecule O=C(Cn1nnnc1CN1CCc2ccccc2C1)NCc1cccs1 to increase its QED value.,O=C(Cn1nnnc1CN1CCc2ccccc2C1)NCc1cccs1,0.7153655767824169
+163492,Optimize the molecule CCn1c(SCC(=O)Nc2cc(C)n[nH]2)nc2ccsc2c1=O to have a higher QED value.,CCn1c(SCC(=O)Nc2cc(C)n[nH]2)nc2ccsc2c1=O,0.544248329510079
+181703,Please modify the molecule CCN1C(N)=[NH+]C[C@@]12CCO[C@@H](C)C2 to decrease its QED value.,CCN1C(N)=[NH+]C[C@@]12CCO[C@@H](C)C2,0.5478906610676236
+178742,Please modify the molecule CN(C(=O)CCc1c[nH]c2ccccc12)C1CCCCC1 to increase its QED value.,CN(C(=O)CCc1c[nH]c2ccccc12)C1CCCCC1,0.9080772892111828
+124321,Modify the molecule CCC[C@@H](C(=O)NNC(=O)[C@@H]1COc2ccccc2O1)c1ccccc1 to have a lower QED value.,CCC[C@@H](C(=O)NNC(=O)[C@@H]1COc2ccccc2O1)c1ccccc1,0.8093135359331898
+247566,Modify the molecule CCc1nc2n(n1)CCC[C@@H]2N[C@@H](C)c1nc(-c2cccs2)no1 to decrease its QED value.,CCc1nc2n(n1)CCC[C@@H]2N[C@@H](C)c1nc(-c2cccs2)no1,0.7655897560510097
+45625,Optimize the molecule C#CCN(CC#C)CCCS(=O)(=O)CC to have a lower QED value.,C#CCN(CC#C)CCCS(=O)(=O)CC,0.5900963186159633
+237730,Please modify the molecule CC(C)c1cccc2sc(N3CCN(C(=O)[C@@H]4CCCCN4S(C)(=O)=O)CC3)nc12 to increase its QED value.,CC(C)c1cccc2sc(N3CCN(C(=O)[C@@H]4CCCCN4S(C)(=O)=O)CC3)nc12,0.7161420346999634
+18587,Modify the molecule CC(C)[C@@H](NC(=O)CN1CCS(=O)(=O)CC1)c1nc2ccccc2[nH]1 to increase its QED value.,CC(C)[C@@H](NC(=O)CN1CCS(=O)(=O)CC1)c1nc2ccccc2[nH]1,0.8285484695191639
+101702,Modify the molecule Cc1ccsc1CN(C)C(=O)c1cccnc1Cl to have a lower QED value.,Cc1ccsc1CN(C)C(=O)c1cccnc1Cl,0.8077688117565429
+49016,Modify the molecule CCOCc1ccc(NC(=O)Nc2ccc3[nH]c(C(F)F)nc3c2)cc1 to increase its QED value.,CCOCc1ccc(NC(=O)Nc2ccc3[nH]c(C(F)F)nc3c2)cc1,0.5970370759242902
+137341,Optimize the molecule COC(=O)Cc1nc(-c2cc(F)cc(Br)c2)no1 to have a higher QED value.,COC(=O)Cc1nc(-c2cc(F)cc(Br)c2)no1,0.8136074100085398
+211048,Optimize the molecule CC(C)[C@@H](C(=O)NC1CCN(C(=O)c2ccco2)CC1)c1ccccc1 to have a lower QED value.,CC(C)[C@@H](C(=O)NC1CCN(C(=O)c2ccco2)CC1)c1ccccc1,0.8945525055068831
+129256,Please optimize the molecule O=C(CCCNC(=O)[C@@H]1COc2ccccc2O1)Nc1nc2ccccc2s1 to have a lower QED value.,O=C(CCCNC(=O)[C@@H]1COc2ccccc2O1)Nc1nc2ccccc2s1,0.6244216048404858
+154474,Please optimize the molecule C[C@H]([NH2+]Cc1cc(F)c([O-])c(F)c1)c1ccc(Br)cc1 to have a higher QED value.,C[C@H]([NH2+]Cc1cc(F)c([O-])c(F)c1)c1ccc(Br)cc1,0.9117420313418862
+228601,Please optimize the molecule C[NH+]1[C@H]2CC[C@@H]1CC(CC(=O)Nc1ccc(COc3ccccc3)cc1)C2 to have a higher QED value.,C[NH+]1[C@H]2CC[C@@H]1CC(CC(=O)Nc1ccc(COc3ccccc3)cc1)C2,0.826265666071989
+223723,Please optimize the molecule CC[NH2+][C@@H](Cc1ccsc1)C1(C)CCCC1 to have a lower QED value.,CC[NH2+][C@@H](Cc1ccsc1)C1(C)CCCC1,0.8121814285843828
+101418,Please modify the molecule CCOc1ccccc1[C@@H]1NC(=S)NC(C)=C1C(C)=O to increase its QED value.,CCOc1ccccc1[C@@H]1NC(=S)NC(C)=C1C(C)=O,0.8343526093729354
+230817,Please optimize the molecule CC(C)c1cccc(NC(=O)C2CCOCC2)c1 to have a higher QED value.,CC(C)c1cccc(NC(=O)C2CCOCC2)c1,0.8905407967142874
+180945,Modify the molecule O=C1CSc2ccccc2N1C(=S)Nc1ccc(Oc2ccccc2)cc1 to decrease its QED value.,O=C1CSc2ccccc2N1C(=S)Nc1ccc(Oc2ccccc2)cc1,0.6115676027848652
+227201,Modify the molecule COc1ccc(NC(=O)C2(C#N)CCCCC2)cc1Cl to have a lower QED value.,COc1ccc(NC(=O)C2(C#N)CCCCC2)cc1Cl,0.922362918125024
+116246,Please modify the molecule CC1CCN(C(=O)c2ccccc2NC(=O)N2C[C@H](C)O[C@@H](C)C2)CC1 to decrease its QED value.,CC1CCN(C(=O)c2ccccc2NC(=O)N2C[C@H](C)O[C@@H](C)C2)CC1,0.8819775877528219
+181884,Modify the molecule Cc1ccc(SCC(=O)Nc2ccc(C)c(C(=O)N(C)C)c2)cc1 to decrease its QED value.,Cc1ccc(SCC(=O)Nc2ccc(C)c(C(=O)N(C)C)c2)cc1,0.8423418077496865
+166754,Modify the molecule CC(=O)N1CCc2cc(C(=O)O[C@H](c3ccccc3)c3ccncc3)ccc21 to increase its QED value.,CC(=O)N1CCc2cc(C(=O)O[C@H](c3ccccc3)c3ccncc3)ccc21,0.6511407987811827
+127744,Please optimize the molecule Cc1n[nH]c(C)c1[C@@H]1CCCN1C(=O)Nc1ccc(OC(C)C)c(Cl)c1 to have a lower QED value.,Cc1n[nH]c(C)c1[C@@H]1CCCN1C(=O)Nc1ccc(OC(C)C)c(Cl)c1,0.8018431367104082
+171880,Please modify the molecule C[C@H]1OCC[C@@H]1C(=O)NNc1ccc(OC(F)(F)F)cc1 to decrease its QED value.,C[C@H]1OCC[C@@H]1C(=O)NNc1ccc(OC(F)(F)F)cc1,0.8389712435336626
+137274,Modify the molecule COc1ccc(NC(=O)c2cc(S(=O)(=O)N3CCCCC3)c[nH]2)cc1OC to increase its QED value.,COc1ccc(NC(=O)c2cc(S(=O)(=O)N3CCCCC3)c[nH]2)cc1OC,0.7851327963056906
+199268,Optimize the molecule CN(C)c1cccc(C(=O)N2CCC([NH+]3CCc4ccccc4[C@H]3CC(=O)N3CCOCC3)CC2)c1 to have a higher QED value.,CN(C)c1cccc(C(=O)N2CCC([NH+]3CCc4ccccc4[C@H]3CC(=O)N3CCOCC3)CC2)c1,0.6931216955849301
+72498,Modify the molecule CCc1ccc(C2=CCN(C(=O)[C@H]3CS[C@@]4(C)CCC(=O)N34)CC2)cc1 to increase its QED value.,CCc1ccc(C2=CCN(C(=O)[C@H]3CS[C@@]4(C)CCC(=O)N34)CC2)cc1,0.8195071048360428
+221879,Please modify the molecule O=C(N1CCC[C@H](O)C1)C1(c2ccc(F)cc2F)CCCC1 to increase its QED value.,O=C(N1CCC[C@H](O)C1)C1(c2ccc(F)cc2F)CCCC1,0.9123879898411564
+81452,Modify the molecule C[C@@H]1CC(C(=O)N[C@@H](C#N)c2ccc(C(C)(C)C)cc2)C[C@@H](C)O1 to increase its QED value.,C[C@@H]1CC(C(=O)N[C@@H](C#N)c2ccc(C(C)(C)C)cc2)C[C@@H](C)O1,0.9159563484764148
+115636,Modify the molecule O=C(c1ccccc1)N1CCN([C@H]2CCc3ccc(F)cc32)CC1 to increase its QED value.,O=C(c1ccccc1)N1CCN([C@H]2CCc3ccc(F)cc32)CC1,0.8463428881314335
+182266,Optimize the molecule Cc1cccc(CN2CCN(CN3C(=O)C(=O)c4ccc(N5CCCC5)cc43)CC2)c1 to have a higher QED value.,Cc1cccc(CN2CCN(CN3C(=O)C(=O)c4ccc(N5CCCC5)cc43)CC2)c1,0.6990983917540994
+234239,Please optimize the molecule CC1(C)CCC[C@]1([NH3+])CCO to have a higher QED value.,CC1(C)CCC[C@]1([NH3+])CCO,0.6058421106926069
+8226,Modify the molecule O=C1C[C@H](C(=O)NCCC2=CCCCC2)Cc2nc(NC(=O)c3c(F)cccc3Cl)sc21 to decrease its QED value.,O=C1C[C@H](C(=O)NCCC2=CCCCC2)Cc2nc(NC(=O)c3c(F)cccc3Cl)sc21,0.579042500998419
+106323,Modify the molecule C[NH+](C)C[C@H]1COc2ccccc2CN1C(=O)[C@H](Cc1ccccc1)NC(=O)C(C)(C)C to decrease its QED value.,C[NH+](C)C[C@H]1COc2ccccc2CN1C(=O)[C@H](Cc1ccccc1)NC(=O)C(C)(C)C,0.7216905598349919
+187837,Modify the molecule COC1CCN(C(=O)Nc2ccc(F)c(C(=O)N(C)C)c2)CC1 to increase its QED value.,COC1CCN(C(=O)Nc2ccc(F)c(C(=O)N(C)C)c2)CC1,0.9271680231945508
+173417,Please optimize the molecule C[C@H](SCc1ccccc1)C(=O)N[C@H](C)Cn1cccn1 to have a lower QED value.,C[C@H](SCc1ccccc1)C(=O)N[C@H](C)Cn1cccn1,0.855274205452264
+237299,Modify the molecule CC(C)c1nc(CC[NH3+])cs1 to increase its QED value.,CC(C)c1nc(CC[NH3+])cs1,0.7253081314677904
+229590,Please optimize the molecule O=C(NC1C[C@@H]2CC[C@H](C1)[NH+]2CCc1ccccc1)C1CCC1 to have a lower QED value.,O=C(NC1C[C@@H]2CC[C@H](C1)[NH+]2CCc1ccccc1)C1CCC1,0.8526314964051342
+167505,Modify the molecule O=C(N1CC[NH+](CCO)CC1)N1c2ccccc2Sc2ccccc21 to have a higher QED value.,O=C(N1CC[NH+](CCO)CC1)N1c2ccccc2Sc2ccccc21,0.8594033180586924
+49937,Modify the molecule O=C(Cn1c(=O)cnc2ccccc21)N(Cc1ccccc1)c1ccccc1 to decrease its QED value.,O=C(Cn1c(=O)cnc2ccccc21)N(Cc1ccccc1)c1ccccc1,0.539769966318409
+127523,Modify the molecule CCCc1ncc(C(=O)Nc2cnc(Cl)c(C)c2)s1 to decrease its QED value.,CCCc1ncc(C(=O)Nc2cnc(Cl)c(C)c2)s1,0.8749972273212459
+56953,Please modify the molecule CC[C@@H](C)Nc1oc(-c2ccccc2F)nc1S(=O)(=O)c1ccc2c(c1)OCCO2 to decrease its QED value.,CC[C@@H](C)Nc1oc(-c2ccccc2F)nc1S(=O)(=O)c1ccc2c(c1)OCCO2,0.6211253856257428
+241034,Modify the molecule Fc1ccc(-n2ncc3c2ncn2nc(-c4ccncc4)nc32)cc1 to decrease its QED value.,Fc1ccc(-n2ncc3c2ncn2nc(-c4ccncc4)nc32)cc1,0.4970774350123145
+210323,Please optimize the molecule Cc1cc(S(=O)(=O)N2CCO[C@@H](c3ccsc3)C2)sc1C to have a lower QED value.,Cc1cc(S(=O)(=O)N2CCO[C@@H](c3ccsc3)C2)sc1C,0.8597310538947991
+170641,Please modify the molecule CC(C)(F)C(=O)NCCc1nnc2n1CCC2 to increase its QED value.,CC(C)(F)C(=O)NCCc1nnc2n1CCC2,0.8394357016919577
+13292,Modify the molecule COCC[NH2+]Cc1cn(C)nc1-c1ccc(C)c(F)c1 to have a lower QED value.,COCC[NH2+]Cc1cn(C)nc1-c1ccc(C)c(F)c1,0.8081160450274776
+235004,Optimize the molecule O=C(CCl)Nc1nc(-c2ccc(Cl)cc2)cs1 to have a higher QED value.,O=C(CCl)Nc1nc(-c2ccc(Cl)cc2)cs1,0.8756019759362782
+60448,Modify the molecule CCN[C@@H](c1cncnc1)[C@@H]1CSCCS1 to have a lower QED value.,CCN[C@@H](c1cncnc1)[C@@H]1CSCCS1,0.8902569284003181
+165904,Please optimize the molecule Cc1ccc(NC(=S)NNC(=O)c2ccc(-n3ccnn3)cc2)c(C)c1 to have a lower QED value.,Cc1ccc(NC(=S)NNC(=O)c2ccc(-n3ccnn3)cc2)c(C)c1,0.4879642290634889
+191816,Modify the molecule CNS(=O)(=O)c1cc(C(=O)NC[C@]2([NH+](C)C)CCC[C@H](C)C2)c(C)o1 to have a lower QED value.,CNS(=O)(=O)c1cc(C(=O)NC[C@]2([NH+](C)C)CCC[C@H](C)C2)c(C)o1,0.6704627457082845
+237957,Optimize the molecule O=C(NCCCC1CCCC1)C(=O)Nc1cccc(N2CCCC2=O)c1 to have a higher QED value.,O=C(NCCCC1CCCC1)C(=O)Nc1cccc(N2CCCC2=O)c1,0.6069042662569043
+44707,Optimize the molecule O=C(NCCC1=CCCCC1)N1CCN(C(=O)c2ccncc2)CC1 to have a lower QED value.,O=C(NCCC1=CCCCC1)N1CCN(C(=O)c2ccncc2)CC1,0.8548899080436722
+240266,Please optimize the molecule Cc1ccccc1[C@@H](CC(=O)NCCc1ccc2c(c1)CCO2)NC(N)=O to have a higher QED value.,Cc1ccccc1[C@@H](CC(=O)NCCc1ccc2c(c1)CCO2)NC(N)=O,0.7013412673944083
+150900,Modify the molecule Cc1[nH]c2ccccc2c1SCCNC(=O)c1ccccc1C(F)(F)F to increase its QED value.,Cc1[nH]c2ccccc2c1SCCNC(=O)c1ccccc1C(F)(F)F,0.4838079198127899
+62971,Modify the molecule O=C(C[NH+]1CCCC[C@H]1C(=O)[O-])NC1CCCCC1 to have a lower QED value.,O=C(C[NH+]1CCCC[C@H]1C(=O)[O-])NC1CCCCC1,0.6600374335178263
+163155,Modify the molecule CCOc1ccc(C2=CCN(C(=O)c3ccn(C4CCCC4)n3)CC2)cc1 to decrease its QED value.,CCOc1ccc(C2=CCN(C(=O)c3ccn(C4CCCC4)n3)CC2)cc1,0.7924060039478068
+98027,Modify the molecule COc1ccccc1/C=C/C(=O)OCC(=O)c1ccc2c(c1)OCCO2 to have a lower QED value.,COc1ccccc1/C=C/C(=O)OCC(=O)c1ccc2c(c1)OCCO2,0.4512485257936844
+7634,Modify the molecule Cn1cc([C@H](O)CNC(=O)N[C@H]2C[C@@H]3CCCc4cccc2c43)cn1 to have a lower QED value.,Cn1cc([C@H](O)CNC(=O)N[C@H]2C[C@@H]3CCCc4cccc2c43)cn1,0.7990517276084285
+81135,Modify the molecule CCC(=O)c1ccn(CCCC(=O)OC)c1 to have a higher QED value.,CCC(=O)c1ccn(CCCC(=O)OC)c1,0.5473727811540735
+79089,Modify the molecule Cc1c(C(=O)NCc2ccc(CS(C)(=O)=O)cc2)cnn1C(C)C to have a higher QED value.,Cc1c(C(=O)NCc2ccc(CS(C)(=O)=O)cc2)cnn1C(C)C,0.8671282509759217
+83010,Optimize the molecule CC(C)c1ccc(C(=O)N[C@@H]2CC(=O)N(CCc3ccccc3)C2)c(=O)[nH]1 to have a lower QED value.,CC(C)c1ccc(C(=O)N[C@@H]2CC(=O)N(CCc3ccccc3)C2)c(=O)[nH]1,0.8199762336929041
+173592,Modify the molecule O=C(NCCCc1ccccc1)C1CCN(c2ccc(-c3ccc(F)cc3)nn2)CC1 to have a lower QED value.,O=C(NCCCc1ccccc1)C1CCN(c2ccc(-c3ccc(F)cc3)nn2)CC1,0.5830812274600773
+175992,Please modify the molecule Cc1cc(NC(=O)CSc2cc(Br)ccc2N)on1 to decrease its QED value.,Cc1cc(NC(=O)CSc2cc(Br)ccc2N)on1,0.6592773276039764
+113223,Modify the molecule CN(C)C(=O)N1CCC(C(=O)N[C@@H]2CC[C@H]([NH+](C)C)C2)CC1 to increase its QED value.,CN(C)C(=O)N1CCC(C(=O)N[C@@H]2CC[C@H]([NH+](C)C)C2)CC1,0.7425069836808018
+132524,Please modify the molecule CC(=O)Nc1cccc([C@H](C)NC(=O)c2nnn[n-]2)c1 to decrease its QED value.,CC(=O)Nc1cccc([C@H](C)NC(=O)c2nnn[n-]2)c1,0.8271916712293564
+132983,Optimize the molecule Cc1nscc1C(=O)NC1CC1 to have a lower QED value.,Cc1nscc1C(=O)NC1CC1,0.7496466391404834
+79760,Please modify the molecule Cc1ccc(-c2n[nH]cc2CN2CCN([C@H](C)C(F)(F)F)CC2)o1 to decrease its QED value.,Cc1ccc(-c2n[nH]cc2CN2CCN([C@H](C)C(F)(F)F)CC2)o1,0.9277878406337728
+6631,Modify the molecule C[C@H](C(=O)Nc1cc(Cl)ccc1Cl)n1cc(Br)cn1 to have a lower QED value.,C[C@H](C(=O)Nc1cc(Cl)ccc1Cl)n1cc(Br)cn1,0.8908127721166966
+84951,Optimize the molecule CC/C(=C/C(=O)Nc1ccc(CS(C)(=O)=O)cc1)c1ccccc1 to have a lower QED value.,CC/C(=C/C(=O)Nc1ccc(CS(C)(=O)=O)cc1)c1ccccc1,0.814204595725195
+45236,Modify the molecule Cn1ccnc1S/C=C\C(=O)c1ccc(Br)cc1 to have a lower QED value.,Cn1ccnc1S/C=C\C(=O)c1ccc(Br)cc1,0.4891070604534409
+207299,Please modify the molecule CCOc1ccccc1CNC(=O)CN1C(=O)COc2ccc(C(C)(C)C)cc21 to increase its QED value.,CCOc1ccccc1CNC(=O)CN1C(=O)COc2ccc(C(C)(C)C)cc21,0.8123996619963156
+72046,Modify the molecule O=C(N[C@@H](CO)Cc1c[nH]c2ccccc12)c1cc2c(s1)CCOC2 to have a higher QED value.,O=C(N[C@@H](CO)Cc1c[nH]c2ccccc12)c1cc2c(s1)CCOC2,0.6578687351187035
+21108,Optimize the molecule C/[NH+]=C(/NCc1ccnn1C)NCC1([NH+]2CCCCC2)CCCCC1 to have a higher QED value.,C/[NH+]=C(/NCc1ccnn1C)NCC1([NH+]2CCCCC2)CCCCC1,0.4051912684543748
+99413,Modify the molecule CC[C@@H](NC(=O)COc1ccc2c(c1)CCC(=O)N2)c1ccc(OC)cc1 to increase its QED value.,CC[C@@H](NC(=O)COc1ccc2c(c1)CCC(=O)N2)c1ccc(OC)cc1,0.7866679892617302
+168434,Please modify the molecule O=C(NCc1cccc(OCC(F)F)n1)Nc1cccnn1 to increase its QED value.,O=C(NCc1cccc(OCC(F)F)n1)Nc1cccnn1,0.8496247429785019
+99820,Please modify the molecule O=S(=O)(c1ccc(F)cc1F)N1CCCCCC1 to decrease its QED value.,O=S(=O)(c1ccc(F)cc1F)N1CCCCCC1,0.8314338100346333
+74582,Please optimize the molecule CCOc1ccc(C(=O)N[C@H]2CC[NH+](CCN3CCOCC3)C2)cc1 to have a lower QED value.,CCOc1ccc(C(=O)N[C@H]2CC[NH+](CCN3CCOCC3)C2)cc1,0.7169328674343322
+12379,Please optimize the molecule COCCNC(=O)c1cccc([N-]S(=O)(=O)c2cccc3cccnc23)c1 to have a higher QED value.,COCCNC(=O)c1cccc([N-]S(=O)(=O)c2cccc3cccnc23)c1,0.6313853741035863
+39819,Modify the molecule CCc1ccc([C@H](CNC(=O)CN2C(=O)[C@H]3CCCC[C@H]3C2=O)[NH+](C)C)cc1 to decrease its QED value.,CCc1ccc([C@H](CNC(=O)CN2C(=O)[C@H]3CCCC[C@H]3C2=O)[NH+](C)C)cc1,0.6788686280011884
+160519,Please optimize the molecule COc1ccccc1N1CCN(C(=O)COCC(=O)[O-])CC1 to have a lower QED value.,COc1ccccc1N1CCN(C(=O)COCC(=O)[O-])CC1,0.6780078132942446
+235585,Modify the molecule COc1ccc2nc(N3CC(C(=O)Nc4ccc5sc(C)nc5c4)C3)sc2c1 to decrease its QED value.,COc1ccc2nc(N3CC(C(=O)Nc4ccc5sc(C)nc5c4)C3)sc2c1,0.5433604122314454
+38425,Please modify the molecule O=C(C[C@@]1(O)C(=O)N(C[NH+]2CCOCC2)c2ccccc21)c1ccc(Cl)s1 to increase its QED value.,O=C(C[C@@]1(O)C(=O)N(C[NH+]2CCOCC2)c2ccccc21)c1ccc(Cl)s1,0.7275632291709857
+123147,Please modify the molecule Cc1ccc(S(=O)(=O)NCc2ccco2)cc1C(=O)N[C@@H](C)c1ccc(Cl)cc1 to decrease its QED value.,Cc1ccc(S(=O)(=O)NCc2ccco2)cc1C(=O)N[C@@H](C)c1ccc(Cl)cc1,0.5848837375062472
+225466,Modify the molecule COc1ccc(-c2noc([C@@H]3CCCN(C(=O)CC(C)C)C3)n2)cc1 to have a lower QED value.,COc1ccc(-c2noc([C@@H]3CCCN(C(=O)CC(C)C)C3)n2)cc1,0.8309839685694872
+76176,Optimize the molecule C[C@H]1CN(c2ccccc2NC(=O)CC2CCC2)C[C@H](C)O1 to have a lower QED value.,C[C@H]1CN(c2ccccc2NC(=O)CC2CCC2)C[C@H](C)O1,0.9262227377707404
+82640,Optimize the molecule NC(=O)c1nnn(Cc2cccnc2)c1N to have a higher QED value.,NC(=O)c1nnn(Cc2cccnc2)c1N,0.7139314068027488
+18029,Please optimize the molecule C[NH2+]C1CCC([NH+](C)C2[C@@H](C)CCC[C@@H]2C)CC1 to have a lower QED value.,C[NH2+]C1CCC([NH+](C)C2[C@@H](C)CCC[C@@H]2C)CC1,0.7444406204671674
+93254,Please optimize the molecule COc1cccc(-c2noc(CN(C)[C@@H](C)Cc3ccsc3)n2)c1 to have a higher QED value.,COc1cccc(-c2noc(CN(C)[C@@H](C)Cc3ccsc3)n2)c1,0.6516852975109905
+234526,Modify the molecule CCN(CC)c1ccc(S(=O)(=O)N2CCCCC2)cc1NC(=O)C1CCC1 to increase its QED value.,CCN(CC)c1ccc(S(=O)(=O)N2CCCCC2)cc1NC(=O)C1CCC1,0.770297135564405
+117177,Optimize the molecule CC(=O)N1CCc2nc([C@H]3CCN(C(=O)c4cc(C(C)(C)C)n[nH]4)C3)ncc2C1 to have a higher QED value.,CC(=O)N1CCc2nc([C@H]3CCN(C(=O)c4cc(C(C)(C)C)n[nH]4)C3)ncc2C1,0.8380696031246492
+153741,Optimize the molecule C[C@@H](NC(=O)CCn1cc(Cl)cn1)C12CC3CC(CC(C3)C1)C2 to have a higher QED value.,C[C@@H](NC(=O)CCn1cc(Cl)cn1)C12CC3CC(CC(C3)C1)C2,0.8924240672312872
+203773,Modify the molecule Cc1ncccc1NC(=O)c1csc([N+](=O)[O-])c1 to decrease its QED value.,Cc1ncccc1NC(=O)c1csc([N+](=O)[O-])c1,0.6809203370421856
+133316,Optimize the molecule COC[C@H](O)C[NH2+][C@H](c1ccccc1Cl)C(C)C to have a higher QED value.,COC[C@H](O)C[NH2+][C@H](c1ccccc1Cl)C(C)C,0.7921880621669459
+207269,Please modify the molecule Cc1cccc(OCCNC(=O)C[NH+]2CC(n3nc(C)cc3C)C2)c1 to decrease its QED value.,Cc1cccc(OCCNC(=O)C[NH+]2CC(n3nc(C)cc3C)C2)c1,0.7175874354244596
+22128,Modify the molecule CC(C)(C)c1cc(NC(=O)NCc2cc(F)ccc2F)n(C(C)(C)C)n1 to have a higher QED value.,CC(C)(C)c1cc(NC(=O)NCc2cc(F)ccc2F)n(C(C)(C)C)n1,0.8402246207246531
+110786,Please optimize the molecule O=C1OCCN1CCNc1ccc(-c2nc(Cc3ccc(F)cc3)no2)cn1 to have a higher QED value.,O=C1OCCN1CCNc1ccc(-c2nc(Cc3ccc(F)cc3)no2)cn1,0.6703881710188337
+96930,Please modify the molecule C[C@@H](NC(=O)Cc1cccc(C(F)(F)F)c1)c1cccc(Cl)c1 to decrease its QED value.,C[C@@H](NC(=O)Cc1cccc(C(F)(F)F)c1)c1cccc(Cl)c1,0.8516592151289288
+230524,Please modify the molecule COCCCN1C(=O)C([O-])=C(C(=O)c2ccc3c(c2)OCCO3)[C@@H]1c1ccc(C)o1 to decrease its QED value.,COCCCN1C(=O)C([O-])=C(C(=O)c2ccc3c(c2)OCCO3)[C@@H]1c1ccc(C)o1,0.5045763913377181
+75683,Optimize the molecule COc1ccc([C@H](C)[NH+]2CC[C@H](C(=O)[O-])[C@@H]2C)cc1 to have a higher QED value.,COc1ccc([C@H](C)[NH+]2CC[C@H](C(=O)[O-])[C@@H]2C)cc1,0.818289137637813
+58849,Please modify the molecule Cc1nccn1-c1cc(N2CCC(C(=O)N[C@@H](C)c3ccccc3)CC2)ncn1 to increase its QED value.,Cc1nccn1-c1cc(N2CCC(C(=O)N[C@@H](C)c3ccccc3)CC2)ncn1,0.7245915734031169
+244457,Please optimize the molecule C[C@H]1CC[C@H]([NH+]2CCC[C@H]([C@H](O)c3nccn3C)C2)C1 to have a lower QED value.,C[C@H]1CC[C@H]([NH+]2CCC[C@H]([C@H](O)c3nccn3C)C2)C1,0.8638747904153679
+206384,Modify the molecule Cc1ccc(NS(=O)(=O)c2ccc3c(c2)CCC(=O)N3)cc1Br to increase its QED value.,Cc1ccc(NS(=O)(=O)c2ccc3c(c2)CCC(=O)N3)cc1Br,0.8362388685915371
+13056,Optimize the molecule Clc1ccnc(C[NH+]2CCC(C[NH+]3CCCC3)CC2)c1 to have a lower QED value.,Clc1ccnc(C[NH+]2CCC(C[NH+]3CCCC3)CC2)c1,0.8143430230716323
+170387,Please modify the molecule COc1ccc(Cl)cc1CNC(=O)c1nc2ccccc2c(=O)[nH]1 to increase its QED value.,COc1ccc(Cl)cc1CNC(=O)c1nc2ccccc2c(=O)[nH]1,0.762025908846282
+224646,Optimize the molecule CC1(C)CN(C(=O)Nc2ccc3c(c2)C(=O)NC3=O)C1(C)C to have a lower QED value.,CC1(C)CN(C(=O)Nc2ccc3c(c2)C(=O)NC3=O)C1(C)C,0.7806836189112751
+139888,Please optimize the molecule Cc1cc(C)cc(O[C@H]2CC[C@]([NH2+]C3CC3)(C(N)=O)C2)c1 to have a higher QED value.,Cc1cc(C)cc(O[C@H]2CC[C@]([NH2+]C3CC3)(C(N)=O)C2)c1,0.8545176289878625
+117052,Please optimize the molecule CCN(C(=O)c1sc(NC(=O)c2ccco2)cc1C)[C@@H](C)C(C)C to have a lower QED value.,CCN(C(=O)c1sc(NC(=O)c2ccco2)cc1C)[C@@H](C)C(C)C,0.840943932169345
+180733,Optimize the molecule CC(C)N[C@@]1(C#N)CC[C@H](N2CC[NH+]3CCCC[C@@H]3C2)C1 to have a higher QED value.,CC(C)N[C@@]1(C#N)CC[C@H](N2CC[NH+]3CCCC[C@@H]3C2)C1,0.7981122715357418
+163158,Modify the molecule CCC[C@@H]1CN(C(=O)Nc2cc(OC)ccc2OC)C[C@H]1[NH+](C)C to increase its QED value.,CCC[C@@H]1CN(C(=O)Nc2cc(OC)ccc2OC)C[C@H]1[NH+](C)C,0.8273306935711174
+106953,Modify the molecule COC(=O)c1ccc(CN2C[C@H](C)OC[C@H]2C)cc1 to decrease its QED value.,COC(=O)c1ccc(CN2C[C@H](C)OC[C@H]2C)cc1,0.782704552880239
+65296,Please optimize the molecule COC(=O)C1CCN(c2ncnc(N3CCN(CCO)CC3)c2N)CC1 to have a higher QED value.,COC(=O)C1CCN(c2ncnc(N3CCN(CCO)CC3)c2N)CC1,0.672366898216682
+192517,Modify the molecule CN(C)C1=N/C(=N\c2ccc([N+](=O)[O-])cc2)c2ccccc21 to decrease its QED value.,CN(C)C1=N/C(=N\c2ccc([N+](=O)[O-])cc2)c2ccccc21,0.6311247673349049
+104314,Modify the molecule CC(C)OCC[NH+]1CCN([C@H](C)c2ncc(-c3ccccc3)o2)CC1 to decrease its QED value.,CC(C)OCC[NH+]1CCN([C@H](C)c2ncc(-c3ccccc3)o2)CC1,0.8345878477080699
+196269,Please modify the molecule CC[C@](C)([C@@H](O)Cc1ccc(F)cc1Br)[NH+]1CCCC1 to decrease its QED value.,CC[C@](C)([C@@H](O)Cc1ccc(F)cc1Br)[NH+]1CCCC1,0.8413812396361283
+100015,Optimize the molecule Cc1c(NC(=O)C2(c3ccccc3)CC2)cccc1[N+](=O)[O-] to have a lower QED value.,Cc1c(NC(=O)C2(c3ccccc3)CC2)cccc1[N+](=O)[O-],0.692099041448195
+2809,Optimize the molecule CC(C)[C@H]1CC[C@@H](C)C[C@H]1OC(=O)C=O to have a lower QED value.,CC(C)[C@H]1CC[C@@H](C)C[C@H]1OC(=O)C=O,0.4089542496454278
+18660,Please modify the molecule CCc1c(N)nnn1C[C@@H]1CSc2ccccc21 to increase its QED value.,CCc1c(N)nnn1C[C@@H]1CSc2ccccc21,0.919782647806243
+248594,Please optimize the molecule CN(Cc1ccccc1F)C(=O)C[NH+]1CCCN(CC(F)F)CC1 to have a higher QED value.,CN(Cc1ccccc1F)C(=O)C[NH+]1CCCN(CC(F)F)CC1,0.8203658239790045
+192445,Modify the molecule Cc1cc(C)c2nc(N(CCCN3CCOCC3)C(=O)c3cc(=O)c4ccccc4o3)sc2c1 to decrease its QED value.,Cc1cc(C)c2nc(N(CCCN3CCOCC3)C(=O)c3cc(=O)c4ccccc4o3)sc2c1,0.4100657145038931
+57054,Optimize the molecule CS(=O)(=O)CCC(=O)N1CCCc2cc(Cl)cc(F)c21 to have a lower QED value.,CS(=O)(=O)CCC(=O)N1CCCc2cc(Cl)cc(F)c21,0.8578966448762603
+239097,Modify the molecule COC(=O)c1ccc(C)cc1NC(=O)NCc1cc[nH+]c(N2CCSCC2)c1 to have a higher QED value.,COC(=O)c1ccc(C)cc1NC(=O)NCc1cc[nH+]c(N2CCSCC2)c1,0.7521517274874033
+212757,Please modify the molecule CC[C@H](C#N)Oc1c(F)cc(C=O)cc1F to decrease its QED value.,CC[C@H](C#N)Oc1c(F)cc(C=O)cc1F,0.7393169596193033
+121470,Modify the molecule CCN(C)C(=O)N1C[C@@H](C)[NH2+]C[C@H]1C to have a lower QED value.,CCN(C)C(=O)N1C[C@@H](C)[NH2+]C[C@H]1C,0.6208576890542935
+197228,Please optimize the molecule CC(=O)Nc1ccc(C)c(NC(=O)N(C2CC2)[C@@H](C)C2CC2)c1 to have a higher QED value.,CC(=O)Nc1ccc(C)c(NC(=O)N(C2CC2)[C@@H](C)C2CC2)c1,0.8690557026699542
+220464,Optimize the molecule Cc1cccc(N(Cc2ccccc2)S(=O)(=O)c2ccccc2C#N)c1 to have a higher QED value.,Cc1cccc(N(Cc2ccccc2)S(=O)(=O)c2ccccc2C#N)c1,0.6811190691697064
+72738,Modify the molecule N#Cc1cccnc1NCC(=O)Nc1ccc(Br)cc1 to have a higher QED value.,N#Cc1cccnc1NCC(=O)Nc1ccc(Br)cc1,0.9030261002504084
+146635,Optimize the molecule Cc1ccc([C@H](C)NC(=O)c2csc(C#CCN)c2)s1 to have a higher QED value.,Cc1ccc([C@H](C)NC(=O)c2csc(C#CCN)c2)s1,0.8567098562516022
+87551,Please modify the molecule NC(=S)N/N=C(\Cc1nc2ccccc2[nH]1)c1ccccc1 to increase its QED value.,NC(=S)N/N=C(\Cc1nc2ccccc2[nH]1)c1ccccc1,0.3925388667124968
+28857,Please modify the molecule COCC[NH+](C)Cc1ccnc(N)c1 to decrease its QED value.,COCC[NH+](C)Cc1ccnc(N)c1,0.6561753090813165
+78223,Modify the molecule C[C@H]1COCCN1C(=O)NCc1cc2ccccc2o1 to decrease its QED value.,C[C@H]1COCCN1C(=O)NCc1cc2ccccc2o1,0.9143160477704236
+238087,Modify the molecule O=C(Cc1cccs1)N1CCC[C@H](OCc2cccnc2)C1 to increase its QED value.,O=C(Cc1cccs1)N1CCC[C@H](OCc2cccnc2)C1,0.8516201820432328
+65902,Please optimize the molecule C#CCNCC(=O)N[C@H](C)CC1CC1 to have a lower QED value.,C#CCNCC(=O)N[C@H](C)CC1CC1,0.477744948537139
+170355,Optimize the molecule O=C(Cc1ccc(CO)cc1)N1CC[C@@]2(CCCN(CCO)C2=O)C1 to have a higher QED value.,O=C(Cc1ccc(CO)cc1)N1CC[C@@]2(CCCN(CCO)C2=O)C1,0.8160832062517993
+52644,Modify the molecule COc1ccc(NC(=O)C[C@H]2SC(N)=NC2=O)c([N+](=O)[O-])c1 to have a higher QED value.,COc1ccc(NC(=O)C[C@H]2SC(N)=NC2=O)c([N+](=O)[O-])c1,0.6056684535357449
+212227,Modify the molecule O=C(Cc1csc(-c2ccoc2)n1)N1CCSC2(CCCCC2)C1 to increase its QED value.,O=C(Cc1csc(-c2ccoc2)n1)N1CCSC2(CCCCC2)C1,0.8198794221306968
+125824,Please modify the molecule Cc1cccc(C(=O)[O-])c1NC(=O)N[C@H]1CCCC1(C)C to decrease its QED value.,Cc1cccc(C(=O)[O-])c1NC(=O)N[C@H]1CCCC1(C)C,0.8932950685499506
+24534,Please modify the molecule Cc1ccc(NC(=O)[C@H]2CCC[NH+](Cc3cccc4cn[nH]c34)C2)nc1 to decrease its QED value.,Cc1ccc(NC(=O)[C@H]2CCC[NH+](Cc3cccc4cn[nH]c34)C2)nc1,0.6703837670562999
+35681,Optimize the molecule COC1CCC(CC(=O)N[C@@H]2CC[NH+](C)[C@H]2c2ccc(Cl)cc2)CC1 to have a lower QED value.,COC1CCC(CC(=O)N[C@@H]2CC[NH+](C)[C@H]2c2ccc(Cl)cc2)CC1,0.8409053592054356
+39468,Optimize the molecule CCNC(=O)COC(=O)/C=C/c1ccccc1Cl to have a higher QED value.,CCNC(=O)COC(=O)/C=C/c1ccccc1Cl,0.6560319861354001
+87006,Please modify the molecule O=C(Nn1cnc2ccccc21)c1cccc(F)c1 to increase its QED value.,O=C(Nn1cnc2ccccc21)c1cccc(F)c1,0.7645875425394133
+10897,Please modify the molecule COCCCNC(=O)N(C)Cc1ccc(OC)c(O)c1 to increase its QED value.,COCCCNC(=O)N(C)Cc1ccc(OC)c(O)c1,0.7448590048922721
+59869,Please modify the molecule CCn1c(=O)oc2cc(NS(=O)(=O)c3ccc(CC(C)C)cc3)ccc21 to increase its QED value.,CCn1c(=O)oc2cc(NS(=O)(=O)c3ccc(CC(C)C)cc3)ccc21,0.7144912708933463
+235871,Please modify the molecule O=C(NCc1ccc(Cl)cc1)c1ccc(Oc2nccnc2N2CCOCC2)cc1 to increase its QED value.,O=C(NCc1ccc(Cl)cc1)c1ccc(Oc2nccnc2N2CCOCC2)cc1,0.6499720695655042
+6634,Modify the molecule Cc1ccc(-n2nnc(C(=O)O[C@@H](C)c3nccs3)c2C)cc1 to have a higher QED value.,Cc1ccc(-n2nnc(C(=O)O[C@@H](C)c3nccs3)c2C)cc1,0.6875731718333348
+216800,Modify the molecule O=C(COc1ccc2c(c1)CCC2)NCCNC(=O)c1ccccc1 to decrease its QED value.,O=C(COc1ccc2c(c1)CCC2)NCCNC(=O)c1ccccc1,0.7599269426702853
+79663,Modify the molecule COc1ccc([N+](=O)[O-])cc1NC(=O)c1ccc(-n2cccn2)cc1 to have a higher QED value.,COc1ccc([N+](=O)[O-])cc1NC(=O)c1ccc(-n2cccn2)cc1,0.5692095099640402
+243699,Modify the molecule O=C(NCc1cc2ccccc2[nH]1)c1cnc([C@@H]2CCCO2)s1 to have a higher QED value.,O=C(NCc1cc2ccccc2[nH]1)c1cnc([C@@H]2CCCO2)s1,0.7715348097455388
+150779,Please optimize the molecule C[C@H]1C[C@@H]1C(=O)N1CCN(Cc2cc3ccccc3s2)CC1 to have a higher QED value.,C[C@H]1C[C@@H]1C(=O)N1CCN(Cc2cc3ccccc3s2)CC1,0.8684099861820453
+77545,Please modify the molecule Cc1nn(-c2ccc(C(=O)[O-])cc2)c(=O)c2ccccc12 to increase its QED value.,Cc1nn(-c2ccc(C(=O)[O-])cc2)c(=O)c2ccccc12,0.7025781552326882
+191019,Please optimize the molecule Cc1n[nH]c(C(=O)N2CCN(S(C)(=O)=O)CC2)n1 to have a higher QED value.,Cc1n[nH]c(C(=O)N2CCN(S(C)(=O)=O)CC2)n1,0.7317254222064766
+113773,Please modify the molecule CC1(C)C[C@H](NC(=O)Cc2ccccc2)C[C@](C)(CNC(=O)Cc2ccccc2)C1 to increase its QED value.,CC1(C)C[C@H](NC(=O)Cc2ccccc2)C[C@](C)(CNC(=O)Cc2ccccc2)C1,0.7206409966246611
+234103,Please optimize the molecule O=C(NCC1(c2ccc(Cl)cc2)CCOCC1)N[C@@H]1CCC[C@H]1CO to have a higher QED value.,O=C(NCC1(c2ccc(Cl)cc2)CCOCC1)N[C@@H]1CCC[C@H]1CO,0.750016813045066
+98881,Optimize the molecule C[NH+](C)[C@H]1CCN(C(=O)c2ccncc2/C=C/C(=O)[O-])C1 to have a higher QED value.,C[NH+](C)[C@H]1CCN(C(=O)c2ccncc2/C=C/C(=O)[O-])C1,0.6637828001355559
+174295,Optimize the molecule O=C(CCCCl)Nc1nnc(-c2ccc(Cl)cc2Cl)s1 to have a lower QED value.,O=C(CCCCl)Nc1nnc(-c2ccc(Cl)cc2Cl)s1,0.8094417398475493
+55414,Optimize the molecule CC[C@](C)([C@@H](O)Cc1csc(C)n1)[NH+](C)C to have a higher QED value.,CC[C@](C)([C@@H](O)Cc1csc(C)n1)[NH+](C)C,0.7974494005960304
+100942,Modify the molecule CCOC(=O)CCc1c[nH]c2ccc(C)cc12 to have a lower QED value.,CCOC(=O)CCc1c[nH]c2ccc(C)cc12,0.8218419480641268
+156934,Optimize the molecule Cc1nc(C(C)C)sc1C(=O)NCc1ccc(C)n1C to have a higher QED value.,Cc1nc(C(C)C)sc1C(=O)NCc1ccc(C)n1C,0.9403268844520402
+67777,Please optimize the molecule Cc1cc(C)cc(NC(=O)c2ccc(CN3CCOCC3)cc2)c1 to have a higher QED value.,Cc1cc(C)cc(NC(=O)c2ccc(CN3CCOCC3)cc2)c1,0.937169385527302
+111247,Please optimize the molecule NC(=O)c1sc2ncccc2c1[C@@H]1CCN(Cc2ccc3ccccc3n2)C1 to have a higher QED value.,NC(=O)c1sc2ncccc2c1[C@@H]1CCN(Cc2ccc3ccccc3n2)C1,0.5748559818448777
+99069,Modify the molecule Cc1nccn1-c1cc(NCCNC(=O)Nc2ccc3ccccc3c2)ncn1 to decrease its QED value.,Cc1nccn1-c1cc(NCCNC(=O)Nc2ccc3ccccc3c2)ncn1,0.4409532640021305
+53927,Modify the molecule O=C(Cn1nc(-c2ccc(F)cc2)oc1=O)OCc1nc2ccccc2s1 to have a higher QED value.,O=C(Cn1nc(-c2ccc(F)cc2)oc1=O)OCc1nc2ccccc2s1,0.490991054911826
+141704,Modify the molecule O=c1[nH]c([O-])nc(C=Cc2c[nH]c3ccccc23)c1[N+](=O)[O-] to decrease its QED value.,O=c1[nH]c([O-])nc(C=Cc2c[nH]c3ccccc23)c1[N+](=O)[O-],0.5575365771465243
+228198,Please modify the molecule CCn1nc(C)c(CN2CCO[C@H](CC(=O)OC)C2)c1C to decrease its QED value.,CCn1nc(C)c(CN2CCO[C@H](CC(=O)OC)C2)c1C,0.7660753299515712
+49488,Modify the molecule Cc1cccc(CN(Cc2cccc(C)n2)C(=O)[C@@H]2C[C@H]2c2ccccc2)n1 to decrease its QED value.,Cc1cccc(CN(Cc2cccc(C)n2)C(=O)[C@@H]2C[C@H]2c2ccccc2)n1,0.6440404660622877
+62849,Please optimize the molecule CC(C)C[NH+]1CCC[C@@H]1CNC(=O)N(C)C[C@@H](C)O to have a lower QED value.,CC(C)C[NH+]1CCC[C@@H]1CNC(=O)N(C)C[C@@H](C)O,0.6223637815674097
+214338,Modify the molecule C[C@H](Oc1ccccc1F)C(=O)NNC(=O)c1ccc(C(C)(C)C)cc1 to have a lower QED value.,C[C@H](Oc1ccccc1F)C(=O)NNC(=O)c1ccc(C(C)(C)C)cc1,0.8238721965437087
+169544,Optimize the molecule CSc1ccc([N+](=O)[O-])c(C(=O)Nc2ccc3c(c2)COC3)c1 to have a higher QED value.,CSc1ccc([N+](=O)[O-])c(C(=O)Nc2ccc3c(c2)COC3)c1,0.5260768580790058
+104352,Please optimize the molecule CSC[C@H](C)CNC(=O)N(C)[C@H]1CC[NH+](C)C[C@H]1C to have a higher QED value.,CSC[C@H](C)CNC(=O)N(C)[C@H]1CC[NH+](C)C[C@H]1C,0.7751070334404492
+182154,Please optimize the molecule CCOC(=O)N1CCN([C@H](c2ccc(CC)cc2)c2sc3nc(CC)nn3c2O)CC1 to have a lower QED value.,CCOC(=O)N1CCN([C@H](c2ccc(CC)cc2)c2sc3nc(CC)nn3c2O)CC1,0.6280106981537389
+15669,Please modify the molecule C[C@H]1C[C@H]1NC(=O)C[C@@H]1CSCC[NH2+]1 to increase its QED value.,C[C@H]1C[C@H]1NC(=O)C[C@@H]1CSCC[NH2+]1,0.671539225627799
+45388,Please optimize the molecule CCCCC[C@H](Br)CC to have a higher QED value.,CCCCC[C@H](Br)CC,0.4604811078234717
+239016,Please modify the molecule C[C@H]1[C@@H](C)SCCN1C(=O)c1cn(Cc2cccnc2)nn1 to increase its QED value.,C[C@H]1[C@@H](C)SCCN1C(=O)c1cn(Cc2cccnc2)nn1,0.8617605713093528
+123469,Please modify the molecule Cc1cc(CN2CCN(C(=O)/C=C/c3ccc(C)o3)CC2)no1 to increase its QED value.,Cc1cc(CN2CCN(C(=O)/C=C/c3ccc(C)o3)CC2)no1,0.8097975365569928
+207418,Modify the molecule Nc1ccc2oc(NCc3ccsc3)nc2c1 to have a higher QED value.,Nc1ccc2oc(NCc3ccsc3)nc2c1,0.695899992898018
+151864,Optimize the molecule CC(=O)N1CCCC[C@@H]1C(=O)NCc1cccc(-c2n[nH]c(C)n2)c1 to have a higher QED value.,CC(=O)N1CCCC[C@@H]1C(=O)NCc1cccc(-c2n[nH]c(C)n2)c1,0.8869715228023466
+219801,Optimize the molecule CC1(C)[C@@H]2CC[C@@]1(C)[C@@H]([NH2+]Cc1cccnc1N1CCC(C(N)=O)CC1)C2 to have a higher QED value.,CC1(C)[C@@H]2CC[C@@]1(C)[C@@H]([NH2+]Cc1cccnc1N1CCC(C(N)=O)CC1)C2,0.8317900190622093
+82634,Optimize the molecule Cc1ccc(C(=O)C2=C([O-])C(=O)N(c3cccnc3)[C@@H]2c2ccc(O)cc2)cc1 to have a higher QED value.,Cc1ccc(C(=O)C2=C([O-])C(=O)N(c3cccnc3)[C@@H]2c2ccc(O)cc2)cc1,0.6971602146903454
+44315,Modify the molecule CCc1ccc(N2C(=O)C[NH+]([C@@H](C)c3ccccc3)[C@H]3CS(=O)(=O)C[C@H]32)cc1 to increase its QED value.,CCc1ccc(N2C(=O)C[NH+]([C@@H](C)c3ccccc3)[C@H]3CS(=O)(=O)C[C@H]32)cc1,0.8457660016636787
+158724,Modify the molecule CCC[NH+]1CCN(C(=O)C[NH+]2CC=C(c3cnn(-c4ccc(C)c(C)c4)c3)CC2)CC1 to have a lower QED value.,CCC[NH+]1CCN(C(=O)C[NH+]2CC=C(c3cnn(-c4ccc(C)c(C)c4)c3)CC2)CC1,0.7021633257653854
+180041,Please optimize the molecule Cc1cc(C(=O)N2CCOCC2)nn1CC(=O)NC(C)(C)C to have a lower QED value.,Cc1cc(C(=O)N2CCOCC2)nn1CC(=O)NC(C)(C)C,0.8859316733755792
+131773,Modify the molecule C[NH+](CC(=O)Nc1nncs1)Cc1cccc2ccccc12 to have a higher QED value.,C[NH+](CC(=O)Nc1nncs1)Cc1cccc2ccccc12,0.747297751073773
+35840,Optimize the molecule Cc1cccc2ncc(C(=O)N3C[C@@H]4CC[C@H](C3)N(C)C4=O)c(=O)n12 to have a higher QED value.,Cc1cccc2ncc(C(=O)N3C[C@@H]4CC[C@H](C3)N(C)C4=O)c(=O)n12,0.765660255562137
+233658,Optimize the molecule Cc1ccc(S(=O)(=O)N(C)C)cc1NC(=S)Nc1cccc2ccccc12 to have a lower QED value.,Cc1ccc(S(=O)(=O)N(C)C)cc1NC(=S)Nc1cccc2ccccc12,0.6438148961895996
+39170,Modify the molecule CC(=O)Nc1ccc(C[NH2+]C[C@@H]2CCCN(c3ncccn3)C2)cc1 to have a higher QED value.,CC(=O)Nc1ccc(C[NH2+]C[C@@H]2CCCN(c3ncccn3)C2)cc1,0.8338385843678426
+127232,Please optimize the molecule CCc1n[nH]c(NC(=O)c2[nH]nc3c2C[C@@H](C)CC3)n1 to have a higher QED value.,CCc1n[nH]c(NC(=O)c2[nH]nc3c2C[C@@H](C)CC3)n1,0.7886915682410969
+211525,Modify the molecule O=C(NCc1ccc(-n2cncn2)cc1)N1CCOC[C@H]1C1CC1 to have a lower QED value.,O=C(NCc1ccc(-n2cncn2)cc1)N1CCOC[C@H]1C1CC1,0.92544892623646
+215392,Modify the molecule COc1cc(C[NH+]2CCC(OC[C@H]3CCCO3)CC2)ccc1SC to increase its QED value.,COc1cc(C[NH+]2CCC(OC[C@H]3CCCO3)CC2)ccc1SC,0.7624308687334402
+201469,Optimize the molecule Cc1ccccc1-c1nc(C(=O)Nc2cccc(C)c2C(N)=O)cs1 to have a higher QED value.,Cc1ccccc1-c1nc(C(=O)Nc2cccc(C)c2C(N)=O)cs1,0.7499800604211014
+219670,Please optimize the molecule C[C@H](NC(=O)c1c(Cl)cccc1Cl)c1cccc(Cl)c1 to have a higher QED value.,C[C@H](NC(=O)c1c(Cl)cccc1Cl)c1cccc(Cl)c1,0.8303571490303304
+120770,Please optimize the molecule C[C@@H]1c2cccn2CC[NH+]1CCC(=O)Nc1ccccc1 to have a higher QED value.,C[C@@H]1c2cccn2CC[NH+]1CCC(=O)Nc1ccccc1,0.8767028186828025
+105205,Please optimize the molecule CN(C)C(C)(C)[C@H]([NH3+])[C@H]1CCOC2(CCC2)C1 to have a higher QED value.,CN(C)C(C)(C)[C@H]([NH3+])[C@H]1CCOC2(CCC2)C1,0.8085418498207665
+42860,Modify the molecule CCc1c(C)sc(NC(=S)NC(=O)c2ccccc2)c1C(=O)OC to increase its QED value.,CCc1c(C)sc(NC(=S)NC(=O)c2ccccc2)c1C(=O)OC,0.6432503766549509
+208748,Optimize the molecule COc1ccc(F)cc1NC(=O)NC[C@H](O)C1CCOCC1 to have a higher QED value.,COc1ccc(F)cc1NC(=O)NC[C@H](O)C1CCOCC1,0.7736002070162806
+146715,Modify the molecule CCCOc1cc(N(C)CCc2cccs2)c(N)cc1F to have a higher QED value.,CCCOc1cc(N(C)CCc2cccs2)c(N)cc1F,0.7874839033208632
+150790,Modify the molecule O=C(Nc1ccc(F)c(F)c1)N1CCC[C@H](c2nnc3n2CCCCC3)C1 to increase its QED value.,O=C(Nc1ccc(F)c(F)c1)N1CCC[C@H](c2nnc3n2CCCCC3)C1,0.8706751537150943
+189863,Please modify the molecule C[C@H](NC(=O)CCCN1C(=O)c2ccccc2C1=O)c1ccc(F)cc1 to increase its QED value.,C[C@H](NC(=O)CCCN1C(=O)c2ccccc2C1=O)c1ccc(F)cc1,0.8109304909860724
+110286,Modify the molecule CCc1ccc([C@@H]2OCC[C@H]2CO)o1 to decrease its QED value.,CCc1ccc([C@@H]2OCC[C@H]2CO)o1,0.8025978854791936
+73650,Please optimize the molecule O=C([O-])[C@@H](c1ccc(NC(=O)N2CCCC2)cc1)[NH+]1CCCCCCC1 to have a higher QED value.,O=C([O-])[C@@H](c1ccc(NC(=O)N2CCCC2)cc1)[NH+]1CCCCCCC1,0.8404667199671112
+32216,Modify the molecule CN(C)c1ccc(CNC(=O)CSc2nc(-c3ccccc3)n[nH]2)cc1 to increase its QED value.,CN(C)c1ccc(CNC(=O)CSc2nc(-c3ccccc3)n[nH]2)cc1,0.6282481023457117
+198087,Please optimize the molecule CCNC(=O)c1cccc(NC(=S)NC(=O)CC2CCCC2)c1 to have a lower QED value.,CCNC(=O)c1cccc(NC(=S)NC(=O)CC2CCCC2)c1,0.7248138561193062
+80781,Optimize the molecule CC[NH2+][C@H]1CCC[C@@H](COC)C1 to have a lower QED value.,CC[NH2+][C@H]1CCC[C@@H](COC)C1,0.6658896480690442
+116049,Modify the molecule Cc1ccc(S(C)(=O)=O)cc1C(=O)Nc1cncc2ccccc12 to increase its QED value.,Cc1ccc(S(C)(=O)=O)cc1C(=O)Nc1cncc2ccccc12,0.794228771807621
+133438,Modify the molecule CN(CC(C)(C)O)C(=O)/C=C/c1ccc(O)cc1 to have a higher QED value.,CN(CC(C)(C)O)C(=O)/C=C/c1ccc(O)cc1,0.7973368335670645
+78246,Optimize the molecule CCc1nn(C)cc1/C=C(/C#N)C(=O)c1cc(C)cc(C)c1 to have a lower QED value.,CCc1nn(C)cc1/C=C(/C#N)C(=O)c1cc(C)cc(C)c1,0.493001175140639
+204149,Modify the molecule C[C@H]1C[C@@H](C)CN(C(=O)COc2ncnc3c(Cl)cc(Cl)cc23)C1 to increase its QED value.,C[C@H]1C[C@@H](C)CN(C(=O)COc2ncnc3c(Cl)cc(Cl)cc23)C1,0.8266334753167408
+83002,Modify the molecule C[C@@H](CS(C)(=O)=O)N(C)C(=O)N[C@H](c1ccccc1)c1ccccn1 to have a lower QED value.,C[C@@H](CS(C)(=O)=O)N(C)C(=O)N[C@H](c1ccccc1)c1ccccn1,0.8557336916995205
+164973,Modify the molecule C[C@@H](CC[NH3+])NC(=O)CC12CC3C[C@](C)(C1)C[C@@](C)(C3)C2 to increase its QED value.,C[C@@H](CC[NH3+])NC(=O)CC12CC3C[C@](C)(C1)C[C@@](C)(C3)C2,0.8037659567383569
+195718,Please modify the molecule CC(=O)[C@H](C)SCc1nc2ccccc2c(=O)[nH]1 to increase its QED value.,CC(=O)[C@H](C)SCc1nc2ccccc2c(=O)[nH]1,0.9165249298400427
+247318,Optimize the molecule C[C@@H](C(=O)Nc1ccc(OCC(F)(F)F)c(C#N)c1)[NH+](C)C to have a lower QED value.,C[C@@H](C(=O)Nc1ccc(OCC(F)(F)F)c(C#N)c1)[NH+](C)C,0.8505908160876399
+7527,Please optimize the molecule CSc1ccc(-c2nc(CN3CCO[C@H](C[NH3+])C3)c(C)o2)cc1 to have a higher QED value.,CSc1ccc(-c2nc(CN3CCO[C@H](C[NH3+])C3)c(C)o2)cc1,0.8449907870030557
+89702,Modify the molecule O=C([C@@H]1COCCO1)N1CCC[C@H]1[C@@H]1CCC[C@@H]1O to increase its QED value.,O=C([C@@H]1COCCO1)N1CCC[C@H]1[C@@H]1CCC[C@@H]1O,0.7952980878926644
+66978,Please optimize the molecule O=C(Cc1n[nH]c(=O)c2ccccc12)OCc1nc2cc(C(F)(F)F)ccc2c(=O)[nH]1 to have a lower QED value.,O=C(Cc1n[nH]c(=O)c2ccccc12)OCc1nc2cc(C(F)(F)F)ccc2c(=O)[nH]1,0.4805276957647351
+246470,Please optimize the molecule Cc1c(C(=O)Nc2ccc(Br)nc2)cnn1C(C)C to have a lower QED value.,Cc1c(C(=O)Nc2ccc(Br)nc2)cnn1C(C)C,0.8827009350962839
+54747,Modify the molecule c1nc(N2CCOCC2)ncc1C[NH+]1CCC[C@]2(CCOC2)C1 to have a lower QED value.,c1nc(N2CCOCC2)ncc1C[NH+]1CCC[C@]2(CCOC2)C1,0.8430847487884083
+14689,Please modify the molecule Cn1cc[nH+]c1CC[C@@H]1CCCCN1C(=O)CCCS(N)(=O)=O to increase its QED value.,Cn1cc[nH+]c1CC[C@@H]1CCCCN1C(=O)CCCS(N)(=O)=O,0.7663556305592114
+92612,Please optimize the molecule N#CN(Cc1ccc(Cl)cc1)c1nccc(-c2ccccc2)n1 to have a lower QED value.,N#CN(Cc1ccc(Cl)cc1)c1nccc(-c2ccccc2)n1,0.5314416324372618
+14490,Please optimize the molecule CC(=O)NC[C@@H]1CCC[NH+](CN2C(=O)N[C@](C)(c3ccccc3F)C2=O)C1 to have a higher QED value.,CC(=O)NC[C@@H]1CCC[NH+](CN2C(=O)N[C@](C)(c3ccccc3F)C2=O)C1,0.6310635429917044
+118007,Modify the molecule COc1ccc([C@H](C[NH3+])S(=O)(=O)c2ccc(C)cc2)cc1 to have a lower QED value.,COc1ccc([C@H](C[NH3+])S(=O)(=O)c2ccc(C)cc2)cc1,0.914727071144156
+53893,Optimize the molecule COc1ncccc1C(=O)N1CCC(C(=O)NCc2nc(C)no2)CC1 to have a higher QED value.,COc1ncccc1C(=O)N1CCC(C(=O)NCc2nc(C)no2)CC1,0.8459526201320828
+31058,Modify the molecule C[C@H]1CCCC[C@@H]1Oc1nc(C(F)(F)F)ccc1C(N)=[NH2+] to have a lower QED value.,C[C@H]1CCCC[C@@H]1Oc1nc(C(F)(F)F)ccc1C(N)=[NH2+],0.6565731961167839
+15995,Please modify the molecule COc1ccc(C(=O)C2=C([O-])C(=O)N(C)[C@H]2c2ccc(Cl)cc2Cl)cc1OC to decrease its QED value.,COc1ccc(C(=O)C2=C([O-])C(=O)N(C)[C@H]2c2ccc(Cl)cc2Cl)cc1OC,0.6940365537234374
+20671,Please modify the molecule Nc1nc(N2CCC[C@H]2[C@@H]2CCC[NH2+]2)ccc1[N+](=O)[O-] to decrease its QED value.,Nc1nc(N2CCC[C@H]2[C@@H]2CCC[NH2+]2)ccc1[N+](=O)[O-],0.6099664201396724
+37549,Please optimize the molecule C[C@H]1CC(C(=O)Nc2cccc(CO)c2)C[C@H](C)O1 to have a higher QED value.,C[C@H]1CC(C(=O)Nc2cccc(CO)c2)C[C@H](C)O1,0.8795523720754246
+36179,Optimize the molecule c1cncc(-c2nc(N3CCCC3)c3c4c(sc3n2)CCCC4)c1 to have a higher QED value.,c1cncc(-c2nc(N3CCCC3)c3c4c(sc3n2)CCCC4)c1,0.7020734934036004
+42654,Please optimize the molecule CN(C(=O)c1cccnc1OCC(F)F)C1CCOCC1 to have a lower QED value.,CN(C(=O)c1cccnc1OCC(F)F)C1CCOCC1,0.834115150378702
+67334,Optimize the molecule CCCc1cc(=O)oc2cc(OS(=O)(=O)c3cccnc3)ccc12 to have a lower QED value.,CCCc1cc(=O)oc2cc(OS(=O)(=O)c3cccnc3)ccc12,0.5218894776372069
+170305,Optimize the molecule CC(C)Oc1c(F)cc(N)cc1F to have a lower QED value.,CC(C)Oc1c(F)cc(N)cc1F,0.7209826062939674
+42946,Modify the molecule COC(=O)c1ccc(OC(=O)c2cncc(Br)c2)cc1 to increase its QED value.,COC(=O)c1ccc(OC(=O)c2cncc(Br)c2)cc1,0.6369673731614016
+62704,Please modify the molecule O=C(COc1ccc2ccc(=O)oc2c1)N[C@@H]1COc2ccccc2C1 to increase its QED value.,O=C(COc1ccc2ccc(=O)oc2c1)N[C@@H]1COc2ccccc2C1,0.7299444825985522
+134062,Optimize the molecule COC(=O)c1ccc(C)c(NC(=O)c2ccc(C[NH+]3CCc4ccccc4C3)cc2)c1 to have a higher QED value.,COC(=O)c1ccc(C)c(NC(=O)c2ccc(C[NH+]3CCc4ccccc4C3)cc2)c1,0.6295700459412162
+162868,Please modify the molecule CC(C)NC(=O)c1ccc(Cn2c(SCc3cccc(F)c3)nc3cccnc32)cc1 to increase its QED value.,CC(C)NC(=O)c1ccc(Cn2c(SCc3cccc(F)c3)nc3cccnc32)cc1,0.413701118049297
+176595,Please optimize the molecule CC(C)(C)[C@@H]1OCC[C@@H]1CNC(=O)NC[C@@H]1CCC[C@H](O)C1 to have a lower QED value.,CC(C)(C)[C@@H]1OCC[C@@H]1CNC(=O)NC[C@@H]1CCC[C@H](O)C1,0.7456986562667397
+140878,Optimize the molecule COc1ccc(-c2n[nH]c(S[C@@H](C)C(=O)N(C)c3ccccc3)n2)cc1 to have a higher QED value.,COc1ccc(-c2n[nH]c(S[C@@H](C)C(=O)N(C)c3ccccc3)n2)cc1,0.6729755949730003
+139385,Optimize the molecule CC[C@@H](c1ccccc1)c1nc2cc(C(F)(F)F)ccc2n1CCO to have a higher QED value.,CC[C@@H](c1ccccc1)c1nc2cc(C(F)(F)F)ccc2n1CCO,0.7323060821615368
+247647,Please optimize the molecule CC(C)[C@@H](CS)C[NH+]1CCN(c2ccccc2)CC1 to have a higher QED value.,CC(C)[C@@H](CS)C[NH+]1CCN(c2ccccc2)CC1,0.7775209977578048
+87600,Optimize the molecule N#Cc1cc(COc2ccc(CC[NH3+])nc2)ccn1 to have a higher QED value.,N#Cc1cc(COc2ccc(CC[NH3+])nc2)ccn1,0.8521242911541699
+224920,Please optimize the molecule O=C(Nc1ccccc1)[C@H]1CCc2ccccc2N1C(=O)CCN1CCCC1=O to have a higher QED value.,O=C(Nc1ccccc1)[C@H]1CCc2ccccc2N1C(=O)CCN1CCCC1=O,0.8519085165948808
+143664,Modify the molecule C[C@@H]([NH2+][C@H]1CCCS(=O)(=O)C1)c1cc(F)ccc1O to decrease its QED value.,C[C@@H]([NH2+][C@H]1CCCS(=O)(=O)C1)c1cc(F)ccc1O,0.8612749708355838
+45390,Modify the molecule Cc1cccc(OCCNC(=O)N2CCC[C@@H]([NH+](C)C)C2)c1 to increase its QED value.,Cc1cccc(OCCNC(=O)N2CCC[C@@H]([NH+](C)C)C2)c1,0.7865214456415194
+71014,Please optimize the molecule COc1c(Cl)cc(C(=O)c2c(C)c(C#N)c(=O)n(C[C@@H]3CCCO3)c2[O-])cc1Cl to have a higher QED value.,COc1c(Cl)cc(C(=O)c2c(C)c(C#N)c(=O)n(C[C@@H]3CCCO3)c2[O-])cc1Cl,0.6680603288075575
+239501,Modify the molecule C#CCN1CCN(CCS(=O)(=O)c2ccc(C(C)(C)C)cc2)CC1 to have a higher QED value.,C#CCN1CCN(CCS(=O)(=O)c2ccc(C(C)(C)C)cc2)CC1,0.7634696263005192
+169385,Please modify the molecule COc1ccc(S(=O)(=O)N2CCCC[C@@H]2C(=O)[O-])cc1C to increase its QED value.,COc1ccc(S(=O)(=O)N2CCCC[C@@H]2C(=O)[O-])cc1C,0.7976718567840475
+107191,Please optimize the molecule C/C(=C\c1ccc2ncccc2c1)C[NH3+] to have a higher QED value.,C/C(=C\c1ccc2ncccc2c1)C[NH3+],0.7878495028373594
+82326,Modify the molecule Cc1ccc(C(N)=[NH2+])c(N2C[C@@H](C)[C@@H](C)C2)n1 to decrease its QED value.,Cc1ccc(C(N)=[NH2+])c(N2C[C@@H](C)[C@@H](C)C2)n1,0.5555993689570492
+27554,Please modify the molecule COc1ccc(CNC(=O)c2nnn(-c3ccc(C)c(C)c3)c2C)cc1OC to increase its QED value.,COc1ccc(CNC(=O)c2nnn(-c3ccc(C)c(C)c3)c2C)cc1OC,0.7107722266132975
+149052,Optimize the molecule Cc1ccccc1OCC(=O)NC(=S)Nc1cc(Cl)cc(Cl)c1 to have a higher QED value.,Cc1ccccc1OCC(=O)NC(=S)Nc1cc(Cl)cc(Cl)c1,0.793773467321086
+135242,Modify the molecule Nc1nc(-c2ccc(NC(=O)c3ccc(Cl)cc3)cc2)cs1 to decrease its QED value.,Nc1nc(-c2ccc(NC(=O)c3ccc(Cl)cc3)cc2)cs1,0.7524664032340852
+187312,Optimize the molecule CC(=O)c1c(C)[nH]c(C(=O)CSCc2cccc(F)c2F)c1C to have a higher QED value.,CC(=O)c1c(C)[nH]c(C(=O)CSCc2cccc(F)c2F)c1C,0.8027074858640054
+58674,Optimize the molecule Cc1ccc(CNC(=O)Nc2cnn(CC[NH+]3CCCCC3)c2)s1 to have a higher QED value.,Cc1ccc(CNC(=O)Nc2cnn(CC[NH+]3CCCCC3)c2)s1,0.7431402823386828
+187274,Modify the molecule O=C(CN1C(=O)CCC1=O)NC[C@@H](O)c1ccc(C(F)(F)F)cc1 to have a lower QED value.,O=C(CN1C(=O)CCC1=O)NC[C@@H](O)c1ccc(C(F)(F)F)cc1,0.7806168700495756
+239960,Modify the molecule Cc1cc2nc(C(C)C)[nH]c2cc1C to increase its QED value.,Cc1cc2nc(C(C)C)[nH]c2cc1C,0.7304238014971409
+162524,Optimize the molecule Cc1nc(C[NH+](C)CCCc2n[nH]c(N)c2C#N)nc2ccccc12 to have a lower QED value.,Cc1nc(C[NH+](C)CCCc2n[nH]c(N)c2C#N)nc2ccccc12,0.6157412421884525
+144278,Please modify the molecule CCCS(=O)(=O)N1CCCc2cc(NS(=O)(=O)Cc3cccc(Cl)c3)ccc21 to decrease its QED value.,CCCS(=O)(=O)N1CCCc2cc(NS(=O)(=O)Cc3cccc(Cl)c3)ccc21,0.7068423771258578
+99522,Please modify the molecule CCCc1cc(NC(=O)NCc2ccc(OC)c(O)c2)n(C)n1 to decrease its QED value.,CCCc1cc(NC(=O)NCc2ccc(OC)c(O)c2)n(C)n1,0.7629210706424953
+52145,Optimize the molecule CN(C)C(=O)Cc1nc(CSc2ccncc2N)cs1 to have a lower QED value.,CN(C)C(=O)Cc1nc(CSc2ccncc2N)cs1,0.8558751280795088
+52704,Modify the molecule CO[C@H]1CCCN(C(=O)Nc2ccccc2C(F)(F)F)C1 to increase its QED value.,CO[C@H]1CCCN(C(=O)Nc2ccccc2C(F)(F)F)C1,0.9100026191238498
+213246,Modify the molecule Cc1nc2scc(-c3cccc(NS(=O)(=O)c4ccc(F)cc4F)c3)n2c(=O)c1C to have a lower QED value.,Cc1nc2scc(-c3cccc(NS(=O)(=O)c4ccc(F)cc4F)c3)n2c(=O)c1C,0.510423298844555
+32586,Optimize the molecule Cc1cc(=O)n(C)cc1NC(=O)[C@]1(C)CCCc2ccccc21 to have a higher QED value.,Cc1cc(=O)n(C)cc1NC(=O)[C@]1(C)CCCc2ccccc21,0.9269824396437382
+179261,Modify the molecule CCC[NH2+][C@@H](CC)CC[C@H]1CCOC2(CCSCC2)C1 to decrease its QED value.,CCC[NH2+][C@@H](CC)CC[C@H]1CCOC2(CCSCC2)C1,0.7810602582118499
+211105,Please modify the molecule CC(C)(C)N1C[C@@H](NC(=O)N[C@@H](CC(F)(F)F)c2ccc(F)cc2)CC1=O to increase its QED value.,CC(C)(C)N1C[C@@H](NC(=O)N[C@@H](CC(F)(F)F)c2ccc(F)cc2)CC1=O,0.7744526800542134
+3368,Please optimize the molecule C[C@@H]1Oc2ccc(N[C@H](C(=O)NC3CC3)c3ccccc3)cc2NC1=O to have a lower QED value.,C[C@@H]1Oc2ccc(N[C@H](C(=O)NC3CC3)c3ccccc3)cc2NC1=O,0.7738721825542225
+115696,Modify the molecule O=C(CCS(=O)(=O)c1ccc(Br)cc1)Nc1cccc(C(F)(F)F)c1 to decrease its QED value.,O=C(CCS(=O)(=O)c1ccc(Br)cc1)Nc1cccc(C(F)(F)F)c1,0.7618569185673738
+208364,Modify the molecule Cc1cc(C(=O)CCC(=O)N2CCN(c3cnccn3)CC2)c(C)s1 to increase its QED value.,Cc1cc(C(=O)CCC(=O)N2CCN(c3cnccn3)CC2)c(C)s1,0.7683467512418888
+141633,Modify the molecule O=C1CCCN1C[C@H](O)C[NH2+][C@@H](c1ccc(F)cc1)C1CCCC1 to have a lower QED value.,O=C1CCCN1C[C@H](O)C[NH2+][C@@H](c1ccc(F)cc1)C1CCCC1,0.7952167976537818
+171035,Please modify the molecule COCCn1nc(C)c(NC(=O)c2cc3c([nH]c2=O)CCCC3)c1C to decrease its QED value.,COCCn1nc(C)c(NC(=O)c2cc3c([nH]c2=O)CCCC3)c1C,0.8677006969567751
+147212,Please optimize the molecule CC(C)C[C@@H](CNS(=O)(=O)c1ccn(C)c1)C(=O)[O-] to have a higher QED value.,CC(C)C[C@@H](CNS(=O)(=O)c1ccn(C)c1)C(=O)[O-],0.7461138547395465
+208251,Please optimize the molecule CCc1cc(CNC(=O)[C@H](C)NS(=O)(=O)c2cnn(C)c2)on1 to have a lower QED value.,CCc1cc(CNC(=O)[C@H](C)NS(=O)(=O)c2cnn(C)c2)on1,0.7288164354735762
+214335,Optimize the molecule Cc1nc(NC2CCCC2)cc(CC2CCN(C(=O)Cc3ccccc3)CC2)[nH+]1 to have a lower QED value.,Cc1nc(NC2CCCC2)cc(CC2CCN(C(=O)Cc3ccccc3)CC2)[nH+]1,0.8159805852875066
+22755,Please modify the molecule O=C([O-])[C@H]1C[C@H]2CCCC[C@@H]2[NH+]1C1CCS(=O)(=O)CC1 to increase its QED value.,O=C([O-])[C@H]1C[C@H]2CCCC[C@@H]2[NH+]1C1CCS(=O)(=O)CC1,0.6752811588792246
+160055,Modify the molecule COc1ccc(C[NH+](C)CC(=O)N(C)[C@H](C)c2ccc(F)c(F)c2)cc1 to have a lower QED value.,COc1ccc(C[NH+](C)CC(=O)N(C)[C@H](C)c2ccc(F)c(F)c2)cc1,0.8184580654208654
+126144,Please modify the molecule O=C(Oc1ccccc1F)c1ccc(N2CCCS2(=O)=O)cc1 to decrease its QED value.,O=C(Oc1ccccc1F)c1ccc(N2CCCS2(=O)=O)cc1,0.6387697499553269
+25891,Please optimize the molecule Cc1ccc(NC(=O)[C@@H](C)Oc2ccc3c(c2)CCC3)nc1 to have a lower QED value.,Cc1ccc(NC(=O)[C@@H](C)Oc2ccc3c(c2)CCC3)nc1,0.9416444620490536
+176785,Modify the molecule CS(=O)(=O)c1ccccc1-c1nnc(NC(=O)Cc2cccc3ccccc23)o1 to have a lower QED value.,CS(=O)(=O)c1ccccc1-c1nnc(NC(=O)Cc2cccc3ccccc23)o1,0.5434131713124988
+9559,Modify the molecule CCN(CC)C(=O)c1ccccc1NC(=O)N1CCN(c2ccccc2)CC1 to decrease its QED value.,CCN(CC)C(=O)c1ccccc1NC(=O)N1CCN(c2ccccc2)CC1,0.8634419426667502
+87424,Please modify the molecule CC(C)N1CCO[C@@H]([C@H]([NH3+])c2cccc(Cl)c2Cl)C1 to increase its QED value.,CC(C)N1CCO[C@@H]([C@H]([NH3+])c2cccc(Cl)c2Cl)C1,0.9311976597600882
+145153,Please optimize the molecule O=C(COc1cccc(Cl)c1)N/N=C/c1cc2ccccc2nc1Cl to have a lower QED value.,O=C(COc1cccc(Cl)c1)N/N=C/c1cc2ccccc2nc1Cl,0.4160493179786059
+61757,Please optimize the molecule COc1ccc(/C=C2/C(=O)NC(=O)N(c3ccccc3)C2=O)cc1Cl to have a higher QED value.,COc1ccc(/C=C2/C(=O)NC(=O)N(c3ccccc3)C2=O)cc1Cl,0.6772115384741105
+234383,Modify the molecule Cc1ccc(S(=O)(=O)/N=C(\[O-])NN2CCC(C)(C)CC2)cc1 to increase its QED value.,Cc1ccc(S(=O)(=O)/N=C(\[O-])NN2CCC(C)(C)CC2)cc1,0.6628351076866266
+139361,Optimize the molecule C[C@@H](O)C[C@H]1CCCCCN1C(=O)CC1CCCC1 to have a higher QED value.,C[C@@H](O)C[C@H]1CCCCCN1C(=O)CC1CCCC1,0.8499530820226997

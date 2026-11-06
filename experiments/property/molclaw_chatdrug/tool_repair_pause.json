@@ -1,0 +1,1755 @@
+{
+  "time": 1791857730.6254587,
+  "root": "/home/zlc/molclaw_chatdrug_aligned_20261012",
+  "reason": "User requested pause pending SCP service diagnosis and repair",
+  "prior_pause_files": {
+    "pause_generation.request": "New-case scheduling assigned to deadline_booster; existing native episodes continue unchanged",
+    "pause_deadline.request": "Future launches transferred to v2 with increased descriptor limits; current episodes continue",
+    "pause_deadline_v2.request": null
+  },
+  "controls": [
+    2096487,
+    2126197,
+    2256028,
+    2367855
+  ],
+  "processes": [
+    {
+      "pid": 2096487,
+      "start": "241183312",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012",
+      "comm": "bench-run",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2126197,
+      "start": "241234881",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012",
+      "comm": "bench-run",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2256028,
+      "start": "241777379",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012",
+      "comm": "bench-run",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2367855,
+      "start": "241847058",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012",
+      "comm": "bench-run",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833414,
+      "start": "248034054",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_145",
+      "comm": "bash",
+      "ns": "pid:[4026547227]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833416,
+      "start": "248034054",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_145",
+      "comm": "python3",
+      "ns": "pid:[4026547227]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833417,
+      "start": "248034055",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_145",
+      "comm": "tail",
+      "ns": "pid:[4026547227]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833424,
+      "start": "248034104",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/infra_retry_connection_loss_1/source_204_strict_011",
+      "comm": "bash",
+      "ns": "pid:[4026545614]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833426,
+      "start": "248034105",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/infra_retry_connection_loss_1/source_204_strict_011",
+      "comm": "sleep",
+      "ns": "pid:[4026545614]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2828309,
+      "start": "247993254",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_203_strict_117/work",
+      "comm": "python3",
+      "ns": "pid:[4026546801]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2248737,
+      "start": "241733550",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/infra_retry_connection_loss_1/source_201_loose_004",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2248738,
+      "start": "241733550",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/infra_retry_connection_loss_1/source_201_loose_004",
+      "comm": "claude",
+      "ns": "pid:[4026545599]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833450,
+      "start": "248034629",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_145",
+      "comm": "bash",
+      "ns": "pid:[4026547227]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833452,
+      "start": "248034630",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_145",
+      "comm": "sleep",
+      "ns": "pid:[4026547227]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2575413,
+      "start": "241958743",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_105_loose_064",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 3852342,
+      "start": "242791343",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_119",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2575415,
+      "start": "241958743",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_105_loose_064",
+      "comm": "claude",
+      "ns": "pid:[4026547455]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 3852344,
+      "start": "242791343",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_119",
+      "comm": "claude",
+      "ns": "pid:[4026546903]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833491,
+      "start": "248035004",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_202_loose_098",
+      "comm": "bash",
+      "ns": "pid:[4026546285]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833493,
+      "start": "248035005",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_202_loose_098",
+      "comm": "sleep",
+      "ns": "pid:[4026546285]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 129110,
+      "start": "243117547",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_202_loose_138",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 129111,
+      "start": "243117547",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_202_loose_138",
+      "comm": "claude",
+      "ns": "pid:[4026547822]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 284759,
+      "start": "243226099",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_145",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 284760,
+      "start": "243226100",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_145",
+      "comm": "claude",
+      "ns": "pid:[4026547227]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 3581023,
+      "start": "242602782",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_201_strict_107",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 3581024,
+      "start": "242602783",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_201_strict_107",
+      "comm": "claude",
+      "ns": "pid:[4026546846]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 512105,
+      "start": "243387049",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_203_loose_154",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 512106,
+      "start": "243387049",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_203_loose_154",
+      "comm": "claude",
+      "ns": "pid:[4026546737]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2693242,
+      "start": "242031791",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_204_strict_070",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2693243,
+      "start": "242031791",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_204_strict_070",
+      "comm": "claude",
+      "ns": "pid:[4026546963]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 1151102,
+      "start": "243817070",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_205_loose_185",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 1151103,
+      "start": "243817070",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_205_loose_185",
+      "comm": "claude",
+      "ns": "pid:[4026546869]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 405637,
+      "start": "243308238",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_150",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 405638,
+      "start": "243308238",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_150",
+      "comm": "claude",
+      "ns": "pid:[4026547679]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833552,
+      "start": "248035361",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_201_strict_107",
+      "comm": "bash",
+      "ns": "pid:[4026546846]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833554,
+      "start": "248035362",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_201_strict_107",
+      "comm": "sleep",
+      "ns": "pid:[4026546846]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2832554,
+      "start": "248025597",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_197/work",
+      "comm": "timeout",
+      "ns": "pid:[4026547805]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2832555,
+      "start": "248025597",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_197/work",
+      "comm": "python",
+      "ns": "pid:[4026547805]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 3906741,
+      "start": "242829917",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_202_loose_121",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 3906746,
+      "start": "242829918",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_202_loose_121",
+      "comm": "claude",
+      "ns": "pid:[4026547794]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2688194,
+      "start": "246964718",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_197/work",
+      "comm": "bash",
+      "ns": "pid:[4026547805]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833608,
+      "start": "248035992",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_105_loose_197",
+      "comm": "bash",
+      "ns": "pid:[4026546786]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833610,
+      "start": "248035992",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_105_loose_197",
+      "comm": "sleep",
+      "ns": "pid:[4026546786]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833613,
+      "start": "248036112",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_036",
+      "comm": "bash",
+      "ns": "pid:[4026546717]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833615,
+      "start": "248036113",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_036",
+      "comm": "sleep",
+      "ns": "pid:[4026546717]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2830544,
+      "start": "248010927",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_108_loose_177",
+      "comm": "bash",
+      "ns": "pid:[4026547217]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2830546,
+      "start": "248010927",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_108_loose_177",
+      "comm": "sleep",
+      "ns": "pid:[4026547217]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833639,
+      "start": "248036596",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_204_strict_067",
+      "comm": "bash",
+      "ns": "pid:[4026547158]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833641,
+      "start": "248036596",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_204_strict_067",
+      "comm": "sleep",
+      "ns": "pid:[4026547158]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833643,
+      "start": "248036629",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_205_loose_062",
+      "comm": "bash",
+      "ns": "pid:[4026546350]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833645,
+      "start": "248036629",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_205_loose_062",
+      "comm": "sleep",
+      "ns": "pid:[4026546350]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 187632,
+      "start": "243158331",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_141",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 187633,
+      "start": "243158331",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_141",
+      "comm": "claude",
+      "ns": "pid:[4026546236]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 1382656,
+      "start": "243962088",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_105_loose_197",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 1382657,
+      "start": "243962088",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_105_loose_197",
+      "comm": "claude",
+      "ns": "pid:[4026546786]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2369800,
+      "start": "241847150",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_043",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2299164,
+      "start": "245326585",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_205_loose_176",
+      "comm": "python",
+      "ns": "pid:[4026545904]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833698,
+      "start": "248037198",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_201_loose_049",
+      "comm": "bash",
+      "ns": "pid:[4026547296]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833700,
+      "start": "248037198",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_201_loose_049",
+      "comm": "sleep",
+      "ns": "pid:[4026547296]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2369829,
+      "start": "241847150",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_043",
+      "comm": "claude",
+      "ns": "pid:[4026547079]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833702,
+      "start": "248037232",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_150",
+      "comm": "bash",
+      "ns": "pid:[4026547679]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833707,
+      "start": "248037235",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_strict_076",
+      "comm": "bash",
+      "ns": "pid:[4026547344]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833710,
+      "start": "248037235",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_strict_076",
+      "comm": "sleep",
+      "ns": "pid:[4026547344]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2829627,
+      "start": "248002370",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_strict_116",
+      "comm": "bash",
+      "ns": "pid:[4026547305]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2829629,
+      "start": "248002371",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_strict_116",
+      "comm": "sleep",
+      "ns": "pid:[4026547305]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833740,
+      "start": "248037658",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_148",
+      "comm": "sleep",
+      "ns": "pid:[4026547860]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833752,
+      "start": "248037879",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_202_loose_138",
+      "comm": "bash",
+      "ns": "pid:[4026547822]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833754,
+      "start": "248037880",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_202_loose_138",
+      "comm": "sleep",
+      "ns": "pid:[4026547822]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2718051,
+      "start": "247165044",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_202_loose_121",
+      "comm": "python",
+      "ns": "pid:[4026547794]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2718054,
+      "start": "247165044",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_202_loose_121",
+      "comm": "python",
+      "ns": "pid:[4026547794]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833775,
+      "start": "248037918",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_203_strict_117/work",
+      "comm": "bash",
+      "ns": "pid:[4026546801]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2832753,
+      "start": "248027535",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_119",
+      "comm": "bash",
+      "ns": "pid:[4026546903]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833777,
+      "start": "248037919",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_203_strict_117/work",
+      "comm": "sleep",
+      "ns": "pid:[4026546801]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 985459,
+      "start": "243716011",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_108_loose_177",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 985460,
+      "start": "243716012",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_108_loose_177",
+      "comm": "claude",
+      "ns": "pid:[4026547217]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2832755,
+      "start": "248027535",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_119",
+      "comm": "sleep",
+      "ns": "pid:[4026546903]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833785,
+      "start": "248038094",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_072",
+      "comm": "bash",
+      "ns": "pid:[4026546960]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833787,
+      "start": "248038094",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_072",
+      "comm": "sleep",
+      "ns": "pid:[4026546960]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 4036987,
+      "start": "242920721",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_205_loose_126",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 4036988,
+      "start": "242920721",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_205_loose_126",
+      "comm": "claude",
+      "ns": "pid:[4026546975]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833798,
+      "start": "248038233",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_150",
+      "comm": "sleep",
+      "ns": "pid:[4026547679]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2832780,
+      "start": "248027656",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_148",
+      "comm": "bash",
+      "ns": "pid:[4026547860]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2829717,
+      "start": "248003204",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_205_loose_126",
+      "comm": "bash",
+      "ns": "pid:[4026546975]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2829719,
+      "start": "248003204",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_205_loose_126",
+      "comm": "sleep",
+      "ns": "pid:[4026546975]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 1402268,
+      "start": "243975088",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_205_loose_197",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 1402269,
+      "start": "243975088",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_205_loose_197",
+      "comm": "claude",
+      "ns": "pid:[4026546111]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2761124,
+      "start": "242070377",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_205_loose_073",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2761125,
+      "start": "242070377",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_205_loose_073",
+      "comm": "claude",
+      "ns": "pid:[4026547191]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833841,
+      "start": "248038427",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_201_strict_107",
+      "comm": "python",
+      "ns": "pid:[4026546846]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2828732,
+      "start": "247996181",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_strict_079",
+      "comm": "bash",
+      "ns": "pid:[4026547558]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2828734,
+      "start": "247996181",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_strict_079",
+      "comm": "sleep",
+      "ns": "pid:[4026547558]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2832836,
+      "start": "248028628",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_201_strict_112",
+      "comm": "bash",
+      "ns": "pid:[4026547347]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2641350,
+      "start": "242000046",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_204_strict_067",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2641351,
+      "start": "242000046",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_204_strict_067",
+      "comm": "claude",
+      "ns": "pid:[4026547158]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2832838,
+      "start": "248028628",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_201_strict_112",
+      "comm": "sleep",
+      "ns": "pid:[4026547347]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833886,
+      "start": "248038519",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_205_loose_055",
+      "comm": "bash",
+      "ns": "pid:[4026547584]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2832863,
+      "start": "248028678",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_205_loose_176",
+      "comm": "bash",
+      "ns": "pid:[4026545904]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 7648,
+      "start": "243032364",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/infra_retry_connection_loss_1/source_204_strict_011",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 7649,
+      "start": "243032364",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/infra_retry_connection_loss_1/source_204_strict_011",
+      "comm": "claude",
+      "ns": "pid:[4026545614]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2832865,
+      "start": "248028679",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_205_loose_176",
+      "comm": "sleep",
+      "ns": "pid:[4026545904]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833891,
+      "start": "248038519",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_205_loose_055",
+      "comm": "sleep",
+      "ns": "pid:[4026547584]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833895,
+      "start": "248038556",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_098",
+      "comm": "bash",
+      "ns": "pid:[4026546423]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833897,
+      "start": "248038556",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_098",
+      "comm": "sleep",
+      "ns": "pid:[4026546423]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 3340797,
+      "start": "242439592",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_098",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 3340799,
+      "start": "242439592",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_098",
+      "comm": "claude",
+      "ns": "pid:[4026546423]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 693765,
+      "start": "243518853",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_204_strict_101",
+      "comm": "python3",
+      "ns": "pid:[4026545792]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2823698,
+      "start": "242108905",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_strict_076",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2823700,
+      "start": "242108905",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_strict_076",
+      "comm": "claude",
+      "ns": "pid:[4026547344]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2331157,
+      "start": "241814275",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_205_strict_038",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2331162,
+      "start": "241814275",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_205_strict_038",
+      "comm": "claude",
+      "ns": "pid:[4026546804]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 79401,
+      "start": "243083614",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_203_loose_136",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 79402,
+      "start": "243083614",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_203_loose_136",
+      "comm": "claude",
+      "ns": "pid:[4026545687]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2832942,
+      "start": "248029313",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_105_loose_170",
+      "comm": "bash",
+      "ns": "pid:[4026547850]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2832944,
+      "start": "248029313",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_105_loose_170",
+      "comm": "sleep",
+      "ns": "pid:[4026547850]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 3817008,
+      "start": "242767200",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_203_strict_117",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 3817009,
+      "start": "242767200",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_203_strict_117",
+      "comm": "claude",
+      "ns": "pid:[4026546801]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2832949,
+      "start": "248029375",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_201_loose_088",
+      "comm": "bash",
+      "ns": "pid:[4026546891]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2832951,
+      "start": "248029375",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_201_loose_088",
+      "comm": "sleep",
+      "ns": "pid:[4026546891]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2832953,
+      "start": "248029388",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_197/work",
+      "comm": "bash",
+      "ns": "pid:[4026547805]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2832955,
+      "start": "248029389",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_197/work",
+      "comm": "sleep",
+      "ns": "pid:[4026547805]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 835146,
+      "start": "243623730",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_105_loose_170",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 835147,
+      "start": "243623730",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_105_loose_170",
+      "comm": "claude",
+      "ns": "pid:[4026547850]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2398817,
+      "start": "241859469",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_201_strict_047",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 355938,
+      "start": "243273659",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_202_loose_148",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 355939,
+      "start": "243273659",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_202_loose_148",
+      "comm": "claude",
+      "ns": "pid:[4026547028]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2398826,
+      "start": "241859469",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_201_strict_047",
+      "comm": "claude",
+      "ns": "pid:[4026547209]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 4094571,
+      "start": "242959167",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_strict_129",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 4094572,
+      "start": "242959167",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_strict_129",
+      "comm": "claude",
+      "ns": "pid:[4026546780]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 3348080,
+      "start": "242444627",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_202_loose_098",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 3348081,
+      "start": "242444627",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_202_loose_098",
+      "comm": "claude",
+      "ns": "pid:[4026546285]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833013,
+      "start": "248029792",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_strict_129/.claude/skills",
+      "comm": "bash",
+      "ns": "pid:[4026546780]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833015,
+      "start": "248029793",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_strict_129/.claude/skills",
+      "comm": "sleep",
+      "ns": "pid:[4026546780]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2450041,
+      "start": "241883920",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_205_strict_054",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2450043,
+      "start": "241883920",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_205_strict_054",
+      "comm": "claude",
+      "ns": "pid:[4026547563]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833024,
+      "start": "248030033",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_103_strict_186",
+      "comm": "bash",
+      "ns": "pid:[4026546666]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833026,
+      "start": "248030034",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_103_strict_186",
+      "comm": "sleep",
+      "ns": "pid:[4026546666]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 3785349,
+      "start": "242744628",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_strict_116",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 3785350,
+      "start": "242744628",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_strict_116",
+      "comm": "claude",
+      "ns": "pid:[4026547305]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 4050566,
+      "start": "242929576",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_202_loose_127",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 4050567,
+      "start": "242929576",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_202_loose_127",
+      "comm": "claude",
+      "ns": "pid:[4026546492]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2550414,
+      "start": "241942658",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_205_loose_062",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2550415,
+      "start": "241942659",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_205_loose_062",
+      "comm": "claude",
+      "ns": "pid:[4026546350]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2741905,
+      "start": "247332730",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_203_loose_136",
+      "comm": "bash",
+      "ns": "pid:[4026545687]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833042,
+      "start": "248030247",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_203_loose_154",
+      "comm": "bash",
+      "ns": "pid:[4026546737]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2741907,
+      "start": "247332730",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_203_loose_136",
+      "comm": "python3",
+      "ns": "pid:[4026545687]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833044,
+      "start": "248030248",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_203_loose_154",
+      "comm": "sleep",
+      "ns": "pid:[4026546737]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 94870,
+      "start": "243095954",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_105_loose_137",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 94871,
+      "start": "243095954",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_105_loose_137",
+      "comm": "claude",
+      "ns": "pid:[4026546972]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833052,
+      "start": "248030465",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/infra_retry_connection_loss_1/source_201_loose_004",
+      "comm": "bash",
+      "ns": "pid:[4026545599]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833054,
+      "start": "248030465",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/infra_retry_connection_loss_1/source_201_loose_004",
+      "comm": "sleep",
+      "ns": "pid:[4026545599]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 869031,
+      "start": "243648629",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_148",
+      "comm": "python3",
+      "ns": "pid:[4026547860]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2826920,
+      "start": "247986029",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_202_loose_148",
+      "comm": "bash",
+      "ns": "pid:[4026547028]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 3635881,
+      "start": "242641127",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_205_loose_109",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2826922,
+      "start": "247986030",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_202_loose_148",
+      "comm": "sleep",
+      "ns": "pid:[4026547028]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 3635882,
+      "start": "242641127",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_205_loose_109",
+      "comm": "claude",
+      "ns": "pid:[4026546195]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2895538,
+      "start": "242152734",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_strict_079",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2895539,
+      "start": "242152734",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_strict_079",
+      "comm": "claude",
+      "ns": "pid:[4026547558]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2450112,
+      "start": "241883925",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_205_loose_055",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2175681,
+      "start": "245019324",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_201_loose_049",
+      "comm": "tail",
+      "ns": "pid:[4026547296]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2175682,
+      "start": "245019324",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_201_loose_049",
+      "comm": "head",
+      "ns": "pid:[4026547296]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2450113,
+      "start": "241883925",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_205_loose_055",
+      "comm": "claude",
+      "ns": "pid:[4026547584]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2826947,
+      "start": "247986208",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_201_loose_159",
+      "comm": "bash",
+      "ns": "pid:[4026545631]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2826949,
+      "start": "247986208",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_201_loose_159",
+      "comm": "sleep",
+      "ns": "pid:[4026545631]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 348882,
+      "start": "243268669",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_148",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 348883,
+      "start": "243268669",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_148",
+      "comm": "claude",
+      "ns": "pid:[4026547860]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833110,
+      "start": "248031044",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_205_strict_054",
+      "comm": "bash",
+      "ns": "pid:[4026547563]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833112,
+      "start": "248031045",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_205_strict_054",
+      "comm": "sleep",
+      "ns": "pid:[4026547563]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833115,
+      "start": "248031070",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_205_loose_197",
+      "comm": "bash",
+      "ns": "pid:[4026546111]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833117,
+      "start": "248031070",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_205_loose_197",
+      "comm": "sleep",
+      "ns": "pid:[4026546111]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833127,
+      "start": "248031256",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_205_loose_109",
+      "comm": "bash",
+      "ns": "pid:[4026546195]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833129,
+      "start": "248031256",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_205_loose_109",
+      "comm": "sleep",
+      "ns": "pid:[4026546195]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833131,
+      "start": "248031275",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_204_strict_070",
+      "comm": "bash",
+      "ns": "pid:[4026546963]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833133,
+      "start": "248031275",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_204_strict_070",
+      "comm": "sleep",
+      "ns": "pid:[4026546963]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2829045,
+      "start": "247997162",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_201_strict_107",
+      "comm": "bash",
+      "ns": "pid:[4026546846]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2832147,
+      "start": "248022143",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_202_loose_127",
+      "comm": "bash",
+      "ns": "pid:[4026546492]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2832149,
+      "start": "248022143",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_202_loose_127",
+      "comm": "sleep",
+      "ns": "pid:[4026546492]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 973594,
+      "start": "243708692",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_205_loose_176",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 973595,
+      "start": "243708692",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_205_loose_176",
+      "comm": "claude",
+      "ns": "pid:[4026545904]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2829085,
+      "start": "247997581",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_203_loose_136",
+      "comm": "bash",
+      "ns": "pid:[4026545687]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2829087,
+      "start": "247997582",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_203_loose_136",
+      "comm": "sleep",
+      "ns": "pid:[4026545687]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2450230,
+      "start": "241883929",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_203_loose_056",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2450236,
+      "start": "241883929",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_203_loose_056",
+      "comm": "claude",
+      "ns": "pid:[4026547614]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2832188,
+      "start": "248022436",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_105_loose_137",
+      "comm": "bash",
+      "ns": "pid:[4026546972]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2832190,
+      "start": "248022437",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_105_loose_137",
+      "comm": "sleep",
+      "ns": "pid:[4026546972]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 1383231,
+      "start": "243962487",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_197",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 1383232,
+      "start": "243962487",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_197",
+      "comm": "claude",
+      "ns": "pid:[4026547805]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2399058,
+      "start": "241859476",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_201_loose_049",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2399064,
+      "start": "241859476",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_201_loose_049",
+      "comm": "claude",
+      "ns": "pid:[4026547296]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2728808,
+      "start": "247237725",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_203_strict_117/work",
+      "comm": "admet_loop2.sh",
+      "ns": "pid:[4026546801]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2308984,
+      "start": "241802223",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_036",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2308986,
+      "start": "241802223",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_036",
+      "comm": "claude",
+      "ns": "pid:[4026546717]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2832253,
+      "start": "248023173",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_202_loose_121",
+      "comm": "bash",
+      "ns": "pid:[4026547794]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2832255,
+      "start": "248023173",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_202_loose_121",
+      "comm": "sleep",
+      "ns": "pid:[4026547794]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 367498,
+      "start": "243281208",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_103_strict_186",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 367499,
+      "start": "243281208",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_103_strict_186",
+      "comm": "claude",
+      "ns": "pid:[4026546666]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2828173,
+      "start": "247992546",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_043",
+      "comm": "bash",
+      "ns": "pid:[4026547079]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 3427213,
+      "start": "242499706",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_204_strict_101",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2828175,
+      "start": "247992546",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_043",
+      "comm": "sleep",
+      "ns": "pid:[4026547079]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2828176,
+      "start": "247992546",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_043",
+      "comm": "sleep",
+      "ns": "pid:[4026547079]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 629649,
+      "start": "243473539",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_201_loose_159",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 629650,
+      "start": "243473540",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_201_loose_159",
+      "comm": "claude",
+      "ns": "pid:[4026545631]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 3427214,
+      "start": "242499706",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_204_strict_101",
+      "comm": "claude",
+      "ns": "pid:[4026545792]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2610071,
+      "start": "246511743",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_strict_116",
+      "comm": "python",
+      "ns": "pid:[4026547305]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 3699614,
+      "start": "242685406",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_201_strict_112",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 3699616,
+      "start": "242685406",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_201_strict_112",
+      "comm": "claude",
+      "ns": "pid:[4026547347]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 3097523,
+      "start": "242281534",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_201_loose_088",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2829236,
+      "start": "247998659",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_205_loose_133/.claude/skills",
+      "comm": "bash",
+      "ns": "pid:[4026546719]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 3097524,
+      "start": "242281534",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_201_loose_088",
+      "comm": "claude",
+      "ns": "pid:[4026546891]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2829239,
+      "start": "247998660",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_205_loose_133/.claude/skills",
+      "comm": "sleep",
+      "ns": "pid:[4026546719]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833344,
+      "start": "248033142",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_141",
+      "comm": "bash",
+      "ns": "pid:[4026546236]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833346,
+      "start": "248033142",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_141",
+      "comm": "sleep",
+      "ns": "pid:[4026546236]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2723795,
+      "start": "242050080",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_072",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2723796,
+      "start": "242050080",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_106_loose_072",
+      "comm": "claude",
+      "ns": "pid:[4026546960]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833370,
+      "start": "248033566",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_201_strict_047",
+      "comm": "bash",
+      "ns": "pid:[4026547209]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 2833372,
+      "start": "248033567",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_201_strict_047",
+      "comm": "sleep",
+      "ns": "pid:[4026547209]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 7147,
+      "start": "243032045",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_205_loose_133",
+      "comm": "unshare",
+      "ns": "pid:[4026531836]",
+      "prior_state": "S"
+    },
+    {
+      "pid": 7148,
+      "start": "243032045",
+      "cwd": "/home/zlc/molclaw_chatdrug_aligned_20261012/native/MolClaw/full/source_205_loose_133",
+      "comm": "claude",
+      "ns": "pid:[4026546719]",
+      "prior_state": "S"
+    }
+  ],
+  "not_stopped": []
+}

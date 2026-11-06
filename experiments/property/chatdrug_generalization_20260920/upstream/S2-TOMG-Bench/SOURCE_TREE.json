@@ -1,0 +1,110 @@
+{
+  "sha": "df70b90de6efb62e753345b886234b7acfeff874",
+  "url": "https://api.github.com/repos/phenixace/S2-TOMG-Bench/git/trees/df70b90de6efb62e753345b886234b7acfeff874",
+  "tree": [
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "36ef0f845e4c5aedffa81e9332f09c8c01229f2d",
+      "size": 176,
+      "url": "https://api.github.com/repos/phenixace/S2-TOMG-Bench/git/blobs/36ef0f845e4c5aedffa81e9332f09c8c01229f2d"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "05166015268121fb7b5ef0914d2966fb64f397ed",
+      "size": 8650,
+      "url": "https://api.github.com/repos/phenixace/S2-TOMG-Bench/git/blobs/05166015268121fb7b5ef0914d2966fb64f397ed"
+    },
+    {
+      "path": "README_zh.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e0f4da42d9dfcdf919e7fd3f37eb4beef4beb1eb",
+      "size": 7718,
+      "url": "https://api.github.com/repos/phenixace/S2-TOMG-Bench/git/blobs/e0f4da42d9dfcdf919e7fd3f37eb4beef4beb1eb"
+    },
+    {
+      "path": "evaluate.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2a8e2c7e6c4983392c13030db7025ed83c93b9f0",
+      "size": 15241,
+      "url": "https://api.github.com/repos/phenixace/S2-TOMG-Bench/git/blobs/2a8e2c7e6c4983392c13030db7025ed83c93b9f0"
+    },
+    {
+      "path": "instruction_tuning.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4f79067bcd5fb25da50dbd7f3a76aa2b2c61ee00",
+      "size": 7563,
+      "url": "https://api.github.com/repos/phenixace/S2-TOMG-Bench/git/blobs/4f79067bcd5fb25da50dbd7f3a76aa2b2c61ee00"
+    },
+    {
+      "path": "query_api.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eb3ce1d1dea92fff0477abf5903f32f70f4e2ddc",
+      "size": 9355,
+      "url": "https://api.github.com/repos/phenixace/S2-TOMG-Bench/git/blobs/eb3ce1d1dea92fff0477abf5903f32f70f4e2ddc"
+    },
+    {
+      "path": "query_hf.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4c33b0f59940fb9b1e0a5222ea60c60baafbfd43",
+      "size": 18175,
+      "url": "https://api.github.com/repos/phenixace/S2-TOMG-Bench/git/blobs/4c33b0f59940fb9b1e0a5222ea60c60baafbfd43"
+    },
+    {
+      "path": "requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e45c3b4db30690db87bd058e73f94d39248184d2",
+      "size": 167,
+      "url": "https://api.github.com/repos/phenixace/S2-TOMG-Bench/git/blobs/e45c3b4db30690db87bd058e73f94d39248184d2"
+    },
+    {
+      "path": "run_query.bash",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4ef5816fb4c2ce0fb588cc5b998436a99e2229ed",
+      "size": 3173,
+      "url": "https://api.github.com/repos/phenixace/S2-TOMG-Bench/git/blobs/4ef5816fb4c2ce0fb588cc5b998436a99e2229ed"
+    },
+    {
+      "path": "run_train.bash",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "65f7b37cefd424c6575174ffe01852bf1589a1e6",
+      "size": 955,
+      "url": "https://api.github.com/repos/phenixace/S2-TOMG-Bench/git/blobs/65f7b37cefd424c6575174ffe01852bf1589a1e6"
+    },
+    {
+      "path": "utils",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "dc9357eb6c9281def70e26e2a97c9678e9e5c2a1",
+      "url": "https://api.github.com/repos/phenixace/S2-TOMG-Bench/git/trees/dc9357eb6c9281def70e26e2a97c9678e9e5c2a1"
+    },
+    {
+      "path": "utils/dataset.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "693332bc1b786a4f09644f774f5ad8b8e2f005a9",
+      "size": 13856,
+      "url": "https://api.github.com/repos/phenixace/S2-TOMG-Bench/git/blobs/693332bc1b786a4f09644f774f5ad8b8e2f005a9"
+    },
+    {
+      "path": "utils/evaluation.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ba176beb910465c7835154022e8e81f5996c1016",
+      "size": 11786,
+      "url": "https://api.github.com/repos/phenixace/S2-TOMG-Bench/git/blobs/ba176beb910465c7835154022e8e81f5996c1016"
+    }
+  ],
+  "truncated": false
+}

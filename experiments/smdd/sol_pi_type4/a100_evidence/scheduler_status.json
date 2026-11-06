@@ -1,0 +1,34 @@
+{
+  "pid": 3848897,
+  "updated": 1791107786.5669942,
+  "state": "running",
+  "concurrency_per_method": 4,
+  "gpu_pool": [
+    0,
+    1
+  ],
+  "active": {
+    "solpi": [
+      {
+        "task": "smdd_004_A2A_Adenosine_0",
+        "pid": 3848899,
+        "identity": "173003258",
+        "started": 1791107376.06554
+      }
+    ]
+  },
+  "blocked": {
+    "solpi": {}
+  },
+  "counts": {
+    "solpi": {
+      "total": 340,
+      "completed": 0,
+      "evaluation": {},
+      "agent": {},
+      "active": 1,
+      "waiting": 339,
+      "pilot_passed": false
+    }
+  }
+}

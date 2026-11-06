@@ -1,0 +1,501 @@
+index,Instruction,molecule,removed_group,added_group
+55278,Modify the molecule Cc1cc(O)c(C[NH+](C)[C@H](C)c2cccc(S(N)(=O)=O)c2)cc1C by substituting a hydroxyl with aldehyde.,Cc1cc(O)c(C[NH+](C)[C@H](C)c2cccc(S(N)(=O)=O)c2)cc1C,hydroxyl,aldehyde
+105702,Modify the molecule O=C([O-])c1cc(Sc2ccc([N+](=O)[O-])cc2)cs1 by substituting a nitro with hydroxyl.,O=C([O-])c1cc(Sc2ccc([N+](=O)[O-])cc2)cs1,nitro,hydroxyl
+210866,Replace a halo in the molecule CNC(=O)CN(C)C(=O)c1occc1Br by hydroxyl.,CNC(=O)CN(C)C(=O)c1occc1Br,halo,hydroxyl
+69078,Substitute a halo in the molecule Cc1cc([C@@H]2[NH+]=C(C(C)C)N(C3CC3)C2=[NH2+])ccc1Br with aldehyde.,Cc1cc([C@@H]2[NH+]=C(C(C)C)N(C3CC3)C2=[NH2+])ccc1Br,halo,aldehyde
+168152,Please replace a halo in the molecule O=C(OCC1CC1)c1ccc(Cn2cc(Br)cn2)o1 with nitrile.,O=C(OCC1CC1)c1ccc(Cn2cc(Br)cn2)o1,halo,nitrile
+3512,Modify the molecule NC(=O)c1nc(-c2ccc3c(c2)OCCO3)nc2c1n(Cc1ccccc1)c(=O)n2-c1ccc(F)cc1 by substituting a halo with thiol.,NC(=O)c1nc(-c2ccc3c(c2)OCCO3)nc2c1n(Cc1ccccc1)c(=O)n2-c1ccc(F)cc1,halo,thiol
+120809,Please replace a halo in the molecule O=C(Nc1ccc(-c2nnc3n2CCCCC3)cc1)c1ccccc1C(F)(F)F with carboxyl.,O=C(Nc1ccc(-c2nnc3n2CCCCC3)cc1)c1ccccc1C(F)(F)F,halo,carboxyl
+221357,Substitute a halo in the molecule Cc1[nH+]ccn1CCNC(=O)CN(C)c1nc2c(F)cccc2s1 with carboxyl.,Cc1[nH+]ccn1CCNC(=O)CN(C)c1nc2c(F)cccc2s1,halo,carboxyl
+119631,Modify the molecule N#Cc1ccccc1N1CCCN(C(=O)c2cc3cc(Cl)ccc3[nH]2)CC1 by substituting a halo with hydroxyl.,N#Cc1ccccc1N1CCCN(C(=O)c2cc3cc(Cl)ccc3[nH]2)CC1,halo,hydroxyl
+58957,Substitute a halo in the molecule O=C(NC1CCCCCCC1)c1ccccc1SC(F)F with nitro.,O=C(NC1CCCCCCC1)c1ccccc1SC(F)F,halo,nitro
+10232,Substitute a nitrile in the molecule Cc1c(CN2CCCN(c3ncccn3)CC2)cc(C#N)n1C with aldehyde.,Cc1c(CN2CCCN(c3ncccn3)CC2)cc(C#N)n1C,nitrile,aldehyde
+71131,Replace a halo in the molecule Cc1ccc([C@@H](C(=O)NC(C)(C)C)N(C(=O)c2csnn2)c2ccc(Cl)cc2)o1 by thiol.,Cc1ccc([C@@H](C(=O)NC(C)(C)C)N(C(=O)c2csnn2)c2ccc(Cl)cc2)o1,halo,thiol
+42914,Modify the molecule COc1cccc([C@@H](CO)NC(=O)Cc2c(C)nn(C(F)F)c2C)c1 by replacing a hydroxyl by thiol.,COc1cccc([C@@H](CO)NC(=O)Cc2c(C)nn(C(F)F)c2C)c1,hydroxyl,thiol
+105817,Please replace a nitro in the molecule COc1cc(OC)c([N+](=O)[O-])nc1[N+](=O)[O-] with hydroxyl.,COc1cc(OC)c([N+](=O)[O-])nc1[N+](=O)[O-],nitro,hydroxyl
+42594,Replace a nitrile in the molecule CCc1ccc(NC(=O)C(=O)NCC#N)cc1 by hydroxyl.,CCc1ccc(NC(=O)C(=O)NCC#N)cc1,nitrile,hydroxyl
+76618,Please substitute a halo in the molecule O=C(COc1ccc(F)cc1Br)Nc1cccc(NC(=O)c2ccco2)c1 by aldehyde.,O=C(COc1ccc(F)cc1Br)Nc1cccc(NC(=O)c2ccco2)c1,halo,aldehyde
+230778,Replace a halo in the molecule CN(Cc1ccc(C[NH3+])cn1)c1ccc(F)cc1 by thiol.,CN(Cc1ccc(C[NH3+])cn1)c1ccc(F)cc1,halo,thiol
+31589,Replace a hydroxyl in the molecule COCC(=O)N1CC[C@]2(O)CCN(C(=O)c3ccc(OC)o3)C[C@@H]2C1 by thiol.,COCC(=O)N1CC[C@]2(O)CCN(C(=O)c3ccc(OC)o3)C[C@@H]2C1,hydroxyl,thiol
+12218,Modify the molecule COCCN(Cc1ccc(OC)cc1)C(=O)Nc1ccc(Cl)cc1 by replacing a halo by carboxyl.,COCCN(Cc1ccc(OC)cc1)C(=O)Nc1ccc(Cl)cc1,halo,carboxyl
+73619,Please substitute a halo in the molecule CC1(C(=O)N2CCCC[C@@H]2CCCl)CCCC1 by hydroxyl.,CC1(C(=O)N2CCCC[C@@H]2CCCl)CCCC1,halo,hydroxyl
+45858,Replace a nitro in the molecule Cc1ccc([N+](=O)[O-])c(C)c1NC(=O)C[C@@H]1C=CCC1 by aldehyde.,Cc1ccc([N+](=O)[O-])c(C)c1NC(=O)C[C@@H]1C=CCC1,nitro,aldehyde
+63346,Replace a halo in the molecule COc1c(Br)cccc1CNC(=O)N[C@H](C)CC(C)(C)OC by hydroxyl.,COc1c(Br)cccc1CNC(=O)N[C@H](C)CC(C)(C)OC,halo,hydroxyl
+62202,Modify the molecule O=C(COc1ccc(F)cc1Br)Nc1ccc2c(c1)OCCCO2 by substituting a halo with aldehyde.,O=C(COc1ccc(F)cc1Br)Nc1ccc2c(c1)OCCCO2,halo,aldehyde
+121807,Modify the molecule Cc1ccc(/C=C(/C#N)c2nc(-c3ccc(CC(C)C)cc3)cs2)o1 by replacing a nitrile by hydroxyl.,Cc1ccc(/C=C(/C#N)c2nc(-c3ccc(CC(C)C)cc3)cs2)o1,nitrile,hydroxyl
+174720,Please replace a halo in the molecule COC(=O)Cc1ccc(S(=O)(=O)N2CCc3ccc(F)cc32)s1 with aldehyde.,COC(=O)Cc1ccc(S(=O)(=O)N2CCc3ccc(F)cc32)s1,halo,aldehyde
+246443,Substitute a nitrile in the molecule CSc1nc([O-])c(C(=O)Nc2ccc3nc(C4CCC4)[nH]c3c2)cc1C#N with nitro.,CSc1nc([O-])c(C(=O)Nc2ccc3nc(C4CCC4)[nH]c3c2)cc1C#N,nitrile,nitro
+7024,Please substitute a halo in the molecule C[C@H]([NH2+]CC1(CO)CCOCC1)c1ccc(N2CCOCC2)cc1Cl by nitro.,C[C@H]([NH2+]CC1(CO)CCOCC1)c1ccc(N2CCOCC2)cc1Cl,halo,nitro
+233676,Substitute a halo in the molecule CCN(Cc1cccc(F)c1)C(=O)[C@H]1CCC(=O)O1 with nitro.,CCN(Cc1cccc(F)c1)C(=O)[C@H]1CCC(=O)O1,halo,nitro
+1390,Modify the molecule C[NH2+][C@H](Cc1c(F)cccc1Cl)c1cscc1Br by replacing a halo by carboxyl.,C[NH2+][C@H](Cc1c(F)cccc1Cl)c1cscc1Br,halo,carboxyl
+111018,Modify the molecule Cc1nn2c(=O)c(NC(=O)c3ccc(Cl)cc3)cnc2s1 by substituting a halo with nitrile.,Cc1nn2c(=O)c(NC(=O)c3ccc(Cl)cc3)cnc2s1,halo,nitrile
+166976,Modify the molecule CN(C)C(=O)c1ccc(N[C@H]2CCC[C@@]2(C)CO)nc1 by substituting a hydroxyl with nitrile.,CN(C)C(=O)c1ccc(N[C@H]2CCC[C@@]2(C)CO)nc1,hydroxyl,nitrile
+157202,Replace a hydroxyl in the molecule C[C@@]1(CO)CCC[C@H]1NC(=O)NCc1ccc2c(c1)OCO2 by aldehyde.,C[C@@]1(CO)CCC[C@H]1NC(=O)NCc1ccc2c(c1)OCO2,hydroxyl,aldehyde
+213363,Replace a halo in the molecule COCc1cccc(C(=O)N(C)CC(=O)Nc2ccc(Cl)c(Cl)c2)c1 by nitro.,COCc1cccc(C(=O)N(C)CC(=O)Nc2ccc(Cl)c(Cl)c2)c1,halo,nitro
+98928,Replace a halo in the molecule O=C(Cn1cc(S(=O)(=O)Cc2ccc(Cl)cc2)c2ccccc21)N1CCCCCC1 by nitrile.,O=C(Cn1cc(S(=O)(=O)Cc2ccc(Cl)cc2)c2ccccc21)N1CCCCCC1,halo,nitrile
+219891,Please substitute a halo in the molecule O=C(Nc1cc2c(cc1C(=O)c1ccccc1F)OCCO2)c1ccc(Br)cc1 by nitrile.,O=C(Nc1cc2c(cc1C(=O)c1ccccc1F)OCCO2)c1ccc(Br)cc1,halo,nitrile
+103303,Replace a hydroxyl in the molecule CCCN(CCO)C(=O)N[C@@H]1C[C@H](C)N(c2ccccc2)C1 by aldehyde.,CCCN(CCO)C(=O)N[C@@H]1C[C@H](C)N(c2ccccc2)C1,hydroxyl,aldehyde
+14016,Please replace a halo in the molecule CCOc1cccc(CNC(=O)[C@H]2CCO[C@H]2C)c1OC(F)F with carboxyl.,CCOc1cccc(CNC(=O)[C@H]2CCO[C@H]2C)c1OC(F)F,halo,carboxyl
+208058,Modify the molecule Cc1nc(Br)ccc1NC(=O)c1cccc(NC(C)C)c1 by replacing a halo by hydroxyl.,Cc1nc(Br)ccc1NC(=O)c1cccc(NC(C)C)c1,halo,hydroxyl
+243503,Modify the molecule Cc1cc(N2CCN(CC(=O)NC3CC3)CC2)nc(-c2ccc([N+](=O)[O-])cc2)n1 by replacing a nitro by carboxyl.,Cc1cc(N2CCN(CC(=O)NC3CC3)CC2)nc(-c2ccc([N+](=O)[O-])cc2)n1,nitro,carboxyl
+44694,Modify the molecule CC[C@@](C)(C[NH3+])[C@H](O)C1CCCC1 by substituting a hydroxyl with thiol.,CC[C@@](C)(C[NH3+])[C@H](O)C1CCCC1,hydroxyl,thiol
+38935,Modify the molecule COc1ccccc1N1CCN(C[C@H](O)COc2ccc3c(c2)OCO3)CC1 by replacing a hydroxyl by carboxyl.,COc1ccccc1N1CCN(C[C@H](O)COc2ccc3c(c2)OCO3)CC1,hydroxyl,carboxyl
+99260,Please replace a halo in the molecule Cc1nc(-c2cccc(C[NH2+]Cc3ccc(OC(F)(F)F)cc3)c2)n[nH]1 with nitrile.,Cc1nc(-c2cccc(C[NH2+]Cc3ccc(OC(F)(F)F)cc3)c2)n[nH]1,halo,nitrile
+81585,Replace a hydroxyl in the molecule CC[NH2+]CC[C@](C)(O)c1cccc(OCC)c1 by thiol.,CC[NH2+]CC[C@](C)(O)c1cccc(OCC)c1,hydroxyl,thiol
+34979,Substitute a halo in the molecule COc1ccc(CC(=O)C[NH+](C)C)cc1F with thiol.,COc1ccc(CC(=O)C[NH+](C)C)cc1F,halo,thiol
+202021,Please substitute a halo in the molecule CSc1ccc(Cl)cc1NC(=O)NCCc1cccc(F)c1 by hydroxyl.,CSc1ccc(Cl)cc1NC(=O)NCCc1cccc(F)c1,halo,hydroxyl
+63516,Please replace a halo in the molecule O=C(Cn1cnc2cc(F)c(F)cc21)N(C1CCCC1)[C@@H]1CCS(=O)(=O)C1 with carboxyl.,O=C(Cn1cnc2cc(F)c(F)cc21)N(C1CCCC1)[C@@H]1CCS(=O)(=O)C1,halo,carboxyl
+242819,Modify the molecule C[C@H]1CCc2c(sc3c2C(O)=N[C@@H](c2ccc(-c4ccccc4[N+](=O)[O-])o2)N3)C1 by replacing a hydroxyl by nitro.,C[C@H]1CCc2c(sc3c2C(O)=N[C@@H](c2ccc(-c4ccccc4[N+](=O)[O-])o2)N3)C1,hydroxyl,nitro
+162453,Modify the molecule Cc1c(Cl)cccc1S(=O)(=O)Nc1ccc2c(c1)CCC(=O)N2C by substituting a halo with nitrile.,Cc1c(Cl)cccc1S(=O)(=O)Nc1ccc2c(c1)CCC(=O)N2C,halo,nitrile
+240601,Modify the molecule NS(=O)(=O)Cc1ccc(NC(=O)Cc2ccc([N+](=O)[O-])cc2)cc1 by replacing a nitro by nitrile.,NS(=O)(=O)Cc1ccc(NC(=O)Cc2ccc([N+](=O)[O-])cc2)cc1,nitro,nitrile
+154995,Substitute a hydroxyl in the molecule O[C@H]1c2ccccc2C[C@H]1C[C@@H]1Cc2ccccc21 with aldehyde.,O[C@H]1c2ccccc2C[C@H]1C[C@@H]1Cc2ccccc21,hydroxyl,aldehyde
+174114,Modify the molecule CC(=O)N[C@@H](C(=O)NC[C@](C)(O)c1ccsc1)C1CCCC1 by replacing a hydroxyl by carboxyl.,CC(=O)N[C@@H](C(=O)NC[C@](C)(O)c1ccsc1)C1CCCC1,hydroxyl,carboxyl
+7649,Modify the molecule CCn1c(C(=O)NCc2ccc(Cl)cc2)cc2sccc21 by replacing a halo by thiol.,CCn1c(C(=O)NCc2ccc(Cl)cc2)cc2sccc21,halo,thiol
+78898,Replace a nitrile in the molecule CC(C)N(Cc1ccc(C#N)cc1)C(=O)C=C1CCSCC1 by aldehyde.,CC(C)N(Cc1ccc(C#N)cc1)C(=O)C=C1CCSCC1,nitrile,aldehyde
+83574,Please substitute a nitro in the molecule CCCn1cc(-c2nc(NC)ccc2[N+](=O)[O-])cn1 by carboxyl.,CCCn1cc(-c2nc(NC)ccc2[N+](=O)[O-])cn1,nitro,carboxyl
+91269,Replace a halo in the molecule COCCC(=O)Nc1ccc(Br)c(C(F)(F)F)c1 by nitro.,COCCC(=O)Nc1ccc(Br)c(C(F)(F)F)c1,halo,nitro
+137389,Modify the molecule O=C(Nc1cnn(-c2ccccc2F)c1)N[C@@H](CO)Cc1ccccc1 by substituting a hydroxyl with carboxyl.,O=C(Nc1cnn(-c2ccccc2F)c1)N[C@@H](CO)Cc1ccccc1,hydroxyl,carboxyl
+157131,Modify the molecule CC(=O)Nc1ccc(F)c(NC(=O)c2c(C)nn(C)c2C)c1 by replacing a halo by carboxyl.,CC(=O)Nc1ccc(F)c(NC(=O)c2c(C)nn(C)c2C)c1,halo,carboxyl
+190848,Substitute a halo in the molecule N/C(=N\OCc1ccc(Cl)c(Cl)c1)c1nonc1N with thiol.,N/C(=N\OCc1ccc(Cl)c(Cl)c1)c1nonc1N,halo,thiol
+172626,Modify the molecule O[C@@H](CN1CCOC[C@@H]1C1CC1)c1ccc(Br)cc1 by substituting a halo with aldehyde.,O[C@@H](CN1CCOC[C@@H]1C1CC1)c1ccc(Br)cc1,halo,aldehyde
+209164,Please replace a halo in the molecule CC1=C2[C@H](c3ccccc3Br)CC(=O)N[C@@H]2N(c2ccc([O-])nn2)N1 with nitrile.,CC1=C2[C@H](c3ccccc3Br)CC(=O)N[C@@H]2N(c2ccc([O-])nn2)N1,halo,nitrile
+214718,Replace a hydroxyl in the molecule O=C1N=CN=C2C1=NCN2[C@@H]1O[C@@H](COC(=O)c2ccccc2)[C@@H](O)[C@@H]1O by aldehyde.,O=C1N=CN=C2C1=NCN2[C@@H]1O[C@@H](COC(=O)c2ccccc2)[C@@H](O)[C@@H]1O,hydroxyl,aldehyde
+121808,Modify the molecule CCc1ccc(OCC(=O)NC2CCCCC2)c(Br)c1 by substituting a halo with hydroxyl.,CCc1ccc(OCC(=O)NC2CCCCC2)c(Br)c1,halo,hydroxyl
+126268,Substitute a halo in the molecule O=c1c(C[NH+]2CCSCC2)coc2c(Cl)cc(Cl)cc12 with nitrile.,O=c1c(C[NH+]2CCSCC2)coc2c(Cl)cc(Cl)cc12,halo,nitrile
+105465,Please substitute a halo in the molecule C[C@@]1(CN[C@@H]2CCS(=O)(=O)c3ccc(F)cc32)CCCO1 by thiol.,C[C@@]1(CN[C@@H]2CCS(=O)(=O)c3ccc(F)cc32)CCCO1,halo,thiol
+212371,Substitute a hydroxyl in the molecule Cc1nc(C[C@@H]2CCC[NH+](Cc3cccc(O)c3)C2)no1 with carboxyl.,Cc1nc(C[C@@H]2CCC[NH+](Cc3cccc(O)c3)C2)no1,hydroxyl,carboxyl
+51530,Modify the molecule CC[C@@H](CCO)CNS(=O)(=O)c1ccc(Cl)nc1 by substituting a halo with nitro.,CC[C@@H](CCO)CNS(=O)(=O)c1ccc(Cl)nc1,halo,nitro
+93923,Please substitute a nitrile in the molecule C[C@H](CNC(=O)OC(C)(C)C)[NH+](C)Cc1ccc(C#N)o1 by aldehyde.,C[C@H](CNC(=O)OC(C)(C)C)[NH+](C)Cc1ccc(C#N)o1,nitrile,aldehyde
+201756,Please replace a halo in the molecule COc1cc(Br)c(C[NH2+]C[C@@H]2CN(Cc3ccccc3)CCO2)cc1O with carboxyl.,COc1cc(Br)c(C[NH2+]C[C@@H]2CN(Cc3ccccc3)CCO2)cc1O,halo,carboxyl
+234971,Substitute a halo in the molecule Cc1c(Cl)cccc1S(=O)(=O)N1CCN(c2nc3ccccc3nc2C(F)(F)F)CC1 with nitro.,Cc1c(Cl)cccc1S(=O)(=O)N1CCN(c2nc3ccccc3nc2C(F)(F)F)CC1,halo,nitro
+34332,Modify the molecule Fc1ccc([C@@H]2C[NH2+]C[C@@H](c3ccccc3)O2)cc1 by replacing a halo by thiol.,Fc1ccc([C@@H]2C[NH2+]C[C@@H](c3ccccc3)O2)cc1,halo,thiol
+187254,Modify the molecule COc1cc(C[NH+]2CC[C@H](CO)C2)ccc1OC(=O)C1CC1 by substituting a hydroxyl with thiol.,COc1cc(C[NH+]2CC[C@H](CO)C2)ccc1OC(=O)C1CC1,hydroxyl,thiol
+188094,Modify the molecule COCCCN1C(=O)C(O)=C(C(C)=O)[C@H]1c1ccc(O)c(OC)c1 by substituting a hydroxyl with carboxyl.,COCCCN1C(=O)C(O)=C(C(C)=O)[C@H]1c1ccc(O)c(OC)c1,hydroxyl,carboxyl
+38109,Modify the molecule C[NH+](CC(=O)NCC1CCC1)Cc1ccc(C(F)(F)F)cc1 by replacing a halo by nitrile.,C[NH+](CC(=O)NCC1CCC1)Cc1ccc(C(F)(F)F)cc1,halo,nitrile
+1916,Please replace a halo in the molecule O=S(=O)(Nc1cc(F)ccc1F)c1ccc2c(c1)OCCO2 with thiol.,O=S(=O)(Nc1cc(F)ccc1F)c1ccc2c(c1)OCCO2,halo,thiol
+21311,Replace a halo in the molecule COc1ccc(S[C@H](C)C(=O)Nc2ccc(Cl)cc2C(N)=O)cc1 by carboxyl.,COc1ccc(S[C@H](C)C(=O)Nc2ccc(Cl)cc2C(N)=O)cc1,halo,carboxyl
+8780,Modify the molecule O=C(NCCCO)N[C@@H](Cc1ccc(Cl)cc1)c1ccccc1 by substituting a halo with aldehyde.,O=C(NCCCO)N[C@@H](Cc1ccc(Cl)cc1)c1ccccc1,halo,aldehyde
+228700,Modify the molecule CCCn1ncnc1C[C@H](O)[C@@](C)(CC)[NH+]1CCCC1 by replacing a hydroxyl by carboxyl.,CCCn1ncnc1C[C@H](O)[C@@](C)(CC)[NH+]1CCCC1,hydroxyl,carboxyl
+142625,Please replace a hydroxyl in the molecule COc1ccccc1NC1CCN(C(=O)C[C@@H](O)c2ccccc2)CC1 with carboxyl.,COc1ccccc1NC1CCN(C(=O)C[C@@H](O)c2ccccc2)CC1,hydroxyl,carboxyl
+41999,Substitute a halo in the molecule O=C(NC1CCN(c2cccc[nH+]2)CC1)C1(c2ccc(Br)cc2)CCC1 with nitrile.,O=C(NC1CCN(c2cccc[nH+]2)CC1)C1(c2ccc(Br)cc2)CCC1,halo,nitrile
+71180,Substitute a halo in the molecule O=C(NCc1ccc(F)cc1)N1CCCC[C@H]1c1nc(-c2ccccc2)no1 with thiol.,O=C(NCc1ccc(F)cc1)N1CCCC[C@H]1c1nc(-c2ccccc2)no1,halo,thiol
+125073,Please replace a hydroxyl in the molecule Cc1ccc(NC[C@@H](O)CN2CCOCC2)c([N+](=O)[O-])c1 with thiol.,Cc1ccc(NC[C@@H](O)CN2CCOCC2)c([N+](=O)[O-])c1,hydroxyl,thiol
+81970,Modify the molecule CCCN1C(=O)[C@](O)(CC(=O)/C=C\c2ccccc2)c2ccccc21 by replacing a hydroxyl by nitro.,CCCN1C(=O)[C@](O)(CC(=O)/C=C\c2ccccc2)c2ccccc21,hydroxyl,nitro
+53372,Substitute a halo in the molecule O=C(NC[C@@H]1CCCO1)N[C@H](c1ccccc1)c1ccc(F)cc1 with aldehyde.,O=C(NC[C@@H]1CCCO1)N[C@H](c1ccccc1)c1ccc(F)cc1,halo,aldehyde
+101407,Please substitute a nitro in the molecule Cc1ccc([N+](=O)[O-])cc1NC(=O)CNC(=O)Cc1cccc2ccccc12 by hydroxyl.,Cc1ccc([N+](=O)[O-])cc1NC(=O)CNC(=O)Cc1cccc2ccccc12,nitro,hydroxyl
+162332,Replace a nitrile in the molecule CC[C@H](C#N)OC(=O)CNC(=O)Cc1cccc(F)c1 by carboxyl.,CC[C@H](C#N)OC(=O)CNC(=O)Cc1cccc(F)c1,nitrile,carboxyl
+31315,Modify the molecule COc1ccc(Br)cc1N[C@H](C)C(=O)NC(=O)NC(C)C by substituting a halo with aldehyde.,COc1ccc(Br)cc1N[C@H](C)C(=O)NC(=O)NC(C)C,halo,aldehyde
+245727,Substitute a halo in the molecule C[C@@H](Sc1nnc(C2CC2)n1Cc1ccco1)c1c(F)cccc1F with nitro.,C[C@@H](Sc1nnc(C2CC2)n1Cc1ccco1)c1c(F)cccc1F,halo,nitro
+13330,Please replace a halo in the molecule O=C(S[C@H]1CS(=O)(=O)C[C@@H]1Cl)c1ccc([N+](=O)[O-])cc1 with thiol.,O=C(S[C@H]1CS(=O)(=O)C[C@@H]1Cl)c1ccc([N+](=O)[O-])cc1,halo,thiol
+89635,Please substitute a hydroxyl in the molecule N/C(=N/O)[C@H]1CN(CCN2CCOCC2)CCO1 by halo.,N/C(=N/O)[C@H]1CN(CCN2CCOCC2)CCO1,hydroxyl,halo
+241385,Please substitute a nitro in the molecule Cc1ccc(O)c([N-]S(=O)(=O)c2c(C)cccc2[N+](=O)[O-])c1 by nitrile.,Cc1ccc(O)c([N-]S(=O)(=O)c2c(C)cccc2[N+](=O)[O-])c1,nitro,nitrile
+157471,Replace a hydroxyl in the molecule Cc1cc(C)c(O)c(C(=O)Nc2ccnn2C(C)C)c1 by thiol.,Cc1cc(C)c(O)c(C(=O)Nc2ccnn2C(C)C)c1,hydroxyl,thiol
+201968,Please substitute a halo in the molecule O=S(=O)(CCc1ccccc1)[N-]c1cc(Br)ccc1N1CCOCC1 by thiol.,O=S(=O)(CCc1ccccc1)[N-]c1cc(Br)ccc1N1CCOCC1,halo,thiol
+180388,Modify the molecule Cc1nc(Br)ccc1NC(=O)C(=O)N[C@@H](C)CC(C)C by substituting a halo with nitro.,Cc1nc(Br)ccc1NC(=O)C(=O)N[C@@H](C)CC(C)C,halo,nitro
+22186,Please replace a halo in the molecule COc1ccc(C2=NO[C@@H]([C@H]3C=C(c4ccc(F)cc4)N=N3)N2)cc1 with hydroxyl.,COc1ccc(C2=NO[C@@H]([C@H]3C=C(c4ccc(F)cc4)N=N3)N2)cc1,halo,hydroxyl
+218426,Please substitute a nitrile in the molecule CC[C@H](C#N)OC(=O)c1csc(-c2cnn(-c3ccccc3)c2)n1 by halo.,CC[C@H](C#N)OC(=O)c1csc(-c2cnn(-c3ccccc3)c2)n1,nitrile,halo
+144650,Please replace a halo in the molecule CC(C)(C)[S@@](=O)CCNC(=O)N[C@H](c1ccccc1F)C1CCCC1 with carboxyl.,CC(C)(C)[S@@](=O)CCNC(=O)N[C@H](c1ccccc1F)C1CCCC1,halo,carboxyl
+60295,Please replace a halo in the molecule CC[C@](C)([NH3+])C(=O)Nc1ccc(C(F)(F)F)cc1C(=O)[O-] with nitrile.,CC[C@](C)([NH3+])C(=O)Nc1ccc(C(F)(F)F)cc1C(=O)[O-],halo,nitrile
+130741,Please replace a halo in the molecule COc1ccc(C(=O)NC(=S)Nc2cccc(Cl)c2)c(OC)c1 with nitrile.,COc1ccc(C(=O)NC(=S)Nc2cccc(Cl)c2)c(OC)c1,halo,nitrile
+39016,Modify the molecule O=C(Nc1nc(CC(=O)N2CCCC2)cs1)c1ccc(Cl)cc1 by substituting a halo with nitro.,O=C(Nc1nc(CC(=O)N2CCCC2)cs1)c1ccc(Cl)cc1,halo,nitro
+73529,Please replace a halo in the molecule CN(Cc1ccccc1N1CCCC1)S(=O)(=O)c1ccccc1Br with thiol.,CN(Cc1ccccc1N1CCCC1)S(=O)(=O)c1ccccc1Br,halo,thiol
+28468,Please replace a halo in the molecule COC1CC[NH+](CCOc2ccc(F)cc2Cl)CC1 with nitro.,COC1CC[NH+](CCOc2ccc(F)cc2Cl)CC1,halo,nitro
+249015,Replace a halo in the molecule CCc1ccc(/C=C2\C(=O)Nc3ccc(Cl)cc32)cc1 by nitrile.,CCc1ccc(/C=C2\C(=O)Nc3ccc(Cl)cc32)cc1,halo,nitrile
+40058,Modify the molecule CCc1ncc(CN(C[C@@H](O)c2ccc(F)cc2)C2CC2)s1 by substituting a halo with carboxyl.,CCc1ncc(CN(C[C@@H](O)c2ccc(F)cc2)C2CC2)s1,halo,carboxyl
+128434,Replace a halo in the molecule CC[C@H](C(=O)[O-])N1C(=O)/C(=C/c2ccc(-c3ccc(C)cc3Br)o2)SC1=S by nitro.,CC[C@H](C(=O)[O-])N1C(=O)/C(=C/c2ccc(-c3ccc(C)cc3Br)o2)SC1=S,halo,nitro
+24082,Modify the molecule CC(C)Sc1ccccc1C(=O)NNc1cc(C#N)cc(Cl)n1 by substituting a halo with nitrile.,CC(C)Sc1ccccc1C(=O)NNc1cc(C#N)cc(Cl)n1,halo,nitrile
+107569,Modify the molecule C[C@]1(c2ccc(OC(F)F)cc2)NC(=O)N(C[C@@H](O)c2cccc(F)c2)C1=O by substituting a hydroxyl with halo.,C[C@]1(c2ccc(OC(F)F)cc2)NC(=O)N(C[C@@H](O)c2cccc(F)c2)C1=O,hydroxyl,halo
+41515,Substitute a halo in the molecule COc1ccc(F)c(NC(=O)C(=O)NC[C@H](C2CCCCC2)[NH+](C)C)c1 with nitro.,COc1ccc(F)c(NC(=O)C(=O)NC[C@H](C2CCCCC2)[NH+](C)C)c1,halo,nitro
+180222,Please replace a nitro in the molecule CCc1nn(C)c(NCc2cccc([C@@]3(C)NC(=O)NC3=O)c2)c1[N+](=O)[O-] with hydroxyl.,CCc1nn(C)c(NCc2cccc([C@@]3(C)NC(=O)NC3=O)c2)c1[N+](=O)[O-],nitro,hydroxyl
+27633,Please substitute a halo in the molecule Cn1cnc(S(=O)(=O)N2CCC[C@H](c3ncc[nH]3)C2)c1Cl by thiol.,Cn1cnc(S(=O)(=O)N2CCC[C@H](c3ncc[nH]3)C2)c1Cl,halo,thiol
+110217,Please substitute a halo in the molecule Cc1cs/c(=N\S(=O)(=O)c2cc(C)c(Br)s2)[nH]1 by carboxyl.,Cc1cs/c(=N\S(=O)(=O)c2cc(C)c(Br)s2)[nH]1,halo,carboxyl
+49381,Modify the molecule C=CCN1CC[C@@]2(CCC1=O)CN(Cc1ccc(Cl)cc1)CC[NH+]2C by replacing a halo by aldehyde.,C=CCN1CC[C@@]2(CCC1=O)CN(Cc1ccc(Cl)cc1)CC[NH+]2C,halo,aldehyde
+152614,Substitute a halo in the molecule CN(Cc1cccc(NN)[nH+]1)Cc1cc(Br)cs1 with thiol.,CN(Cc1cccc(NN)[nH+]1)Cc1cc(Br)cs1,halo,thiol
+233318,Modify the molecule O=c1sc2c(n1Cc1cnc(Cl)s1)CCCCC2 by substituting a halo with nitro.,O=c1sc2c(n1Cc1cnc(Cl)s1)CCCCC2,halo,nitro
+203733,Modify the molecule O=C(CC[C@@H](O)c1ccccc1)N/N=C\c1cc(Br)cc(Br)c1O by substituting a hydroxyl with aldehyde.,O=C(CC[C@@H](O)c1ccccc1)N/N=C\c1cc(Br)cc(Br)c1O,hydroxyl,aldehyde
+52812,Please substitute a halo in the molecule NS(=O)(=O)c1ccc(NC(=O)C2=Cc3cc(Br)ccc3OC=C2)cc1 by thiol.,NS(=O)(=O)c1ccc(NC(=O)C2=Cc3cc(Br)ccc3OC=C2)cc1,halo,thiol
+108813,Please replace a halo in the molecule COc1ccccc1OCCNc1cc(Cl)cc(Cl)c1 with aldehyde.,COc1ccccc1OCCNc1cc(Cl)cc(Cl)c1,halo,aldehyde
+192236,Substitute a halo in the molecule CC1(C)[C@@H](C=C(Cl)Cl)[C@H]1C(=O)N1CC[NH+](Cc2ccc3c(c2)OCO3)CC1 with aldehyde.,CC1(C)[C@@H](C=C(Cl)Cl)[C@H]1C(=O)N1CC[NH+](Cc2ccc3c(c2)OCO3)CC1,halo,aldehyde
+184783,Substitute a nitro in the molecule CCOc1ccc(/C=C2\N=C(c3ccccc3[N+](=O)[O-])OC2=O)cc1 with carboxyl.,CCOc1ccc(/C=C2\N=C(c3ccccc3[N+](=O)[O-])OC2=O)cc1,nitro,carboxyl
+102622,Please replace a halo in the molecule COc1ccc(C[C@H](Cl)c2ccccc2)cc1 with hydroxyl.,COc1ccc(C[C@H](Cl)c2ccccc2)cc1,halo,hydroxyl
+171427,Substitute a halo in the molecule CC(=O)c1ccc(N2CCN(C(=O)N[C@@H]3C[C@@H]3c3cccc(F)c3)CC2)c(F)c1 with aldehyde.,CC(=O)c1ccc(N2CCN(C(=O)N[C@@H]3C[C@@H]3c3cccc(F)c3)CC2)c(F)c1,halo,aldehyde
+93360,Modify the molecule Cc1ccc(C)c(Nc2ncnc(NNC(=O)c3ccc(Cl)cc3)c2[N+](=O)[O-])c1 by substituting a nitro with carboxyl.,Cc1ccc(C)c(Nc2ncnc(NNC(=O)c3ccc(Cl)cc3)c2[N+](=O)[O-])c1,nitro,carboxyl
+244972,Modify the molecule Clc1ccccc1C#CCN1CCOC[C@@H]1C1CC1 by substituting a halo with aldehyde.,Clc1ccccc1C#CCN1CCOC[C@@H]1C1CC1,halo,aldehyde
+207354,Please substitute a halo in the molecule CCc1nc(CS(=O)(=O)CC(F)(F)F)cs1 by nitrile.,CCc1nc(CS(=O)(=O)CC(F)(F)F)cs1,halo,nitrile
+23667,Modify the molecule COc1ccc(Cl)c(NC(=O)c2cc3cnn(C(C)C)c3nc2C)c1 by replacing a halo by aldehyde.,COc1ccc(Cl)c(NC(=O)c2cc3cnn(C(C)C)c3nc2C)c1,halo,aldehyde
+84533,Substitute a halo in the molecule CC[C@H]1CCCCN1S(=O)(=O)c1ccc(Cl)nc1 with thiol.,CC[C@H]1CCCCN1S(=O)(=O)c1ccc(Cl)nc1,halo,thiol
+38545,Substitute a halo in the molecule CCOc1ccc(C(=O)NNC(=O)COc2cc(C)c(Cl)c(C)c2)cc1Br with nitro.,CCOc1ccc(C(=O)NNC(=O)COc2cc(C)c(Cl)c(C)c2)cc1Br,halo,nitro
+134148,Please substitute a halo in the molecule CS(=O)(=O)c1cncnc1[C@@H]1CCCN(C(=O)C2(c3ccc(F)cc3)CCCC2)C1 by nitrile.,CS(=O)(=O)c1cncnc1[C@@H]1CCCN(C(=O)C2(c3ccc(F)cc3)CCCC2)C1,halo,nitrile
+60938,Please substitute a halo in the molecule O=c1[nH]cnc2cc(NCCOc3ccc(Cl)cc3)c([N+](=O)[O-])cc12 by nitro.,O=c1[nH]cnc2cc(NCCOc3ccc(Cl)cc3)c([N+](=O)[O-])cc12,halo,nitro
+187840,Modify the molecule Cc1cc(C(=O)[C@H](C#N)c2ccccn2)c(C)s1 by substituting a nitrile with aldehyde.,Cc1cc(C(=O)[C@H](C#N)c2ccccn2)c(C)s1,nitrile,aldehyde
+21380,Please substitute a halo in the molecule COC[C@@H]1CCCN(C(=O)C(=O)Nc2cc(C(F)(F)F)c[nH]c2=O)C1 by hydroxyl.,COC[C@@H]1CCCN(C(=O)C(=O)Nc2cc(C(F)(F)F)c[nH]c2=O)C1,halo,hydroxyl
+18679,Please replace a nitrile in the molecule C[C@H](NC(=O)c1cccc(SCC#N)c1)C(=O)N1CCCC[C@@H]1C with nitro.,C[C@H](NC(=O)c1cccc(SCC#N)c1)C(=O)N1CCCC[C@@H]1C,nitrile,nitro
+135792,Please replace a nitro in the molecule Cc1n[nH]c2ncc(C(=O)Nc3n[nH]c4ccc([N+](=O)[O-])cc34)cc12 with aldehyde.,Cc1n[nH]c2ncc(C(=O)Nc3n[nH]c4ccc([N+](=O)[O-])cc34)cc12,nitro,aldehyde
+86573,Replace a nitrile in the molecule N#CCCNC(=O)CSc1nnc(NC2CC2)s1 by carboxyl.,N#CCCNC(=O)CSc1nnc(NC2CC2)s1,nitrile,carboxyl
+111480,Please substitute a hydroxyl in the molecule CCN(Cc1cn2c(C)cc(C)nc2n1)C[C@@H](O)c1ccc(C)cc1 by nitrile.,CCN(Cc1cn2c(C)cc(C)nc2n1)C[C@@H](O)c1ccc(C)cc1,hydroxyl,nitrile
+69600,Substitute a hydroxyl in the molecule COc1ccc(C(=O)N[C@H](C)c2c(C)noc2C)cc1OCCO with thiol.,COc1ccc(C(=O)N[C@H](C)c2c(C)noc2C)cc1OCCO,hydroxyl,thiol
+211313,Substitute a halo in the molecule O=C(NCc1csc(Br)c1)Nc1ccncc1 with carboxyl.,O=C(NCc1csc(Br)c1)Nc1ccncc1,halo,carboxyl
+157716,Substitute a halo in the molecule C[C@@H]([NH2+]CCCNC(=O)c1ccc(F)cc1)c1ccc2ccccc2n1 with nitro.,C[C@@H]([NH2+]CCCNC(=O)c1ccc(F)cc1)c1ccc2ccccc2n1,halo,nitro
+209444,Modify the molecule Clc1ccc(C[NH2+][C@H]2CCOC3(CCSCC3)C2)s1 by substituting a halo with carboxyl.,Clc1ccc(C[NH2+][C@H]2CCOC3(CCSCC3)C2)s1,halo,carboxyl
+128374,Modify the molecule COc1ccc(OC)c(N2C[C@](O)(c3ccc4c(c3)OCCO4)[N+]3=C2CCCCC3)c1 by replacing a hydroxyl by nitro.,COc1ccc(OC)c(N2C[C@](O)(c3ccc4c(c3)OCCO4)[N+]3=C2CCCCC3)c1,hydroxyl,nitro
+21440,Please substitute a halo in the molecule CCCCO[C@@H]1C[C@H](NC(=O)c2occc2Br)C1(C)C by hydroxyl.,CCCCO[C@@H]1C[C@H](NC(=O)c2occc2Br)C1(C)C,halo,hydroxyl
+99167,Please substitute a hydroxyl in the molecule CCC[C@H](O)[C@H]1CCOC2(CCCC2)C1 by carboxyl.,CCC[C@H](O)[C@H]1CCOC2(CCCC2)C1,hydroxyl,carboxyl
+193697,Replace a halo in the molecule Cc1nn(Cc2ccc(Br)cc2)c(C)c1NC(=O)c1cccnc1 by carboxyl.,Cc1nn(Cc2ccc(Br)cc2)c(C)c1NC(=O)c1cccnc1,halo,carboxyl
+20066,Replace a nitrile in the molecule CCOC(=O)Cc1[nH]nc2c1[C@H](c1ccoc1)C(C#N)=C(N)O2 by aldehyde.,CCOC(=O)Cc1[nH]nc2c1[C@H](c1ccoc1)C(C#N)=C(N)O2,nitrile,aldehyde
+248780,Please replace a halo in the molecule Oc1ccc(-c2cccc(F)c2F)cc1 with nitrile.,Oc1ccc(-c2cccc(F)c2F)cc1,halo,nitrile
+190853,Substitute a halo in the molecule CN(C)c1ccc(/C=C2/SC(=S)N(c3ccccc3F)C2=O)cc1 with thiol.,CN(C)c1ccc(/C=C2/SC(=S)N(c3ccccc3F)C2=O)cc1,halo,thiol
+17086,Modify the molecule CCC[NH+](CC)[C@H]1CCC[C@@](CO)([NH2+]CC)C1 by replacing a hydroxyl by halo.,CCC[NH+](CC)[C@H]1CCC[C@@](CO)([NH2+]CC)C1,hydroxyl,halo
+112018,Replace a nitrile in the molecule CCC1(C(=O)N2CCC[C@H](C#N)C2)CCCC1 by hydroxyl.,CCC1(C(=O)N2CCC[C@H](C#N)C2)CCCC1,nitrile,hydroxyl
+140484,Replace a halo in the molecule CCCC(=[NH2+])Nc1cc(OC)ccc1F by aldehyde.,CCCC(=[NH2+])Nc1cc(OC)ccc1F,halo,aldehyde
+85076,Please substitute a halo in the molecule FC(F)Oc1ccccc1[C@H]1CC(c2ccccc2)=Nc2ncnn21 by nitrile.,FC(F)Oc1ccccc1[C@H]1CC(c2ccccc2)=Nc2ncnn21,halo,nitrile
+74847,Replace a nitrile in the molecule CC(=O)c1ccnc(N2CCO[C@H](C#N)C2)c1 by aldehyde.,CC(=O)c1ccnc(N2CCO[C@H](C#N)C2)c1,nitrile,aldehyde
+187047,Replace a halo in the molecule Cc1cccc(Cl)c1NCC(=O)Nc1ccc(N2CCOCC2)cc1 by hydroxyl.,Cc1cccc(Cl)c1NCC(=O)Nc1ccc(N2CCOCC2)cc1,halo,hydroxyl
+58774,Modify the molecule NNC(=O)c1cc(-c2ccc(Cl)cc2Cl)nc2ccccc12 by substituting a halo with thiol.,NNC(=O)c1cc(-c2ccc(Cl)cc2Cl)nc2ccccc12,halo,thiol
+225140,Please substitute a thiol in the molecule C=CC(=O)N(C(=O)C=C)[C@H](CS)C(=O)[O-] by nitrile.,C=CC(=O)N(C(=O)C=C)[C@H](CS)C(=O)[O-],thiol,nitrile
+148335,Modify the molecule Cc1cc(F)ccc1CCNC(=O)CCn1cc([N+](=O)[O-])nc1C by substituting a halo with nitro.,Cc1cc(F)ccc1CCNC(=O)CCn1cc([N+](=O)[O-])nc1C,halo,nitro
+170444,Replace a halo in the molecule CN(C)[C@H](CNCc1ccc(F)cc1F)c1ccccc1 by nitro.,CN(C)[C@H](CNCc1ccc(F)cc1F)c1ccccc1,halo,nitro
+224,Modify the molecule O=C(NCc1cccnc1)NCc1ccnc(OCC(F)F)c1 by replacing a halo by hydroxyl.,O=C(NCc1cccnc1)NCc1ccnc(OCC(F)F)c1,halo,hydroxyl
+83981,Modify the molecule O=C(CSc1ccccc1F)Nc1ccccc1C(=O)NCc1ccco1 by replacing a halo by carboxyl.,O=C(CSc1ccccc1F)Nc1ccccc1C(=O)NCc1ccco1,halo,carboxyl
+155782,Substitute a halo in the molecule CCCC[C@H](CC)C[C@@H](O)c1cncc(Br)c1 with thiol.,CCCC[C@H](CC)C[C@@H](O)c1cncc(Br)c1,halo,thiol
+12917,Modify the molecule Cc1ccc(-c2csc3nc(Cn4cc(C(F)(F)F)ccc4=O)[nH]c(=O)c23)s1 by replacing a halo by hydroxyl.,Cc1ccc(-c2csc3nc(Cn4cc(C(F)(F)F)ccc4=O)[nH]c(=O)c23)s1,halo,hydroxyl
+247095,Modify the molecule Cc1ccc(NCc2c(F)cccc2F)c(C)n1 by replacing a halo by carboxyl.,Cc1ccc(NCc2c(F)cccc2F)c(C)n1,halo,carboxyl
+65597,Please substitute a nitrile in the molecule N#Cc1ccc(NC(=O)N2CCCN(C(=O)c3ccsc3)CC2)cc1 by thiol.,N#Cc1ccc(NC(=O)N2CCCN(C(=O)c3ccsc3)CC2)cc1,nitrile,thiol
+176512,Modify the molecule Cc1ccc2c(c1)c1c(n2C[C@H](O)CN2C(=O)CNC2=O)C(=O)CCC1 by substituting a hydroxyl with aldehyde.,Cc1ccc2c(c1)c1c(n2C[C@H](O)CN2C(=O)CNC2=O)C(=O)CCC1,hydroxyl,aldehyde
+127950,Please replace a halo in the molecule COc1ccc(CNC(=O)C(=O)Nc2ccccc2C)cc1OC(F)F with aldehyde.,COc1ccc(CNC(=O)C(=O)Nc2ccccc2C)cc1OC(F)F,halo,aldehyde
+246395,Modify the molecule CC(C)[C@@H](O)[C@@H](C)c1cccc(F)c1 by replacing a hydroxyl by nitro.,CC(C)[C@@H](O)[C@@H](C)c1cccc(F)c1,hydroxyl,nitro
+132815,Modify the molecule CCNC(=O)c1ccc(S(=O)(=O)Nc2ccc(F)cc2)cc1 by substituting a halo with thiol.,CCNC(=O)c1ccc(S(=O)(=O)Nc2ccc(F)cc2)cc1,halo,thiol
+26149,Replace a nitro in the molecule C[C@H]1CCC[NH+](C/C([O-])=N/c2nc3ccc([N+](=O)[O-])cc3s2)C1 by thiol.,C[C@H]1CCC[NH+](C/C([O-])=N/c2nc3ccc([N+](=O)[O-])cc3s2)C1,nitro,thiol
+196502,Please substitute a halo in the molecule CSc1ccc([C@H](C)[NH2+][C@@H]2CCc3cc(Cl)ccc32)cc1 by carboxyl.,CSc1ccc([C@H](C)[NH2+][C@@H]2CCc3cc(Cl)ccc32)cc1,halo,carboxyl
+191036,Please substitute a halo in the molecule CCn1/c(=N/C(=O)[C@@H](C)COC)[nH]c2cc(Cl)ccc21 by thiol.,CCn1/c(=N/C(=O)[C@@H](C)COC)[nH]c2cc(Cl)ccc21,halo,thiol
+186195,Modify the molecule Cc1nn(C(F)F)cc1S(=O)(=O)N1CCC(c2nnc3n2CCCCC3)CC1 by replacing a halo by nitro.,Cc1nn(C(F)F)cc1S(=O)(=O)N1CCC(c2nnc3n2CCCCC3)CC1,halo,nitro
+3215,Please replace a nitrile in the molecule CC(C)[NH+]1CCCN(C(=O)C(C)(C)c2cccc(C#N)c2)CC1 with carboxyl.,CC(C)[NH+]1CCCN(C(=O)C(C)(C)c2cccc(C#N)c2)CC1,nitrile,carboxyl
+10469,Substitute a hydroxyl in the molecule O=C(NCc1ccsc1)c1csc(C#CCO)c1 with nitro.,O=C(NCc1ccsc1)c1csc(C#CCO)c1,hydroxyl,nitro
+66367,Modify the molecule O=C(C[NH2+]Cc1ccccn1)Nc1ccc([N+](=O)[O-])cc1 by replacing a nitro by hydroxyl.,O=C(C[NH2+]Cc1ccccn1)Nc1ccc([N+](=O)[O-])cc1,nitro,hydroxyl
+27104,Please substitute a nitro in the molecule O=C(/C=C/c1ccc(Cl)c([N+](=O)[O-])c1)N1CCN(c2c(Cl)cccc2[N+](=O)[O-])CC1 by halo.,O=C(/C=C/c1ccc(Cl)c([N+](=O)[O-])c1)N1CCN(c2c(Cl)cccc2[N+](=O)[O-])CC1,nitro,halo
+226922,Modify the molecule CCc1ccc([C@H](C)C(=O)Nc2cc(NC(C)=O)ccc2F)cc1 by substituting a halo with carboxyl.,CCc1ccc([C@H](C)C(=O)Nc2cc(NC(C)=O)ccc2F)cc1,halo,carboxyl
+166835,Please substitute a nitrile in the molecule COc1ccc(/C=C(/C#N)C(=O)NCCc2nc3ccccc3s2)cc1 by aldehyde.,COc1ccc(/C=C(/C#N)C(=O)NCCc2nc3ccccc3s2)cc1,nitrile,aldehyde
+320,Modify the molecule Cc1cc(Br)ccc1SCC(=O)N1CCC(C(=O)c2ccc3c(c2)OCCO3)CC1 by replacing a halo by nitrile.,Cc1cc(Br)ccc1SCC(=O)N1CCC(C(=O)c2ccc3c(c2)OCCO3)CC1,halo,nitrile
+52138,Modify the molecule CC(C)[NH+]1CCN(C(=O)c2cccc(O)c2)CC1 by replacing a hydroxyl by carboxyl.,CC(C)[NH+]1CCN(C(=O)c2cccc(O)c2)CC1,hydroxyl,carboxyl
+37720,Replace a halo in the molecule Fc1cc(C[NH2+][C@H]2CCCc3ccccc32)cc(F)c1F by hydroxyl.,Fc1cc(C[NH2+][C@H]2CCCc3ccccc32)cc(F)c1F,halo,hydroxyl
+12260,Please replace a halo in the molecule COC(=O)C1CCC(C(=O)N[C@@H](CC(F)(F)F)c2ccc(F)cc2)CC1 with hydroxyl.,COC(=O)C1CCC(C(=O)N[C@@H](CC(F)(F)F)c2ccc(F)cc2)CC1,halo,hydroxyl
+35678,Modify the molecule CC[C@@H]1CCC[C@@]2(C[NH+]=C(N)N2c2ccc(F)cc2)C1 by substituting a halo with thiol.,CC[C@@H]1CCC[C@@]2(C[NH+]=C(N)N2c2ccc(F)cc2)C1,halo,thiol
+218910,Please replace a halo in the molecule CSCc1cc(F)ccc1CNC(=O)C1CCN(C(=O)C2CC2)CC1 with nitro.,CSCc1cc(F)ccc1CNC(=O)C1CCN(C(=O)C2CC2)CC1,halo,nitro
+66580,Replace a halo in the molecule C[C@H](CNC(=O)N[C@@H](c1ccc(F)cc1)[C@@H]1CCCO1)N1CCOCC1 by carboxyl.,C[C@H](CNC(=O)N[C@@H](c1ccc(F)cc1)[C@@H]1CCCO1)N1CCOCC1,halo,carboxyl
+112596,Substitute a hydroxyl in the molecule CS(=O)(=O)[N-]c1ccc(O)c(C(=O)N(Cc2ccc(Cl)cc2)C2CC2)c1 with nitrile.,CS(=O)(=O)[N-]c1ccc(O)c(C(=O)N(Cc2ccc(Cl)cc2)C2CC2)c1,hydroxyl,nitrile
+138708,Modify the molecule Cc1ccc(Nc2cc(C)c3ccc(O)cc3n2)cc1F by substituting a hydroxyl with aldehyde.,Cc1ccc(Nc2cc(C)c3ccc(O)cc3n2)cc1F,hydroxyl,aldehyde
+123719,Modify the molecule COc1ccc(/C=N/NC(=O)COc2ccccc2C)cc1[N+](=O)[O-] by replacing a nitro by halo.,COc1ccc(/C=N/NC(=O)COc2ccccc2C)cc1[N+](=O)[O-],nitro,halo
+198730,Please substitute a halo in the molecule Cc1[nH]c2ccccc2c1CC(=O)N1CCC(OCc2ccccc2F)CC1 by hydroxyl.,Cc1[nH]c2ccccc2c1CC(=O)N1CCC(OCc2ccccc2F)CC1,halo,hydroxyl
+112413,Modify the molecule OCC[C@H]1CCC[NH+](Cc2cccn2Cc2cccs2)C1 by substituting a hydroxyl with carboxyl.,OCC[C@H]1CCC[NH+](Cc2cccn2Cc2cccs2)C1,hydroxyl,carboxyl
+233790,Modify the molecule CC[C@@H](C#N)NC(=O)c1c(F)ccc([N+](=O)[O-])c1F by replacing a nitro by hydroxyl.,CC[C@@H](C#N)NC(=O)c1c(F)ccc([N+](=O)[O-])c1F,nitro,hydroxyl
+158912,Modify the molecule COCCN(Cc1cccnc1)C(=O)c1cnn(-c2ccc(F)cc2)n1 by substituting a halo with carboxyl.,COCCN(Cc1cccnc1)C(=O)c1cnn(-c2ccc(F)cc2)n1,halo,carboxyl
+214404,Modify the molecule Cc1c(Sc2ncn(-c3ccccc3)n2)cc(C#N)cc1[N+](=O)[O-] by substituting a nitrile with hydroxyl.,Cc1c(Sc2ncn(-c3ccccc3)n2)cc(C#N)cc1[N+](=O)[O-],nitrile,hydroxyl
+10714,Substitute a halo in the molecule CO[C@H](C)C(=O)Oc1ccc(Br)cc1Br with aldehyde.,CO[C@H](C)C(=O)Oc1ccc(Br)cc1Br,halo,aldehyde
+201667,Please replace a halo in the molecule Cn1cc(-c2noc(-c3ccc4ccc(Cl)cc4n3)n2)cn1 with aldehyde.,Cn1cc(-c2noc(-c3ccc4ccc(Cl)cc4n3)n2)cn1,halo,aldehyde
+176075,Substitute a hydroxyl in the molecule CCOC[C@]1(O)C[C@H](C)CC(C)(C)C1 with halo.,CCOC[C@]1(O)C[C@H](C)CC(C)(C)C1,hydroxyl,halo
+197345,Modify the molecule CC[C@H](C)NC(=O)Cn1cnc2onc(-c3ccc(Cl)cc3)c2c1=O by substituting a halo with thiol.,CC[C@H](C)NC(=O)Cn1cnc2onc(-c3ccc(Cl)cc3)c2c1=O,halo,thiol
+180081,Please replace a halo in the molecule CC(C)(C)[C@H]1CCC(=O)[C@@H]([C@@]2(O)C(=O)Nc3ccc(Br)cc32)C1 with nitrile.,CC(C)(C)[C@H]1CCC(=O)[C@@H]([C@@]2(O)C(=O)Nc3ccc(Br)cc32)C1,halo,nitrile
+241353,Modify the molecule O=C(NCC1CCN(C(=O)c2ccoc2)CC1)c1ccc(Br)o1 by substituting a halo with aldehyde.,O=C(NCC1CCN(C(=O)c2ccoc2)CC1)c1ccc(Br)o1,halo,aldehyde
+94237,Please substitute a halo in the molecule O=C(Cn1ncc2c3ccccc3n(Cc3cccc(Cl)c3)c2c1=O)NCc1ccc(F)cc1 by nitro.,O=C(Cn1ncc2c3ccccc3n(Cc3cccc(Cl)c3)c2c1=O)NCc1ccc(F)cc1,halo,nitro
+237362,Please substitute a nitro in the molecule Cc1ccc([N+](=O)[O-])c(N[C@H]2CC[NH+]3CCC[C@H]23)c1 by aldehyde.,Cc1ccc([N+](=O)[O-])c(N[C@H]2CC[NH+]3CCC[C@H]23)c1,nitro,aldehyde
+66353,Substitute a hydroxyl in the molecule CC(C)[C@@H]([C@H](O)c1ccccc1)N1CC[NH+]2CCC[C@@H]2C1 with aldehyde.,CC(C)[C@@H]([C@H](O)c1ccccc1)N1CC[NH+]2CCC[C@@H]2C1,hydroxyl,aldehyde
+146720,Please replace a halo in the molecule CCNC(=O)C1CCN(C(=O)Nc2ccc(NC(=O)Nc3ccccc3F)cc2)CC1 with hydroxyl.,CCNC(=O)C1CCN(C(=O)Nc2ccc(NC(=O)Nc3ccccc3F)cc2)CC1,halo,hydroxyl
+199067,Please replace a halo in the molecule O=C(Nc1cccc(-c2nnnn2C2CC2)c1)c1cncc(Br)c1 with thiol.,O=C(Nc1cccc(-c2nnnn2C2CC2)c1)c1cncc(Br)c1,halo,thiol
+219069,Please replace a hydroxyl in the molecule C[C@H]1OCC[C@H]1C(=O)N1CCN(CCO)CC1 with thiol.,C[C@H]1OCC[C@H]1C(=O)N1CCN(CCO)CC1,hydroxyl,thiol
+36292,Modify the molecule COc1cc2c(cc1OC)[C@@H](c1cccc(Cl)c1)N(C1CCN(C)CC1)CC2 by replacing a halo by aldehyde.,COc1cc2c(cc1OC)[C@@H](c1cccc(Cl)c1)N(C1CCN(C)CC1)CC2,halo,aldehyde
+196324,Please replace a halo in the molecule Cc1ccc([C@@H](C)C(=O)N2CCC(n3c(=O)oc4ccc(Cl)cc43)CC2)cc1 with aldehyde.,Cc1ccc([C@@H](C)C(=O)N2CCC(n3c(=O)oc4ccc(Cl)cc43)CC2)cc1,halo,aldehyde
+141029,Please substitute a halo in the molecule CCN(Cc1ccccc1)C(=O)CN1C(=O)N(c2ccc(C)c(Cl)c2)[C@@H]2CS(=O)(=O)C[C@H]21 by thiol.,CCN(Cc1ccccc1)C(=O)CN1C(=O)N(c2ccc(C)c(Cl)c2)[C@@H]2CS(=O)(=O)C[C@H]21,halo,thiol
+145650,Modify the molecule C[NH+](C)[C@H](CNc1ccc([N+](=O)[O-])cc1[N+](=O)[O-])C1CC1 by substituting a nitro with aldehyde.,C[NH+](C)[C@H](CNc1ccc([N+](=O)[O-])cc1[N+](=O)[O-])C1CC1,nitro,aldehyde
+93663,Please substitute a hydroxyl in the molecule Cc1nn(-c2nc3ccccc3s2)c2c1[C@@H](c1cccc(O)c1)CC(=O)N2 by thiol.,Cc1nn(-c2nc3ccccc3s2)c2c1[C@@H](c1cccc(O)c1)CC(=O)N2,hydroxyl,thiol
+6254,Substitute a halo in the molecule CC(C)(C)c1cc(C(=O)NNC(=O)c2cccs2)n(Cc2ccc(F)cc2)n1 with nitro.,CC(C)(C)c1cc(C(=O)NNC(=O)c2cccs2)n(Cc2ccc(F)cc2)n1,halo,nitro
+22674,Modify the molecule CCC(CC)N(CC[NH3+])c1ncc(Cl)cc1F by substituting a halo with hydroxyl.,CCC(CC)N(CC[NH3+])c1ncc(Cl)cc1F,halo,hydroxyl
+60353,Modify the molecule CCCn1ncnc1C[C@@H]([NH2+]CC)c1c(F)cccc1F by substituting a halo with aldehyde.,CCCn1ncnc1C[C@@H]([NH2+]CC)c1c(F)cccc1F,halo,aldehyde
+218525,Please substitute a halo in the molecule C[C@@H](Cl)OC(=O)Sc1ccccc1 by nitrile.,C[C@@H](Cl)OC(=O)Sc1ccccc1,halo,nitrile
+11092,Replace a halo in the molecule Cc1nn(C)c(C)c1C(=O)Nc1ccc(Br)c2cccnc12 by hydroxyl.,Cc1nn(C)c(C)c1C(=O)Nc1ccc(Br)c2cccnc12,halo,hydroxyl
+224441,Modify the molecule O=C(NCc1ccc(N2CCCC2=O)cc1)c1cc(Cl)ccc1O by replacing a halo by hydroxyl.,O=C(NCc1ccc(N2CCCC2=O)cc1)c1cc(Cl)ccc1O,halo,hydroxyl
+9396,Modify the molecule FC(F)(F)COc1ccccc1CSc1nnnn1C1CC1 by substituting a halo with thiol.,FC(F)(F)COc1ccccc1CSc1nnnn1C1CC1,halo,thiol
+62362,Please substitute a hydroxyl in the molecule CC[C@@H]1CCC[NH+]1[C@@H]1CCC[C@@](CO)([NH2+]C(C)C)C1 by nitrile.,CC[C@@H]1CCC[NH+]1[C@@H]1CCC[C@@](CO)([NH2+]C(C)C)C1,hydroxyl,nitrile
+101505,Modify the molecule Cc1ccc(S(=O)(=O)/N=C(\[O-])[C@@H](C)NC(=O)C2CCCCC2)c(F)c1 by replacing a halo by thiol.,Cc1ccc(S(=O)(=O)/N=C(\[O-])[C@@H](C)NC(=O)C2CCCCC2)c(F)c1,halo,thiol
+4389,Replace a hydroxyl in the molecule Cc1cc(N[C@@H](C)[C@H](C)CO)nc(-c2ccccn2)n1 by nitro.,Cc1cc(N[C@@H](C)[C@H](C)CO)nc(-c2ccccn2)n1,hydroxyl,nitro
+125801,Substitute a halo in the molecule Cc1c(Cl)cccc1N[C@H](C)c1nc(C(C)C)no1 with aldehyde.,Cc1c(Cl)cccc1N[C@H](C)c1nc(C(C)C)no1,halo,aldehyde
+63477,Modify the molecule Cc1sc(Br)cc1-c1nn(C)cc1C[NH2+]C(C)(C)C by replacing a halo by nitro.,Cc1sc(Br)cc1-c1nn(C)cc1C[NH2+]C(C)(C)C,halo,nitro
+146887,Please substitute a hydroxyl in the molecule Cc1ccc(C)c(OC[C@H](O)CN2CCN(S(C)(=O)=O)CC2)c1 by halo.,Cc1ccc(C)c(OC[C@H](O)CN2CCN(S(C)(=O)=O)CC2)c1,hydroxyl,halo
+166375,Modify the molecule Cc1c(C(=O)OC(C)C)sc2ncn(Cc3ccccc3Cl)c(=O)c12 by substituting a halo with nitrile.,Cc1c(C(=O)OC(C)C)sc2ncn(Cc3ccccc3Cl)c(=O)c12,halo,nitrile
+151020,Please substitute a halo in the molecule CCOC(=O)c1csc(NC(=O)[C@@H](C)Oc2ccccc2Cl)n1 by nitro.,CCOC(=O)c1csc(NC(=O)[C@@H](C)Oc2ccccc2Cl)n1,halo,nitro
+24722,Modify the molecule C[C@H](SCc1nc2sc3c(c2c(=O)[nH]1)CCCC3)[C@@H](C)O by replacing a hydroxyl by halo.,C[C@H](SCc1nc2sc3c(c2c(=O)[nH]1)CCCC3)[C@@H](C)O,hydroxyl,halo
+7130,Please substitute a halo in the molecule O=C(Nc1ccc2c(c1)OCCO2)N1CCCCC[C@H]1c1ccccc1Cl by aldehyde.,O=C(Nc1ccc2c(c1)OCCO2)N1CCCCC[C@H]1c1ccccc1Cl,halo,aldehyde
+247775,Modify the molecule CC[C@@H](NC(=O)[C@@H](C)c1cccs1)c1nc(C(F)(F)F)cs1 by replacing a halo by aldehyde.,CC[C@@H](NC(=O)[C@@H](C)c1cccs1)c1nc(C(F)(F)F)cs1,halo,aldehyde
+161566,Modify the molecule C[C@@H]1C[NH2+][C@H](c2cc(F)cc(F)c2)CS1 by replacing a halo by aldehyde.,C[C@@H]1C[NH2+][C@H](c2cc(F)cc(F)c2)CS1,halo,aldehyde
+30338,Please substitute a nitro in the molecule COc1ccc(C2=NN(C(C)=O)[C@H](c3ccc([N+](=O)[O-])cc3)O2)cc1OC by aldehyde.,COc1ccc(C2=NN(C(C)=O)[C@H](c3ccc([N+](=O)[O-])cc3)O2)cc1OC,nitro,aldehyde
+155706,Modify the molecule C[NH+]1CCc2c(sc3nc(S)n(C4CCCCC4)c(=O)c23)C1 by substituting a thiol with hydroxyl.,C[NH+]1CCc2c(sc3nc(S)n(C4CCCCC4)c(=O)c23)C1,thiol,hydroxyl
+38758,Modify the molecule Cc1cc(Br)ccc1N[C@H]1CCOC2(CCC2)C1 by replacing a halo by thiol.,Cc1cc(Br)ccc1N[C@H]1CCOC2(CCC2)C1,halo,thiol
+20372,Please substitute a halo in the molecule CCOc1ccc(F)c(C(=O)N2CCN(C)c3ccc(F)cc32)c1F by carboxyl.,CCOc1ccc(F)c(C(=O)N2CCN(C)c3ccc(F)cc32)c1F,halo,carboxyl
+126055,Replace a halo in the molecule Cc1ccc(F)c(NC(=S)NNC(=O)[C@@H]2C[C@H]3CC[C@@H]2C3)c1 by carboxyl.,Cc1ccc(F)c(NC(=S)NNC(=O)[C@@H]2C[C@H]3CC[C@@H]2C3)c1,halo,carboxyl
+4356,Please substitute a halo in the molecule Cc1ccc(F)c(S(=O)(=O)N2CCC[C@@H]2c2nc3ccccc3[nH]2)c1 by hydroxyl.,Cc1ccc(F)c(S(=O)(=O)N2CCC[C@@H]2c2nc3ccccc3[nH]2)c1,halo,hydroxyl
+248316,Please substitute a halo in the molecule COc1ccc(NC(=O)CNc2cc(C(=O)Nc3ccccc3)ccc2C)cc1Cl by nitrile.,COc1ccc(NC(=O)CNc2cc(C(=O)Nc3ccccc3)ccc2C)cc1Cl,halo,nitrile
+110263,Modify the molecule CC[S@](=O)[C@H]1CCC[C@H](NC(=O)N[C@@H](C)CO)C1 by replacing a hydroxyl by thiol.,CC[S@](=O)[C@H]1CCC[C@H](NC(=O)N[C@@H](C)CO)C1,hydroxyl,thiol
+200944,Replace a halo in the molecule Cc1nc(S(=O)(=O)N2CC[C@H]3CCCC[C@@H]32)sc1Br by aldehyde.,Cc1nc(S(=O)(=O)N2CC[C@H]3CCCC[C@@H]32)sc1Br,halo,aldehyde
+80610,Modify the molecule C[C@H](NC(=O)c1c(F)cc(Br)cc1F)c1ccccc1 by replacing a halo by hydroxyl.,C[C@H](NC(=O)c1c(F)cc(Br)cc1F)c1ccccc1,halo,hydroxyl
+48857,Please substitute a halo in the molecule COc1cc(Br)c(/C=C(\C#N)C(=O)Nc2nccs2)cc1OC by aldehyde.,COc1cc(Br)c(/C=C(\C#N)C(=O)Nc2nccs2)cc1OC,halo,aldehyde
+69394,Replace a hydroxyl in the molecule C[C@@H]1CCN(C(=O)CCNC(=O)C23CC4CC(CC(C4)C2)C3)C[C@@H]1O by thiol.,C[C@@H]1CCN(C(=O)CCNC(=O)C23CC4CC(CC(C4)C2)C3)C[C@@H]1O,hydroxyl,thiol
+184277,Please replace a halo in the molecule O=C(NCC[NH+]1CCCCCC1)c1c[nH]c2cccc(F)c12 with nitrile.,O=C(NCC[NH+]1CCCCCC1)c1c[nH]c2cccc(F)c12,halo,nitrile
+16855,Substitute a halo in the molecule Cc1cc(NC(=O)C[C@H](C)c2ccccc2F)c(C(N)=O)cc1F with aldehyde.,Cc1cc(NC(=O)C[C@H](C)c2ccccc2F)c(C(N)=O)cc1F,halo,aldehyde
+2181,Please replace a hydroxyl in the molecule Oc1ccccc1[C@@H]1C=C(c2ccc3c(c2)OCCO3)N=[NH+]1 with nitro.,Oc1ccccc1[C@@H]1C=C(c2ccc3c(c2)OCCO3)N=[NH+]1,hydroxyl,nitro
+58567,Replace a halo in the molecule Cc1cccc(C)c1OCC(=O)Nc1ccc(N)cc1Br by thiol.,Cc1cccc(C)c1OCC(=O)Nc1ccc(N)cc1Br,halo,thiol
+57790,Please substitute a nitrile in the molecule COCCN(Cc1ccco1)C(=O)Nc1ccc(CC#N)cc1 by thiol.,COCCN(Cc1ccco1)C(=O)Nc1ccc(CC#N)cc1,nitrile,thiol
+6403,Please substitute a hydroxyl in the molecule O=C(NC[C@@H]1CC[NH+](Cc2cccc(O)c2)C1)c1cc2ccccc2[nH]1 by nitro.,O=C(NC[C@@H]1CC[NH+](Cc2cccc(O)c2)C1)c1cc2ccccc2[nH]1,hydroxyl,nitro
+212185,Replace a halo in the molecule C[C@@H](C(=O)Nc1ccc(Cl)cc1)n1ncc(-c2ccc(Cl)cc2)nc1=O by nitrile.,C[C@@H](C(=O)Nc1ccc(Cl)cc1)n1ncc(-c2ccc(Cl)cc2)nc1=O,halo,nitrile
+46182,Please replace a halo in the molecule COc1ccc(Br)cc1CNC(=O)CCN1CCCC1=O with carboxyl.,COc1ccc(Br)cc1CNC(=O)CCN1CCCC1=O,halo,carboxyl
+22143,Modify the molecule N#Cc1ccc(N2CCN(C(=O)c3ccc4c(c3)OCCCO4)CC2)nc1 by replacing a nitrile by carboxyl.,N#Cc1ccc(N2CCN(C(=O)c3ccc4c(c3)OCCCO4)CC2)nc1,nitrile,carboxyl
+90490,Please substitute a nitrile in the molecule CN(CC1CC[NH2+]CC1)c1cc(Cl)ccc1C#N by nitro.,CN(CC1CC[NH2+]CC1)c1cc(Cl)ccc1C#N,nitrile,nitro
+162209,Replace a halo in the molecule O=C(NCC1CCN(C(=O)c2cccnc2)CC1)c1ccccc1C(F)(F)F by nitro.,O=C(NCC1CCN(C(=O)c2cccnc2)CC1)c1ccccc1C(F)(F)F,halo,nitro
+41737,Please replace a halo in the molecule O=C(c1ccnc(OC2CCC2)c1)N1CCOc2cc(F)ccc21 with nitro.,O=C(c1ccnc(OC2CCC2)c1)N1CCOc2cc(F)ccc21,halo,nitro
+91324,Please replace a halo in the molecule Clc1ccc(SCCn2cccn2)cc1 with nitrile.,Clc1ccc(SCCn2cccn2)cc1,halo,nitrile
+104789,Modify the molecule O=C(CCc1cc(Cl)no1)N1CCC[C@@](O)(CO)C1 by replacing a hydroxyl by nitro.,O=C(CCc1cc(Cl)no1)N1CCC[C@@](O)(CO)C1,hydroxyl,nitro
+167825,Please replace a nitrile in the molecule N#CCc1cccc(C(=O)NNC(=O)NCc2cccc(C(F)(F)F)c2)c1 with aldehyde.,N#CCc1cccc(C(=O)NNC(=O)NCc2cccc(C(F)(F)F)c2)c1,nitrile,aldehyde
+57892,Replace a halo in the molecule O=C(N[C@@H]1CCS(=O)(=O)C1)c1ccc(-c2ccc(Cl)cc2)o1 by hydroxyl.,O=C(N[C@@H]1CCS(=O)(=O)C1)c1ccc(-c2ccc(Cl)cc2)o1,halo,hydroxyl
+167202,Please replace a halo in the molecule Cc1cc(F)ccc1NC(=O)C1CCN(C(=O)c2cc(-c3ccccn3)[nH]n2)CC1 with nitrile.,Cc1cc(F)ccc1NC(=O)C1CCN(C(=O)c2cc(-c3ccccn3)[nH]n2)CC1,halo,nitrile
+5441,Substitute a halo in the molecule CCNC(=O)c1ccc(Cl)nn1 with aldehyde.,CCNC(=O)c1ccc(Cl)nn1,halo,aldehyde
+47042,Modify the molecule COc1cccc(CN(C)C(=O)CNc2cccc(F)c2)c1OC by substituting a halo with hydroxyl.,COc1cccc(CN(C)C(=O)CNc2cccc(F)c2)c1OC,halo,hydroxyl
+72300,Modify the molecule COc1ccc2c(c1)[C@@H](Nc1cc(F)c(F)c(F)c1)CC2 by replacing a halo by carboxyl.,COc1ccc2c(c1)[C@@H](Nc1cc(F)c(F)c(F)c1)CC2,halo,carboxyl
+155539,Substitute a halo in the molecule C[C@H](Cc1cccc(Cl)c1)NC(=O)c1ccncc1 with thiol.,C[C@H](Cc1cccc(Cl)c1)NC(=O)c1ccncc1,halo,thiol
+112766,Replace a halo in the molecule O=C(c1ccccc1)N1C[C@H]2[C@@H](C1)OC(=O)N2CCc1cccc(Cl)c1 by nitro.,O=C(c1ccccc1)N1C[C@H]2[C@@H](C1)OC(=O)N2CCc1cccc(Cl)c1,halo,nitro
+25468,Modify the molecule COc1cc(NC(=O)Cc2c(F)cccc2F)cc(OC)c1OC by substituting a halo with aldehyde.,COc1cc(NC(=O)Cc2c(F)cccc2F)cc(OC)c1OC,halo,aldehyde
+8064,Modify the molecule O=C(Nc1ccc(F)cc1F)c1ccc(N2CCCCS2(=O)=O)cc1 by substituting a halo with carboxyl.,O=C(Nc1ccc(F)cc1F)c1ccc(N2CCCCS2(=O)=O)cc1,halo,carboxyl
+4206,Replace a hydroxyl in the molecule Cc1cccc([C@@H](O)C2(N3CCOCC3)CCCC2)c1 by aldehyde.,Cc1cccc([C@@H](O)C2(N3CCOCC3)CCCC2)c1,hydroxyl,aldehyde
+131035,Substitute a nitrile in the molecule CCCc1n[nH]c2c1[C@@]1(C(=O)Nc3cccc(C)c31)C(C#N)=C(N)O2 with thiol.,CCCc1n[nH]c2c1[C@@]1(C(=O)Nc3cccc(C)c31)C(C#N)=C(N)O2,nitrile,thiol
+42662,Replace a halo in the molecule O=C(Oc1cccc(F)c1)C1(c2ccc(F)cc2F)CCOCC1 by thiol.,O=C(Oc1cccc(F)c1)C1(c2ccc(F)cc2F)CCOCC1,halo,thiol
+92770,Substitute a halo in the molecule O=C(CSCc1ccc(C(=O)[O-])cc1)Nc1ccc(Cl)cc1 with aldehyde.,O=C(CSCc1ccc(C(=O)[O-])cc1)Nc1ccc(Cl)cc1,halo,aldehyde
+182318,Substitute a halo in the molecule COc1ccc(F)cc1NC(=O)NCCCNC(C)=O with nitrile.,COc1ccc(F)cc1NC(=O)NCCCNC(C)=O,halo,nitrile
+235716,Replace a halo in the molecule Cc1cccc(C)c1NC(=O)CN1CCN(C(=O)c2cncc(Br)c2)CC1 by thiol.,Cc1cccc(C)c1NC(=O)CN1CCN(C(=O)c2cncc(Br)c2)CC1,halo,thiol
+6580,Please replace a halo in the molecule O=C(CSc1ncc2ccccn12)Nc1ccc(F)cc1 with thiol.,O=C(CSc1ncc2ccccn12)Nc1ccc(F)cc1,halo,thiol
+188325,Replace a nitrile in the molecule CC(C)(C)C[NH2+]Cc1cc(C#N)cs1 by nitro.,CC(C)(C)C[NH2+]Cc1cc(C#N)cs1,nitrile,nitro
+142478,Modify the molecule C[NH+](C)[C@H]1CC[C@@H](NC(=O)C(=O)Nc2ccc(Br)cc2F)C1 by replacing a halo by carboxyl.,C[NH+](C)[C@H]1CC[C@@H](NC(=O)C(=O)Nc2ccc(Br)cc2F)C1,halo,carboxyl
+34970,Replace a hydroxyl in the molecule CCOC(=O)N1CCN(C[C@H](O)CO[C@H]2CCC[C@@H]2C)CC1 by halo.,CCOC(=O)N1CCN(C[C@H](O)CO[C@H]2CCC[C@@H]2C)CC1,hydroxyl,halo
+112410,Please substitute a halo in the molecule C#CC[C@@H](OC(=O)[C@H]1C[C@@H]1c1ccccc1F)C1CC1 by thiol.,C#CC[C@@H](OC(=O)[C@H]1C[C@@H]1c1ccccc1F)C1CC1,halo,thiol
+3607,Replace a halo in the molecule COc1ccc(Cl)cc1COC(=O)c1ccc(C)c(NC(=O)c2ccco2)c1 by carboxyl.,COc1ccc(Cl)cc1COC(=O)c1ccc(C)c(NC(=O)c2ccco2)c1,halo,carboxyl
+37396,Modify the molecule CC(C)NC(=O)CCNC(=O)C[C@@H](O)c1ccc(Cl)cc1 by replacing a halo by nitro.,CC(C)NC(=O)CCNC(=O)C[C@@H](O)c1ccc(Cl)cc1,halo,nitro
+88943,Replace a halo in the molecule CC(C)([C@H](N)Cc1cccc(F)c1F)[NH+]1CCCCCC1 by hydroxyl.,CC(C)([C@H](N)Cc1cccc(F)c1F)[NH+]1CCCCCC1,halo,hydroxyl
+159557,Please substitute a nitrile in the molecule CSc1nc([O-])c(C(=O)NCCCc2nc3c(s2)CCCC3)cc1C#N by aldehyde.,CSc1nc([O-])c(C(=O)NCCCc2nc3c(s2)CCCC3)cc1C#N,nitrile,aldehyde
+201537,Modify the molecule COC(=O)c1ccc(Oc2ncnc(NC3CCCCCC3)c2[N+](=O)[O-])cc1 by substituting a nitro with thiol.,COC(=O)c1ccc(Oc2ncnc(NC3CCCCCC3)c2[N+](=O)[O-])cc1,nitro,thiol
+240916,Please substitute a hydroxyl in the molecule C[NH+](Cc1ccno1)C[C@@]1(O)CCCN(Cc2cccc(F)c2F)C1=O by halo.,C[NH+](Cc1ccno1)C[C@@]1(O)CCCN(Cc2cccc(F)c2F)C1=O,hydroxyl,halo
+13547,Modify the molecule CN1C(=O)[C@H](CC(=O)Nc2ccccc2F)S/C1=N\c1cccc(F)c1 by substituting a halo with nitro.,CN1C(=O)[C@H](CC(=O)Nc2ccccc2F)S/C1=N\c1cccc(F)c1,halo,nitro
+222749,Modify the molecule COc1cccc(C(=O)Nc2c3c(nn2-c2cccc(Cl)c2)C[S@@](=O)C3)c1 by substituting a halo with nitro.,COc1cccc(C(=O)Nc2c3c(nn2-c2cccc(Cl)c2)C[S@@](=O)C3)c1,halo,nitro
+249388,Replace a halo in the molecule CC(C)(CNC(=O)c1cccc(F)n1)c1ccncc1 by hydroxyl.,CC(C)(CNC(=O)c1cccc(F)n1)c1ccncc1,halo,hydroxyl
+125466,Replace a halo in the molecule C[C@]1(C(=O)NCCc2nnc(-c3ccccc3)o2)CC1(Cl)Cl by nitrile.,C[C@]1(C(=O)NCCc2nnc(-c3ccccc3)o2)CC1(Cl)Cl,halo,nitrile
+230266,Replace a halo in the molecule Cc1ccc(C(=O)CCC(=O)N2CCN(c3ccc(F)cc3)CC2)s1 by nitro.,Cc1ccc(C(=O)CCC(=O)N2CCN(c3ccc(F)cc3)CC2)s1,halo,nitro
+243577,Please replace a nitrile in the molecule Cc1nc(N2CCCC2)cc([C@H]2CCCN(c3cccc(C#N)n3)C2)[nH+]1 with carboxyl.,Cc1nc(N2CCCC2)cc([C@H]2CCCN(c3cccc(C#N)n3)C2)[nH+]1,nitrile,carboxyl
+59066,Substitute a halo in the molecule COC(=O)NCCc1nc(COc2ccc(Cl)cc2Cl)no1 with carboxyl.,COC(=O)NCCc1nc(COc2ccc(Cl)cc2Cl)no1,halo,carboxyl
+181206,Modify the molecule Nc1ccc([C@@H](O)[C@@H](CO)NC(=O)c2ccco2)cc1 by substituting a hydroxyl with nitrile.,Nc1ccc([C@@H](O)[C@@H](CO)NC(=O)c2ccco2)cc1,hydroxyl,nitrile
+26055,Replace a hydroxyl in the molecule Cc1nn(C)c(Cl)c1[C@@H](O)[C@@H]1CCO[C@]2(CCSC2)C1 by carboxyl.,Cc1nn(C)c(Cl)c1[C@@H](O)[C@@H]1CCO[C@]2(CCSC2)C1,hydroxyl,carboxyl
+18394,Please substitute a hydroxyl in the molecule O=C(Nc1ccnn1C1CCCCC1)N[C@@H](CO)c1ccccc1 by aldehyde.,O=C(Nc1ccnn1C1CCCCC1)N[C@@H](CO)c1ccccc1,hydroxyl,aldehyde
+93497,Modify the molecule CC[NH+](C[C@H](O)c1ccc(C)cc1)C1C[C@H](C)O[C@H](C)C1 by substituting a hydroxyl with nitro.,CC[NH+](C[C@H](O)c1ccc(C)cc1)C1C[C@H](C)O[C@H](C)C1,hydroxyl,nitro
+178527,Replace a halo in the molecule Cc1cccc(NC(=O)NCCNc2ncccc2C(F)(F)F)c1C by nitro.,Cc1cccc(NC(=O)NCCNc2ncccc2C(F)(F)F)c1C,halo,nitro
+135925,Please replace a hydroxyl in the molecule COc1ccccc1NC[C@@H](O)Cn1c2ccccc2c2ccccc21 with carboxyl.,COc1ccccc1NC[C@@H](O)Cn1c2ccccc2c2ccccc21,hydroxyl,carboxyl
+110703,Modify the molecule C[C@@]1(c2ccccc2)NC(=O)N(CC(=O)Nc2ccnn2Cc2ccccc2Cl)C1=O by substituting a halo with hydroxyl.,C[C@@]1(c2ccccc2)NC(=O)N(CC(=O)Nc2ccnn2Cc2ccccc2Cl)C1=O,halo,hydroxyl
+125477,Replace a halo in the molecule CC[C@H]1CCCC[NH+]1[C@@H](C)C(=O)Nc1ccc(N)cc1Cl by nitrile.,CC[C@H]1CCCC[NH+]1[C@@H](C)C(=O)Nc1ccc(N)cc1Cl,halo,nitrile
+98404,Modify the molecule Cc1nc([N+](=O)[O-])c(C(=O)OCc2ccccc2Cl)n1C by replacing a nitro by carboxyl.,Cc1nc([N+](=O)[O-])c(C(=O)OCc2ccccc2Cl)n1C,nitro,carboxyl
+36403,Modify the molecule CC[C@H](C)CNS(=O)(=O)c1cc([N+](=O)[O-])c(F)cc1C by replacing a nitro by halo.,CC[C@H](C)CNS(=O)(=O)c1cc([N+](=O)[O-])c(F)cc1C,nitro,halo
+37788,Substitute a hydroxyl in the molecule C[C@@H]1CCc2c(F)cccc2[C@H]1NC(=O)NCc1ccccc1OCCO with nitrile.,C[C@@H]1CCc2c(F)cccc2[C@H]1NC(=O)NCc1ccccc1OCCO,hydroxyl,nitrile
+58124,Modify the molecule Cc1cccc(Oc2nc(C(F)(F)F)nc3ccccc23)c1 by substituting a halo with aldehyde.,Cc1cccc(Oc2nc(C(F)(F)F)nc3ccccc23)c1,halo,aldehyde
+246316,Substitute a halo in the molecule [NH3+]C[C@@H](Cc1nccs1)c1cccc(Cl)c1 with nitro.,[NH3+]C[C@@H](Cc1nccs1)c1cccc(Cl)c1,halo,nitro
+239230,Replace a hydroxyl in the molecule C[C@@H]1CCC[NH+]1Cc1cc(F)cc(C#CCCO)c1 by halo.,C[C@@H]1CCC[NH+]1Cc1cc(F)cc(C#CCCO)c1,hydroxyl,halo
+129482,Substitute a halo in the molecule O=C(Nc1ccc(Br)cn1)c1cccc([N-]S(=O)(=O)c2ccc(F)c(Cl)c2)c1 with hydroxyl.,O=C(Nc1ccc(Br)cn1)c1cccc([N-]S(=O)(=O)c2ccc(F)c(Cl)c2)c1,halo,hydroxyl
+109794,Substitute a halo in the molecule Cc1noc(C)c1C[C@H](C)N[C@H](C)c1nc2cc(Cl)ccc2n1C with aldehyde.,Cc1noc(C)c1C[C@H](C)N[C@H](C)c1nc2cc(Cl)ccc2n1C,halo,aldehyde
+228986,Modify the molecule C[NH2+]C[C@H](Cc1nccs1)c1ccccc1Br by replacing a halo by aldehyde.,C[NH2+]C[C@H](Cc1nccs1)c1ccccc1Br,halo,aldehyde
+65570,Please substitute a hydroxyl in the molecule CC(C)Cn1ccc2cc(NC(=O)C(=O)NC3CCC(O)CC3)ccc21 by halo.,CC(C)Cn1ccc2cc(NC(=O)C(=O)NC3CCC(O)CC3)ccc21,hydroxyl,halo
+145229,Modify the molecule COC(=O)c1ccccc1C(=O)N(Cc1ccccn1)c1nc2c(Cl)cccc2s1 by substituting a halo with nitro.,COC(=O)c1ccccc1C(=O)N(Cc1ccccn1)c1nc2c(Cl)cccc2s1,halo,nitro
+167892,Please replace a halo in the molecule CCOc1ccc([C@@H]([NH2+]C)c2ccc(C)s2)c(Br)c1 with nitrile.,CCOc1ccc([C@@H]([NH2+]C)c2ccc(C)s2)c(Br)c1,halo,nitrile
+187565,Please replace a hydroxyl in the molecule Cc1cc(C)cc(CCNC(=O)NC[C@H]2CCC[C@@H]2O)c1 with thiol.,Cc1cc(C)cc(CCNC(=O)NC[C@H]2CCC[C@@H]2O)c1,hydroxyl,thiol
+55586,Replace a aldehyde in the molecule CCN(Cc1nc2ccccc2c(=O)[nH]1)C(=O)[C@@H](C)Oc1cccc(C=O)c1 by nitrile.,CCN(Cc1nc2ccccc2c(=O)[nH]1)C(=O)[C@@H](C)Oc1cccc(C=O)c1,aldehyde,nitrile
+8878,Substitute a halo in the molecule C[C@H](C(=O)NC[C@H]1CCCO1)n1cc(Br)cn1 with nitrile.,C[C@H](C(=O)NC[C@H]1CCCO1)n1cc(Br)cn1,halo,nitrile
+232019,Substitute a hydroxyl in the molecule O=C(NCCc1cccc(O)c1)N1CCn2c(nnc2-c2ccccc2)C1 with nitro.,O=C(NCCc1cccc(O)c1)N1CCn2c(nnc2-c2ccccc2)C1,hydroxyl,nitro
+3212,Modify the molecule C[C@H]1CCCC[C@@H]1OCCNC(=O)Cn1cnc([N+](=O)[O-])c1 by replacing a nitro by hydroxyl.,C[C@H]1CCCC[C@@H]1OCCNC(=O)Cn1cnc([N+](=O)[O-])c1,nitro,hydroxyl
+35442,Please replace a hydroxyl in the molecule COc1cc(C(C)(C)CC(C)(C)C)cc(C[NH+](C)C)c1O with nitrile.,COc1cc(C(C)(C)CC(C)(C)C)cc(C[NH+](C)C)c1O,hydroxyl,nitrile
+107703,Please replace a hydroxyl in the molecule CC(C)C[NH+]1CCN(C[C@H](O)COc2cc(Cl)ccc2Cl)CC1 with nitrile.,CC(C)C[NH+]1CCN(C[C@H](O)COc2cc(Cl)ccc2Cl)CC1,hydroxyl,nitrile
+16303,Substitute a halo in the molecule CC(=O)Nc1cc(NC(C)=O)cc(C(=O)Nc2cccc(C(=O)Nc3cccc(C(F)(F)F)c3)c2)c1 with thiol.,CC(=O)Nc1cc(NC(C)=O)cc(C(=O)Nc2cccc(C(=O)Nc3cccc(C(F)(F)F)c3)c2)c1,halo,thiol
+187764,Modify the molecule COc1ccc(N2C(=S)CO[C@@H]2c2ccc(Br)cc2)cc1 by replacing a halo by carboxyl.,COc1ccc(N2C(=S)CO[C@@H]2c2ccc(Br)cc2)cc1,halo,carboxyl
+110809,Please substitute a halo in the molecule COc1ccc(C)cc1NC(=O)C(=O)N/N=C\c1cc2c(cc1Br)OCO2 by hydroxyl.,COc1ccc(C)cc1NC(=O)C(=O)N/N=C\c1cc2c(cc1Br)OCO2,halo,hydroxyl
+93996,Substitute a halo in the molecule O=C(CN[C@H](c1ccc(F)cc1)c1cccs1)NN1C(=O)NC2(CCCCC2)C1=O with hydroxyl.,O=C(CN[C@H](c1ccc(F)cc1)c1cccs1)NN1C(=O)NC2(CCCCC2)C1=O,halo,hydroxyl
+45753,Substitute a halo in the molecule C[C@H]1[C@@H](C(=O)[O-])CCN1C(=O)c1cc([N+](=O)[O-])ccc1Br with nitro.,C[C@H]1[C@@H](C(=O)[O-])CCN1C(=O)c1cc([N+](=O)[O-])ccc1Br,halo,nitro
+16711,Replace a hydroxyl in the molecule CC(C)(C)c1cc[n+](C2=C([O-])C(=[OH+])N(Nc3ccccc3)C2=O)cc1 by halo.,CC(C)(C)c1cc[n+](C2=C([O-])C(=[OH+])N(Nc3ccccc3)C2=O)cc1,hydroxyl,halo
+141794,Substitute a halo in the molecule COCc1cc(=O)[nH]c(N2c3ccc(F)cc3CC[C@H]2C)n1 with carboxyl.,COCc1cc(=O)[nH]c(N2c3ccc(F)cc3CC[C@H]2C)n1,halo,carboxyl
+171049,Please replace a halo in the molecule COC(=O)c1cc(O)n(-c2cc(Cl)cc(Cl)c2)n1 with aldehyde.,COC(=O)c1cc(O)n(-c2cc(Cl)cc(Cl)c2)n1,halo,aldehyde
+122094,Please substitute a nitro in the molecule O=[N+]([O-])c1cc([C@@H](O)c2ccccc2)ccc1Cl by carboxyl.,O=[N+]([O-])c1cc([C@@H](O)c2ccccc2)ccc1Cl,nitro,carboxyl
+129427,Modify the molecule COc1ccc([C@H](C)NC(=O)Nc2ccnn2C(C)C)cc1F by replacing a halo by hydroxyl.,COc1ccc([C@H](C)NC(=O)Nc2ccnn2C(C)C)cc1F,halo,hydroxyl
+100490,Modify the molecule O=C(CNC(=O)c1ccccc1Cl)Nc1cccc(C(=O)NC2CC2)c1 by substituting a halo with thiol.,O=C(CNC(=O)c1ccccc1Cl)Nc1cccc(C(=O)NC2CC2)c1,halo,thiol
+213606,Substitute a halo in the molecule CC[C@@H]1C(=O)NC(=O)C[C@H]1c1ccc(OC)c(Cl)c1 with nitrile.,CC[C@@H]1C(=O)NC(=O)C[C@H]1c1ccc(OC)c(Cl)c1,halo,nitrile
+55764,Please substitute a halo in the molecule OCc1ccc(Oc2ncc(Br)cn2)cc1 by carboxyl.,OCc1ccc(Oc2ncc(Br)cn2)cc1,halo,carboxyl
+97461,Modify the molecule NC(=O)NC1CCN(C(=O)c2ccc(Cl)cc2)CC1 by replacing a halo by hydroxyl.,NC(=O)NC1CCN(C(=O)c2ccc(Cl)cc2)CC1,halo,hydroxyl
+50623,Please replace a nitrile in the molecule N#CCCN(CC1=NS(=O)(=O)c2ccccc2N1)CC1CC1 with hydroxyl.,N#CCCN(CC1=NS(=O)(=O)c2ccccc2N1)CC1CC1,nitrile,hydroxyl
+61799,Replace a hydroxyl in the molecule CC[C@H](O)Cn1nc(-c2ccncc2)nc1CCN1Cc2ccccc2C1=O by aldehyde.,CC[C@H](O)Cn1nc(-c2ccncc2)nc1CCN1Cc2ccccc2C1=O,hydroxyl,aldehyde
+234322,Please substitute a halo in the molecule O=C(/C=C/c1cccc(F)c1)N1CCN(S(=O)(=O)c2cccc([N+](=O)[O-])c2)CC1 by nitro.,O=C(/C=C/c1cccc(F)c1)N1CCN(S(=O)(=O)c2cccc([N+](=O)[O-])c2)CC1,halo,nitro
+235395,Modify the molecule CSc1cccc(N[C@H](C)c2ccc(Cl)s2)c1 by replacing a halo by nitro.,CSc1cccc(N[C@H](C)c2ccc(Cl)s2)c1,halo,nitro
+239319,Please replace a hydroxyl in the molecule O=C(c1ccc2cccc(F)c2n1)N1CCC[C@@H]1CO with halo.,O=C(c1ccc2cccc(F)c2n1)N1CCC[C@@H]1CO,hydroxyl,halo
+123965,Substitute a nitro in the molecule CCc1ccc(N[C@@H]2CCN(C3CC3)C2=O)cc1[N+](=O)[O-] with carboxyl.,CCc1ccc(N[C@@H]2CCN(C3CC3)C2=O)cc1[N+](=O)[O-],nitro,carboxyl
+106107,Please substitute a halo in the molecule Cc1cc(Cl)ccc1N(CC(=O)Nc1ccccc1C(F)(F)F)S(C)(=O)=O by nitrile.,Cc1cc(Cl)ccc1N(CC(=O)Nc1ccccc1C(F)(F)F)S(C)(=O)=O,halo,nitrile
+56179,Substitute a halo in the molecule CC(C)(C)C(=O)N[C@@H](N1CCCCC1)C(Cl)(Cl)Cl with carboxyl.,CC(C)(C)C(=O)N[C@@H](N1CCCCC1)C(Cl)(Cl)Cl,halo,carboxyl
+128324,Substitute a halo in the molecule C[C@@H]1C[C@@H]([NH3+])CN(c2cccc(F)c2C(N)=O)C1 with nitrile.,C[C@@H]1C[C@@H]([NH3+])CN(c2cccc(F)c2C(N)=O)C1,halo,nitrile
+60914,Please substitute a hydroxyl in the molecule C=CCN(CCO)C(=O)Nc1cc(-c2ncco2)ccc1C by thiol.,C=CCN(CCO)C(=O)Nc1cc(-c2ncco2)ccc1C,hydroxyl,thiol
+200275,Substitute a nitrile in the molecule N#Cc1cccnc1O[C@@H]1CCC[NH2+]C1 with thiol.,N#Cc1cccnc1O[C@@H]1CCC[NH2+]C1,nitrile,thiol
+62733,Modify the molecule CN(C)C(=O)CSc1nc2cc(Cl)ccc2c(=O)n1C[C@H]1CCCO1 by replacing a halo by thiol.,CN(C)C(=O)CSc1nc2cc(Cl)ccc2c(=O)n1C[C@H]1CCCO1,halo,thiol
+164901,Modify the molecule CC[C@]1(c2ccc(NC(=O)C3(C#N)CCCC3)cc2)CCC(=O)NC1=O by replacing a nitrile by hydroxyl.,CC[C@]1(c2ccc(NC(=O)C3(C#N)CCCC3)cc2)CCC(=O)NC1=O,nitrile,hydroxyl
+31059,Substitute a halo in the molecule CC[NH+]1CCN([C@@H](C)C[NH2+][C@@H](C)c2nc3cc(Cl)ccc3n2C)CC1 with nitro.,CC[NH+]1CCN([C@@H](C)C[NH2+][C@@H](C)c2nc3cc(Cl)ccc3n2C)CC1,halo,nitro
+120267,Please substitute a nitro in the molecule Cc1cc(C)c([N+](=O)[O-])c(C)c1C(=O)Nc1cccc(-n2ccnn2)c1 by nitrile.,Cc1cc(C)c([N+](=O)[O-])c(C)c1C(=O)Nc1cccc(-n2ccnn2)c1,nitro,nitrile
+70888,Modify the molecule C[C@@H]1CCCC[NH+]1CCNC(=O)C1(O)Cc2ccccc2C1 by substituting a hydroxyl with halo.,C[C@@H]1CCCC[NH+]1CCNC(=O)C1(O)Cc2ccccc2C1,hydroxyl,halo
+33447,Please substitute a hydroxyl in the molecule Cc1nn(C)cc1CCC(=O)N1CC[C@@H](C)[C@H](O)C1 by thiol.,Cc1nn(C)cc1CCC(=O)N1CC[C@@H](C)[C@H](O)C1,hydroxyl,thiol
+41906,Substitute a nitrile in the molecule CC(C)Oc1cccc(C[NH+](C)Cc2ccc(C#N)o2)c1 with carboxyl.,CC(C)Oc1cccc(C[NH+](C)Cc2ccc(C#N)o2)c1,nitrile,carboxyl
+83109,Please replace a halo in the molecule Cc1cc(CNC(=O)Nc2ccc(-n3ncn(C)c3=O)cc2)ccc1F with aldehyde.,Cc1cc(CNC(=O)Nc2ccc(-n3ncn(C)c3=O)cc2)ccc1F,halo,aldehyde
+133045,Replace a hydroxyl in the molecule O=S(=O)(N1CCCCC1)N1CCC[C@H]1[C@@H]1CCCC[C@@H]1O by carboxyl.,O=S(=O)(N1CCCCC1)N1CCC[C@H]1[C@@H]1CCCC[C@@H]1O,hydroxyl,carboxyl
+100194,Please substitute a halo in the molecule CC(C)NC(=O)CN1CCN(C(=O)N[C@@H]2CCN(CC(F)(F)F)C2)CC1 by nitro.,CC(C)NC(=O)CN1CCN(C(=O)N[C@@H]2CCN(CC(F)(F)F)C2)CC1,halo,nitro
+62007,Please substitute a halo in the molecule O=C(Nc1cc(C2CC2)[nH]n1)c1ccc(Br)cc1 by nitro.,O=C(Nc1cc(C2CC2)[nH]n1)c1ccc(Br)cc1,halo,nitro
+33348,Modify the molecule COC(=O)c1ccc(Oc2ccc(Cl)cc2)nc1 by replacing a halo by thiol.,COC(=O)c1ccc(Oc2ccc(Cl)cc2)nc1,halo,thiol
+99921,Substitute a halo in the molecule CCC[C@@H]1CO[C@](Cn2cnnc2)(c2ccc(Cl)cc2Cl)O1 with aldehyde.,CCC[C@@H]1CO[C@](Cn2cnnc2)(c2ccc(Cl)cc2Cl)O1,halo,aldehyde
+107519,Please replace a nitrile in the molecule COCCN(C(=O)C(=O)NC[C@H](C)C#N)c1nc2ccccc2s1 with halo.,COCCN(C(=O)C(=O)NC[C@H](C)C#N)c1nc2ccccc2s1,nitrile,halo
+65132,Modify the molecule COc1cc(C[NH2+][C@@H](C)c2cnn(-c3cccc(F)c3)c2C)c(Cl)cc1O by replacing a halo by aldehyde.,COc1cc(C[NH2+][C@@H](C)c2cnn(-c3cccc(F)c3)c2C)c(Cl)cc1O,halo,aldehyde
+50922,Modify the molecule COc1ccc2cc(CNC(=O)[C@H](C)NS(=O)(=O)c3cccc(Cl)c3)ccc2c1 by replacing a halo by aldehyde.,COc1ccc2cc(CNC(=O)[C@H](C)NS(=O)(=O)c3cccc(Cl)c3)ccc2c1,halo,aldehyde
+209407,Modify the molecule Cc1c(Cl)cccc1N1C(N)=C(C#N)[C@@H](c2ccccc2)C2=C1CCCC2=O by replacing a nitrile by hydroxyl.,Cc1c(Cl)cccc1N1C(N)=C(C#N)[C@@H](c2ccccc2)C2=C1CCCC2=O,nitrile,hydroxyl
+179969,Replace a hydroxyl in the molecule CC(C)CC(=O)NCCc1ccc(S(=O)(=O)N2CCC(O)CC2)s1 by nitro.,CC(C)CC(=O)NCCc1ccc(S(=O)(=O)N2CCC(O)CC2)s1,hydroxyl,nitro
+247888,Replace a halo in the molecule Cc1ccc([C@@H](C)NC(=[NH2+])NC(C)C)cc1F by carboxyl.,Cc1ccc([C@@H](C)NC(=[NH2+])NC(C)C)cc1F,halo,carboxyl
+8946,Please substitute a nitro in the molecule O=[N+]([O-])c1ccccc1N1CCN(Cc2nnc(-c3ccccc3Br)o2)CC1 by halo.,O=[N+]([O-])c1ccccc1N1CCN(Cc2nnc(-c3ccccc3Br)o2)CC1,nitro,halo
+51505,Replace a halo in the molecule Cc1cccc(C)c1NC(=S)N/N=C/c1cccn1Cc1ccccc1F by aldehyde.,Cc1cccc(C)c1NC(=S)N/N=C/c1cccn1Cc1ccccc1F,halo,aldehyde
+228370,Replace a nitrile in the molecule CSc1sc(C#N)c2c1/C(=N\OC(=O)c1ccccc1Cl)CCC2 by thiol.,CSc1sc(C#N)c2c1/C(=N\OC(=O)c1ccccc1Cl)CCC2,nitrile,thiol
+68747,Replace a halo in the molecule CC(C)(C)OC(=O)N1CC[C@H](C(=O)NC2(c3cccc(F)c3)CC2)C1 by thiol.,CC(C)(C)OC(=O)N1CC[C@H](C(=O)NC2(c3cccc(F)c3)CC2)C1,halo,thiol
+21937,Please replace a halo in the molecule Cc1ccnc(-c2ccc(NCc3ccc(F)cc3F)cc2)n1 with nitro.,Cc1ccnc(-c2ccc(NCc3ccc(F)cc3F)cc2)n1,halo,nitro
+137584,Please replace a hydroxyl in the molecule COc1cccc(C(=O)N2CCCCC2)c1O with carboxyl.,COc1cccc(C(=O)N2CCCCC2)c1O,hydroxyl,carboxyl
+128029,Please substitute a nitrile in the molecule N#Cc1csc(C(=O)Nc2cccc(CN3CCCCC3=O)c2)c1 by nitro.,N#Cc1csc(C(=O)Nc2cccc(CN3CCCCC3=O)c2)c1,nitrile,nitro
+219217,Please substitute a halo in the molecule O=C1S/C(=C\c2cccc([N+](=O)[O-])c2)C(=O)N1c1cccc(Cl)c1 by nitrile.,O=C1S/C(=C\c2cccc([N+](=O)[O-])c2)C(=O)N1c1cccc(Cl)c1,halo,nitrile
+122151,Please replace a halo in the molecule CC[C@H](C)CNC(=O)c1cccc(C(F)(F)F)c1NC with thiol.,CC[C@H](C)CNC(=O)c1cccc(C(F)(F)F)c1NC,halo,thiol
+190324,Substitute a hydroxyl in the molecule C[C@@H](O)[C@@H]1CCC[NH+](CC(=O)N(C)CC(=O)NC2CC2)C1 with nitrile.,C[C@@H](O)[C@@H]1CCC[NH+](CC(=O)N(C)CC(=O)NC2CC2)C1,hydroxyl,nitrile
+138687,Modify the molecule Cc1cccc(N(CCC(N)=O)Cc2ccc(Cl)s2)c1 by substituting a halo with hydroxyl.,Cc1cccc(N(CCC(N)=O)Cc2ccc(Cl)s2)c1,halo,hydroxyl
+209571,Substitute a halo in the molecule O=C(CSc1cccc(Br)c1)c1ccc2c(c1)CCO2 with nitrile.,O=C(CSc1cccc(Br)c1)c1ccc2c(c1)CCO2,halo,nitrile
+22156,Please replace a halo in the molecule Oc1cc(Cl)c2cn[nH]c2c1 with carboxyl.,Oc1cc(Cl)c2cn[nH]c2c1,halo,carboxyl
+211124,Please replace a halo in the molecule Cc1ccc(NC(=O)C[NH+](C)Cc2cccs2)cc1Cl with nitrile.,Cc1ccc(NC(=O)C[NH+](C)Cc2cccs2)cc1Cl,halo,nitrile
+235240,Please replace a halo in the molecule COC(=O)C1=C(C)N(C)C(=O)N[C@@H]1c1ccccc1OC(F)F with carboxyl.,COC(=O)C1=C(C)N(C)C(=O)N[C@@H]1c1ccccc1OC(F)F,halo,carboxyl
+88241,Please substitute a halo in the molecule CC(C)COc1ccc(NC(=O)c2ccsc2)cc1Cl by nitro.,CC(C)COc1ccc(NC(=O)c2ccsc2)cc1Cl,halo,nitro
+186450,Substitute a halo in the molecule CCn1c(S[C@H](C)C(=O)Nc2ccc(Cl)cn2)nnc1-c1cccs1 with nitrile.,CCn1c(S[C@H](C)C(=O)Nc2ccc(Cl)cn2)nnc1-c1cccs1,halo,nitrile
+141494,Substitute a hydroxyl in the molecule C[C@H]1CCc2sc(-c3nnc(SCc4nc5ccc(Cl)cc5n4CCO)o3)cc2C1 with thiol.,C[C@H]1CCc2sc(-c3nnc(SCc4nc5ccc(Cl)cc5n4CCO)o3)cc2C1,hydroxyl,thiol
+58986,Modify the molecule O=C(NCCc1ccccc1F)N1CCCCCC1 by substituting a halo with nitrile.,O=C(NCCc1ccccc1F)N1CCCCCC1,halo,nitrile
+72521,Please replace a nitrile in the molecule N#C[C@@H](NC(=O)c1coc(Br)c1)c1ccc(Cl)c(Cl)c1 with nitro.,N#C[C@@H](NC(=O)c1coc(Br)c1)c1ccc(Cl)c(Cl)c1,nitrile,nitro
+69294,Modify the molecule CN(C(=O)c1cc2ccc(Cl)cc2[nH]1)[C@@H]1CCS(=O)(=O)C1 by replacing a halo by hydroxyl.,CN(C(=O)c1cc2ccc(Cl)cc2[nH]1)[C@@H]1CCS(=O)(=O)C1,halo,hydroxyl
+93962,Modify the molecule COCC[NH+]1CC[C@@H](C(=O)N2CCC(Oc3ccccc3F)CC2)C1 by replacing a halo by hydroxyl.,COCC[NH+]1CC[C@@H](C(=O)N2CCC(Oc3ccccc3F)CC2)C1,halo,hydroxyl
+16471,Substitute a halo in the molecule Cc1ccc(S(=O)(=O)N2C(=O)CC[C@@H]2c2nc(-c3ccc(Br)cc3)no2)cc1 with nitrile.,Cc1ccc(S(=O)(=O)N2C(=O)CC[C@@H]2c2nc(-c3ccc(Br)cc3)no2)cc1,halo,nitrile
+108486,Please substitute a halo in the molecule C#CCN(C(=O)N[C@@H](C)c1cc(C)c(F)c(C)c1)[C@H]1CCS(=O)(=O)C1 by thiol.,C#CCN(C(=O)N[C@@H](C)c1cc(C)c(F)c(C)c1)[C@H]1CCS(=O)(=O)C1,halo,thiol
+121814,Substitute a halo in the molecule C[C@H]1CN(S(=O)(=O)c2ccc(C(=O)Nc3ccc(Br)cc3)cc2)C[C@@H](C)O1 with carboxyl.,C[C@H]1CN(S(=O)(=O)c2ccc(C(=O)Nc3ccc(Br)cc3)cc2)C[C@@H](C)O1,halo,carboxyl
+16539,Please substitute a hydroxyl in the molecule CC(C)(C)CN(C[C@H](O)c1ccccc1)S(=O)(=O)c1cccc2c1COC2=O by nitro.,CC(C)(C)CN(C[C@H](O)c1ccccc1)S(=O)(=O)c1cccc2c1COC2=O,hydroxyl,nitro
+80939,Please replace a halo in the molecule COC(=O)c1nn(C[NH+](C)CCc2ccc(F)cc2)c(=O)c2noc(C)c12 with carboxyl.,COC(=O)c1nn(C[NH+](C)CCc2ccc(F)cc2)c(=O)c2noc(C)c12,halo,carboxyl
+56893,Modify the molecule CNC(=O)[C@H]1CCCC[C@@H]1NC(=O)NCc1ccnc(OCC(F)F)c1 by substituting a halo with nitro.,CNC(=O)[C@H]1CCCC[C@@H]1NC(=O)NCc1ccnc(OCC(F)F)c1,halo,nitro
+88749,Substitute a nitrile in the molecule Cc1nnc(N2CCN(S(C)(=O)=O)CC2)c(C#N)c1C with thiol.,Cc1nnc(N2CCN(S(C)(=O)=O)CC2)c(C#N)c1C,nitrile,thiol
+153815,Substitute a halo in the molecule CCNC(=O)CCn1ncc2c(Cl)cccc21 with nitrile.,CCNC(=O)CCn1ncc2c(Cl)cccc21,halo,nitrile
+107017,Replace a halo in the molecule Cn1c(=O)[nH]c(=O)c2c1nc(N1CCN(Cc3ccccc3)CC1)n2Cc1ccc(Cl)c(Cl)c1 by carboxyl.,Cn1c(=O)[nH]c(=O)c2c1nc(N1CCN(Cc3ccccc3)CC1)n2Cc1ccc(Cl)c(Cl)c1,halo,carboxyl
+4231,Please substitute a halo in the molecule CC[C@H](Oc1ccc2c(c1)[C@@H](c1cccc(F)c1)N(C(=O)C(C)C)CC2)C(=O)N1CCN(C)CC1 by nitrile.,CC[C@H](Oc1ccc2c(c1)[C@@H](c1cccc(F)c1)N(C(=O)C(C)C)CC2)C(=O)N1CCN(C)CC1,halo,nitrile
+36704,Please replace a halo in the molecule CC(=O)O[C@@]1(C(C)=O)CC[C@H]2[C@H]3C[C@H](Cl)C4=CC(=O)CC[C@@]4(C)[C@H]3CC[C@@]21C with thiol.,CC(=O)O[C@@]1(C(C)=O)CC[C@H]2[C@H]3C[C@H](Cl)C4=CC(=O)CC[C@@]4(C)[C@H]3CC[C@@]21C,halo,thiol
+64025,Substitute a hydroxyl in the molecule COc1ccc(C(=O)C[C@@]2(O)C(=O)Nc3ccc(C)cc32)cc1OC with nitrile.,COc1ccc(C(=O)C[C@@]2(O)C(=O)Nc3ccc(C)cc32)cc1OC,hydroxyl,nitrile
+154255,Replace a hydroxyl in the molecule C[C@@H](CNC(=O)CC1(O)CCCC1)c1ccsc1 by nitro.,C[C@@H](CNC(=O)CC1(O)CCCC1)c1ccsc1,hydroxyl,nitro
+100347,Modify the molecule CC(C)CC(=O)N1CCC[C@H]1C[C@H](C)O by substituting a hydroxyl with carboxyl.,CC(C)CC(=O)N1CCC[C@H]1C[C@H](C)O,hydroxyl,carboxyl
+154996,Modify the molecule O=C(c1cccc(F)c1)N1CCCN(c2nc3ccccc3c3nnc(-c4cccs4)n23)CC1 by substituting a halo with nitrile.,O=C(c1cccc(F)c1)N1CCCN(c2nc3ccccc3c3nnc(-c4cccs4)n23)CC1,halo,nitrile
+90268,Please replace a halo in the molecule CN(CC1CC[NH+](CCc2ccc(Cl)cc2)CC1)C(=O)c1n[nH]c2c1CCCC2 with nitrile.,CN(CC1CC[NH+](CCc2ccc(Cl)cc2)CC1)C(=O)c1n[nH]c2c1CCCC2,halo,nitrile
+263,Please substitute a halo in the molecule Fc1ccc([C@@H]2C[C@@H](c3ccc(Br)cc3)Nc3ncnn32)cc1Br by thiol.,Fc1ccc([C@@H]2C[C@@H](c3ccc(Br)cc3)Nc3ncnn32)cc1Br,halo,thiol
+66952,Modify the molecule Nc1ccc(Oc2c(Cl)cc(C(F)(F)F)cc2Cl)cc1 by substituting a halo with thiol.,Nc1ccc(Oc2c(Cl)cc(C(F)(F)F)cc2Cl)cc1,halo,thiol
+161451,Modify the molecule COC[C@H](NC(=O)c1ccncc1)c1ccc(F)c(F)c1 by replacing a halo by thiol.,COC[C@H](NC(=O)c1ccncc1)c1ccc(F)c(F)c1,halo,thiol
+94225,Modify the molecule CCCN(C(=O)[C@H](O)c1ccccc1)[C@H]1CCS(=O)(=O)C1 by substituting a hydroxyl with carboxyl.,CCCN(C(=O)[C@H](O)c1ccccc1)[C@H]1CCS(=O)(=O)C1,hydroxyl,carboxyl
+54752,Please replace a halo in the molecule N#Cc1cc(NC(=O)NCCNC(=O)c2cccnc2)ccc1F with hydroxyl.,N#Cc1cc(NC(=O)NCCNC(=O)c2cccnc2)ccc1F,halo,hydroxyl
+112539,Replace a halo in the molecule COc1cccc2c1OC1(CCN(C(C)=O)CC1)N1N=C(c3ccccc3Cl)C[C@H]21 by nitro.,COc1cccc2c1OC1(CCN(C(C)=O)CC1)N1N=C(c3ccccc3Cl)C[C@H]21,halo,nitro
+156768,Modify the molecule COc1cc2c(cc1OC)[C@H](C)[NH+](CC(=O)Nc1ccc(F)c(F)c1F)CC2 by replacing a halo by hydroxyl.,COc1cc2c(cc1OC)[C@H](C)[NH+](CC(=O)Nc1ccc(F)c(F)c1F)CC2,halo,hydroxyl
+62577,Modify the molecule Cn1c(-c2cccc([N+](=O)[O-])c2)cn2cc(-c3ccc4c(c3)OCO4)nc12 by replacing a nitro by carboxyl.,Cn1c(-c2cccc([N+](=O)[O-])c2)cn2cc(-c3ccc4c(c3)OCO4)nc12,nitro,carboxyl
+148913,Please substitute a halo in the molecule O=C(NCCN1CCOCC1)c1ccc(-n2cc(-c3ccc(Cl)cc3)cn2)cc1 by nitro.,O=C(NCCN1CCOCC1)c1ccc(-n2cc(-c3ccc(Cl)cc3)cn2)cc1,halo,nitro
+103106,Modify the molecule O[C@H]1CCC[C@H]1CNc1nc(Cl)ncc1F by substituting a halo with thiol.,O[C@H]1CCC[C@H]1CNc1nc(Cl)ncc1F,halo,thiol
+156655,Please substitute a hydroxyl in the molecule CC1(C)Cc2c(sc3c2c(=O)n(CCO)c(=O)n3CC(=O)Nc2nccs2)CO1 by nitro.,CC1(C)Cc2c(sc3c2c(=O)n(CCO)c(=O)n3CC(=O)Nc2nccs2)CO1,hydroxyl,nitro
+106193,Modify the molecule Cc1nc(C(C)C)sc1C(=O)NCc1ccc(OC(F)(F)F)cc1 by substituting a halo with thiol.,Cc1nc(C(C)C)sc1C(=O)NCc1ccc(OC(F)(F)F)cc1,halo,thiol
+194016,Substitute a halo in the molecule COc1ccc([C@H](Cl)[C@]2(C)CCCO2)c(Br)c1 with aldehyde.,COc1ccc([C@H](Cl)[C@]2(C)CCCO2)c(Br)c1,halo,aldehyde
+233344,Modify the molecule CCC[C@@H](CC)n1c(CCCl)nc2c(OC)ncnc21 by replacing a halo by carboxyl.,CCC[C@@H](CC)n1c(CCCl)nc2c(OC)ncnc21,halo,carboxyl
+194145,Please substitute a halo in the molecule O=C1N=C([O-])[C@@]2(Cc3ccccc3N3CCN(c4ccc(Cl)cc4)C[C@@H]32)C(=O)N1c1ccccc1 by nitrile.,O=C1N=C([O-])[C@@]2(Cc3ccccc3N3CCN(c4ccc(Cl)cc4)C[C@@H]32)C(=O)N1c1ccccc1,halo,nitrile
+159309,Please substitute a hydroxyl in the molecule C[C@H]1CCN(C(=O)c2c(F)cccc2F)C[C@H]1O by nitro.,C[C@H]1CCN(C(=O)c2c(F)cccc2F)C[C@H]1O,hydroxyl,nitro
+16478,Modify the molecule C[NH+](C)C[C@@H]1CN(Cc2ccc(F)c(F)c2)C[C@H]1c1ccnc(N2CCCC2)n1 by replacing a halo by aldehyde.,C[NH+](C)C[C@@H]1CN(Cc2ccc(F)c(F)c2)C[C@H]1c1ccnc(N2CCCC2)n1,halo,aldehyde
+148174,Substitute a halo in the molecule Cc1ccc(C)c(Cn2cnc3c(nnn3-c3ccc(Cl)cc3)c2=O)c1 with nitro.,Cc1ccc(C)c(Cn2cnc3c(nnn3-c3ccc(Cl)cc3)c2=O)c1,halo,nitro
+64374,Modify the molecule COc1ccc(C)cc1[C@@H](O)CN1CCN(c2nccs2)CC1 by replacing a hydroxyl by carboxyl.,COc1ccc(C)cc1[C@@H](O)CN1CCN(c2nccs2)CC1,hydroxyl,carboxyl
+37756,Please replace a halo in the molecule CC(C)OC(=O)N1CCC([NH2+][C@H](C)c2cccc(C(F)(F)F)c2)CC1 with thiol.,CC(C)OC(=O)N1CCC([NH2+][C@H](C)c2cccc(C(F)(F)F)c2)CC1,halo,thiol
+150462,Modify the molecule Fc1ccc2cc(C[NH2+]C[C@@H]3COCCO3)c(OCc3ccccc3Cl)nc2c1 by substituting a halo with carboxyl.,Fc1ccc2cc(C[NH2+]C[C@@H]3COCCO3)c(OCc3ccccc3Cl)nc2c1,halo,carboxyl
+8794,Substitute a halo in the molecule CC(C)[C@H](C(=O)N[C@H](C)c1ccc(Cl)cc1)n1cnc2ccccc21 with aldehyde.,CC(C)[C@H](C(=O)N[C@H](C)c1ccc(Cl)cc1)n1cnc2ccccc21,halo,aldehyde
+209939,Modify the molecule CC(C)(O)C(=O)N/N=C/c1cn(Cc2cccc(F)c2)c2ccccc12 by substituting a halo with nitrile.,CC(C)(O)C(=O)N/N=C/c1cn(Cc2cccc(F)c2)c2ccccc12,halo,nitrile
+183643,Replace a halo in the molecule COc1ccc(CNC(=O)CSc2ccccc2Cl)cc1OC by nitrile.,COc1ccc(CNC(=O)CSc2ccccc2Cl)cc1OC,halo,nitrile
+103689,Replace a nitrile in the molecule Cc1occc1C(=O)NCC(=O)N1CCCN(c2ccccc2C#N)CC1 by aldehyde.,Cc1occc1C(=O)NCC(=O)N1CCCN(c2ccccc2C#N)CC1,nitrile,aldehyde
+227618,Modify the molecule C[C@@H]1CCCCN1c1ccc(C(F)(F)F)cc1NC(=O)c1ccco1 by replacing a halo by hydroxyl.,C[C@@H]1CCCCN1c1ccc(C(F)(F)F)cc1NC(=O)c1ccco1,halo,hydroxyl
+205102,Modify the molecule COC(=O)c1ccsc1N1CC[C@H](Nc2ccc(F)c(F)c2)C1=O by substituting a halo with thiol.,COC(=O)c1ccsc1N1CC[C@H](Nc2ccc(F)c(F)c2)C1=O,halo,thiol
+78923,Modify the molecule Cc1nn(C)c(C)c1NC(=O)CN(c1ccccc1F)C1CCCC1 by substituting a halo with thiol.,Cc1nn(C)c(C)c1NC(=O)CN(c1ccccc1F)C1CCCC1,halo,thiol
+235045,Modify the molecule N/C(C[C@H]1CC(c2ccc(F)cc2)=NO1)=N\O by replacing a halo by nitrile.,N/C(C[C@H]1CC(c2ccc(F)cc2)=NO1)=N\O,halo,nitrile
+233628,Modify the molecule Cc1ccc(S(=O)(=O)c2ccc(C(=O)Nc3ccccc3F)o2)cc1 by substituting a halo with carboxyl.,Cc1ccc(S(=O)(=O)c2ccc(C(=O)Nc3ccccc3F)o2)cc1,halo,carboxyl
+225124,Replace a halo in the molecule COc1ccc(Cl)cc1CNC(=O)[C@@H](C)OCc1ccccc1 by carboxyl.,COc1ccc(Cl)cc1CNC(=O)[C@@H](C)OCc1ccccc1,halo,carboxyl
+79874,Modify the molecule CCOc1ccc(NC(=O)CN2CCCCCCC2=O)c(C(F)(F)F)c1 by substituting a halo with thiol.,CCOc1ccc(NC(=O)CN2CCCCCCC2=O)c(C(F)(F)F)c1,halo,thiol
+184076,Replace a halo in the molecule Nc1ccc(Cl)c(SC[C@@H]2CCCO2)c1 by hydroxyl.,Nc1ccc(Cl)c(SC[C@@H]2CCCO2)c1,halo,hydroxyl
+86793,Please substitute a halo in the molecule COc1ccc(Nc2ncnc3c2cnn3-c2ccc(F)cc2)cc1OC by thiol.,COc1ccc(Nc2ncnc3c2cnn3-c2ccc(F)cc2)cc1OC,halo,thiol
+203033,Modify the molecule NNc1ccc(Cl)c(CSC2COC2)n1 by replacing a halo by nitrile.,NNc1ccc(Cl)c(CSC2COC2)n1,halo,nitrile
+108751,Replace a halo in the molecule CC(=O)c1cccc(NC(=O)[C@@]2(C)CC2(Cl)Cl)c1 by nitrile.,CC(=O)c1cccc(NC(=O)[C@@]2(C)CC2(Cl)Cl)c1,halo,nitrile
+10569,Modify the molecule COCCOC(=O)/C(C#N)=C\c1cc(C)c(O)c(C)c1 by replacing a hydroxyl by aldehyde.,COCCOC(=O)/C(C#N)=C\c1cc(C)c(O)c(C)c1,hydroxyl,aldehyde
+133455,Substitute a halo in the molecule CC[C@@H](CNC(=O)Cn1cccc(C(F)(F)F)c1=O)c1ccccc1 with hydroxyl.,CC[C@@H](CNC(=O)Cn1cccc(C(F)(F)F)c1=O)c1ccccc1,halo,hydroxyl
+24783,Substitute a halo in the molecule Fc1c(C(F)(F)F)ccn2ccnc12 with nitro.,Fc1c(C(F)(F)F)ccn2ccnc12,halo,nitro
+43893,Please substitute a hydroxyl in the molecule COc1ccc(C[C@@H]2[NH2+]CCc3cc(O)c(OC)cc32)cc1 by thiol.,COc1ccc(C[C@@H]2[NH2+]CCc3cc(O)c(OC)cc32)cc1,hydroxyl,thiol
+193326,Modify the molecule Cc1noc(C)c1[C@H](C)NS(=O)(=O)c1ccc(CO)o1 by replacing a hydroxyl by aldehyde.,Cc1noc(C)c1[C@H](C)NS(=O)(=O)c1ccc(CO)o1,hydroxyl,aldehyde
+190826,Replace a halo in the molecule O=S(=O)(c1cccc2nonc12)N1CCN(Cc2cccc(F)c2)CC1 by thiol.,O=S(=O)(c1cccc2nonc12)N1CCN(Cc2cccc(F)c2)CC1,halo,thiol
+101665,Modify the molecule CC1(C)CCN(c2ccc(C(N)=[NH2+])c(Cl)c2)C1 by substituting a halo with carboxyl.,CC1(C)CCN(c2ccc(C(N)=[NH2+])c(Cl)c2)C1,halo,carboxyl
+48650,Modify the molecule CC(=O)c1ccc(NC(=O)c2cccnc2Cl)cc1 by replacing a halo by hydroxyl.,CC(=O)c1ccc(NC(=O)c2cccnc2Cl)cc1,halo,hydroxyl
+87010,Please substitute a halo in the molecule CN(Cc1ccccc1)C(=O)[C@H]1CCC[NH+](Cc2ccc(Cl)cc2)C1 by hydroxyl.,CN(Cc1ccccc1)C(=O)[C@H]1CCC[NH+](Cc2ccc(Cl)cc2)C1,halo,hydroxyl
+110294,Replace a hydroxyl in the molecule Cc1ccc(NC(=O)C(=O)NC[C@@H](O)Cc2ccccc2)c(Cl)n1 by thiol.,Cc1ccc(NC(=O)C(=O)NC[C@@H](O)Cc2ccccc2)c(Cl)n1,hydroxyl,thiol
+146302,Please replace a hydroxyl in the molecule Cc1cccc(C(=O)N2CCC[C@H]2CC(=O)c2cccs2)c1O with halo.,Cc1cccc(C(=O)N2CCC[C@H]2CC(=O)c2cccs2)c1O,hydroxyl,halo
+215844,Modify the molecule CCOC(=O)C(=O)NNC(=O)c1cc(C)c(-c2ccc(F)cc2)s1 by substituting a halo with nitro.,CCOC(=O)C(=O)NNC(=O)c1cc(C)c(-c2ccc(F)cc2)s1,halo,nitro
+158727,Modify the molecule Fc1ccccc1-c1cnnc(NCCc2cscn2)n1 by substituting a halo with nitro.,Fc1ccccc1-c1cnnc(NCCc2cscn2)n1,halo,nitro
+13085,Modify the molecule O=C(c1ccc(Br)nc1)N1CCC[C@H]1c1cccnc1 by substituting a halo with nitrile.,O=C(c1ccc(Br)nc1)N1CCC[C@H]1c1cccnc1,halo,nitrile
+223749,Modify the molecule CCC(CC)NC(=O)C(=O)NNC(=O)c1ccc(Br)s1 by replacing a halo by thiol.,CCC(CC)NC(=O)C(=O)NNC(=O)c1ccc(Br)s1,halo,thiol
+46020,Modify the molecule O=C1[C@@H]2Sc3[nH]c(=O)sc3[C@H](c3ccc(F)cc3)[C@@H]2C(=O)N1c1ccccc1 by substituting a halo with hydroxyl.,O=C1[C@@H]2Sc3[nH]c(=O)sc3[C@H](c3ccc(F)cc3)[C@@H]2C(=O)N1c1ccccc1,halo,hydroxyl
+134251,Modify the molecule Nc1ccc(Cl)nc1C(=O)OCc1nc(-c2ccsc2)no1 by substituting a halo with carboxyl.,Nc1ccc(Cl)nc1C(=O)OCc1nc(-c2ccsc2)no1,halo,carboxyl
+65896,Modify the molecule CC(C)Cn1c(=O)c2cc(F)ccc2n2c(SCC(=O)Nc3ccc(F)cc3)nnc12 by substituting a halo with thiol.,CC(C)Cn1c(=O)c2cc(F)ccc2n2c(SCC(=O)Nc3ccc(F)cc3)nnc12,halo,thiol
+6299,Replace a hydroxyl in the molecule C[C@@H]1OCC[C@@H]1C(=O)NC[C@@H](c1ccccc1)C(C)(C)CO by halo.,C[C@@H]1OCC[C@@H]1C(=O)NC[C@@H](c1ccccc1)C(C)(C)CO,hydroxyl,halo
+28757,Please substitute a halo in the molecule Nc1c(Br)cnn1-c1ncccn1 by thiol.,Nc1c(Br)cnn1-c1ncccn1,halo,thiol
+81773,Modify the molecule COc1c(C)c[nH+]c(Cn2ncc(Cl)c(Cl)c2=O)c1C by replacing a halo by aldehyde.,COc1c(C)c[nH+]c(Cn2ncc(Cl)c(Cl)c2=O)c1C,halo,aldehyde
+193859,Replace a halo in the molecule O=C([O-])CCCc1ccc2c(c1Br)C=CC2 by nitrile.,O=C([O-])CCCc1ccc2c(c1Br)C=CC2,halo,nitrile
+173395,Replace a halo in the molecule C/C(N)=C(/C#N)C(=O)CSc1nnc2c(Cl)cc(C(F)(F)F)cn12 by aldehyde.,C/C(N)=C(/C#N)C(=O)CSc1nnc2c(Cl)cc(C(F)(F)F)cn12,halo,aldehyde
+162854,Please substitute a halo in the molecule Cc1ccc(S(=O)(=O)/N=C(\[O-])N(Cc2ccc(Br)cc2)C[C@@H]2CCCO2)cc1 by carboxyl.,Cc1ccc(S(=O)(=O)/N=C(\[O-])N(Cc2ccc(Br)cc2)C[C@@H]2CCCO2)cc1,halo,carboxyl
+111775,Please substitute a hydroxyl in the molecule CCC1(C)CC[NH+](CC(C)(C)[C@@H](C)O)CC1 by carboxyl.,CCC1(C)CC[NH+](CC(C)(C)[C@@H](C)O)CC1,hydroxyl,carboxyl
+196231,Substitute a hydroxyl in the molecule CN(CC(C)(C)O)C(=O)c1cn(-c2ccccc2)nc1-c1ccccc1 with halo.,CN(CC(C)(C)O)C(=O)c1cn(-c2ccccc2)nc1-c1ccccc1,hydroxyl,halo
+196323,Modify the molecule CC(C)C[C@H](CCO)CNS(N)(=O)=O by replacing a hydroxyl by carboxyl.,CC(C)C[C@H](CCO)CNS(N)(=O)=O,hydroxyl,carboxyl
+188858,Please replace a nitrile in the molecule N#CC(C#N)=CNC1CC[NH+](Cc2ccccc2)CC1 with carboxyl.,N#CC(C#N)=CNC1CC[NH+](Cc2ccccc2)CC1,nitrile,carboxyl
+148187,Please replace a halo in the molecule COc1ccccc1[C@@H](C)N[C@H](CC(F)(F)F)c1ccc(F)cc1 with nitrile.,COc1ccccc1[C@@H](C)N[C@H](CC(F)(F)F)c1ccc(F)cc1,halo,nitrile
+62087,Please replace a halo in the molecule C=CCNc1nc(Cl)cc(COC)n1 with thiol.,C=CCNc1nc(Cl)cc(COC)n1,halo,thiol
+224130,Replace a halo in the molecule COc1ccc(C)nc1NC(=O)CCCc1cc(F)ccc1F by hydroxyl.,COc1ccc(C)nc1NC(=O)CCCc1cc(F)ccc1F,halo,hydroxyl
+163988,Substitute a halo in the molecule C[C@H](CNC(=O)[C@@H]1OCC(=O)N(C)[C@H]1c1cccc(F)c1)c1ccc(F)cc1 with carboxyl.,C[C@H](CNC(=O)[C@@H]1OCC(=O)N(C)[C@H]1c1cccc(F)c1)c1ccc(F)cc1,halo,carboxyl
+74708,Replace a halo in the molecule CS(=O)(=O)N1CCC(C(=O)Nc2ccc(Cl)cc2C(=O)c2ccccc2)CC1 by hydroxyl.,CS(=O)(=O)N1CCC(C(=O)Nc2ccc(Cl)cc2C(=O)c2ccccc2)CC1,halo,hydroxyl
+97597,Modify the molecule C[C@@H]1CO[C@H](CO)CN1C(=O)c1cc(CCc2ccccc2)ccc1O by substituting a hydroxyl with nitro.,C[C@@H]1CO[C@H](CO)CN1C(=O)c1cc(CCc2ccccc2)ccc1O,hydroxyl,nitro
+38551,Replace a hydroxyl in the molecule O=C(NC[C@@H](O)c1ccc(Cl)s1)C(=O)NC1CC1 by nitrile.,O=C(NC[C@@H](O)c1ccc(Cl)s1)C(=O)NC1CC1,hydroxyl,nitrile
+78625,Replace a halo in the molecule C[C@H]1C[C@@H](NS(=O)(=O)c2cccc(F)c2)CC[NH+]1Cc1ccccc1 by aldehyde.,C[C@H]1C[C@@H](NS(=O)(=O)c2cccc(F)c2)CC[NH+]1Cc1ccccc1,halo,aldehyde
+123826,Substitute a halo in the molecule CCOC(=O)c1cc2n(n1)C[C@](C)(C(=O)NCc1ccc(F)cc1)N(c1ccc(C)cc1C)C2=O with nitrile.,CCOC(=O)c1cc2n(n1)C[C@](C)(C(=O)NCc1ccc(F)cc1)N(c1ccc(C)cc1C)C2=O,halo,nitrile
+10597,Substitute a halo in the molecule COc1ccccc1N1CCN(CC(=O)N(C)Cc2ccc(Cl)s2)CC1 with hydroxyl.,COc1ccccc1N1CCN(CC(=O)N(C)Cc2ccc(Cl)s2)CC1,halo,hydroxyl
+62831,Substitute a halo in the molecule CC(C)(C)c1csc(C[C@@H](C[NH3+])c2cccc(Cl)c2)n1 with thiol.,CC(C)(C)c1csc(C[C@@H](C[NH3+])c2cccc(Cl)c2)n1,halo,thiol
+107948,Replace a halo in the molecule O=C(NC1(c2ccccc2)CC1)[C@H]1CC(Cc2cccc(F)c2)=NO1 by carboxyl.,O=C(NC1(c2ccccc2)CC1)[C@H]1CC(Cc2cccc(F)c2)=NO1,halo,carboxyl
+176149,Modify the molecule COC(=O)c1ccc(OC[C@@H](O)CN2CCO[C@H]3CCCC[C@@H]32)cc1 by substituting a hydroxyl with aldehyde.,COC(=O)c1ccc(OC[C@@H](O)CN2CCO[C@H]3CCCC[C@@H]32)cc1,hydroxyl,aldehyde
+185055,Please substitute a hydroxyl in the molecule CC[C@@H](CO)N1CC[NH+](Cc2coc(-c3cccs3)n2)CC1 by carboxyl.,CC[C@@H](CO)N1CC[NH+](Cc2coc(-c3cccs3)n2)CC1,hydroxyl,carboxyl
+98991,Please replace a halo in the molecule NC(=O)[C@@H]1Cc2ccccc2CN1Cc1nc(-c2cccc(Cl)c2)no1 with hydroxyl.,NC(=O)[C@@H]1Cc2ccccc2CN1Cc1nc(-c2cccc(Cl)c2)no1,halo,hydroxyl
+80101,Modify the molecule CCc1ccc(C(=O)N2CC[C@@H](C)[C@@H](O)C2)cc1 by substituting a hydroxyl with aldehyde.,CCc1ccc(C(=O)N2CC[C@@H](C)[C@@H](O)C2)cc1,hydroxyl,aldehyde
+215743,Modify the molecule C[C@H](c1cc(F)ccc1F)N(C)C(=O)Nc1ccc(CC#N)cc1 by substituting a nitrile with aldehyde.,C[C@H](c1cc(F)ccc1F)N(C)C(=O)Nc1ccc(CC#N)cc1,nitrile,aldehyde
+224452,Substitute a halo in the molecule CCCn1/c(=N/C(=O)c2c(C)nn(-c3ccc(Br)cc3)c2C)[nH]c2ccccc21 with hydroxyl.,CCCn1/c(=N/C(=O)c2c(C)nn(-c3ccc(Br)cc3)c2C)[nH]c2ccccc21,halo,hydroxyl
+115610,Replace a halo in the molecule CC(C)[C@@H]([NH2+]CCCc1nnc2n1CCCCC2)c1ccccc1Cl by nitrile.,CC(C)[C@@H]([NH2+]CCCc1nnc2n1CCCCC2)c1ccccc1Cl,halo,nitrile
+231473,Modify the molecule Cc1cccc(OCC(=O)N2CC[NH+](Cc3ccccc3C(F)(F)F)CC2)c1 by replacing a halo by aldehyde.,Cc1cccc(OCC(=O)N2CC[NH+](Cc3ccccc3C(F)(F)F)CC2)c1,halo,aldehyde
+233696,Please replace a halo in the molecule Cc1cc(C(=O)NNC(=O)c2cc3c(C)nn(-c4ccccc4Cl)c3s2)c(C)o1 with carboxyl.,Cc1cc(C(=O)NNC(=O)c2cc3c(C)nn(-c4ccccc4Cl)c3s2)c(C)o1,halo,carboxyl
+201651,Please substitute a halo in the molecule CC(=O)c1cc(Br)ccc1OS(=O)(=O)c1ccc(C)c([N+](=O)[O-])c1 by carboxyl.,CC(=O)c1cc(Br)ccc1OS(=O)(=O)c1ccc(C)c([N+](=O)[O-])c1,halo,carboxyl
+108870,Substitute a halo in the molecule CCOC(=O)N[C@H](SC)C(Cl)(Cl)Cl with carboxyl.,CCOC(=O)N[C@H](SC)C(Cl)(Cl)Cl,halo,carboxyl
+13936,Please substitute a nitrile in the molecule COc1cc(Br)c(O[C@@H](C)C#N)cc1Br by halo.,COc1cc(Br)c(O[C@@H](C)C#N)cc1Br,nitrile,halo
+77108,Modify the molecule CCOc1cc(C#N)ccc1OC(=O)Cn1ccccc1=O by replacing a nitrile by carboxyl.,CCOc1cc(C#N)ccc1OC(=O)Cn1ccccc1=O,nitrile,carboxyl
+152550,Replace a nitrile in the molecule C[C@H](NC(=O)c1cccc(CC#N)c1)C(C)(C)C[NH+](C)C by halo.,C[C@H](NC(=O)c1cccc(CC#N)c1)C(C)(C)C[NH+](C)C,nitrile,halo
+102958,Please replace a halo in the molecule C[C@H]1C[C@H](C)CN(C(=O)CCNS(=O)(=O)c2cccc(Br)c2)C1 with aldehyde.,C[C@H]1C[C@H](C)CN(C(=O)CCNS(=O)(=O)c2cccc(Br)c2)C1,halo,aldehyde
+138944,Please replace a nitrile in the molecule CC(C)[NH+](CCCNc1c(C#N)c(=O)n(C)c(=O)n1C)C(C)C with nitro.,CC(C)[NH+](CCCNc1c(C#N)c(=O)n(C)c(=O)n1C)C(C)C,nitrile,nitro
+152631,Substitute a nitro in the molecule C=CCNc1ncnc(Oc2ccc(C)c(C)c2)c1[N+](=O)[O-] with thiol.,C=CCNc1ncnc(Oc2ccc(C)c(C)c2)c1[N+](=O)[O-],nitro,thiol
+52476,Replace a nitro in the molecule Cc1ccccc1OC(=O)c1cc([N+](=O)[O-])ccc1Cl by halo.,Cc1ccccc1OC(=O)c1cc([N+](=O)[O-])ccc1Cl,nitro,halo
+248983,Substitute a halo in the molecule CN(C)C(=O)N1CCN(Cc2cc(Cl)c3c(c2)OCCO3)CC1 with carboxyl.,CN(C)C(=O)N1CCN(Cc2cc(Cl)c3c(c2)OCCO3)CC1,halo,carboxyl
+117654,Modify the molecule CN(Cc1ccc(OC(F)F)cc1)C(=O)Cc1nn(C)c(=O)c2ccccc12 by replacing a halo by thiol.,CN(Cc1ccc(OC(F)F)cc1)C(=O)Cc1nn(C)c(=O)c2ccccc12,halo,thiol
+191294,Please substitute a halo in the molecule C[C@@H](OC(=O)c1ccc(F)cc1OC(F)F)c1ccccn1 by thiol.,C[C@@H](OC(=O)c1ccc(F)cc1OC(F)F)c1ccccn1,halo,thiol
+134167,Please substitute a halo in the molecule C[C@H](NC(=O)N(C1CC1)[C@H](C)c1ccco1)c1ccc(F)c(F)c1 by aldehyde.,C[C@H](NC(=O)N(C1CC1)[C@H](C)c1ccco1)c1ccc(F)c(F)c1,halo,aldehyde
+108634,Please substitute a hydroxyl in the molecule CC(C)CCCNC(=O)CC[C@@H](C)O by nitrile.,CC(C)CCCNC(=O)CC[C@@H](C)O,hydroxyl,nitrile
+196638,Modify the molecule Cc1ccc2nc(CSCC(=O)NCCc3ccccc3F)cn2c1 by substituting a halo with carboxyl.,Cc1ccc2nc(CSCC(=O)NCCc3ccccc3F)cn2c1,halo,carboxyl
+241499,Please substitute a hydroxyl in the molecule CC(=O)N[C@H](C)C(=O)N[C@@H](C)CCCO by aldehyde.,CC(=O)N[C@H](C)C(=O)N[C@@H](C)CCCO,hydroxyl,aldehyde
+108221,Please replace a halo in the molecule NC(=O)[C@@H]1CN(Cc2ccc(F)cc2C(F)(F)F)CCO1 with nitro.,NC(=O)[C@@H]1CN(Cc2ccc(F)cc2C(F)(F)F)CCO1,halo,nitro
+81165,Replace a nitrile in the molecule COc1ccc(OC)c([C@@H]2c3c(nc(N4CCC(C)CC4)[nH]c3=O)NC(=O)[C@@H]2C#N)c1 by hydroxyl.,COc1ccc(OC)c([C@@H]2c3c(nc(N4CCC(C)CC4)[nH]c3=O)NC(=O)[C@@H]2C#N)c1,nitrile,hydroxyl
+182824,Replace a nitro in the molecule COCc1ccccc1NCc1cccc([N+](=O)[O-])c1 by nitrile.,COCc1ccccc1NCc1cccc([N+](=O)[O-])c1,nitro,nitrile
+134854,Please substitute a halo in the molecule C[C@@H]1OCC[C@H]1[C@H](Br)Cc1ccccc1[N+](=O)[O-] by carboxyl.,C[C@@H]1OCC[C@H]1[C@H](Br)Cc1ccccc1[N+](=O)[O-],halo,carboxyl

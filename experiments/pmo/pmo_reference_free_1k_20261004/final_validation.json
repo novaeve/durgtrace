@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "jobs": 46,
+  "summary": {
+    "chatdrug": {
+      "tasks": 23,
+      "complete_1000": 23,
+      "oracle_submissions": 23000,
+      "sum_auc_top10": 9.880797380609842,
+      "early_stops": []
+    },
+    "agentdrug": {
+      "tasks": 23,
+      "complete_1000": 23,
+      "oracle_submissions": 23000,
+      "sum_auc_top10": 9.40464957985317,
+      "early_stops": []
+    }
+  }
+}

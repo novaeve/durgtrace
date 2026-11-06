@@ -1,0 +1,75 @@
+{
+  "method": "GLM_direct",
+  "generation": "independent_single_response_no_harness",
+  "processed": 4200,
+  "expected": 4200,
+  "groups": [
+    {
+      "setting": "1_original_chatdrug",
+      "property": "LogP",
+      "expected": 800,
+      "processed": 800,
+      "success": 729,
+      "statuses": {
+        "complete": 785,
+        "provider_limit": 15
+      }
+    },
+    {
+      "setting": "1_original_chatdrug",
+      "property": "QED",
+      "expected": 800,
+      "processed": 800,
+      "success": 253,
+      "statuses": {
+        "complete": 478,
+        "provider_limit": 322
+      }
+    },
+    {
+      "setting": "2_s2_prompt_chatdrug",
+      "property": "LogP",
+      "expected": 800,
+      "processed": 800,
+      "success": 490,
+      "statuses": {
+        "complete": 517,
+        "provider_limit": 283
+      }
+    },
+    {
+      "setting": "2_s2_prompt_chatdrug",
+      "property": "QED",
+      "expected": 800,
+      "processed": 800,
+      "success": 171,
+      "statuses": {
+        "provider_limit": 555,
+        "complete": 245
+      }
+    },
+    {
+      "setting": "3_original_s2",
+      "property": "LogP",
+      "expected": 500,
+      "processed": 500,
+      "success": 348,
+      "statuses": {
+        "complete": 382,
+        "provider_limit": 118
+      }
+    },
+    {
+      "setting": "3_original_s2",
+      "property": "QED",
+      "expected": 500,
+      "processed": 500,
+      "success": 137,
+      "statuses": {
+        "provider_limit": 313,
+        "complete": 187
+      }
+    }
+  ],
+  "updated": 1791691443.4341526
+}

@@ -1,0 +1,8 @@
+Method,SMDD2_point_percent,SMDD3_success_percent,SMDD4_success_percent,PMO_mean_top10_AUC
+Baseline,40.00,13.46,52.94,0.426
+ChatDrug,13.33,1.92,2.35,0.254
+AgentDrug,9.33,1.92,2.06,0.360
+MolClaw,25.33,17.31,41.76,0.758
+LIDDIA,,0.00,9.71,
+SoL-Pi,33.33,7.69,56.18,0.789
+Codex,44.00,13.46,52.35,0.759

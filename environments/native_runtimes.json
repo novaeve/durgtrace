@@ -1,0 +1,16 @@
+{
+  "source": "submitted PDF, Tables C3/C8/C9 and implementation appendix",
+  "backbone_main": "DeepSeek v4.1 Flash",
+  "backbone_supplement": "GLM-5.3 Flash",
+  "Codex_CLI": "0.149.0",
+  "Claude_Code_for_MolClaw": "2.1.281",
+  "LiteLLM_for_MolClaw": "1.102.0",
+  "Pi": "0.86.1",
+  "SMDD_evaluator_commit": "359ef1d7c042b85fc1c544662b4fd6fb381f346f",
+  "AgentDrug_commit_prefix": "a8d3a9eb459e",
+  "MolClaw_commit_prefix": "180abb7679ff",
+  "SoL_Pi_commit_prefix": "e1a586af0ad89",
+  "ChatDrug_core_sha256_prefix": "70af6f5fa7c6",
+  "MolLingo_source_archive_sha256_prefix": "c647dba6c74b",
+  "LIDDIA_type4_adapter_sha256_prefix": "589ea934e214"
+}

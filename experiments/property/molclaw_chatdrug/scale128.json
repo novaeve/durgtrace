@@ -1,0 +1,27 @@
+{
+  "time": 1791785334.600748,
+  "before": 64,
+  "after": 128,
+  "worker_pid": 1946676,
+  "previous_status": {
+    "host": "a100",
+    "phase": "running",
+    "assigned": 4176,
+    "processed": 0,
+    "active": 64,
+    "queued": 4112,
+    "workers": 64,
+    "statuses": {},
+    "recent_api_errors": 0,
+    "resource_pressure": false,
+    "proxy_ok": true,
+    "time": 1791785201.0171006
+  },
+  "watchdog": {
+    "phase": "watching",
+    "worker_pid": 1946676,
+    "proxy_pid": 1946656,
+    "time": 1791785330.0792887,
+    "proxy_restarts": []
+  }
+}

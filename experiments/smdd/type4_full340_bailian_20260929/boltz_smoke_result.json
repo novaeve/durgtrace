@@ -1,0 +1,11 @@
+{
+  "infrastructure_passed": true,
+  "affinity": {
+    "affinity_pred_value": 0.44991225004196167,
+    "affinity_probability_binary": 0.35474926233291626,
+    "affinity_pred_value1": 0.7113329172134399,
+    "affinity_probability_binary1": 0.45781809091567993,
+    "affinity_pred_value2": 0.1884915977716446,
+    "affinity_probability_binary2": 0.2516804039478302
+  }
+}

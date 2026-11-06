@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "id": "relay_smoke_1791701940",
+  "native_tool_calls": 1,
+  "real_glm_responses": 2,
+  "provider": "https://tok.fan/v1",
+  "model": "glm-5.3-flash",
+  "time": 1791701983.3879309
+}

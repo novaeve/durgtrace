@@ -1,0 +1,21 @@
+{
+  "started": true,
+  "pid": 3144526,
+  "phase": "full",
+  "expected": 3800,
+  "counts": {
+    "MolLang_edit": 400,
+    "MolLang_generation": 400,
+    "S2_MolCustom": 1500,
+    "S2_MolEdit": 1500
+  },
+  "workers": 2,
+  "pilot_accepted": true,
+  "full_processed": 8,
+  "model": "deepseek-v4.1-flash",
+  "temperature": 0,
+  "enable_thinking": false,
+  "source_cases_unchanged": true,
+  "offline_scorer_unchanged": true,
+  "time": 1791174174.6044195
+}

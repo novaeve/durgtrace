@@ -1,0 +1,76 @@
+{
+  "method": "SoL-Pi",
+  "processed": 4200,
+  "expected": 4200,
+  "workers": 12,
+  "groups": [
+    {
+      "setting": "1_original_chatdrug",
+      "property": "LogP",
+      "processed": 800,
+      "expected": 800,
+      "success": 794,
+      "success_rate_full": 0.9925,
+      "statuses": {
+        "complete": 800
+      }
+    },
+    {
+      "setting": "1_original_chatdrug",
+      "property": "QED",
+      "processed": 800,
+      "expected": 800,
+      "success": 662,
+      "success_rate_full": 0.8275,
+      "statuses": {
+        "complete": 800
+      }
+    },
+    {
+      "setting": "2_s2_prompt_chatdrug",
+      "property": "LogP",
+      "processed": 800,
+      "expected": 800,
+      "success": 800,
+      "success_rate_full": 1.0,
+      "statuses": {
+        "complete": 800
+      }
+    },
+    {
+      "setting": "2_s2_prompt_chatdrug",
+      "property": "QED",
+      "processed": 800,
+      "expected": 800,
+      "success": 796,
+      "success_rate_full": 0.995,
+      "statuses": {
+        "complete": 800
+      }
+    },
+    {
+      "setting": "3_original_s2",
+      "property": "LogP",
+      "processed": 500,
+      "expected": 500,
+      "success": 499,
+      "success_rate_full": 0.998,
+      "statuses": {
+        "complete": 500
+      }
+    },
+    {
+      "setting": "3_original_s2",
+      "property": "QED",
+      "processed": 500,
+      "expected": 500,
+      "success": 496,
+      "success_rate_full": 0.992,
+      "statuses": {
+        "complete": 499,
+        "error": 1
+      }
+    }
+  ],
+  "updated": 1791731819.469536
+}

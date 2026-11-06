@@ -1,0 +1,4641 @@
+[
+  {
+    "task_id": "smdd_002_O75874_0",
+    "type": 2,
+    "path": "benchmarks/smdd/tasks/smdd_002_O75874_0/task.yaml",
+    "sha256": "b05c37c46a119dd26837042bb7d12e173baf313af18a425e2e53f1d3ed1f81c7",
+    "referenced_files": [
+      "ground_truth.json",
+      "receptor.pdb",
+      "solution.csv"
+    ]
+  },
+  {
+    "task_id": "smdd_002_P00374_0",
+    "type": 2,
+    "path": "benchmarks/smdd/tasks/smdd_002_P00374_0/task.yaml",
+    "sha256": "5a4ddec09585b4662ee4789870b7e14fa0957033f9abfabaf7bb047963af55a6",
+    "referenced_files": [
+      "ground_truth.json",
+      "receptor.pdb",
+      "solution.csv"
+    ]
+  },
+  {
+    "task_id": "smdd_002_P00742_0",
+    "type": 2,
+    "path": "benchmarks/smdd/tasks/smdd_002_P00742_0/task.yaml",
+    "sha256": "d9c4bab1d490c65723d849df847c5c8e751117b513c6964e29a4b6b403232728",
+    "referenced_files": [
+      "ground_truth.json",
+      "receptor.pdb",
+      "solution.csv"
+    ]
+  },
+  {
+    "task_id": "smdd_002_P00797_0",
+    "type": 2,
+    "path": "benchmarks/smdd/tasks/smdd_002_P00797_0/task.yaml",
+    "sha256": "76d0a43cc79c061dc4f5f01a3359e780a5b1fff0ebfb22896b08383b1e5aa7dc",
+    "referenced_files": [
+      "ground_truth.json",
+      "receptor.pdb",
+      "solution.csv"
+    ]
+  },
+  {
+    "task_id": "smdd_002_P00918_0",
+    "type": 2,
+    "path": "benchmarks/smdd/tasks/smdd_002_P00918_0/task.yaml",
+    "sha256": "f5d564cfbfb475d99d923a2d03c0baad794ed52f08d23e41342b9a0713377fcb",
+    "referenced_files": [
+      "ground_truth.json",
+      "receptor.pdb",
+      "solution.csv"
+    ]
+  },
+  {
+    "task_id": "smdd_002_P03372_0",
+    "type": 2,
+    "path": "benchmarks/smdd/tasks/smdd_002_P03372_0/task.yaml",
+    "sha256": "a33ebc758c55e22ab6be607db7d04a573118ea00680dd2d6c51890330758e391",
+    "referenced_files": [
+      "ground_truth.json",
+      "receptor.pdb",
+      "solution.csv"
+    ]
+  },
+  {
+    "task_id": "smdd_002_P04150_0",
+    "type": 2,
+    "path": "benchmarks/smdd/tasks/smdd_002_P04150_0/task.yaml",
+    "sha256": "77017b6a054ea9e0ef453041dfdcee06cf562c05f7bb9211564fc86978c012dd",
+    "referenced_files": [
+      "ground_truth.json",
+      "receptor.pdb",
+      "solution.csv"
+    ]
+  },
+  {
+    "task_id": "smdd_002_P07900_0",
+    "type": 2,
+    "path": "benchmarks/smdd/tasks/smdd_002_P07900_0/task.yaml",
+    "sha256": "df0a8d8da55a31130ee93b790cef6951ad2bf07ae26e3e6ab956640b311800fe",
+    "referenced_files": [
+      "ground_truth.json",
+      "receptor.pdb",
+      "solution.csv"
+    ]
+  },
+  {
+    "task_id": "smdd_002_P08684_0",
+    "type": 2,
+    "path": "benchmarks/smdd/tasks/smdd_002_P08684_0/task.yaml",
+    "sha256": "3a47bf7e5c4f96af9fc270943db9167f5d17c69451aba97c10741b07852ed520",
+    "referenced_files": [
+      "ground_truth.json",
+      "receptor.pdb",
+      "solution.csv"
+    ]
+  },
+  {
+    "task_id": "smdd_002_P10275_0",
+    "type": 2,
+    "path": "benchmarks/smdd/tasks/smdd_002_P10275_0/task.yaml",
+    "sha256": "a267f00c52a6ea2925e7c81770ff5f6e660e1ba8ea48e6d4fafa5a74cfebcec7",
+    "referenced_files": [
+      "ground_truth.json",
+      "receptor.pdb",
+      "solution.csv"
+    ]
+  },
+  {
+    "task_id": "smdd_002_P11473_0",
+    "type": 2,
+    "path": "benchmarks/smdd/tasks/smdd_002_P11473_0/task.yaml",
+    "sha256": "b3dd49211dcbc377fc11770d0a376c1347bed2565878eab90f165d8bac0fb4c2",
+    "referenced_files": [
+      "ground_truth.json",
+      "receptor.pdb",
+      "solution.csv"
+    ]
+  },
+  {
+    "task_id": "smdd_002_P12821_0",
+    "type": 2,
+    "path": "benchmarks/smdd/tasks/smdd_002_P12821_0/task.yaml",
+    "sha256": "aa8da976067f0aa75d1823258f9ab6328c7044cc361fc2adf857724a4d1f8c1f",
+    "referenced_files": [
+      "ground_truth.json",
+      "receptor.pdb",
+      "solution.csv"
+    ]
+  },
+  {
+    "task_id": "smdd_002_P14061_0",
+    "type": 2,
+    "path": "benchmarks/smdd/tasks/smdd_002_P14061_0/task.yaml",
+    "sha256": "c551846c82d4f4458ca2d212aac1e52d7986cb5abbf5925ff0f5c07aa442d8f1",
+    "referenced_files": [
+      "ground_truth.json",
+      "receptor.pdb",
+      "solution.csv"
+    ]
+  },
+  {
+    "task_id": "smdd_002_P18031_0",
+    "type": 2,
+    "path": "benchmarks/smdd/tasks/smdd_002_P18031_0/task.yaml",
+    "sha256": "46cb8b2c976623fe30c3e3be2a673d13c1a1976bd264bf3a8616b28175c12b54",
+    "referenced_files": [
+      "ground_truth.json",
+      "receptor.pdb",
+      "solution.csv"
+    ]
+  },
+  {
+    "task_id": "smdd_002_P22303_0",
+    "type": 2,
+    "path": "benchmarks/smdd/tasks/smdd_002_P22303_0/task.yaml",
+    "sha256": "1b6391006a89348df814e35cfc888b8d3ad08877e141fbed343cdfb66234d496",
+    "referenced_files": [
+      "ground_truth.json",
+      "receptor.pdb",
+      "solution.csv"
+    ]
+  },
+  {
+    "task_id": "smdd_002_P24941_0",
+    "type": 2,
+    "path": "benchmarks/smdd/tasks/smdd_002_P24941_0/task.yaml",
+    "sha256": "0aa1957e5bbcefc7cd9c5ad2971d4d38bf3899107a25f2ce3198108083aad7b6",
+    "referenced_files": [
+      "ground_truth.json",
+      "receptor.pdb",
+      "solution.csv"
+    ]
+  },
+  {
+    "task_id": "smdd_002_P28482_0",
+    "type": 2,
+    "path": "benchmarks/smdd/tasks/smdd_002_P28482_0/task.yaml",
+    "sha256": "039fbfc7fdce4d5e0aee18593fa0226c0f0ae54ee0d1d30a1a4ef58f7f293a35",
+    "referenced_files": [
+      "ground_truth.json",
+      "receptor.pdb",
+      "solution.csv"
+    ]
+  },
+  {
+    "task_id": "smdd_002_P42574_0",
+    "type": 2,
+    "path": "benchmarks/smdd/tasks/smdd_002_P42574_0/task.yaml",
+    "sha256": "52a8a9d49f5ad33843b63380d3269b6410811f86405b3b7b08f611e96c42e4dd",
+    "referenced_files": [
+      "ground_truth.json",
+      "receptor.pdb",
+      "solution.csv"
+    ]
+  },
+  {
+    "task_id": "smdd_002_P45452_0",
+    "type": 2,
+    "path": "benchmarks/smdd/tasks/smdd_002_P45452_0/task.yaml",
+    "sha256": "20eb94cb9a40be07e74897bf58beb6e4008b5a2b2d1be8cae2f739b60d68f87c",
+    "referenced_files": [
+      "ground_truth.json",
+      "receptor.pdb",
+      "solution.csv"
+    ]
+  },
+  {
+    "task_id": "smdd_002_P55055_0",
+    "type": 2,
+    "path": "benchmarks/smdd/tasks/smdd_002_P55055_0/task.yaml",
+    "sha256": "84e3e9d4e69aa16c2c3cc8ea3d78bcc3d1340ef3f7b57b9bdd1f1d7772f1963b",
+    "referenced_files": [
+      "ground_truth.json",
+      "receptor.pdb",
+      "solution.csv"
+    ]
+  },
+  {
+    "task_id": "smdd_002_P56817_0",
+    "type": 2,
+    "path": "benchmarks/smdd/tasks/smdd_002_P56817_0/task.yaml",
+    "sha256": "834edf7d6de55cc78533d235c1d26be27cfbd64a69d15060880852180cc3d169",
+    "referenced_files": [
+      "ground_truth.json",
+      "receptor.pdb",
+      "solution.csv"
+    ]
+  },
+  {
+    "task_id": "smdd_002_Q15910_0",
+    "type": 2,
+    "path": "benchmarks/smdd/tasks/smdd_002_Q15910_0/task.yaml",
+    "sha256": "205e56e6499b742a36aee0041e1037419bd1f14989718e1a96a71f41135ea05b",
+    "referenced_files": [
+      "ground_truth.json",
+      "receptor.pdb",
+      "solution.csv"
+    ]
+  },
+  {
+    "task_id": "smdd_002_Q92769_0",
+    "type": 2,
+    "path": "benchmarks/smdd/tasks/smdd_002_Q92769_0/task.yaml",
+    "sha256": "952ba079af3c658d0f536bc8be939481325f028cb084d255c0ab854779b32415",
+    "referenced_files": [
+      "ground_truth.json",
+      "receptor.pdb",
+      "solution.csv"
+    ]
+  },
+  {
+    "task_id": "smdd_002_Q9BY41_0",
+    "type": 2,
+    "path": "benchmarks/smdd/tasks/smdd_002_Q9BY41_0/task.yaml",
+    "sha256": "d96b8718f81d99576e68d31b562d5826b43bacce9029d12c688608ea18f720e0",
+    "referenced_files": [
+      "ground_truth.json",
+      "receptor.pdb",
+      "solution.csv"
+    ]
+  },
+  {
+    "task_id": "smdd_002_Q9Y6K1_0",
+    "type": 2,
+    "path": "benchmarks/smdd/tasks/smdd_002_Q9Y6K1_0/task.yaml",
+    "sha256": "5d44f173caf2de52b0c69969ab77a7da97c89a3a8cad8e8e530d352db8fccecb",
+    "referenced_files": [
+      "ground_truth.json",
+      "receptor.pdb",
+      "solution.csv"
+    ]
+  },
+  {
+    "task_id": "smdd_003_1JVP_1",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_1JVP_1/task.yaml",
+    "sha256": "1325d5301455976d9f4a0ab1e0b9a72f25e0171dad686ecebb895ca73e0ee271",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_2VQM_0",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_2VQM_0/task.yaml",
+    "sha256": "2c58eedee0d2e3a3c44ab35442717add57fdd9eb3401e48a464b86ed529f1c8d",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_2VQM_1",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_2VQM_1/task.yaml",
+    "sha256": "0f9ac9c55045ac7124c8c5e20de65333bb6448d5cff3f1c81de3180281cfb545",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_2VQM_2",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_2VQM_2/task.yaml",
+    "sha256": "a8bc23fc02ee1c6c02e52a9813a3c417877bd2126d9c72db95b7b9b4a4eacc50",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_3FFG_0",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_3FFG_0/task.yaml",
+    "sha256": "37f73345779afa5238f9af5abaad3860b36ff722330d8d0ac092c37e869075b7",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_3FFG_1",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_3FFG_1/task.yaml",
+    "sha256": "6756dad1b7f6d73677a4f8e5fda604de5269fb1a7fa5fc2b4cc72673730d80b2",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_3FFG_2",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_3FFG_2/task.yaml",
+    "sha256": "306c1321c496a087a9051c4cd675ef4e9d7163775437f6defb73f9e325d2fad0",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_3GHW_0",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_3GHW_0/task.yaml",
+    "sha256": "c8e2b72e9958d2d46c78b0714f9a44906dfd475fee35abf135f6af003002b0b0",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_3GHW_1",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_3GHW_1/task.yaml",
+    "sha256": "ca64ca5a81e25467883a91f63f7a0555a566259142f04beb412737c90f9e6036",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_3GHW_2",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_3GHW_2/task.yaml",
+    "sha256": "e9e26f075196fdfe299b23eb11ec3dd78eef4a5f656dde4185c7a8bf94c784d4",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_3KWZ_0",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_3KWZ_0/task.yaml",
+    "sha256": "07fde166fa3bdb69706074d43251fb3a5c0b77bf88c4ba3f4986a1c5913255cc",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_3KWZ_1",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_3KWZ_1/task.yaml",
+    "sha256": "808a3d81b31481d0898bb421afa3351a57635d3c130165199ca4296422ba907e",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_3KWZ_2",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_3KWZ_2/task.yaml",
+    "sha256": "a8af1a572417160a154b75be102c1043c99fa426b57c289e52f1a266d189cd92",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_3QAR_2",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_3QAR_2/task.yaml",
+    "sha256": "f2eac44a2dcb7d05cd58e6d21d8239bc082c5a1bed7ee4a23aca33b68591ede2",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_3QX5_0",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_3QX5_0/task.yaml",
+    "sha256": "b69cf1389c88f482c60832e42129ad762f75d0ca1f2de686b8f552dc449aaa32",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_3QX5_2",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_3QX5_2/task.yaml",
+    "sha256": "311008d0f7667f06cd14b9ffd50992c25de6347cb04ff3beade7e1e6a5a27507",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_3WV3_0",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_3WV3_0/task.yaml",
+    "sha256": "2e96eccaf0a09e0fa1c38bb1c2bbf2a2b334f8185e9b19e204467ab9d728b5dd",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_3WV3_1",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_3WV3_1/task.yaml",
+    "sha256": "1ac318d956eaabceadccf440f82d9ce49d9f9a5040cf1b1b572e59c3e6fc6791",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_4RRS_0",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_4RRS_0/task.yaml",
+    "sha256": "bc307e64c7f83baf81d05bca3925e423608f87b5fc01ecc2aea7effcecdda89f",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_4RRS_1",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_4RRS_1/task.yaml",
+    "sha256": "1521bea4d92456f64814df8657745286096ee7f3ee67af933586733d4ab4e7c7",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_4S0V_0",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_4S0V_0/task.yaml",
+    "sha256": "0a1d8f7c1a27d8e20328866e928a3c373d8b3d582da6d83a56e33ea281507175",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_4S0V_1",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_4S0V_1/task.yaml",
+    "sha256": "a8ae6cc232d5c9b6d08835e8926cb4395af2e2f4689ab7454b0846e9f1ea6747",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_4S0V_2",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_4S0V_2/task.yaml",
+    "sha256": "d567825539d7ae749b301994d1c582517f84a65313a4f775dc67de253787e766",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_4ZZO_0",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_4ZZO_0/task.yaml",
+    "sha256": "c86bb26074a61e54c8ae5949903e80970ad27690e54a3d068e5e0e485263c84f",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_4ZZO_1",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_4ZZO_1/task.yaml",
+    "sha256": "4f324d2d5b71f0286c8be98a602827f051b1145861db4b6656d485d82fa9f26b",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_5A5S_1",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_5A5S_1/task.yaml",
+    "sha256": "e4d41ca67375898c74fff4c6c8e7c6952948d6b05238e162095d7da2c5c2ba73",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_5A9U_0",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_5A9U_0/task.yaml",
+    "sha256": "8c84fc7ab2fb7aed1ba2172213bba3c26debb3f5be7bc41ca7116282aefe3821",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_5A9U_1",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_5A9U_1/task.yaml",
+    "sha256": "a9b05e2665d6c3bc567e75563a6c08a99d5bfec29c54a5599775a1f181e370a0",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_5B5P_0",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_5B5P_0/task.yaml",
+    "sha256": "6cd807af2ac035dde85f678567686d3468c6244ad7809d54cbaf13fd469602f3",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_5B5P_1",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_5B5P_1/task.yaml",
+    "sha256": "fe44e82de1765ddfc5812c0bdc91f7654c4c7c23da0c9d0dd9631add397abf74",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_5DC8_0",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_5DC8_0/task.yaml",
+    "sha256": "597cef0449525ccc3bff6e82f3fa29de50832774a3fd72ff8d34a8cad499692c",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_5DC8_2",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_5DC8_2/task.yaml",
+    "sha256": "39b46ba60a77634fdc6f8364d315594aa9df1c5840cdb8b760f9366e7647e2b1",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_5MW4_0",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_5MW4_0/task.yaml",
+    "sha256": "b32386563b9fb5fd9c7b8c0bdbbd4f570bfc358d08736522c7706dc817876833",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_5S7X_0",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_5S7X_0/task.yaml",
+    "sha256": "b0107e91331edbe9a411c37aab9ce653a126daee6aac86d70e4f062b08c49df5",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_5UEN_0",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_5UEN_0/task.yaml",
+    "sha256": "e4ae883f8636dc5f4265f493bc9b5487ed78d78d732d555ca529d0f5c94cb01f",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_5UEN_1",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_5UEN_1/task.yaml",
+    "sha256": "0092f510773b125f87afb57f02bbd14518d9f0601fd31d39ec97f7d04e9cc61e",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_6L6E_0",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_6L6E_0/task.yaml",
+    "sha256": "2205db7fcc3b572d5ccd1ff0754d05747512fba96f1afa8470e8ab2a044b4ffd",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_6L6E_1",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_6L6E_1/task.yaml",
+    "sha256": "8e792fde5d8cc6f9d4d32884a52b1543ba7e979d6e94db2ef0d635180f0f4df9",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_6L6K_0",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_6L6K_0/task.yaml",
+    "sha256": "5920a7ee021ad92ade5c8aacd1c96f242f6736c73719df679cde65dace576573",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_6L6K_1",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_6L6K_1/task.yaml",
+    "sha256": "01721a55a7ceed795740dd4d8469291cd012ceec0228bc31b0e9ffd44ab312be",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_6L6K_2",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_6L6K_2/task.yaml",
+    "sha256": "0ce654c39dc2f1dd3c5386ec77095bea53850ec7a98703ffc08cc5ee405ebd44",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_6ME6_0",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_6ME6_0/task.yaml",
+    "sha256": "bfb608d6b56cb071dba92c98f85a1ecc2530f6577fe3b626efc418124461bd07",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_6OIN_0",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_6OIN_0/task.yaml",
+    "sha256": "3736d358f777ce191140ce185273f3aeebbb8f83262ebcd3adc00f5a2c886557",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_6X8I_0",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_6X8I_0/task.yaml",
+    "sha256": "264aa10eab08698400fd9d8b48ded07ea42547ad4f4ca10da27810a1f4e7f799",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_7KJS_0",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_7KJS_0/task.yaml",
+    "sha256": "b2cafdb6de3fef259db2a472fc5e26b5a83cce8c293e48cfdb9b5ee71bd3792a",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_7OKM_0",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_7OKM_0/task.yaml",
+    "sha256": "1151dcb4911642caf0310a23645406e9f253c15a26b7577d27fefe9d2f4db444",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_7OKM_1",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_7OKM_1/task.yaml",
+    "sha256": "00de56227b5148f6c02c1fd680021f0f052730e82f704b09cdc7a6a115eb3163",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_7OKM_2",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_7OKM_2/task.yaml",
+    "sha256": "ffa4c9fdb0f9ae85af8137d44a5f31553faf22ff24f3da03eae2615384ecc8e9",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_8FGZ_0",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_8FGZ_0/task.yaml",
+    "sha256": "f6d9e5f26249df9b7e38209c7ff1680bd335ddbe23b2b0e96b7b2a3171efe972",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_8OKQ_0",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_8OKQ_0/task.yaml",
+    "sha256": "cccc63f6845433c6ce545dfabe591ce17bc5acf1626c54af0bc81094f531711f",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_8OKQ_1",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_8OKQ_1/task.yaml",
+    "sha256": "696a1cb75e09430fa2d3b127e63f16fa22f9e7b57e3d65c65e535730ac6d93f2",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_003_8OKQ_2",
+    "type": 3,
+    "path": "benchmarks/smdd/tasks/smdd_003_8OKQ_2/task.yaml",
+    "sha256": "8139b0220055ff0cc214e5df42af7e1872ecfdd5047c4b7367fe52416c5a9a17",
+    "referenced_files": [
+      "complex.pdb",
+      "ground_truth_docked.sdf",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_A2A_Adenosine_0",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_A2A_Adenosine_0/task.yaml",
+    "sha256": "9c6f00abef7479dbca5f492f8828c8abdd3d7e6e20f29fd60036cbb6ad51d528",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_A2A_Adenosine_1",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_A2A_Adenosine_1/task.yaml",
+    "sha256": "18617b36969e2e24a5442b068e5e65c08d3f44cbec8a85519d88473802ef4591",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_ABL1_0",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_ABL1_0/task.yaml",
+    "sha256": "a16076ff23ae4944ee28c1bb55c52cfb13644f96d9bf0f84ad1be8f1af7ddcce",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_ABL1_1",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_ABL1_1/task.yaml",
+    "sha256": "a247dce7e3c14b6399b5ff919da050b649749363ee3d78eab998bbb3481e726f",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_ABL1_11",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_ABL1_11/task.yaml",
+    "sha256": "58351bc5ba1584bface1f51ed1bbbbd1d1b650484d83080e8bac8fc3b5957f6d",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_ABL1_2",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_ABL1_2/task.yaml",
+    "sha256": "1716d23f04dfb3b663488536b495c4c71c10b6a0408f620455b653342ad6e752",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_ABL1_3",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_ABL1_3/task.yaml",
+    "sha256": "8634d7631b6c220062f014c9a3a7cb0395df64489260a4b1cad0d910962c5966",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_ABL1_6",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_ABL1_6/task.yaml",
+    "sha256": "714e98af353ed6e0436d8d205406112025156754775aa253b5b5f221d6de428a",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_ACE_0",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_ACE_0/task.yaml",
+    "sha256": "8e9925c74c8333cd9299f2a06385f4584d21a87827f1d79bb72c5825078b678e",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_ACE_1",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_ACE_1/task.yaml",
+    "sha256": "50d640cef071d556cec243f7e2fb82a05893bb61793249864dcc047c2d0442d0",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_ACE_10",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_ACE_10/task.yaml",
+    "sha256": "076ae4aff31b82524d66b20b11fb6ffa5c802e687fd8146799b5632614f89b01",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_ACE_11",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_ACE_11/task.yaml",
+    "sha256": "73797c2e9e3493315eb630377f4de4952dbea4c640c2ac71d46a1138c1e3d3cb",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_ACE_13",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_ACE_13/task.yaml",
+    "sha256": "c093070658517ca888808c5129e7519ef96c6d64accdbe6b38403f13a4ac2cc3",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_ACE_14",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_ACE_14/task.yaml",
+    "sha256": "47d521c670a835f5eff9ed4962b7f794a61352752d4709b87b139554dc3da8f1",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_ACE_15",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_ACE_15/task.yaml",
+    "sha256": "a5faa7c195fcf27094ed7c3c60c523b2fcf5cb70ca13038857868b14c323240e",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_ACE_16",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_ACE_16/task.yaml",
+    "sha256": "d617edb3642fa027d6f54740fdf77d8e5332763b33983deb3ced03c81f939ffa",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_ACE_17",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_ACE_17/task.yaml",
+    "sha256": "350a98d899de573d4aa82f75597d7648f24e6911c7537a2c0f555085213db499",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_ACE_18",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_ACE_18/task.yaml",
+    "sha256": "1bf947dcb4fad5e330e5501d1d96925b6c02c36f71762f092df6d9d172d2b473",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_ACE_2",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_ACE_2/task.yaml",
+    "sha256": "742c58337518f7f12ef839d6e7fc4edf1e3b06959318dc4af8cbde4233ad15c6",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_ACE_20",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_ACE_20/task.yaml",
+    "sha256": "13f0889d2df97ebe1c59ec91f7b21bd109349749887a242f23900490435fa3e7",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_ACE_21",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_ACE_21/task.yaml",
+    "sha256": "aa06657f963ea02a0728b806471e8530820d968d57783977256da23bdd08e18c",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_ACE_22",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_ACE_22/task.yaml",
+    "sha256": "736ba53089750b68124093871f81f5f085334ad7618a6b8d99a970f2afa6bbe3",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_ACE_3",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_ACE_3/task.yaml",
+    "sha256": "495ba236e4f7cd70d733144b337f84e6b615658057473e8e4f9338c698c360ef",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_ACE_4",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_ACE_4/task.yaml",
+    "sha256": "487e40222cf7059531c9da9757f3d6b385884b85cd54a0dd87108a8b3b87b9cb",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_ACE_5",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_ACE_5/task.yaml",
+    "sha256": "a3da65902441ce8f5da28b0634600bfc48c9032bff2037a78cb25fdd71581e82",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_ACE_6",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_ACE_6/task.yaml",
+    "sha256": "4d73dffccf1e1db06811e855f64c991e96df9151a810d6c4c7aa6582fd493898",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_ACE_7",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_ACE_7/task.yaml",
+    "sha256": "b4a93580450b1f95bc09afe13d07113c882c8b71069b176b3a2892f2b1b2745d",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_ACE_8",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_ACE_8/task.yaml",
+    "sha256": "6382b932c5b73ccd4526b64b97147e3501c38cbd5b445990ef1fee0815672097",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_ACE_9",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_ACE_9/task.yaml",
+    "sha256": "71c371f3535e9c1a65f3415638754a889fb9871d51f4ba5c235fc70c162799bd",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_ALK_0",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_ALK_0/task.yaml",
+    "sha256": "69fbd1cdfb6e37b125b6ef93ffd9966bd047e637aa85a47685048f5936c12ae2",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_ALK_1",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_ALK_1/task.yaml",
+    "sha256": "848f76bb5f964a79b1a8ef7e5713011298c7afaec96e72289c25b9f455096f68",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_ALK_13",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_ALK_13/task.yaml",
+    "sha256": "226164434f0e552ff7f2c5b5bbdbead83f1b92c34d4f04641be54feeaf81e5aa",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_ALK_2",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_ALK_2/task.yaml",
+    "sha256": "fbbaa30f9ebb04b68550bf0b2e15d99557f1845758317fc284c3061a03fa3c35",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_ALK_3",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_ALK_3/task.yaml",
+    "sha256": "3af6afea9dda85c55ff47a46bdad43f7083e0bdce7a110625e5dea1d01e10acb",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_ALK_4",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_ALK_4/task.yaml",
+    "sha256": "db31288d7d7216d3b4c85ac6a935a563d4933c89d01947cb7b24c1d1d6e10f47",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_ALK_5",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_ALK_5/task.yaml",
+    "sha256": "7872b693fbc977fb26cbb9d821427163261092d8a29f78875c19431219b4364a",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_ALK_8",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_ALK_8/task.yaml",
+    "sha256": "20215cb8a0c77b6a00bd5a5c0bf001f6d4e85e9e8b6e980754f58410b90f8efa",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_Androgen_Receptor_0",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_Androgen_Receptor_0/task.yaml",
+    "sha256": "48be41022641d73d549fa69a1889f49d719dd898063ee1293ecb8b739b876dd9",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_Androgen_Receptor_1",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_Androgen_Receptor_1/task.yaml",
+    "sha256": "a49ee1d02ede484009619e94024aa327261fabb01c4f4081cb734144b1c3b34d",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_Androgen_Receptor_13",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_Androgen_Receptor_13/task.yaml",
+    "sha256": "7e525a5649a6e80f7f3de3ac2577bd049b0c3b18a15c338d123a7d2bc559e2ce",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_Androgen_Receptor_2",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_Androgen_Receptor_2/task.yaml",
+    "sha256": "3a48078746e4e64cd2656265263894e447f6bbd378c8d016c25d93dc4da149ab",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_Androgen_Receptor_3",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_Androgen_Receptor_3/task.yaml",
+    "sha256": "718d2413faad03075f799d7e03f51c7f877d38c8ffaad87b227c20f9e90d6da9",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_Androgen_Receptor_4",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_Androgen_Receptor_4/task.yaml",
+    "sha256": "c125ea5bc03d45d5228c2740a970be32b74db9ae3de176b8ec5a84ae2a1d9d3a",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_Androgen_Receptor_5",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_Androgen_Receptor_5/task.yaml",
+    "sha256": "2d5a459296180486d0b974c42b0eda06bdb775e76e5a48dae5fbfe7f838308d3",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_Androgen_Receptor_6",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_Androgen_Receptor_6/task.yaml",
+    "sha256": "2bc8c61b6c8b539edf6691f3c09f6c3a245d6a82f730a5045a51cbffa5894c7f",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_Androgen_Receptor_7",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_Androgen_Receptor_7/task.yaml",
+    "sha256": "6ddf96e13ea6f3cec6d2a65d9cdbda5e919f076529eab53f635b3e7bf1dc0779",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_Androgen_Receptor_8",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_Androgen_Receptor_8/task.yaml",
+    "sha256": "d30dc7ea09ba8a278470cbcfb380726f22b0fdb5f662a8eaa1f908db7aed9d08",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_Aurora_A_0",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_Aurora_A_0/task.yaml",
+    "sha256": "3d259fe5d3803e6ec16c45c8e6ff7153d7ae72b754f38147fb01f00327fca5d3",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_Aurora_A_1",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_Aurora_A_1/task.yaml",
+    "sha256": "364040c583080b7258b66c12fb3e2922ab0c321b863e8ab99083c6f6f218b518",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_Aurora_A_2",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_Aurora_A_2/task.yaml",
+    "sha256": "2fbb33be4268ca78657442746ecc07781c8633e74507fabc6cd0ecb8c5205c66",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_Aurora_A_3",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_Aurora_A_3/task.yaml",
+    "sha256": "6b14bb0854ae24207d04f3d997760a6e2f067d01be94d97538dc7c8bc200b60e",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BACE1_0",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BACE1_0/task.yaml",
+    "sha256": "850d7b95e07eefcab04011aac7f382aa76f11ae55b0a7478bc35ecf4cddaba1f",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BACE1_1",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BACE1_1/task.yaml",
+    "sha256": "37321d9388da17785676a8fb38dd8e8972e6752d58fcf49d26bea537c32e5596",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BACE1_10",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BACE1_10/task.yaml",
+    "sha256": "1ad221e87be252bd926fccaa9caa6e4de6e1e681925c0193f091f6c660ae3dc6",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BACE1_11",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BACE1_11/task.yaml",
+    "sha256": "51d7c359af669b076fcecad2e220caf189417d1a39ce80bc8eb38a2739068864",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BACE1_12",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BACE1_12/task.yaml",
+    "sha256": "33c8f0415046fe44b6a09ee5c41a5097fd4f3f8c643cf14847920f5195dad089",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BACE1_13",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BACE1_13/task.yaml",
+    "sha256": "1d4ec422a68541d97855c12088341d69e255a6d108feaf81dcf3390b1eed9589",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BACE1_14",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BACE1_14/task.yaml",
+    "sha256": "1bab71d6ed32a7e052fa120d18fc811c1bfeeb3418bfa79046f9c7224d3060dc",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BACE1_15",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BACE1_15/task.yaml",
+    "sha256": "662059e54a25ea8e00f3871a1d5d12e680d1f142d8a8ac4b7ff9a2c45eff4b05",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BACE1_16",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BACE1_16/task.yaml",
+    "sha256": "728251dc56082f3b55aa11dbef75db3f7b51a895db227b4a667e5a7a0a01f13a",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BACE1_17",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BACE1_17/task.yaml",
+    "sha256": "28f262e809d3f3e2bee3c408b12aa203bff720cab55d7dd37a3bd9764fdcaab7",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BACE1_18",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BACE1_18/task.yaml",
+    "sha256": "f404c00d0b45e8f03026a020da630101834df14156467c6221bbbc7fdb492a4f",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BACE1_19",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BACE1_19/task.yaml",
+    "sha256": "4645e26314eff25513c1b29c5f21edd6598fffea8382928e826450cabe901edd",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BACE1_2",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BACE1_2/task.yaml",
+    "sha256": "c084f9ed61309c5a84d03a04ddaee54fb6b0e089406773debe455f507f91595a",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BACE1_20",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BACE1_20/task.yaml",
+    "sha256": "9b6e726e4b0e54e71902a6d6d535b5fd61ed5d23e0e848bb8d181361316b5c51",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BACE1_21",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BACE1_21/task.yaml",
+    "sha256": "0e87b66dbfe7775caf0a4766ee0f0faa56e56a7d38bf430be128b029baa2c7ef",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BACE1_22",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BACE1_22/task.yaml",
+    "sha256": "7975c8426f2c98838218c7be10f677b77c656f2b9ac44818a6a120a74c949e88",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BACE1_23",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BACE1_23/task.yaml",
+    "sha256": "e038afc32d54499eb570e961b083240d5ed15074f100c8e71513508bc35a48a9",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BACE1_3",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BACE1_3/task.yaml",
+    "sha256": "a3b10a275cb73209463617c1739a554d4f3327ef746a24162cf788b5c26d0abf",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BACE1_4",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BACE1_4/task.yaml",
+    "sha256": "512cdc9a5d071a27c86d8fc6c695f5561ddce8215ddff34ae72d3c53eec773cb",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BACE1_5",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BACE1_5/task.yaml",
+    "sha256": "cc1afc8ed085f2cfb33d7b438ed70ab5170b6abb6a0a24270f9013cd314e91d2",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BACE1_6",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BACE1_6/task.yaml",
+    "sha256": "8bca2cea5e8342250bd25203f72d17cfc44421dd2973e1a5ba2a4b6fdad1d6ea",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BACE1_7",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BACE1_7/task.yaml",
+    "sha256": "b795539f07c281be4ff8f328fb6f95a39d24425b3843e4f760ae6ddd9b27e684",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BACE1_8",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BACE1_8/task.yaml",
+    "sha256": "ece1d9bd2237914397a66d7ae3d51b54053f128c727cb512e1d08f3909ee435b",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BACE1_9",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BACE1_9/task.yaml",
+    "sha256": "335e181f44b0d4b1155f76d5e0fe7ddffd8167cb0ee656219f0212fac4c4c42d",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BAZ2B_0",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BAZ2B_0/task.yaml",
+    "sha256": "74da7fdd6ff213e4da34abab18d9be1d27af8600ffa50c18d1e2c18d744539ae",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BAZ2B_1",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BAZ2B_1/task.yaml",
+    "sha256": "9f8504a6f366e51f587a94e9301b1b883352e6b6badb5551fc273d7d9bcce1a8",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BAZ2B_10",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BAZ2B_10/task.yaml",
+    "sha256": "e3ffd874c9e8c881bd66517e1f3d9447bf02bbdce6ffc6121eb50c1b70109acc",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BAZ2B_11",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BAZ2B_11/task.yaml",
+    "sha256": "3aafca71dc2e1388b65e4338f4c0b4dd119b1524a27b179a8b29942f679c46c4",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BAZ2B_12",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BAZ2B_12/task.yaml",
+    "sha256": "07d94023a176528c665d9aea20d239b9fc7c835cb05a14f2aa8b6b7ac02c72fa",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BAZ2B_13",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BAZ2B_13/task.yaml",
+    "sha256": "f4fd850be5aefb45c5c85fdcb14c16b0e0ae8d8a2996a1d3ab0d6feda69389fc",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BAZ2B_14",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BAZ2B_14/task.yaml",
+    "sha256": "fa0f86a4ba4076671148ce9471c07629efd2a0a194e74edf09bd7dd7bc7d62f6",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BAZ2B_15",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BAZ2B_15/task.yaml",
+    "sha256": "3319e40f056024466e9dd2fec4be4c262de91ee180b1b0cd1183f13ac8104168",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BAZ2B_16",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BAZ2B_16/task.yaml",
+    "sha256": "0e02f600a5994fb851f4a06bd1e26573e53c13bc20851769c3542f3e93c7a2be",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BAZ2B_17",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BAZ2B_17/task.yaml",
+    "sha256": "0d17885c1578f82083c6555e9da00b95f4bc7857df2c51356647cd7a0c0d81fd",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BAZ2B_2",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BAZ2B_2/task.yaml",
+    "sha256": "dc0767a083bae893ca9604e98ef685fa9a62d9e89a561813fc787b918a14bc79",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BAZ2B_22",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BAZ2B_22/task.yaml",
+    "sha256": "7e4cdaa500034fd40e040b20657d30e04b99e8832a242471b39c5439665c5a3f",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BAZ2B_23",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BAZ2B_23/task.yaml",
+    "sha256": "3ced5923216d4655ff3a0bd7bfe8d1b9fb506e1e757e61db4ab285b74dd5b766",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BAZ2B_3",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BAZ2B_3/task.yaml",
+    "sha256": "73000b7549f83cbd7ee3670cd3181265895d60e3a83e6a5d9af678de981e1f4c",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BAZ2B_4",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BAZ2B_4/task.yaml",
+    "sha256": "06315e7d13379049bd0ef27b888a95ebfd19e70a50c512d470ab819c0d692dac",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BAZ2B_5",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BAZ2B_5/task.yaml",
+    "sha256": "073c670b23f7437cda73b42694a6fafc433a1a1d87cf62ce2391edde6dcb1a98",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BAZ2B_7",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BAZ2B_7/task.yaml",
+    "sha256": "5adbeab9763420f4404540320d8faa1afe0dfe23a9bacd0f100f6c402661ace1",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BAZ2B_8",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BAZ2B_8/task.yaml",
+    "sha256": "d45fae77c96039f8d6f6d03b61e7fc7c62c385dd667ad95c4b64f60854776a04",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BAZ2B_9",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BAZ2B_9/task.yaml",
+    "sha256": "d950e48b67e15f1a9614627b6acb2eeaa4b11f518339299865c2ea915489c894",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BChE_0",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BChE_0/task.yaml",
+    "sha256": "8c34e26576b7ae0b8d51c18a6c80cac657b9e3bd7d078846c854dff0c6819ef2",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BCL6_0",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BCL6_0/task.yaml",
+    "sha256": "f7f733829df86d2dc79a0b680b3c0c38be7430f6ea5b1138e4e00b144769c27a",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BCL6_1",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BCL6_1/task.yaml",
+    "sha256": "ec37bd89c286f6fd618bf4cf2683f503ef94c1f19ebea8984b5d19d05c7f1dd5",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BCL6_10",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BCL6_10/task.yaml",
+    "sha256": "43c12c80ed73ae62e28b799aa27818ec504d59cd10222778c2b747c1de25365f",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BCL6_11",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BCL6_11/task.yaml",
+    "sha256": "ddfa618cbbea45cf57ebc590ee20ee2745d66f08f9c7ead096d015942cfe53be",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BCL6_13",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BCL6_13/task.yaml",
+    "sha256": "8afa782914e573a91f6a0459feb25037eb09fa477205f6122921b1947786e514",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BCL6_14",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BCL6_14/task.yaml",
+    "sha256": "8b5aa64e88b488d2756fa57a9169172ea307c57bb57ed1d852b32c94864ff836",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BCL6_15",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BCL6_15/task.yaml",
+    "sha256": "3c478bc0335a2f7a8b5d55c5e5ab7b14ff4830e05269d847c70ea4019bedadc0",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BCL6_16",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BCL6_16/task.yaml",
+    "sha256": "8f68bd849b50ac0f1b7c4d12c14ab991919724e190b330056d1022c7864b7bc5",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BCL6_17",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BCL6_17/task.yaml",
+    "sha256": "2aa81f9ec76445c747af4710fefe42c66e3b3e0a571fbb1299c6e1729de5ba59",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BCL6_18",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BCL6_18/task.yaml",
+    "sha256": "aca5c9a5ddf72f1930e2ba9b5e1891c4d3ad83f1246bc320da66550c4667178c",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BCL6_19",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BCL6_19/task.yaml",
+    "sha256": "9b5e1def37d6bcfef04fa386d7871b19daf86d766d5d10387281004ecd3d25b6",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BCL6_2",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BCL6_2/task.yaml",
+    "sha256": "b65314cddcd0a2e97e26d716b08090dfe7b9a504fb4a6af85fc79080f425ed62",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BCL6_20",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BCL6_20/task.yaml",
+    "sha256": "abff8275732b01821cafe557f1bb8b819d7cabd668f55f54038832ad4b3d9932",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BCL6_21",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BCL6_21/task.yaml",
+    "sha256": "e2b4ab515966a65c2da85fefa71f69d7147b3b9117558666e63f22b73c68b901",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BCL6_22",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BCL6_22/task.yaml",
+    "sha256": "f95a1e7a68b79d9234fcf5a5d8262747db816fa4c4b40812fd804771ae861b2f",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BCL6_23",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BCL6_23/task.yaml",
+    "sha256": "b21b18f4f11e7b729d1d635dc8277924d71c616961edc722680a6d0c2450f0df",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BCL6_3",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BCL6_3/task.yaml",
+    "sha256": "9657d2a9da76c9dbf9cce3902b0dafcd561cb9473c4e6735031be989ce6c2b1c",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BCL6_4",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BCL6_4/task.yaml",
+    "sha256": "19df769172ca28b1cf6fa234f228f94d2233b66c2dd98716bbb5bd128dc36daa",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BCL6_5",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BCL6_5/task.yaml",
+    "sha256": "2d4140449e3564f3a7f08bad39c306ae145734c2023ff14f31716e0c06b53e62",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BCL6_6",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BCL6_6/task.yaml",
+    "sha256": "bfa320996b419ffbbbd9be3a0e39f5c358256cdfbf640b93509c26a575b5c8f3",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BCL6_7",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BCL6_7/task.yaml",
+    "sha256": "5f1c199886931dd1f2809568227f440ae73dd0264214b53a2cd17473e8081a22",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BCL6_8",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BCL6_8/task.yaml",
+    "sha256": "9070614c8d4d618d6061aca1285f4d709ece5359594c0e0a0d02173899ee737d",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BCL6_9",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BCL6_9/task.yaml",
+    "sha256": "37ed7e4f0c86fc3e8c53afbd4f5a11f726e3eb5ff111542d6f09de6c5ba4ab01",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRAF_0",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRAF_0/task.yaml",
+    "sha256": "6e34df5277f8b3617419de9e934ef36d53db8a26fa32590fc3fb88c242404e0f",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRAF_1",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRAF_1/task.yaml",
+    "sha256": "9b1b9f4b32a5321b3f8d02ec14f254565a4d5f3f141e83eabb92e470a95bdbe5",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRAF_2",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRAF_2/task.yaml",
+    "sha256": "a8aa73844710b8bfd7944784ea0bb7d2059ff5982c5ee11514078aee5103db23",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRAF_3",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRAF_3/task.yaml",
+    "sha256": "e2ae29558f0b3d98b77b7e02325a1d0e6ef32ca9c47e38daf356cb966c1d7067",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRAF_4",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRAF_4/task.yaml",
+    "sha256": "4f8ce852672ab4453e59b29736fa1cfe07b5bdb81cfac9e92c4c800bf5bc3943",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRAF_5",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRAF_5/task.yaml",
+    "sha256": "eefd4a641d08fb4ac65f591113d93539e7bca04bab5bb14cf5f76b5492de9dd3",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRAF_8",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRAF_8/task.yaml",
+    "sha256": "39c3d6cc82ce502a001b6a2750f6f434881c2728bf3cd0e9be06ae6a7116e984",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRAF_9",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRAF_9/task.yaml",
+    "sha256": "7045dddc82cfd0807cbfee0f68c15f50077376edd5981678ac4edbbb779ff381",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRD2_0",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRD2_0/task.yaml",
+    "sha256": "dcd850aa417b2395bf130dbbd0856f2b73c1ae10d6400fdbbc2e778f2baddd9a",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRD2_1",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRD2_1/task.yaml",
+    "sha256": "8bbc0e7eaedccd7f14302a7a731c2d8f37b97e0d67967636bf202da2fed88b95",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRD2_10",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRD2_10/task.yaml",
+    "sha256": "d490f4f49cfc8c98232b3e0a5810f5bb6046acc7ceec6876a6a528b46c752208",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRD2_11",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRD2_11/task.yaml",
+    "sha256": "44780eb1da50ef3fcc0b1d80977cf1591cf013d18b664acbc5bb06ad071c76d3",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRD2_12",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRD2_12/task.yaml",
+    "sha256": "f217326bc794fd1fa2b8dbd443f55bd65a5e217432f3d73383d6389f4edb9f8e",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRD2_13",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRD2_13/task.yaml",
+    "sha256": "01ddc6643db62fa02698572cedb0c4e99bddcdcd74384627bd4a0479ee2d044c",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRD2_14",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRD2_14/task.yaml",
+    "sha256": "3e90a320775e98c2b7323e36a1f07c8d5ad44935c48fc2bfbe8be168638825a0",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRD2_15",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRD2_15/task.yaml",
+    "sha256": "7aabfdf05f600d97af7c4f897fd98b6f0c970b747743acb536a922f4b7e0f0ab",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRD2_16",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRD2_16/task.yaml",
+    "sha256": "0fe67241e03d39a4670e0f1d5b1ece67edef99cd702f17383d7cb4ac4d43cb2a",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRD2_17",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRD2_17/task.yaml",
+    "sha256": "0eadae02063004b6af7e2b3b8480ae342f949c1ad3651d1174a3f3f684c752ea",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRD2_18",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRD2_18/task.yaml",
+    "sha256": "a4cc42fd4c63caf7d2058709af01e54cda80f275f87263899691ed0a0faba596",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRD2_19",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRD2_19/task.yaml",
+    "sha256": "347feaea84fac7521aceb703e3f9bb6b950de5654276e4f122d3f4ae786d6958",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRD2_2",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRD2_2/task.yaml",
+    "sha256": "a8e12e467e14a0e99ea43c28d49c6c96d678d3607f8b82e2eae3351dbce56c56",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRD2_20",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRD2_20/task.yaml",
+    "sha256": "a864e9edd455f0d75c7c9ae11f3401c679fcfb2ebea53f65a861640408b6a73c",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRD2_21",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRD2_21/task.yaml",
+    "sha256": "483ec43357e8d8f9ef80937558523dadf3ae763631fd7100805dbd05bba2fdf8",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRD2_22",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRD2_22/task.yaml",
+    "sha256": "87ee32b9cdffeec39d9e8b21a63d4f0d0e254583faddc35395171c6382c0366f",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRD2_23",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRD2_23/task.yaml",
+    "sha256": "de9c7984bcbfe6ac620fc3d6aec2862340aa0d536c19d9ebf802f9dd9a4331e9",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRD2_3",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRD2_3/task.yaml",
+    "sha256": "06b4700d0e8e2198e331308fb4f688d6873b8b733eca050ebd3399ed4384e7ea",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRD2_4",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRD2_4/task.yaml",
+    "sha256": "2cfe094930ff60506c2d82d90427287db286a265f2fba31eff3942e245f5efa0",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRD2_5",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRD2_5/task.yaml",
+    "sha256": "56b28be8cd9124709df047eb191d2538e599a013c23ed1dd0c1e10a67d13e9de",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRD2_6",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRD2_6/task.yaml",
+    "sha256": "1a627187663b95d5601ddeb2ad87c21c57a5377596eb6682be5e2e6cc9a9d149",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRD2_7",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRD2_7/task.yaml",
+    "sha256": "da31a33f43d0369ed3b2c6a7b03fc3514b8819fa16fd9f7dd5c741dd9ede11af",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRD2_8",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRD2_8/task.yaml",
+    "sha256": "5a5e183e08c608fe8ff381e8b492783ed96496b91ea0821724689af1ef91d963",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRD2_9",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRD2_9/task.yaml",
+    "sha256": "374e5283cac4246a956ebbdd6d3c842e0f49742ad021ae4da9c54da3df1f8eee",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRD4_0",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRD4_0/task.yaml",
+    "sha256": "5b51f67d1e06cad402189323a9a2aa78fae8b0eaf6f9e6cde9b510730f1c29ef",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRD4_1",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRD4_1/task.yaml",
+    "sha256": "0550996f1e48b641ae87e00742221d51288ee191cdc83714b410f2ae80837ae4",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRD4_10",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRD4_10/task.yaml",
+    "sha256": "ca096421b35e9c435e7143fae0221aad897519c326d090bcc973b311a072c762",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRD4_11",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRD4_11/task.yaml",
+    "sha256": "79d696af9b85c60aa79f561b1fdc090f68f36e6577fceedf18fa6bcc2f1c3912",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRD4_12",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRD4_12/task.yaml",
+    "sha256": "6c7f8526df9a26cacffa8e2ad069e3d7eb4e74c1c87a985b9942911062bcc845",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRD4_13",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRD4_13/task.yaml",
+    "sha256": "07d6ff8414e1a9b2c75e454c4b93fc07efed35f514afe86e91142873d9c048c8",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRD4_14",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRD4_14/task.yaml",
+    "sha256": "560ac7a1598b2868a7a27f8bb437b29c7c403657fd820575de4a32503a7aa20e",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRD4_15",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRD4_15/task.yaml",
+    "sha256": "7b8797b26ac8e8dcd88f212e5f86b0d6c0aadb7bc066423627f379a3570bb6ef",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRD4_17",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRD4_17/task.yaml",
+    "sha256": "0c4921e6ae3045aeb0b06a2d8108945891b06ccd57d81f2c180ef657a74c869b",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRD4_2",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRD4_2/task.yaml",
+    "sha256": "76babb3870cbd69e7bc1572b632f97ce63ce0a5a9a5132287e8a2a59d3c8c870",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRD4_3",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRD4_3/task.yaml",
+    "sha256": "1d1e8b333244757da65887e9b3bb2c2187cd1324ac00d93b82097e9c9611c008",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRD4_4",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRD4_4/task.yaml",
+    "sha256": "24e5db79a8f6e8b98917835c9a3a4a9f089a2cd134a17ffc87e7b358ecc6080d",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRD4_5",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRD4_5/task.yaml",
+    "sha256": "b28ac315ac7adc0e6403b535740403ebde409a4808797530eb4e5f98873c8233",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRD4_6",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRD4_6/task.yaml",
+    "sha256": "b71109d6b7f9a1408c23cda52bb969336057b08345cedc0c3ee107798cca3701",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRD4_7",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRD4_7/task.yaml",
+    "sha256": "1af30a0c77ce54282690acb9e551d7881076d650e6b0b31552a1bf43ca7fa7d8",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRD4_8",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRD4_8/task.yaml",
+    "sha256": "5bf15ada8ec5a562c38f8c1850c8a17e63a7fe7732ffb15199d051be290c4ef8",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_BRD4_9",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_BRD4_9/task.yaml",
+    "sha256": "46f1f5645c443fec26e17e8195cf68ac435255cbba3c88de96a9e6e71cec7568",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CA2_0",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CA2_0/task.yaml",
+    "sha256": "ecbf892184d68c555ea69d7f30d10abf2543620a189bee50977076392428b534",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CA2_1",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CA2_1/task.yaml",
+    "sha256": "253e90b094fdbae6cc63018e6dcecf09de66ab79ca984a12be5b4962e6889967",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CA2_15",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CA2_15/task.yaml",
+    "sha256": "cb1a575c96f06cd9e85b2bcf6e625457d0903899566d9d720c77a6faff8ee090",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CA2_17",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CA2_17/task.yaml",
+    "sha256": "d436858fc5063aced4c6a7a1a47e0d224f38f56fd4830ea29433c6eb76fc2f53",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CA2_18",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CA2_18/task.yaml",
+    "sha256": "cad0034619af523e50664eaa3a2dbc526e17d5f594090cfe76fcab21086bcbce",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CA2_2",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CA2_2/task.yaml",
+    "sha256": "1e3366b5abb12162801124e01e3e16f85733267af98e33f9be4efd3eef6d8128",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CA2_3",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CA2_3/task.yaml",
+    "sha256": "e1caa62a1a20002c0c710ef417003af835df05c4d080575d815920d0d6f31cae",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CA2_4",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CA2_4/task.yaml",
+    "sha256": "4f2500de4010b64dc82106a4d184e00fb153c265a4d2d5e87a08a758b4cb455f",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CA2_5",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CA2_5/task.yaml",
+    "sha256": "24e861046512039c522b55a78eb9b8e3a87c3c4f9759192ef992fb137dafebe2",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CA2_6",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CA2_6/task.yaml",
+    "sha256": "8745a10a044dee0831830abbe02433cbf41a2d984729698c7ee0972dd8b6d0a2",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CA2_9",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CA2_9/task.yaml",
+    "sha256": "02513089f38354caa7d58510a2eb18b663352d4d6de7595e36bcf9c7c0533b1c",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_Cathepsin_K_0",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_Cathepsin_K_0/task.yaml",
+    "sha256": "258e7b20589c0ead8a9d6cd89e53b978aba89089a13fb568d0e3d6a38e6665b5",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_Cathepsin_K_1",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_Cathepsin_K_1/task.yaml",
+    "sha256": "afb162a801e643fc354cfc08f674d8cca5bbc87487d43b3be1678384b6aa770d",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_Cathepsin_K_10",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_Cathepsin_K_10/task.yaml",
+    "sha256": "8701a50d6226e7487d64e65ee6fb05d4d510c2e4261082233deec5ed74352ddf",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_Cathepsin_K_11",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_Cathepsin_K_11/task.yaml",
+    "sha256": "5aed7949c844aa0935f10e79e32043b518191f3bc3c5d6d558bbe2939ec61609",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_Cathepsin_K_12",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_Cathepsin_K_12/task.yaml",
+    "sha256": "2258ca8d6e494fcea6b1b9bc7edf8e1c905e27745b18b9b64b8dffddbbf3898f",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_Cathepsin_K_13",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_Cathepsin_K_13/task.yaml",
+    "sha256": "4db0b9fe8dad2040e9ddc35d565d027fef02595030e83e2190638fda150228a7",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_Cathepsin_K_14",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_Cathepsin_K_14/task.yaml",
+    "sha256": "aa17acca79dc2ceca90d25f54612556af38e0c6ec9a63ae723d94b545d505f11",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_Cathepsin_K_15",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_Cathepsin_K_15/task.yaml",
+    "sha256": "b2e38097414d1ab1a9043576b3973ea92c14628d93fb6887ddc65ede2e8aaf47",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_Cathepsin_K_16",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_Cathepsin_K_16/task.yaml",
+    "sha256": "6e0792d9ba4102e7b02e13d258e30ee0a804ccb25d2288ff27c12318f46ecd32",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_Cathepsin_K_17",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_Cathepsin_K_17/task.yaml",
+    "sha256": "878b9c5f18a09ab18da2bbf87458e4251a60b8ecc034b30c5a58aad6c83cab93",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_Cathepsin_K_18",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_Cathepsin_K_18/task.yaml",
+    "sha256": "2ed5bdf14ad57efcab460fe4a7b2abbbaf14e54543537a4c22cd452e32bb0d92",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_Cathepsin_K_19",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_Cathepsin_K_19/task.yaml",
+    "sha256": "7390cbb324a1294699054e4237175268acab8a33a6b7c6fa0a1a36658c5adaef",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_Cathepsin_K_2",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_Cathepsin_K_2/task.yaml",
+    "sha256": "250cc47550790e50101d8074d7933b99c915a4b902989ac352c913d47d99f786",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_Cathepsin_K_20",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_Cathepsin_K_20/task.yaml",
+    "sha256": "4f32313dfdb3b053834aceeae84d2d6d86f791bf5231f78b4acceaa09a318ccc",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_Cathepsin_K_21",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_Cathepsin_K_21/task.yaml",
+    "sha256": "db6a945429ae480fae9483b41a7d2336f430709520cf62945d6ed289bbeef37f",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_Cathepsin_K_22",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_Cathepsin_K_22/task.yaml",
+    "sha256": "26952ff397df62381f31af212aee4420ea505f6a1e7fa67df48fe7616f9756ec",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_Cathepsin_K_23",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_Cathepsin_K_23/task.yaml",
+    "sha256": "ca6da6651427d7a6675888e3d54b0fec35ba3189cb57ed2357b28ed58e0b06a9",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_Cathepsin_K_3",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_Cathepsin_K_3/task.yaml",
+    "sha256": "c0f1415d554dd8b38dcb2c9920f264991477ac03fd9c1c2db8ed7542a6a68574",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_Cathepsin_K_4",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_Cathepsin_K_4/task.yaml",
+    "sha256": "5ecf43da199e130ec87365d6b0344c94e9c922448d437b0b72203fe508f96d31",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_Cathepsin_K_5",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_Cathepsin_K_5/task.yaml",
+    "sha256": "5f796b627361765fc04ff1d137b5c604b0a748084ab4c2fb4883d56eab856079",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_Cathepsin_K_6",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_Cathepsin_K_6/task.yaml",
+    "sha256": "ea29d3c7782f7181c91560e77d19b68ffbfe5f9b8b6326e6bc01dcf72221ff43",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_Cathepsin_K_7",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_Cathepsin_K_7/task.yaml",
+    "sha256": "b604ab078a8cccbfbe2cb7e8fd358a8cd41ab417efe6bf66ebc17d0057260d48",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_Cathepsin_K_8",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_Cathepsin_K_8/task.yaml",
+    "sha256": "4f9f32bf5db93b7aefab9f52274bb5e04fdd4647cd11b371338e6a5e2c7c02f3",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_Cathepsin_K_9",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_Cathepsin_K_9/task.yaml",
+    "sha256": "c9b5da116b3495caeee5cdba60aaf4af8490930cb3709f15719dd7c452aebeaf",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CCR2_0",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CCR2_0/task.yaml",
+    "sha256": "b0a0ab911e6dea295a002a864108a8d2f4467dfab23f9a0904bdbb304e013895",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CCR2_1",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CCR2_1/task.yaml",
+    "sha256": "63b8c0325f6c073b544da0351b41c34cf9337d8c05205cd0855b95bae89ad2fe",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CCR2_10",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CCR2_10/task.yaml",
+    "sha256": "aa720425e6e0c9d2ca540b9a94bfa6d73797a61013ffcbd2492f5054bac1994a",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CCR2_12",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CCR2_12/task.yaml",
+    "sha256": "bcdb5703bf8c3327b82fd535e394296ea3b3fa73568328a839a14f28664c946d",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CCR2_13",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CCR2_13/task.yaml",
+    "sha256": "98b16ca9f28eeebb7a31ce20066dc33bd34005e18f36e72fccbddcaa7cda9493",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CCR2_14",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CCR2_14/task.yaml",
+    "sha256": "a80993ba1b4dfdbb56896d6afe49970ac3142180a443caa29fc800e8e7add7f4",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CCR2_15",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CCR2_15/task.yaml",
+    "sha256": "08d5b1ec454ea466dfcea52e159f967906eae0b275b4ff751082f3c9ab254e60",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CCR2_16",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CCR2_16/task.yaml",
+    "sha256": "486c789d9f84bce7fd60827b078987e913f049bdd89e1d764db926a774bf4f94",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CCR2_17",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CCR2_17/task.yaml",
+    "sha256": "9be42897a65fd5614f487ea2fa72b45abc35f3f370ac970fa4d07c95fc319156",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CCR2_18",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CCR2_18/task.yaml",
+    "sha256": "5f846e0af86c56d7485ad6894d241544c1c1835f550e1deb421ce2d0d2b34eec",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CCR2_2",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CCR2_2/task.yaml",
+    "sha256": "e9426ea2f6bd5d4bf9f29643f6dbc31e60d795497167d9aa1390e9e70c2cd2bb",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CCR2_20",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CCR2_20/task.yaml",
+    "sha256": "4e8bd3d80673a30285211e42c89538fa05a661660dceb78518ad3cec4a1f9a3a",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CCR2_21",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CCR2_21/task.yaml",
+    "sha256": "9cb5962992a3c462a131572ff25bd9446016ed73265240fdac77c620742ee830",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CCR2_22",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CCR2_22/task.yaml",
+    "sha256": "a8fbea56e17978b6c61dbc2724cdc03444bb9f1356a89be587d9f226e80e1a93",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CCR2_23",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CCR2_23/task.yaml",
+    "sha256": "bd95bb0bc6fb6fc9cdd839d330d0fb86905504800e6118cf119a942320816dc4",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CCR2_3",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CCR2_3/task.yaml",
+    "sha256": "4ba7a44db2a9d4fd62d8414bf151d56676cfb9bcced7995dedc6f8b667a21f1c",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CCR2_4",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CCR2_4/task.yaml",
+    "sha256": "bdaffcaa8da491b984d98e87d1e7feb65b17426f3efce80d10555e5b0c9e9f48",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CCR2_5",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CCR2_5/task.yaml",
+    "sha256": "17cf334f9bcdea82216ec488d862b7e59603c38f313ce627e60a30c5eaae9bbf",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CCR2_6",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CCR2_6/task.yaml",
+    "sha256": "2a4c3e0c9401609f90b94e1e1141ee7c598994d638e9414d87f642618e0b4bd9",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CCR2_8",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CCR2_8/task.yaml",
+    "sha256": "067ffd815888e11938ae231495917667bf0e869d907e738f481e0ffef89b524c",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CCR2_9",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CCR2_9/task.yaml",
+    "sha256": "793100c0215c934d04cf3c95ec9a5d8524a1a19e91419604660967b90860e344",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CDK2_0",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CDK2_0/task.yaml",
+    "sha256": "dba6d0f83b3fe630ebe06d951b1db7176b88a2581de164c554da5e156be790a4",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CDK2_1",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CDK2_1/task.yaml",
+    "sha256": "923587da620971cf06ec3143cf0ebdd322fc99486dca0fbb396807b351fa5f2b",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CDK2_10",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CDK2_10/task.yaml",
+    "sha256": "68e835f9c68af8b6b424b105b1c859d0784a89f85e3a4a3a49e54f21420e2410",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CDK2_11",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CDK2_11/task.yaml",
+    "sha256": "27fa11f23e5230f184f33ae7949ea9a657f4de919692fe5ef28d0189befabe98",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CDK2_12",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CDK2_12/task.yaml",
+    "sha256": "6b910ae572b376ea0b13983c40e984c515db1b0439bd8529dbf788355ca228d6",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CDK2_13",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CDK2_13/task.yaml",
+    "sha256": "e5718e34a671a0b4dc71d9ce626953df6e1cec28273954089a442ab3cf15aae1",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CDK2_14",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CDK2_14/task.yaml",
+    "sha256": "d708634aa7d5c93d5bf85bb6acfb0fe71a11988e3c747e162bb10f0d5c4f834d",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CDK2_15",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CDK2_15/task.yaml",
+    "sha256": "52d3a8e96019774527a3f34a1707ad158c4f037ef7485cac33393b71410bf910",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CDK2_16",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CDK2_16/task.yaml",
+    "sha256": "de49acce8848468590f9e4c697e262b5fc3f3d31ce96e661c9dacc93d22cce5a",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CDK2_17",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CDK2_17/task.yaml",
+    "sha256": "49e91a1c95a4d6b45014a5f89121788f4490f835077cff639f0e4d36d37ce9d8",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CDK2_18",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CDK2_18/task.yaml",
+    "sha256": "003abcd845f36d6fe067944b413cb1524a36458cfc67e8a24396c938566adf66",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CDK2_19",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CDK2_19/task.yaml",
+    "sha256": "5992d3f479f0ae71585e0a250e5fcf7a61622f6475f3f8e4c3cbb3273a1366e1",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CDK2_2",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CDK2_2/task.yaml",
+    "sha256": "2334ad45043c0fb1504d45d4398898050f1dbba8d22bf0ff8ae0966c6446391f",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CDK2_20",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CDK2_20/task.yaml",
+    "sha256": "d012daeb6cd97729d55d049877df1d94f416c4cb3ba28d2be403ce396cc7a6aa",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CDK2_3",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CDK2_3/task.yaml",
+    "sha256": "6d096471f2a56a2726542ac7aa184004ec51868ffcbdec56e45d0376fefc1322",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CDK2_4",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CDK2_4/task.yaml",
+    "sha256": "ca583f24e634779137efc8554964cfb012332e06a1637b61a4159337f9fca6fd",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CDK2_5",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CDK2_5/task.yaml",
+    "sha256": "fc94974cb12cc21ed954025b8ae75126002ade2509825edc4c46f08544bba503",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CDK2_6",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CDK2_6/task.yaml",
+    "sha256": "05cefdbfdda45c688b065798d79589d445fa1c09227155c9539dd90dfe0372fa",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CDK2_7",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CDK2_7/task.yaml",
+    "sha256": "c997c47a97d6f52e33b9bd792a469cc133cadf36d163aa64cfa7e43226b4aadc",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CDK2_8",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CDK2_8/task.yaml",
+    "sha256": "c3e5abebe02b61dbec67bae0c43e4fadc17c4f7ee6f03bc7850740334ebd7886",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CDK2_9",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CDK2_9/task.yaml",
+    "sha256": "1ebc4710fa306199cc2a6e1b6c7f552d9542ddc4d85f8ece3122671921b6f298",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CYP19A1_0",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CYP19A1_0/task.yaml",
+    "sha256": "870e34ace89286001e611983bce373522156b79b9e63701031125d0bfa01d5ff",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CYP19A1_1",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CYP19A1_1/task.yaml",
+    "sha256": "65a7ac10a0321c752acc900aee551e9ed327c9d363d75e6c886d8ea9c15276c8",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CYP19A1_14",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CYP19A1_14/task.yaml",
+    "sha256": "b93ffa97191256048348c142dcaf597ef273234c1baee27ff97f84a6b3d7866c",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CYP19A1_2",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CYP19A1_2/task.yaml",
+    "sha256": "0e407d5b96f779e111ac80752b52b2d910c61c798f34a45b66c54207adb7c8da",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CYP19A1_5",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CYP19A1_5/task.yaml",
+    "sha256": "ee38c2caea47ce9b93174d54ba5024e8dc76fac04d093aaa0433f9f60143229d",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CYP19A1_6",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CYP19A1_6/task.yaml",
+    "sha256": "1b3e704972b7268edc0553773e0eb7c678969fafa26f7ecaffa173de855d4d25",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CYP19A1_7",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CYP19A1_7/task.yaml",
+    "sha256": "be5fd6419578f4c9268ac44b544d6f253f81980642fa9ede72cbc282020295c0",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CYP19A1_8",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CYP19A1_8/task.yaml",
+    "sha256": "d17707b7f9689311915b0f940db9d3f4406e3a1746a45d0b01213521e9478c29",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CYP1B1_0",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CYP1B1_0/task.yaml",
+    "sha256": "50e2b93f78fbca29d5eb8b70079c7d3314556fea207bda0c7dff068f6fa14b6a",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CYP1B1_1",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CYP1B1_1/task.yaml",
+    "sha256": "a8100f17cc947f36f37c3ab443395534b15418f5cc1721f71f4253fb9b1fef8d",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CYP1B1_10",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CYP1B1_10/task.yaml",
+    "sha256": "b88c6061f557783f6778e82703606a0e6073e4baadcbbee791e3cb8f0554a4f0",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CYP1B1_11",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CYP1B1_11/task.yaml",
+    "sha256": "5b3f1077eea3ac297d5727ae54202044826548b66834a90eadb3095d6b90edaa",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CYP1B1_12",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CYP1B1_12/task.yaml",
+    "sha256": "48de559c9b846ad7ca7278baacfe15aed5d23b6c8ffa27e47fb76061dc44379b",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CYP1B1_13",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CYP1B1_13/task.yaml",
+    "sha256": "270497996638c50b537bc01c0929990af08e0cb6e04b229c71adc54d52bef654",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CYP1B1_14",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CYP1B1_14/task.yaml",
+    "sha256": "153d0712478ed50627dc65811329494bd65bc1a82f359f15973783ecae3709c8",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CYP1B1_15",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CYP1B1_15/task.yaml",
+    "sha256": "b3836b9fb0a175162d096c705ef4fc4e38a6c1c654ffeb872914f2c9624e695b",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CYP1B1_16",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CYP1B1_16/task.yaml",
+    "sha256": "367834bcd3bc051da996b643e512c1a2a74fc7035934035a50f2da0beae638ec",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CYP1B1_17",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CYP1B1_17/task.yaml",
+    "sha256": "4a0b9ec46bd8e1e07372f2c120b2fe8eeae16cd1b630a7232a76604e329d3b0a",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CYP1B1_18",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CYP1B1_18/task.yaml",
+    "sha256": "2437d0dcbbd14cd9bf1c3d491841d2d1dd5890a8d70bc00ec623c31f22181f18",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CYP1B1_19",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CYP1B1_19/task.yaml",
+    "sha256": "981f21ddb521ad9a321ad4e7fe1d58c88039a160777b46b6a2028df92d81e237",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CYP1B1_2",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CYP1B1_2/task.yaml",
+    "sha256": "52661b7c042abe0019beea7d90a7a02c49a0f542b1b1f57e0b59098c82b4ad0a",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CYP1B1_20",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CYP1B1_20/task.yaml",
+    "sha256": "f2000e22971beed26a81e23faf2bc11fd5d6168a0ce5b997881c86c62d37e00c",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CYP1B1_21",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CYP1B1_21/task.yaml",
+    "sha256": "8decdff0065c8e681903048635a18152f249681456d948e72fa295dbda4a1129",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CYP1B1_3",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CYP1B1_3/task.yaml",
+    "sha256": "4b70ac7a29a8b403de2223c12d3b0ee2a8f4b330865cac2773ae022102228de3",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CYP1B1_4",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CYP1B1_4/task.yaml",
+    "sha256": "f0964fdbf893c6a882b39e1f0435adee7b7f9909105d2946b2b33f8d2f969d42",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CYP1B1_5",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CYP1B1_5/task.yaml",
+    "sha256": "42e7dba6efa02892522ceafba1ee3cdd857012e646fcd381a0029a459b361ad3",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CYP1B1_6",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CYP1B1_6/task.yaml",
+    "sha256": "cc7b137a881e62a273a30072672c99e7a0758422562ef6961cc1d37b22c91f97",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CYP1B1_7",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CYP1B1_7/task.yaml",
+    "sha256": "47467af2a9aebaaf279b645df435bc31c85deda273ed539e4b94338761d44ce9",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CYP1B1_8",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CYP1B1_8/task.yaml",
+    "sha256": "59e8a6c1a262c86635ca3a48791d8544f3f47d1edd4e4401e90e5f60a97f15dd",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_CYP1B1_9",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_CYP1B1_9/task.yaml",
+    "sha256": "6bf72bf19fb40a8bd382dacc1407acb233ba911704384946fdeb415f5d7f528f",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHFR_0",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHFR_0/task.yaml",
+    "sha256": "3d0cf5b0d209f3b296cdcd460bc741702d671b69ca0bd880465eb4974df370c2",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHFR_1",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHFR_1/task.yaml",
+    "sha256": "7a6ea2d17993b1c717fa202e91def1bfa5a871f26b0ba9601f1d57135243a012",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHFR_10",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHFR_10/task.yaml",
+    "sha256": "fcff8f09639c20ad1af568f5430d6d2fb03bddc8be7958b2f17ca33d9b9e8dfe",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHFR_11",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHFR_11/task.yaml",
+    "sha256": "821406e289c88775a01ce780da83c85c3a2ff7beaeb9da8e03be6e9bb143bb4b",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHFR_12",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHFR_12/task.yaml",
+    "sha256": "237aa406d99d60a88939cf35931d252799f492d8c0369bf9553e41a061207065",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHFR_13",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHFR_13/task.yaml",
+    "sha256": "30b43c2c7f855e3a5fbda8be4634e9aa1ac8acc1fd8ea3eeb750ba28d921a838",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHFR_14",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHFR_14/task.yaml",
+    "sha256": "08230892ce28f1ef48572f33a5705fc507fda736adb0624271ab05ddc21c41f8",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHFR_15",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHFR_15/task.yaml",
+    "sha256": "20ad3859be343e58f1cf443ff9cf03d56dd43a3f46dcf9981e58aafa79848726",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHFR_16",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHFR_16/task.yaml",
+    "sha256": "6731757e50821be1f1f5ceda332d7f79c85f223c4893d06b3176de75b53a29f5",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHFR_17",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHFR_17/task.yaml",
+    "sha256": "707a0b54c064f74cf96463a27a59ca320978281706ac89d08d38811f2bd53b8d",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHFR_18",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHFR_18/task.yaml",
+    "sha256": "d626d4b339159e5516f8ba16b452a02328785badf8934f0adf1ae3a2544371ef",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHFR_19",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHFR_19/task.yaml",
+    "sha256": "5904a97aaa562b15ec0b42d3563ba35a979d3c6151117dee90ccbbf422681b04",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHFR_2",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHFR_2/task.yaml",
+    "sha256": "44c13c5cd0105ddb00c3281a7ca713a1831e56c97a5f27188a944d0f585081ef",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHFR_20",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHFR_20/task.yaml",
+    "sha256": "21c045021c3a9b526446b39a0d825771afb4dfae8a14e70215fc93a0f0ba039e",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHFR_21",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHFR_21/task.yaml",
+    "sha256": "f7c44581297f12559f0e629caaf3728fb8060c7f3b3fa1cb7069e5363aa98cd6",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHFR_22",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHFR_22/task.yaml",
+    "sha256": "d74839045720a34a02a088419d3b3bd90a7ad91d7864ada7caf12ac50c761b24",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHFR_23",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHFR_23/task.yaml",
+    "sha256": "dfdc4a9c3e202c3378a0ba0e1486c021b25d8caf3acff28c4b8bb10ca862d505",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHFR_3",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHFR_3/task.yaml",
+    "sha256": "3dcaf2e0f50fe9c6bb407c658ffdba79b7082891416d09caa53d5d59af54b4d9",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHFR_4",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHFR_4/task.yaml",
+    "sha256": "f3684ce7a42abd238909c7399944f0389642137ca9d0aa48340de5e4f9965967",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHFR_6",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHFR_6/task.yaml",
+    "sha256": "89ece9d22de91c6b15c89fd6d23339311a89c1125af65560d4c80bd9e0584547",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHFR_7",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHFR_7/task.yaml",
+    "sha256": "6e641d60efc338b476f90ef84d56ce29db58a070bc075a94388296885eef87ea",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHFR_8",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHFR_8/task.yaml",
+    "sha256": "a5984ea917a35acb2f45b1a7dc42d02452ac020be7c1177c83e96c4b692a515d",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHFR_9",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHFR_9/task.yaml",
+    "sha256": "5d16ea0eef5fc803e9309ebd9761073271f4713961023969b96dcb15d34ec1ef",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHODH_0",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHODH_0/task.yaml",
+    "sha256": "f3a205ddeebf49af98e2e49148db59fc588c437e582cb031eeadac145d97db98",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHODH_1",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHODH_1/task.yaml",
+    "sha256": "41d77f805a3ae485c2a0e40210a32741eb789b4b5b951e77dac8d14cab76c643",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHODH_10",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHODH_10/task.yaml",
+    "sha256": "6ec9f525f1a6c407232a6e422847202b16570388aceaa9aae01edd56cefeba30",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHODH_11",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHODH_11/task.yaml",
+    "sha256": "58d99f6efe8bcee63907c9abe48691e95ba633c761fc0dab24aa11996f37f6ef",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHODH_12",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHODH_12/task.yaml",
+    "sha256": "9274083aa7b615231aa6238d109b9f8d42157f02d8183be1f94c0111a8229ed5",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHODH_14",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHODH_14/task.yaml",
+    "sha256": "048fce0c76c57ced19da11aaa7cceb7f682785e304027541aa0f40999ef24520",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHODH_15",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHODH_15/task.yaml",
+    "sha256": "5602ea6763beec2e0dc86083f4a5f4a2b19646093ab0323b434d54d6ca97e997",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHODH_16",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHODH_16/task.yaml",
+    "sha256": "2b04ed71b7ddf5cdf1bc1d365020218c51e0794cd9bc6d724a168418cd0ed9e1",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHODH_17",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHODH_17/task.yaml",
+    "sha256": "8f3945ed1bbbe9ef90f6bcd25f8be896c0c0ca1f6c37ca0593f7ab7a52803095",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHODH_18",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHODH_18/task.yaml",
+    "sha256": "5b8e246d4e352de32292967a47653699ac082a33b4eb0f1bae7907bf5bc6b88a",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHODH_19",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHODH_19/task.yaml",
+    "sha256": "d0f804d7e2282e60dd208c7e7fde1184a9d4decd0ac2e3bd74ddcb5084954912",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHODH_2",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHODH_2/task.yaml",
+    "sha256": "df77c492d696df3a9ea4f0de77ae86ec3bc6f68acf043bbf76b7dc0cc220eb72",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHODH_20",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHODH_20/task.yaml",
+    "sha256": "cf33293a0f9a730d4690b3a81873772428527588996a71515146e1949eba884b",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHODH_21",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHODH_21/task.yaml",
+    "sha256": "0a29b6667e462e3dad555561a8db61055dc3cea221a2e89abf8ae5b52cf3187d",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHODH_22",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHODH_22/task.yaml",
+    "sha256": "e2808617973957dd43d2fbd35cddc6476f64f60c9e332e849e75c153ca83d076",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHODH_23",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHODH_23/task.yaml",
+    "sha256": "fe312f3efb8354da139166405dd363cdf965a2f93670fbdcf2915ef0e7235e35",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHODH_3",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHODH_3/task.yaml",
+    "sha256": "404f8126c9d0ecb84d375bb7fd038b37549c146a712e1438745ad07ffc418157",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHODH_4",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHODH_4/task.yaml",
+    "sha256": "ccf194d16d1bd0b93077c6eabb8eb404ab63507c7bb8dfdb9504c1eda8c8794e",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHODH_5",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHODH_5/task.yaml",
+    "sha256": "2abb8aa2cde775cd71ea233e53e13d05c39403c982efe3e58ea13291cdc6bc0d",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHODH_6",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHODH_6/task.yaml",
+    "sha256": "03afe9e256c71fba53b0c2c5e39e6d6fe13e81a50d00b13f4ae3785fe24a906c",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHODH_7",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHODH_7/task.yaml",
+    "sha256": "834d6ad0f7f39cb0f0162be9e0b26d40cb6a430cfd345b11e6b1eea76d13806f",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHODH_8",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHODH_8/task.yaml",
+    "sha256": "366e33852666db2e43537ba615a203876ca123ff1bc3ba01e63ddc071fa4997a",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DHODH_9",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DHODH_9/task.yaml",
+    "sha256": "04b8d93ddb626a9dbfb476436b31f14eaf010dd7c4a5940afa9c3b213c15e24c",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DOT1L_0",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DOT1L_0/task.yaml",
+    "sha256": "d02c96f4dd8aa0908991c6002e2fb0d8c0a6d2cffc9eb3f29093441178b607fc",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_DOT1L_2",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_DOT1L_2/task.yaml",
+    "sha256": "b77d31e0c05b5a5cbba03b3923c71ea2863b6ce924df9c8958d2e85dcaf0f626",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_EGFR_12",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_EGFR_12/task.yaml",
+    "sha256": "ca495b71cc0114a928e06879e2ca35df9a916b97f0a03a23b30488afa151ea37",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_EGFR_16",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_EGFR_16/task.yaml",
+    "sha256": "e8250c9e1040b07f07feb5a58a89db92bfea36bbfacf8e7a115333c17dc5f306",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_EGFR_17",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_EGFR_17/task.yaml",
+    "sha256": "26e017c5a0d67b54c8050bf928ca5226c479167f90eba18dcaeeace8fc17e1b3",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_EGFR_2",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_EGFR_2/task.yaml",
+    "sha256": "363e1841454e0878c0a618f8d25e6493fbc276ca35deb7c33b392d9f9d5c990b",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_EGFR_7",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_EGFR_7/task.yaml",
+    "sha256": "42bbe3eee4027df80dff86328958c8e1eb799b47581f54f67191b85da7ae17ea",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_EHMT2_1",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_EHMT2_1/task.yaml",
+    "sha256": "8e1db0e404565d0d0d03022cea0dae976648c2278ba352d0731a22814a772f26",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_EHMT2_11",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_EHMT2_11/task.yaml",
+    "sha256": "98dec8ba779faa962ae38d76757ff06d134efe54c84b3d9812c1a7c4c0b3f4b0",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_EHMT2_16",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_EHMT2_16/task.yaml",
+    "sha256": "281e5299256e1f23eb8052270c2fffab0aaf616024cbf0cce2dfc588a4816aa0",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_EHMT2_2",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_EHMT2_2/task.yaml",
+    "sha256": "9f904c919c8c2ce581197236936e5d60e2840e00ef5e53197bac84c4ee1a1a03",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_EHMT2_5",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_EHMT2_5/task.yaml",
+    "sha256": "10faf5ff6c6a4962493c7aafdd5d670a01d7e8bbbfb3ad4a54b07731c6dc9554",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_EHMT2_6",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_EHMT2_6/task.yaml",
+    "sha256": "6e8cce242abbaff1f27bfd5159c43864ad9c41dec2b925a14b299bf41ef6511b",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_EHMT2_8",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_EHMT2_8/task.yaml",
+    "sha256": "c17680b13a4a92a4c02eef0b5c8b15adb4b6b0dec38d406cf687d99da8419186",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_KAT8_10",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_KAT8_10/task.yaml",
+    "sha256": "e0e973ed9398c63e803883cff6c35d75e263fe1b7206cfd009f77f73c3dcf070",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_KAT8_11",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_KAT8_11/task.yaml",
+    "sha256": "f95f43d602bfd8e98fae188cb1462c6113730f7f096c7fd584ff88eb29821334",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_KAT8_3",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_KAT8_3/task.yaml",
+    "sha256": "e8a7775f8935477b203606979436a1a8f0a1f3aa5b1a94a440723f0f3eb374a6",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_KAT8_4",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_KAT8_4/task.yaml",
+    "sha256": "d0c324bd792a4be6b391703b5e68fccb0a6d37f65d9db6f44c073bd41bf4de47",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_KAT8_7",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_KAT8_7/task.yaml",
+    "sha256": "0a5223f77cde44dbd7dc876ffe20e24475d775c6d77ec2d69758208a89dec9b1",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  },
+  {
+    "task_id": "smdd_004_KAT8_8",
+    "type": 4,
+    "path": "benchmarks/smdd/tasks/smdd_004_KAT8_8/task.yaml",
+    "sha256": "0d1b72227077af2e060c1c694ced08bddaff265b743165f0c206894e5f27ade6",
+    "referenced_files": [
+      "complex.pdb",
+      "reference.sdf",
+      "solution.smi"
+    ]
+  }
+]

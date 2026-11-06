@@ -1,0 +1,1176 @@
+{
+  "summary": {
+    "tasks": 52,
+    "metrics": {
+      "Validity": {
+        "statuses": {
+          "passed": 52
+        },
+        "median": 1.0,
+        "min": true,
+        "max": true
+      },
+      "Tanimoto Similarity": {
+        "statuses": {
+          "passed": 52
+        },
+        "median": 0.14,
+        "min": 0.012658227848101266,
+        "max": 0.36507936507936506
+      },
+      "Scaffold MCS": {
+        "statuses": {
+          "passed": 52
+        },
+        "median": 0.4557692307692308,
+        "min": 0.0,
+        "max": 0.6470588235294118
+      },
+      "Boltz Interaction Similarity": {
+        "statuses": {
+          "failed": 51,
+          "passed": 1
+        },
+        "median": 0.3333333333333333,
+        "min": 0.0,
+        "max": 0.8333333333333334
+      },
+      "Boltz Binding Probability": {
+        "statuses": {
+          "failed": 20,
+          "passed": 32
+        },
+        "median": 0.7437614798545837,
+        "min": 0.09641978517174721,
+        "max": 0.9938174486160278
+      }
+    },
+    "actions": {
+      "GENERATE000": 54,
+      "CODE002": 115,
+      "BOLTZ004": 82,
+      "OPTIMIZE001": 36,
+      "SUBMIT005": 52,
+      "parse_error": 1
+    },
+    "graphga": {
+      "calls": 36,
+      "tasks_used": 31,
+      "objectives": {
+        "BindingAffinity": 32,
+        "QED": 4
+      },
+      "learned_calls": 32,
+      "learned_with_no_new_scored_molecules": 30,
+      "learned_stops": {
+        "budget_exhausted:boltz": 30,
+        "tool_error:Boltz failed; see /data2/chenfuxin/liddia_smdd_type3_20261004/runs/full_high_v1/smdd_003_5DC8_2/oracles/boltz_8e865eeb6bf4/boltz.log": 1,
+        "tool_error:Boltz failed; see /data2/chenfuxin/liddia_smdd_type3_20261004/runs/full_high_v1/smdd_003_6ME6_0/oracles/boltz_a3b7bf70e60b/boltz.log": 1
+      }
+    },
+    "budget": {
+      "boltz_calls": 289,
+      "duplicate_calls": 31,
+      "tasks_with_duplicates": 22,
+      "tasks_exhausted_boltz": 32,
+      "median_unique_boltz_molecules": 6.5,
+      "median_llm_calls": 8.5,
+      "tasks_submitted_unscored": 3,
+      "successful_generation_calls": 54,
+      "median_generated_pool": 100.0,
+      "tool_errors": {
+        "ValueError": 3,
+        "ToolExecutionError": 7
+      },
+      "tasks_agent_saw_prob_above_07": 37
+    }
+  },
+  "tasks": [
+    {
+      "task": "smdd_003_1JVP_1",
+      "boltz_calls": 8,
+      "unique_boltz_molecules": 7,
+      "duplicate_calls": 1,
+      "llm_calls": 6,
+      "tokens": 35743,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.2056889533996582
+    },
+    {
+      "task": "smdd_003_2VQM_0",
+      "boltz_calls": 8,
+      "unique_boltz_molecules": 7,
+      "duplicate_calls": 1,
+      "llm_calls": 7,
+      "tokens": 49586,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.743016242980957
+    },
+    {
+      "task": "smdd_003_2VQM_1",
+      "boltz_calls": 8,
+      "unique_boltz_molecules": 8,
+      "duplicate_calls": 0,
+      "llm_calls": 6,
+      "tokens": 35361,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.7441989183425903
+    },
+    {
+      "task": "smdd_003_2VQM_2",
+      "boltz_calls": 8,
+      "unique_boltz_molecules": 7,
+      "duplicate_calls": 1,
+      "llm_calls": 10,
+      "tokens": 84407,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [
+        "ValueError: CODE Desc references ['MOL007', 'MOL010'] but they are not in Input. Include every referenced set in Input, or use existing columns without referencing another set."
+      ],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.8262549638748169
+    },
+    {
+      "task": "smdd_003_3FFG_0",
+      "boltz_calls": 8,
+      "unique_boltz_molecules": 6,
+      "duplicate_calls": 2,
+      "llm_calls": 7,
+      "tokens": 39559,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.7888950109481812
+    },
+    {
+      "task": "smdd_003_3FFG_1",
+      "boltz_calls": 8,
+      "unique_boltz_molecules": 7,
+      "duplicate_calls": 1,
+      "llm_calls": 6,
+      "tokens": 50484,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.5469973087310791
+    },
+    {
+      "task": "smdd_003_3FFG_2",
+      "boltz_calls": 8,
+      "unique_boltz_molecules": 8,
+      "duplicate_calls": 0,
+      "llm_calls": 5,
+      "tokens": 57318,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.8129026889801025
+    },
+    {
+      "task": "smdd_003_3GHW_0",
+      "boltz_calls": 8,
+      "unique_boltz_molecules": 8,
+      "duplicate_calls": 0,
+      "llm_calls": 11,
+      "tokens": 79871,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.5498255491256714
+    },
+    {
+      "task": "smdd_003_3GHW_1",
+      "boltz_calls": 1,
+      "unique_boltz_molecules": 1,
+      "duplicate_calls": 0,
+      "llm_calls": 5,
+      "tokens": 29612,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.9938174486160278
+    },
+    {
+      "task": "smdd_003_3GHW_2",
+      "boltz_calls": 8,
+      "unique_boltz_molecules": 7,
+      "duplicate_calls": 1,
+      "llm_calls": 9,
+      "tokens": 59526,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.9334167242050171
+    },
+    {
+      "task": "smdd_003_3KWZ_0",
+      "boltz_calls": 8,
+      "unique_boltz_molecules": 5,
+      "duplicate_calls": 3,
+      "llm_calls": 10,
+      "tokens": 87438,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.6998803615570068
+    },
+    {
+      "task": "smdd_003_3KWZ_1",
+      "boltz_calls": 8,
+      "unique_boltz_molecules": 8,
+      "duplicate_calls": 0,
+      "llm_calls": 13,
+      "tokens": 122703,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.4429989755153656
+    },
+    {
+      "task": "smdd_003_3KWZ_2",
+      "boltz_calls": 6,
+      "unique_boltz_molecules": 6,
+      "duplicate_calls": 0,
+      "llm_calls": 12,
+      "tokens": 98525,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.7643091678619385
+    },
+    {
+      "task": "smdd_003_3QAR_2",
+      "boltz_calls": 2,
+      "unique_boltz_molecules": 2,
+      "duplicate_calls": 0,
+      "llm_calls": 8,
+      "tokens": 40603,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.8626431226730347
+    },
+    {
+      "task": "smdd_003_3QX5_0",
+      "boltz_calls": 8,
+      "unique_boltz_molecules": 8,
+      "duplicate_calls": 0,
+      "llm_calls": 22,
+      "tokens": 303261,
+      "generations": [
+        100,
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": false,
+      "best_agent_binding_probability": 0.9929952025413513
+    },
+    {
+      "task": "smdd_003_3QX5_2",
+      "boltz_calls": 8,
+      "unique_boltz_molecules": 7,
+      "duplicate_calls": 1,
+      "llm_calls": 9,
+      "tokens": 79796,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.6681703329086304
+    },
+    {
+      "task": "smdd_003_3WV3_0",
+      "boltz_calls": 1,
+      "unique_boltz_molecules": 1,
+      "duplicate_calls": 0,
+      "llm_calls": 13,
+      "tokens": 89688,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.8430449366569519
+    },
+    {
+      "task": "smdd_003_3WV3_1",
+      "boltz_calls": 1,
+      "unique_boltz_molecules": 1,
+      "duplicate_calls": 0,
+      "llm_calls": 5,
+      "tokens": 27962,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.8323601484298706
+    },
+    {
+      "task": "smdd_003_4RRS_0",
+      "boltz_calls": 8,
+      "unique_boltz_molecules": 7,
+      "duplicate_calls": 1,
+      "llm_calls": 9,
+      "tokens": 50171,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.7900134325027466
+    },
+    {
+      "task": "smdd_003_4RRS_1",
+      "boltz_calls": 8,
+      "unique_boltz_molecules": 7,
+      "duplicate_calls": 1,
+      "llm_calls": 9,
+      "tokens": 56528,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.8414677381515503
+    },
+    {
+      "task": "smdd_003_4S0V_0",
+      "boltz_calls": 2,
+      "unique_boltz_molecules": 2,
+      "duplicate_calls": 0,
+      "llm_calls": 6,
+      "tokens": 31838,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.792409360408783
+    },
+    {
+      "task": "smdd_003_4S0V_1",
+      "boltz_calls": 3,
+      "unique_boltz_molecules": 3,
+      "duplicate_calls": 0,
+      "llm_calls": 11,
+      "tokens": 72870,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.9232496619224548
+    },
+    {
+      "task": "smdd_003_4S0V_2",
+      "boltz_calls": 1,
+      "unique_boltz_molecules": 1,
+      "duplicate_calls": 0,
+      "llm_calls": 7,
+      "tokens": 38436,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.8825777769088745
+    },
+    {
+      "task": "smdd_003_4ZZO_0",
+      "boltz_calls": 8,
+      "unique_boltz_molecules": 7,
+      "duplicate_calls": 1,
+      "llm_calls": 12,
+      "tokens": 91216,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.6714341640472412
+    },
+    {
+      "task": "smdd_003_4ZZO_1",
+      "boltz_calls": 8,
+      "unique_boltz_molecules": 6,
+      "duplicate_calls": 2,
+      "llm_calls": 10,
+      "tokens": 74147,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.8027692437171936
+    },
+    {
+      "task": "smdd_003_5A5S_1",
+      "boltz_calls": 8,
+      "unique_boltz_molecules": 7,
+      "duplicate_calls": 1,
+      "llm_calls": 8,
+      "tokens": 53973,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.8562309741973877
+    },
+    {
+      "task": "smdd_003_5A9U_0",
+      "boltz_calls": 8,
+      "unique_boltz_molecules": 7,
+      "duplicate_calls": 1,
+      "llm_calls": 6,
+      "tokens": 29959,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.6016892194747925
+    },
+    {
+      "task": "smdd_003_5A9U_1",
+      "boltz_calls": 8,
+      "unique_boltz_molecules": 7,
+      "duplicate_calls": 1,
+      "llm_calls": 9,
+      "tokens": 70388,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.7155829071998596
+    },
+    {
+      "task": "smdd_003_5B5P_0",
+      "boltz_calls": 2,
+      "unique_boltz_molecules": 2,
+      "duplicate_calls": 0,
+      "llm_calls": 8,
+      "tokens": 68300,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.7386560440063477
+    },
+    {
+      "task": "smdd_003_5B5P_1",
+      "boltz_calls": 1,
+      "unique_boltz_molecules": 1,
+      "duplicate_calls": 0,
+      "llm_calls": 5,
+      "tokens": 26090,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.7433240413665771
+    },
+    {
+      "task": "smdd_003_5DC8_0",
+      "boltz_calls": 8,
+      "unique_boltz_molecules": 8,
+      "duplicate_calls": 0,
+      "llm_calls": 15,
+      "tokens": 104666,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.7332351207733154
+    },
+    {
+      "task": "smdd_003_5DC8_2",
+      "boltz_calls": 8,
+      "unique_boltz_molecules": 6,
+      "duplicate_calls": 2,
+      "llm_calls": 21,
+      "tokens": 257043,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.8814394474029541
+    },
+    {
+      "task": "smdd_003_5MW4_0",
+      "boltz_calls": 8,
+      "unique_boltz_molecules": 6,
+      "duplicate_calls": 2,
+      "llm_calls": 9,
+      "tokens": 90127,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.47454166412353516
+    },
+    {
+      "task": "smdd_003_5S7X_0",
+      "boltz_calls": 1,
+      "unique_boltz_molecules": 1,
+      "duplicate_calls": 0,
+      "llm_calls": 5,
+      "tokens": 23884,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.8920067548751831
+    },
+    {
+      "task": "smdd_003_5UEN_0",
+      "boltz_calls": 8,
+      "unique_boltz_molecules": 7,
+      "duplicate_calls": 1,
+      "llm_calls": 9,
+      "tokens": 60706,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [
+        "ValueError: CODE Desc references ['MOL010'] but they are not in Input. Include every referenced set in Input, or use existing columns without referencing another set."
+      ],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.8496698141098022
+    },
+    {
+      "task": "smdd_003_5UEN_1",
+      "boltz_calls": 1,
+      "unique_boltz_molecules": 1,
+      "duplicate_calls": 0,
+      "llm_calls": 9,
+      "tokens": 52499,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.9848739504814148
+    },
+    {
+      "task": "smdd_003_6L6E_0",
+      "boltz_calls": 1,
+      "unique_boltz_molecules": 1,
+      "duplicate_calls": 0,
+      "llm_calls": 7,
+      "tokens": 35772,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.9412769079208374
+    },
+    {
+      "task": "smdd_003_6L6E_1",
+      "boltz_calls": 8,
+      "unique_boltz_molecules": 8,
+      "duplicate_calls": 0,
+      "llm_calls": 11,
+      "tokens": 90761,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.9110574722290039
+    },
+    {
+      "task": "smdd_003_6L6K_0",
+      "boltz_calls": 1,
+      "unique_boltz_molecules": 1,
+      "duplicate_calls": 0,
+      "llm_calls": 5,
+      "tokens": 26189,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.9206719398498535
+    },
+    {
+      "task": "smdd_003_6L6K_1",
+      "boltz_calls": 1,
+      "unique_boltz_molecules": 1,
+      "duplicate_calls": 0,
+      "llm_calls": 5,
+      "tokens": 24625,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.9433043003082275
+    },
+    {
+      "task": "smdd_003_6L6K_2",
+      "boltz_calls": 1,
+      "unique_boltz_molecules": 1,
+      "duplicate_calls": 0,
+      "llm_calls": 5,
+      "tokens": 21654,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.7775309085845947
+    },
+    {
+      "task": "smdd_003_6ME6_0",
+      "boltz_calls": 8,
+      "unique_boltz_molecules": 4,
+      "duplicate_calls": 4,
+      "llm_calls": 18,
+      "tokens": 155847,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [
+        "ToolExecutionError: Boltz failed; see /data2/chenfuxin/liddia_smdd_type3_20261004/runs/full_high_v1/smdd_003_6ME6_0/oracles/boltz_d2cfd0978bf7/boltz.log",
+        "ToolExecutionError: Boltz failed; see /data2/chenfuxin/liddia_smdd_type3_20261004/runs/full_high_v1/smdd_003_6ME6_0/oracles/boltz_b193d5ad9d87/boltz.log",
+        "ToolExecutionError: Boltz failed; see /data2/chenfuxin/liddia_smdd_type3_20261004/runs/full_high_v1/smdd_003_6ME6_0/oracles/boltz_c1ec72755277/boltz.log",
+        "ToolExecutionError: Boltz failed; see /data2/chenfuxin/liddia_smdd_type3_20261004/runs/full_high_v1/smdd_003_6ME6_0/oracles/boltz_b24da81ed8de/boltz.log",
+        "ToolExecutionError: Boltz failed; see /data2/chenfuxin/liddia_smdd_type3_20261004/runs/full_high_v1/smdd_003_6ME6_0/oracles/boltz_10275fee6d31/boltz.log",
+        "ToolExecutionError: Boltz failed; see /data2/chenfuxin/liddia_smdd_type3_20261004/runs/full_high_v1/smdd_003_6ME6_0/oracles/boltz_c23818903a79/boltz.log",
+        "ToolExecutionError: Boltz failed; see /data2/chenfuxin/liddia_smdd_type3_20261004/runs/full_high_v1/smdd_003_6ME6_0/oracles/boltz_ea041811691c/boltz.log"
+      ],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": null
+    },
+    {
+      "task": "smdd_003_6OIN_0",
+      "boltz_calls": 8,
+      "unique_boltz_molecules": 8,
+      "duplicate_calls": 0,
+      "llm_calls": 6,
+      "tokens": 53060,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": false,
+      "best_agent_binding_probability": 0.4833146929740906
+    },
+    {
+      "task": "smdd_003_6X8I_0",
+      "boltz_calls": 8,
+      "unique_boltz_molecules": 8,
+      "duplicate_calls": 0,
+      "llm_calls": 7,
+      "tokens": 71330,
+      "generations": [
+        100,
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.5807890892028809
+    },
+    {
+      "task": "smdd_003_7KJS_0",
+      "boltz_calls": 1,
+      "unique_boltz_molecules": 1,
+      "duplicate_calls": 0,
+      "llm_calls": 5,
+      "tokens": 20053,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.8550601005554199
+    },
+    {
+      "task": "smdd_003_7OKM_0",
+      "boltz_calls": 8,
+      "unique_boltz_molecules": 8,
+      "duplicate_calls": 0,
+      "llm_calls": 16,
+      "tokens": 167466,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": false,
+      "best_agent_binding_probability": 0.3470830023288727
+    },
+    {
+      "task": "smdd_003_7OKM_1",
+      "boltz_calls": 8,
+      "unique_boltz_molecules": 7,
+      "duplicate_calls": 1,
+      "llm_calls": 16,
+      "tokens": 147331,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.501759946346283
+    },
+    {
+      "task": "smdd_003_7OKM_2",
+      "boltz_calls": 8,
+      "unique_boltz_molecules": 7,
+      "duplicate_calls": 1,
+      "llm_calls": 10,
+      "tokens": 61134,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.6380378007888794
+    },
+    {
+      "task": "smdd_003_8FGZ_0",
+      "boltz_calls": 8,
+      "unique_boltz_molecules": 7,
+      "duplicate_calls": 1,
+      "llm_calls": 8,
+      "tokens": 51311,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.8354028463363647
+    },
+    {
+      "task": "smdd_003_8OKQ_0",
+      "boltz_calls": 3,
+      "unique_boltz_molecules": 3,
+      "duplicate_calls": 0,
+      "llm_calls": 9,
+      "tokens": 56453,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.7940496206283569
+    },
+    {
+      "task": "smdd_003_8OKQ_1",
+      "boltz_calls": 1,
+      "unique_boltz_molecules": 1,
+      "duplicate_calls": 0,
+      "llm_calls": 6,
+      "tokens": 40505,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [
+        "ValueError: CODE Desc references ['MOL007'] but they are not in Input. Include every referenced set in Input, or use existing columns without referencing another set."
+      ],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.7100667357444763
+    },
+    {
+      "task": "smdd_003_8OKQ_2",
+      "boltz_calls": 2,
+      "unique_boltz_molecules": 2,
+      "duplicate_calls": 0,
+      "llm_calls": 8,
+      "tokens": 51979,
+      "generations": [
+        100
+      ],
+      "code_errors": 0,
+      "tool_errors": [],
+      "submitted_was_scored": true,
+      "best_agent_binding_probability": 0.9763261079788208
+    }
+  ],
+  "graphga_events": [
+    {
+      "task": "smdd_003_1JVP_1",
+      "objective": "BindingAffinity",
+      "calls": 7,
+      "stop": "budget_exhausted:boltz",
+      "scored_new_molecules": 0,
+      "scored_input_molecules": 7
+    },
+    {
+      "task": "smdd_003_2VQM_0",
+      "objective": "BindingAffinity",
+      "calls": 7,
+      "stop": "budget_exhausted:boltz",
+      "scored_new_molecules": 0,
+      "scored_input_molecules": 7
+    },
+    {
+      "task": "smdd_003_2VQM_1",
+      "objective": "BindingAffinity",
+      "calls": 8,
+      "stop": "budget_exhausted:boltz",
+      "scored_new_molecules": 0,
+      "scored_input_molecules": 8
+    },
+    {
+      "task": "smdd_003_2VQM_2",
+      "objective": "BindingAffinity",
+      "calls": 7,
+      "stop": "budget_exhausted:boltz",
+      "scored_new_molecules": 0,
+      "scored_input_molecules": 7
+    },
+    {
+      "task": "smdd_003_3FFG_0",
+      "objective": "BindingAffinity",
+      "calls": 6,
+      "stop": "budget_exhausted:boltz",
+      "scored_new_molecules": 0,
+      "scored_input_molecules": 6
+    },
+    {
+      "task": "smdd_003_3FFG_1",
+      "objective": "BindingAffinity",
+      "calls": 7,
+      "stop": "budget_exhausted:boltz",
+      "scored_new_molecules": 0,
+      "scored_input_molecules": 7
+    },
+    {
+      "task": "smdd_003_3FFG_2",
+      "objective": "BindingAffinity",
+      "calls": 8,
+      "stop": "budget_exhausted:boltz",
+      "scored_new_molecules": 0,
+      "scored_input_molecules": 8
+    },
+    {
+      "task": "smdd_003_3GHW_0",
+      "objective": "BindingAffinity",
+      "calls": 7,
+      "stop": "budget_exhausted:boltz",
+      "scored_new_molecules": 0,
+      "scored_input_molecules": 7
+    },
+    {
+      "task": "smdd_003_3GHW_2",
+      "objective": "BindingAffinity",
+      "calls": 7,
+      "stop": "budget_exhausted:boltz",
+      "scored_new_molecules": 0,
+      "scored_input_molecules": 7
+    },
+    {
+      "task": "smdd_003_3KWZ_0",
+      "objective": "BindingAffinity",
+      "calls": 5,
+      "stop": "budget_exhausted:boltz",
+      "scored_new_molecules": 0,
+      "scored_input_molecules": 5
+    },
+    {
+      "task": "smdd_003_3KWZ_1",
+      "objective": "BindingAffinity",
+      "calls": 7,
+      "stop": "budget_exhausted:boltz",
+      "scored_new_molecules": 0,
+      "scored_input_molecules": 7
+    },
+    {
+      "task": "smdd_003_3QX5_0",
+      "objective": "BindingAffinity",
+      "calls": 7,
+      "stop": "budget_exhausted:boltz",
+      "scored_new_molecules": 6,
+      "scored_input_molecules": 1
+    },
+    {
+      "task": "smdd_003_3QX5_0",
+      "objective": "QED",
+      "calls": 500,
+      "stop": "budget_exhausted:graphga_score_cap",
+      "scored_new_molecules": 493,
+      "scored_input_molecules": 7
+    },
+    {
+      "task": "smdd_003_3QX5_2",
+      "objective": "BindingAffinity",
+      "calls": 7,
+      "stop": "budget_exhausted:boltz",
+      "scored_new_molecules": 0,
+      "scored_input_molecules": 7
+    },
+    {
+      "task": "smdd_003_4RRS_0",
+      "objective": "BindingAffinity",
+      "calls": 7,
+      "stop": "budget_exhausted:boltz",
+      "scored_new_molecules": 0,
+      "scored_input_molecules": 7
+    },
+    {
+      "task": "smdd_003_4RRS_1",
+      "objective": "BindingAffinity",
+      "calls": 7,
+      "stop": "budget_exhausted:boltz",
+      "scored_new_molecules": 0,
+      "scored_input_molecules": 7
+    },
+    {
+      "task": "smdd_003_4ZZO_0",
+      "objective": "BindingAffinity",
+      "calls": 6,
+      "stop": "budget_exhausted:boltz",
+      "scored_new_molecules": 0,
+      "scored_input_molecules": 6
+    },
+    {
+      "task": "smdd_003_4ZZO_1",
+      "objective": "BindingAffinity",
+      "calls": 6,
+      "stop": "budget_exhausted:boltz",
+      "scored_new_molecules": 0,
+      "scored_input_molecules": 6
+    },
+    {
+      "task": "smdd_003_5A5S_1",
+      "objective": "BindingAffinity",
+      "calls": 7,
+      "stop": "budget_exhausted:boltz",
+      "scored_new_molecules": 0,
+      "scored_input_molecules": 7
+    },
+    {
+      "task": "smdd_003_5A9U_0",
+      "objective": "BindingAffinity",
+      "calls": 7,
+      "stop": "budget_exhausted:boltz",
+      "scored_new_molecules": 0,
+      "scored_input_molecules": 7
+    },
+    {
+      "task": "smdd_003_5A9U_1",
+      "objective": "BindingAffinity",
+      "calls": 6,
+      "stop": "budget_exhausted:boltz",
+      "scored_new_molecules": 0,
+      "scored_input_molecules": 6
+    },
+    {
+      "task": "smdd_003_5DC8_2",
+      "objective": "BindingAffinity",
+      "calls": 4,
+      "stop": "tool_error:Boltz failed; see /data2/chenfuxin/liddia_smdd_type3_20261004/runs/full_high_v1/smdd_003_5DC8_2/oracles/boltz_8e865eeb6bf4/boltz.log",
+      "scored_new_molecules": 0,
+      "scored_input_molecules": 4
+    },
+    {
+      "task": "smdd_003_5DC8_2",
+      "objective": "QED",
+      "calls": 500,
+      "stop": "budget_exhausted:graphga_score_cap",
+      "scored_new_molecules": 499,
+      "scored_input_molecules": 1
+    },
+    {
+      "task": "smdd_003_5DC8_2",
+      "objective": "BindingAffinity",
+      "calls": 2,
+      "stop": "budget_exhausted:boltz",
+      "scored_new_molecules": 0,
+      "scored_input_molecules": 2
+    },
+    {
+      "task": "smdd_003_5MW4_0",
+      "objective": "BindingAffinity",
+      "calls": 6,
+      "stop": "budget_exhausted:boltz",
+      "scored_new_molecules": 0,
+      "scored_input_molecules": 6
+    },
+    {
+      "task": "smdd_003_5UEN_0",
+      "objective": "BindingAffinity",
+      "calls": 7,
+      "stop": "budget_exhausted:boltz",
+      "scored_new_molecules": 0,
+      "scored_input_molecules": 7
+    },
+    {
+      "task": "smdd_003_6L6E_1",
+      "objective": "BindingAffinity",
+      "calls": 7,
+      "stop": "budget_exhausted:boltz",
+      "scored_new_molecules": 0,
+      "scored_input_molecules": 7
+    },
+    {
+      "task": "smdd_003_6ME6_0",
+      "objective": "BindingAffinity",
+      "calls": 0,
+      "stop": "tool_error:Boltz failed; see /data2/chenfuxin/liddia_smdd_type3_20261004/runs/full_high_v1/smdd_003_6ME6_0/oracles/boltz_a3b7bf70e60b/boltz.log",
+      "scored_new_molecules": 0,
+      "scored_input_molecules": 0
+    },
+    {
+      "task": "smdd_003_6OIN_0",
+      "objective": "BindingAffinity",
+      "calls": 8,
+      "stop": "budget_exhausted:boltz",
+      "scored_new_molecules": 0,
+      "scored_input_molecules": 8
+    },
+    {
+      "task": "smdd_003_6X8I_0",
+      "objective": "BindingAffinity",
+      "calls": 8,
+      "stop": "budget_exhausted:boltz",
+      "scored_new_molecules": 0,
+      "scored_input_molecules": 8
+    },
+    {
+      "task": "smdd_003_7OKM_0",
+      "objective": "BindingAffinity",
+      "calls": 6,
+      "stop": "budget_exhausted:boltz",
+      "scored_new_molecules": 0,
+      "scored_input_molecules": 6
+    },
+    {
+      "task": "smdd_003_7OKM_0",
+      "objective": "QED",
+      "calls": 500,
+      "stop": "budget_exhausted:graphga_score_cap",
+      "scored_new_molecules": 499,
+      "scored_input_molecules": 1
+    },
+    {
+      "task": "smdd_003_7OKM_1",
+      "objective": "BindingAffinity",
+      "calls": 7,
+      "stop": "budget_exhausted:boltz",
+      "scored_new_molecules": 0,
+      "scored_input_molecules": 7
+    },
+    {
+      "task": "smdd_003_7OKM_1",
+      "objective": "QED",
+      "calls": 500,
+      "stop": "budget_exhausted:graphga_score_cap",
+      "scored_new_molecules": 499,
+      "scored_input_molecules": 1
+    },
+    {
+      "task": "smdd_003_7OKM_2",
+      "objective": "BindingAffinity",
+      "calls": 7,
+      "stop": "budget_exhausted:boltz",
+      "scored_new_molecules": 6,
+      "scored_input_molecules": 1
+    },
+    {
+      "task": "smdd_003_8FGZ_0",
+      "objective": "BindingAffinity",
+      "calls": 7,
+      "stop": "budget_exhausted:boltz",
+      "scored_new_molecules": 0,
+      "scored_input_molecules": 7
+    }
+  ]
+}

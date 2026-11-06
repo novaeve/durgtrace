@@ -1,0 +1,15 @@
+{
+  "reason": "Selected GLM provider halted; see CPU gateway status for the exact reason",
+  "hold_type": "provider_auto",
+  "upstream": "https://tok.fan/v1",
+  "model": "glm-5.3-flash",
+  "time": 1791746423.7751014,
+  "pending_methods": [
+    "MolClaw",
+    "SoL-Pi",
+    "Codex",
+    "GLM_direct",
+    "GLM_direct_retry1120"
+  ],
+  "preserve_results": true
+}

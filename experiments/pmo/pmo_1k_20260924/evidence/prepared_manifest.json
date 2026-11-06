@@ -1,0 +1,14 @@
+{
+  "source": "/data2/chenfuxin/chatdrug_generalization_20260920/data/ChatDrug_data/small_molecule/250k_rndm_zinc_drugs_clean_3.csv",
+  "sha256": "35e3f1a52b1badc0697e373d73a18ad773f415936ff992f4c6baa2e067b3e6ae",
+  "rows": 249455,
+  "initial_size": 100,
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    5
+  ],
+  "property_columns_used": false
+}

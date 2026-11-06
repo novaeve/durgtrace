@@ -1,0 +1,73 @@
+{
+  "created": 1791101840.7965415,
+  "methods": [
+    "deepseek_official_smdd_harness",
+    "codex_official_cli_harness"
+  ],
+  "tasks_per_method": 340,
+  "model": "deepseek-v4.1-flash",
+  "enable_thinking": false,
+  "reasoning_effort": "omitted",
+  "temperature": 1,
+  "budgets": {
+    "admet": 15,
+    "boltz": 8,
+    "model_turns": 100,
+    "cumulative_tokens": 10000000,
+    "seed": 42,
+    "default_diffusion_samples": 10
+  },
+  "concurrency_per_method": 4,
+  "gpu_pool": [
+    1,
+    3,
+    4,
+    6
+  ],
+  "gpu_max_boltz_processes_per_card": 1,
+  "gpu_minimum_free_mib": 28000,
+  "gpu_lock_coordination": [
+    "liddia_type4",
+    "cpu_type4_pool"
+  ],
+  "official_upstream": "/data2/chenfuxin/smdd_type3_transfer_20260930/upstream/agent_harness",
+  "official_cli": "codex-cli 0.149.0",
+  "reviewer": false,
+  "memory": false,
+  "multi_agent": false,
+  "credentials": "read only on existing credential host; not copied",
+  "public_only_inputs": [
+    "description",
+    "complex.pdb",
+    "reference.sdf"
+  ],
+  "evaluation": "same original smdd-evals evaluator rootfs; Boltz transport only",
+  "preflight_checked_actual_requests": [
+    "preflight/deepseek/tool_smoke/api/002.json",
+    "preflight/deepseek/tool_smoke/api/001.json",
+    "preflight/deepseek/tool_smoke/api/003.json",
+    "preflight/deepseek/tool_smoke/api/004.json",
+    "preflight/codex/smdd_004_A2A_Adenosine_0/api/002.json",
+    "preflight/codex/smdd_004_A2A_Adenosine_0/api/001.json",
+    "preflight/codex/smdd_004_A2A_Adenosine_0/api/003.json"
+  ],
+  "hashes": {
+    "evaluate.py": "7f4479596c513bdd54acb8cdbb24aa09fcfe1a7d07c5d566d0211c9da508ebe3",
+    "worker.py": "7b4581fa0c93806a2967212f8356652a304e35e0f11535f6b8ee99840c7b346a",
+    "runtime.py": "663c9743e3f26266f99c7bc26fc43c5f069acb92158033e6e36080e2fc0a0d98",
+    "run.py": "1c7ff81a0d09e8ee7f96175daaef64308e57333cce077621fcefc27ff26b522a",
+    "preflight.py": "e334a6fed32954d31a5e017b9cc6e4cedd302f596b8c6bcabfdb89a23f8b6e00",
+    "gpu_slots.py": "ae1f91e6d5e3f166f9e8b8d216e3a00ce66ab01bb7498c173a158ce1288a5b5e",
+    "scheduler.py": "d7a010a008698043ee84d405e1f61a7790ba951f44280c874b822e8052b9b50d",
+    "smdd_eval_bridge.py": "5c6c74129276d8d14c5cec0b391c6969f4a1f5efc4fce81d68a56a333145ca7b",
+    "upstream/agent_harness/config.py": "53b4cef7436b42c4d7ab1e8b1fa93e5426e0d2ddc48e0f6026dc4a9fe4b27a62",
+    "upstream/agent_harness/prompts.py": "4aa785b74ba703090eeb1eab17547db300bf8588be348c381838e4080c25a068",
+    "upstream/agent_harness/agent_loop.py": "3b675991eca43f870d84ec7f6e06c532424acbe1aafb7c4c902e7ca7d97acc1f",
+    "upstream/agent_harness/run.py": "9ae65cc51ebe467ee5c083a2c23d42f80d7ba31ef03dbe5b3a29cc4987bef687",
+    "upstream/agent_harness/logger.py": "9a941742e736338ad4bedd3669376bf4653e590b353d4c04bd737a27eb0fd0c5",
+    "upstream/agent_harness/obfuscate.py": "384e92bbe65b5c49ad67e0b1cdd20a3440cef68536bf06a7b41bd7712fe4e273",
+    "upstream/agent_harness/network.py": "70151e49c574c453b5398f4cca9e7e9fe3bff267f872fa4d5ebd2d66d25e0b83",
+    "upstream/agent_harness/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "upstream/agent_harness/tools.py": "2684b97943ee8209bd74d3945468a90d3b8f30efedb1ee67b926efc74a1b3857"
+  }
+}

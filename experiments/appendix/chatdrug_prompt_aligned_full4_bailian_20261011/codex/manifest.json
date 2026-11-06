@@ -1,0 +1,43 @@
+{
+  "method": "Codex",
+  "workers": 8,
+  "expected": 5600,
+  "model": "deepseek-v4.1-flash",
+  "provider": "Bailian",
+  "reference": "/data2/chenfuxin/chatdrug_prompt_aligned_bailian_20261006/cases.json",
+  "reference_sha256": "d118b671cfa62b74f5366eddbd2296e3c23fb7f0ac59f1ed49e4cb62aeefdccf",
+  "native_source": "/data/chenfuxin/codex_chatdrug_s2init_bailian_20261010",
+  "frozen_sources": {
+    "run.py": "3548d79130eb714e19a05cf268c40d9b963a7ba49ac9e11eefa21021476f82d9",
+    "relay.py": "0b3433e03ab2e1a0fe4446f1ab1b2eb482cb06db1e5f891ad9cc963ca88f7cfd",
+    "legacy_relay.py": "e77ba0a92d8d09536cf1d7efd9ea5d7ebbcd1216398d90f58b303e462a1a0ec7",
+    "bridge.py": "eb359295b69875adc0f9e89d0bbd47156c31b59514624abcb1b9988664fb4f19",
+    "loop_control.py": "cd880e3204758e537a998534728e1c93a6f3d37461151e08e64483fab1161e5a",
+    "process_cleanup.py": "b91b957b0c7788eac7b147b5618c506038ff7f27b536d0bc8a6ec7a9dce00852",
+    "adaptive_gate.py": "4d604ad6fc1e3dd003fbaa9e2fc65704937cd2064f13c31c2013c4aaa8d037f4"
+  },
+  "evaluation": "ChatDrug zero thresholds with Kekulize; nonempty valid final only",
+  "reuse_policy": "Only complete exact generation-protocol matches, including chemical failures; no correctness selection",
+  "case_sha256": "a635f29d76191257b6158ffa49cd94230784b3cb3beb8ac59153e0eb8006331f",
+  "supervisor_policy": "Adopt live PID; at most3 infrastructure-only delayed resumes; schema/hash/model/prompt assertions block; no correctness-based retry",
+  "next_start_wrapper_sha256": "716cfa0f6ac4aeb1e701f51e395a62ab5dd786fc3ea5eb84f2de375b8efe902c",
+  "initial_active_wrapper_sha256": "b19e60d38d3103b804392bcb3292a525270ecee61fec7411466236623c74285f",
+  "initial_driver_snapshot": "driver_initial_active.py",
+  "wrapper_revision_note": "Added stricter pilot tool/complete assertions for future infrastructure restarts only; initial live process retains initial snapshot.",
+  "execution_revisions": [
+    {
+      "time": 1791731829.8719463,
+      "before_workers": 24,
+      "after_workers": 40,
+      "method": "SIGINT parent only; ThreadPool waits active native episodes; persistent disjoint completed results reused",
+      "native_budget_unchanged": true
+    }
+  ],
+  "maximum_hot_control_workers": 64,
+  "aux_workers": 32,
+  "total_target_workers": 40,
+  "auxiliary_policy": "Exclude all original28 pilot IDs; flock per case with final check; main reverse queue and aux forward queue; no old draining-parent scheduling",
+  "auxiliary_sha256": "dc83822b560c4d84b0567f240183dcdcfc22e7f77a1299b534eaa9481d8ac5d8",
+  "supervisor_sha256": "40182ec45cdb7bd272f9c6321275c178c008bd0c19efd9b7898e725c775d0128",
+  "shared_pause": "pause.request stops both queues from accepting new jobs; existing native episodes retain budget"
+}

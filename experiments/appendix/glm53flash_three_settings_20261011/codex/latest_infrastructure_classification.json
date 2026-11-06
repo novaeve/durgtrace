@@ -1,0 +1,15 @@
+{
+  "time": 1791795029.1500967,
+  "queued_count": 36,
+  "reasons": {
+    "Prior provider balance rejection": 28,
+    "Per-case proxy listener address already in use": 7,
+    "Provider API request timeout distinct from native case wall/idle timeout": 1
+  },
+  "original_results_archived": true,
+  "only_retry_classification_changed": true,
+  "valid_scientific_outcomes_retried": 0,
+  "unselected_result_hashes_checked": 4095,
+  "worker_pools_stopped": 0,
+  "generation_protocol_changed": false
+}

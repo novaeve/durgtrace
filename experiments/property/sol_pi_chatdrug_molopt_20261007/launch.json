@@ -1,0 +1,10 @@
+{
+  "pid": 876050,
+  "root": "/data/chenfuxin/sol_pi_chatdrug_molopt_20261007",
+  "started": 1791386336.9320016,
+  "counts": {
+    "ChatDrug-MolEdit-28": 5600,
+    "S2-miniMolOpt": 1500
+  },
+  "protocol": "original"
+}

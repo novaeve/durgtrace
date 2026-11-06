@@ -1,0 +1,23 @@
+{
+  "jsonrpc": "2.0",
+  "id": 3,
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"status\":\"success\",\"msg\":\"\u758f\u6c34\u6027\u76f8\u5173\u5c5e\u6027\u8ba1\u7b97\u5b8c\u6210\",\"metrics\":[{\"smiles\":\"CCO\",\"logp\":-0.0014,\"molar_refractivity\":12.7598}]}"
+      }
+    ],
+    "structuredContent": {
+      "metrics": [
+        {
+          "logp": -0.0014,
+          "molar_refractivity": 12.7598,
+          "smiles": "CCO"
+        }
+      ],
+      "msg": "\u758f\u6c34\u6027\u76f8\u5173\u5c5e\u6027\u8ba1\u7b97\u5b8c\u6210",
+      "status": "success"
+    }
+  }
+}

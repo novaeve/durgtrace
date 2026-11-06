@@ -1,0 +1,31 @@
+{
+  "direct_state": {
+    "phase": "pilot",
+    "processed": 11,
+    "expected": 4200,
+    "workers": 16,
+    "generation": "independent_single_response_no_harness",
+    "model": "glm-5.3-flash",
+    "time": 1791684307.7561219
+  },
+  "fresh_verified_receipts": 11,
+  "time": 1791684326.7804716,
+  "Codex": {
+    "phase": "pilot",
+    "model": "glm-5.3-flash",
+    "workers": 16,
+    "time": 1791683730.6497633
+  },
+  "MolClaw": {
+    "phase": "full",
+    "model": "glm-5.3-flash",
+    "workers": 16,
+    "time": 1791682367.5224512
+  },
+  "SoL-Pi": {
+    "phase": "full",
+    "model": "glm-5.3-flash",
+    "workers": 12,
+    "time": 1791682367.7183714
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "cases_checked": 5600,
+  "same_inputs_objectives_thresholds_and_ids": true,
+  "s2_templates_verified": true,
+  "native_pair_change": "Only independent3 postprocessing removed from frozen run_case.",
+  "runner_sha256": "5ef2b702dfb33045feec071be1ac1c49f329bbe1ebe509fc6811ee96f582fa89",
+  "pair_native_sha256": "04157f6986af2a201c841b2add7b4bcaf7454ff1f4763eda8c13fa0a26724f0c",
+  "rdkit_version": "2022.09.4"
+}

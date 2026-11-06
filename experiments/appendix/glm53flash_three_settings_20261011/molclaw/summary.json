@@ -1,0 +1,76 @@
+{
+  "model": "glm-5.3-flash",
+  "method": "MolClaw",
+  "processed": 4200,
+  "expected": 4200,
+  "workers": 16,
+  "groups": [
+    {
+      "setting": "1_original_chatdrug",
+      "property": "LogP",
+      "expected": 800,
+      "processed": 800,
+      "success": 798,
+      "success_rate_full": 0.9975,
+      "statuses": {
+        "complete": 800
+      }
+    },
+    {
+      "setting": "1_original_chatdrug",
+      "property": "QED",
+      "expected": 800,
+      "processed": 800,
+      "success": 779,
+      "success_rate_full": 0.97375,
+      "statuses": {
+        "complete": 800
+      }
+    },
+    {
+      "setting": "2_s2_prompt_chatdrug",
+      "property": "LogP",
+      "expected": 800,
+      "processed": 800,
+      "success": 800,
+      "success_rate_full": 1.0,
+      "statuses": {
+        "complete": 800
+      }
+    },
+    {
+      "setting": "2_s2_prompt_chatdrug",
+      "property": "QED",
+      "expected": 800,
+      "processed": 800,
+      "success": 796,
+      "success_rate_full": 0.995,
+      "statuses": {
+        "complete": 800
+      }
+    },
+    {
+      "setting": "3_original_s2",
+      "property": "LogP",
+      "expected": 500,
+      "processed": 500,
+      "success": 500,
+      "success_rate_full": 1.0,
+      "statuses": {
+        "complete": 500
+      }
+    },
+    {
+      "setting": "3_original_s2",
+      "property": "QED",
+      "expected": 500,
+      "processed": 500,
+      "success": 500,
+      "success_rate_full": 1.0,
+      "statuses": {
+        "complete": 500
+      }
+    }
+  ],
+  "time": 1791731850.7099667
+}

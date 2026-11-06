@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "cases_checked": 7100,
+  "same_inputs_prompts_objectives_thresholds_and_ids": true,
+  "case_file_byte_identical": true,
+  "original_evaluator_checks": 34,
+  "native_pair_change": "Only independent3 postprocessing removed from frozen run_case.",
+  "runner_sha256": "903b68f79b43a507391324b65af6c53e19d1f45eaf360e230c78eb9df0151ddf",
+  "pair_native_sha256": "04157f6986af2a201c841b2add7b4bcaf7454ff1f4763eda8c13fa0a26724f0c",
+  "rdkit_version": "2022.09.4",
+  "transport_offline_tests": {
+    "no_model_calls": true,
+    "caps_verified": [
+      256,
+      2048
+    ],
+    "immutable_request_log": true,
+    "cached_replay": true
+  }
+}

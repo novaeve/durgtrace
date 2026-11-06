@@ -1,0 +1,32 @@
+# ── LLM APIs ──────────────────────────────────────────────────────────────────
+openai>=2.21.0
+google-generativeai>=0.8.6
+
+# ── Cheminformatics ────────────────────────────────────────────────────────────
+rdkit>=2025.3.6
+pubchempy>=1.0.5
+chembl-webresource-client>=0.10.9
+
+# ── Deep learning ─────────────────────────────────────────────────────────────
+torch>=2.7.1
+torch-geometric>=2.6.1
+torch-scatter>=2.1.2
+torch-sparse>=0.6.18
+transformers>=4.48.1
+
+# ── Structural biology ─────────────────────────────────────────────────────────
+biopython>=1.84
+# AutoDock Vina must be installed separately as a system binary:
+#   conda install -c conda-forge vina
+#   or download from https://github.com/ccsb-scripps/AutoDock-Vina/releases
+
+# ── Scientific computing ───────────────────────────────────────────────────────
+numpy>=1.26.4
+scipy>=1.17.1
+scikit-learn>=1.7.0
+pandas>=2.3.0
+
+# ── Utilities ─────────────────────────────────────────────────────────────────
+requests>=2.32.5
+tqdm>=4.67.1
+matplotlib>=3.10.6

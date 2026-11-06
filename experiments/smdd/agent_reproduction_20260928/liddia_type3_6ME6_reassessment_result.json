@@ -1,0 +1,58 @@
+{
+  "task_id": "smdd_003_6ME6_0",
+  "status": "failed",
+  "steps": [
+    {
+      "name": "Validity",
+      "status": "passed",
+      "result": true,
+      "condition": {
+        "eq": true
+      },
+      "duration_s": 0.01
+    },
+    {
+      "name": "Tanimoto Similarity",
+      "status": "passed",
+      "result": 0.15,
+      "condition": {
+        "lt": 0.5
+      },
+      "duration_s": 0.0
+    },
+    {
+      "name": "Scaffold MCS",
+      "status": "passed",
+      "result": 0.6470588235294118,
+      "condition": {
+        "lt": 0.65
+      },
+      "duration_s": 0.0
+    },
+    {
+      "name": "Boltz Interaction Similarity",
+      "status": "failed",
+      "result": 0.4,
+      "condition": {
+        "gt": 0.75
+      },
+      "duration_s": 487.34
+    },
+    {
+      "name": "Boltz Binding Probability",
+      "status": "failed",
+      "result": 0.6160139441490173,
+      "condition": {
+        "gt": 0.7
+      },
+      "duration_s": 0.0
+    }
+  ],
+  "reassessment": {
+    "original_result": "/data2/chenfuxin/liddia_smdd_type3_20261004/reassessment_20261005/smdd_003_6ME6_0/original/evaluation_result.json",
+    "retry_directory": "/data2/chenfuxin/liddia_smdd_type3_20261004/reassessment_20261005/smdd_003_6ME6_0",
+    "time": 1791168591.1060574,
+    "submission_unchanged": true,
+    "required_free_mib": 31500
+  }
+}

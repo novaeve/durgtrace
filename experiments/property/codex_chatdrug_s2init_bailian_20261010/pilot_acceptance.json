@@ -1,0 +1,72 @@
+{
+  "accepted": true,
+  "episodes": 8,
+  "evidence": [
+    {
+      "id": "source_101_loose_000",
+      "property": "LogP",
+      "status": "complete",
+      "provider_responses": 5,
+      "tool_calls": 4,
+      "model": "deepseek-v4.1-flash"
+    },
+    {
+      "id": "source_101_strict_000",
+      "property": "LogP",
+      "status": "complete",
+      "provider_responses": 16,
+      "tool_calls": 15,
+      "model": "deepseek-v4.1-flash"
+    },
+    {
+      "id": "source_102_loose_000",
+      "property": "LogP",
+      "status": "complete",
+      "provider_responses": 25,
+      "tool_calls": 24,
+      "model": "deepseek-v4.1-flash"
+    },
+    {
+      "id": "source_102_strict_000",
+      "property": "LogP",
+      "status": "complete",
+      "provider_responses": 9,
+      "tool_calls": 8,
+      "model": "deepseek-v4.1-flash"
+    },
+    {
+      "id": "source_103_loose_000",
+      "property": "QED",
+      "status": "complete",
+      "provider_responses": 358,
+      "tool_calls": 356,
+      "model": "deepseek-v4.1-flash"
+    },
+    {
+      "id": "source_103_strict_000",
+      "property": "QED",
+      "status": "provider_limit",
+      "provider_responses": 11,
+      "tool_calls": 10,
+      "model": "deepseek-v4.1-flash"
+    },
+    {
+      "id": "source_104_loose_000",
+      "property": "QED",
+      "status": "complete",
+      "provider_responses": 24,
+      "tool_calls": 23,
+      "model": "deepseek-v4.1-flash"
+    },
+    {
+      "id": "source_104_strict_000",
+      "property": "QED",
+      "status": "complete",
+      "provider_responses": 292,
+      "tool_calls": 290,
+      "model": "deepseek-v4.1-flash"
+    }
+  ],
+  "errors": [],
+  "time": 1791686718.3157513
+}

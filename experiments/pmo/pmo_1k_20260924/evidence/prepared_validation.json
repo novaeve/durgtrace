@@ -1,0 +1,198 @@
+{
+  "passed": true,
+  "oracles": {
+    "albuterol_similarity": {
+      "oracle": "Albuterol_Similarity",
+      "values": [
+        0.14492753623188404,
+        0.2222222222222222,
+        0.23529411764705882
+      ]
+    },
+    "amlodipine_mpo": {
+      "oracle": "Amlodipine_MPO",
+      "values": [
+        2.3898205799321514e-05,
+        0.004755571265457336,
+        0.008539710664868947
+      ]
+    },
+    "celecoxib_rediscovery": {
+      "oracle": "Celecoxib_Rediscovery",
+      "values": [
+        0.013157894736842105,
+        0.07228915662650602,
+        0.11578947368421053
+      ]
+    },
+    "deco_hop": {
+      "oracle": "Deco Hop",
+      "values": [
+        0.5,
+        0.5,
+        0.5091503267973856
+      ]
+    },
+    "drd2": {
+      "oracle": "DRD2",
+      "values": [
+        0.005215657676740005,
+        0.0057322797125994775,
+        0.00030779248192998733
+      ]
+    },
+    "fexofenadine_mpo": {
+      "oracle": "Fexofenadine_MPO",
+      "values": [
+        0.0,
+        4.735375826223766e-07,
+        0.14855346982307627
+      ]
+    },
+    "gsk3b": {
+      "oracle": "GSK3B",
+      "values": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "isomers_c7h8n2o2": {
+      "oracle": "Isomers_C7H8N2O2",
+      "values": [
+        0.002739444818768368,
+        0.08005831278672054,
+        0.2725317930340126
+      ]
+    },
+    "isomers_c9h10n2o2pf2cl": {
+      "oracle": "Isomers_C9H10N2O2PF2Cl",
+      "values": [
+        5.476276860109711e-05,
+        0.0025977099773754862,
+        0.1849813999073043
+      ]
+    },
+    "jnk3": {
+      "oracle": "JNK3",
+      "values": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "median1": {
+      "oracle": "Median 1",
+      "values": [
+        0.042220033092074914,
+        0.0,
+        0.03983041789032374
+      ]
+    },
+    "median2": {
+      "oracle": "Median 2",
+      "values": [
+        0.014932027335788824,
+        0.039060811311241804,
+        0.09552008998760876
+      ]
+    },
+    "mestranol_similarity": {
+      "oracle": "Mestranol_Similarity",
+      "values": [
+        0.0,
+        0.01532567049808429,
+        0.09150326797385622
+      ]
+    },
+    "osimertinib_mpo": {
+      "oracle": "Osimertinib_MPO",
+      "values": [
+        0.0001370004635161219,
+        2.2291058176260905e-06,
+        0.12951288430265653
+      ]
+    },
+    "perindopril_mpo": {
+      "oracle": "Perindopril_MPO",
+      "values": [
+        0.004287366774335021,
+        0.0,
+        0.11873257908909057
+      ]
+    },
+    "qed": {
+      "oracle": "QED",
+      "values": [
+        0.40680796565539457,
+        0.4426283718993647,
+        0.5501217966938848
+      ]
+    },
+    "ranolazine_mpo": {
+      "oracle": "Ranolazine_MPO",
+      "values": [
+        0.0,
+        0.0006757867128566312,
+        0.007332892918704842
+      ]
+    },
+    "scaffold_hop": {
+      "oracle": "Scaffold Hop",
+      "values": [
+        0.3333333333333333,
+        0.3333333333333333,
+        0.34716049382716047
+      ]
+    },
+    "sitagliptin_mpo": {
+      "oracle": "Sitagliptin_MPO",
+      "values": [
+        6.190895767476095e-19,
+        3.884528790079887e-18,
+        0.00019548861776578054
+      ]
+    },
+    "thiothixene_rediscovery": {
+      "oracle": "Thiothixene_Rediscovery",
+      "values": [
+        0.02247191011235955,
+        0.08421052631578947,
+        0.14285714285714285
+      ]
+    },
+    "troglitazon_rediscovery": {
+      "oracle": "Troglitazone_Rediscovery",
+      "values": [
+        0.033707865168539325,
+        0.04,
+        0.12037037037037036
+      ]
+    },
+    "valsartan_smarts": {
+      "oracle": "Valsartan_Smarts",
+      "values": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "zaleplon_mpo": {
+      "oracle": "Zaleplon_MPO",
+      "values": [
+        4.3969616998875373e-16,
+        2.173001779771919e-12,
+        1.6660418569341133e-07
+      ]
+    }
+  },
+  "budget_checks": "canonical cache; invalid; strict cap; resume",
+  "auc_checks": "official function; 100 and 1 query sampling",
+  "versions": {
+    "PyTDC": "1.1.15",
+    "rdkit": "2023.9.6",
+    "numpy": "1.26.4",
+    "scikit-learn": "1.2.2",
+    "pandas": "2.2.3"
+  }
+}

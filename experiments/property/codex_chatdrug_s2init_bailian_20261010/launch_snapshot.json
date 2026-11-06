@@ -1,0 +1,21 @@
+{
+  "phase": "pilot",
+  "processed": 5,
+  "expected": 1600,
+  "statuses": {
+    "complete": 4,
+    "provider_limit": 1
+  },
+  "provider_responses": 293,
+  "response_models": [
+    "deepseek-v4.1-flash"
+  ],
+  "provider_errors": {
+    "Provider output truncated; no truncated tool call executed": 1
+  },
+  "request_settings_ok": true,
+  "properties": {
+    "LogP": 3,
+    "QED": 2
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "/data2/chenfuxin/chatdrug_generalization_20260920/upstream/ChatDrug/main_ChatDrug.py": "70af6f5fa7c62d721d0dc798294a4ac672c671a1ce28ce9c0ce507932e500ba2",
+  "/data2/chenfuxin/chatdrug_generalization_20260920/upstream/ChatDrug/utils.py": "de1ba9159934867fd14f7be03beaa3ec7ad755e165d0b0beb2bf1f4117cd171a",
+  "/data2/chenfuxin/chatdrug_generalization_20260920/upstream/ChatDrug/ChatDrug/task_and_evaluation/small_molecule_editing.py": "343cab327297db6a84c51e9f92b6d8b00102b07d7753ff0835535b38100e3498",
+  "/data2/chenfuxin/agentdrug_20260922/core_fixed.py": "27ea4dba5b24106e8ad60f42826ef7d554d523385710fb41005aa282372dfb9d",
+  "/data2/chenfuxin/molingo_20260922/core_fixed.py": "78d235f592f6972d818da496e3c8e0b4b0d06c6df1ccf23c58aa46d7e69e2edd",
+  "/data2/chenfuxin/molingo_20260922/runner.py": "b41ff5c2d3c1dba300458e38b9ae6349021034262abe6d6a6354549fe440ad37",
+  "/data2/chenfuxin/molingo_20260922/upstream/toolset/tokenizer.py": "2bb6e98c2d752eaaa52a068b71f66317f6cd649c98d3613501825ce9e2b9b8cd",
+  "/data2/chenfuxin/molingo_20260922/upstream/toolset/drug_like_filtering.py": "999f87acbeb2c40ba297d640c2de4e52c7ee7007b5f821e9e84f0fb8e7cfceb6",
+  "/data2/chenfuxin/molingo_20260922/upstream/toolset/vocab20.json": "463b2f8fe0a5a8c75f6083e7ceede819fa8c5a58cce8ca5cebc46f0838adf784",
+  "/data2/chenfuxin/pmo_1k_20260924/venv/lib/python3.10/site-packages/tdc/chem_utils/oracle/oracle.py": "211be401ec5f3c06ddca37e72064bbeb4de52437b218bb3f4a4a381eec1de1f5",
+  "/data2/chenfuxin/pmo_1k_20260924/source/pmo/optimizer.py": "e656ee3727b0868f82624a0cabf17dd27c82c62274ee40eb13a6c7dce79681f5",
+  "/data2/chenfuxin/pmo_1k_20260924/oracle/drd2_current.pkl": "ef1f00e47d5e4670a45b0a4178db3c41b2e1aa9dad7113ac9d0f58e3f9d67532",
+  "/data2/chenfuxin/pmo_1k_20260924/oracle/gsk3b_current.pkl": "d3a20701b80e5179c88c3ad4dc3483dd7ab35c50dc055c6773a7f5b63e89b6d5",
+  "/data2/chenfuxin/pmo_1k_20260924/oracle/jnk3_current.pkl": "cde8576fb4fa3f60b9f258ff9cf1b9ff346eb50d196d5cbbe25965efc1864889",
+  "/data2/chenfuxin/pmo_1k_20260924/prepared/initial.json": "88797c741bf826dd13deaaa2f211778a511cf11bdcb2a706b66c51103ceb9a7a"
+}

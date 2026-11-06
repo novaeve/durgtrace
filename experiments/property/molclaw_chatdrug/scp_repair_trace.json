@@ -1,0 +1,405 @@
+[
+  {
+    "event": "validation_source",
+    "source": "    async def _validate_tool_result(self, name: str, result: types.CallToolResult) -> None:\n        \"\"\"Validate the structured content of a tool result against its output schema.\"\"\"\n        if name not in self._tool_output_schemas:\n            # refresh output schema cache\n            await self.list_tools()\n\n        output_schema = None\n        if name in self._tool_output_schemas:\n            output_schema = self._tool_output_schemas.get(name)\n        else:\n            logger.warning(f\"Tool {name} not listed by server, cannot validate any structured content\")\n\n        if output_schema is not None:\n            from jsonschema import SchemaError, ValidationError, validate\n            from referencing import Registry\n            from referencing.exceptions import Unresolvable\n\n            if result.structuredContent is None:\n                raise RuntimeError(\n                    f\"Tool {name} has an output schema but did not return structured content\"\n                )  # pragma: no cover\n            # An explicit empty registry: `$ref`s resolve within the schema document and the bundled metaschemas.\n            registry: Registry[Any] = Registry()\n            try:\n                validate(result.structuredContent, output_schema, registry=registry)\n            except ValidationError as e:\n                raise RuntimeError(f\"Invalid structured content returned by tool {name}: {e}\")  # pragma: no cover\n            except SchemaError as e:  # pragma: no cover\n                raise RuntimeError(f\"Invalid schema for tool {name}: {e}\")  # pragma: no cover\n            except Unresolvable as e:\n                # A `$ref` did not resolve within the schema document.\n                raise RuntimeError(f\"Invalid schema for tool {name}: {e}\") from e\n",
+    "elapsed": 0.0
+  },
+  {
+    "event": "request",
+    "method": "POST",
+    "payload": {
+      "method": "initialize",
+      "params": {
+        "protocolVersion": "2025-06-18",
+        "capabilities": {},
+        "clientInfo": {
+          "name": "mcp",
+          "version": "0.1.0"
+        }
+      },
+      "jsonrpc": "2.0",
+      "id": 0
+    },
+    "elapsed": 0.05
+  },
+  {
+    "event": "response",
+    "status": 200,
+    "headers": {
+      "content-type": "application/json"
+    },
+    "elapsed": 0.25
+  },
+  {
+    "event": "request",
+    "method": "POST",
+    "payload": {
+      "method": "notifications/initialized",
+      "jsonrpc": "2.0"
+    },
+    "elapsed": 0.25
+  },
+  {
+    "event": "initialized",
+    "result": {
+      "meta": null,
+      "protocolVersion": "2025-06-18",
+      "capabilities": {
+        "experimental": null,
+        "logging": null,
+        "prompts": {
+          "listChanged": null
+        },
+        "resources": {
+          "subscribe": null,
+          "listChanged": null
+        },
+        "tools": {
+          "listChanged": null
+        },
+        "completions": null,
+        "tasks": null
+      },
+      "serverInfo": {
+        "name": "DrugMolTools",
+        "title": null,
+        "version": "2.13.0.2",
+        "websiteUrl": null,
+        "icons": null
+      },
+      "instructions": null
+    },
+    "elapsed": 0.25
+  },
+  {
+    "event": "response",
+    "status": 202,
+    "headers": {},
+    "elapsed": 0.3
+  },
+  {
+    "event": "request",
+    "method": "POST",
+    "payload": {
+      "method": "tools/list",
+      "jsonrpc": "2.0",
+      "id": 1
+    },
+    "elapsed": 0.31
+  },
+  {
+    "event": "response",
+    "status": 200,
+    "headers": {
+      "content-type": "application/json"
+    },
+    "elapsed": 0.74
+  },
+  {
+    "event": "tools",
+    "count": 81,
+    "selected": [
+      {
+        "name": "pred_mol_admet",
+        "title": null,
+        "description": "Predict the ADMET (absorption, distribution, metabolism, excretion, and toxicity) properties of the input molecules from smiles list or file.\nArgs:\n    smiles_list (List[str]): List of input SMILES strings, (e.g., [\"N[C@@H](Cc1ccc(O)cc1)C(=O)O\", \"CC(C)C1=CC=CC=C1\"]), default is []\n    smiles_file (str): Path to a file containing SMILES strings (TXT or CSV format), default is ''\nReturn:\n    status (str): success/error\n    msg (str): message\n    json_content (List[Dcit]): List of dict, each containing the keys 'smiles', 'physicochemical', 'druglikeness' and 'admet_predictions', where 'admet_predictions' includes over 90 key-value pairs representing various molecular properties \n    json_file (str): Path to the json file saving the ADMET prediction results",
+        "inputSchema": {
+          "properties": {
+            "smiles_file": {
+              "default": "",
+              "type": "string"
+            },
+            "smiles_list": {
+              "default": [],
+              "items": {
+                "type": "string"
+              },
+              "type": "array"
+            }
+          },
+          "type": "object"
+        },
+        "outputSchema": {
+          "additionalProperties": true,
+          "type": "object"
+        },
+        "icons": null,
+        "annotations": null,
+        "meta": {
+          "_fastmcp": {
+            "tags": []
+          }
+        },
+        "execution": null
+      },
+      {
+        "name": "is_valid_smiles",
+        "title": null,
+        "description": "Check if the input SMILES string is valid\nArgs:\n    smiles_list (List[str]): List of input SMILES strings, (e.g., [\"N[C@@H](Cc1ccc(O)cc1)C(=O)O\", \"CC(C)C1=CC=CC=C1\"])\nReturn:\n    status (str): success/partial_success/error\n    msg (str): message\n    valid_res (List[dict]): List of dict, each containing the keys 'smiles' and 'is_valid'. \n        --smiles (str): A SMILES string of smiles_list\n        --is_valid (bool): Is the SMILES valid or not",
+        "inputSchema": {
+          "properties": {
+            "smiles_list": {
+              "items": {
+                "type": "string"
+              },
+              "type": "array"
+            }
+          },
+          "required": [
+            "smiles_list"
+          ],
+          "type": "object"
+        },
+        "outputSchema": {
+          "additionalProperties": true,
+          "type": "object"
+        },
+        "icons": null,
+        "annotations": null,
+        "meta": {
+          "_fastmcp": {
+            "tags": []
+          }
+        },
+        "execution": null
+      }
+    ],
+    "elapsed": 0.83
+  },
+  {
+    "event": "request",
+    "method": "POST",
+    "payload": {
+      "method": "tools/call",
+      "params": {
+        "name": "is_valid_smiles",
+        "arguments": {
+          "smiles_list": [
+            "CCO"
+          ]
+        }
+      },
+      "jsonrpc": "2.0",
+      "id": 2
+    },
+    "elapsed": 0.83
+  },
+  {
+    "event": "response",
+    "status": 200,
+    "headers": {
+      "content-type": "application/json"
+    },
+    "elapsed": 0.96
+  },
+  {
+    "event": "tool_result",
+    "name": "is_valid_smiles",
+    "result": {
+      "meta": null,
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"status\":\"success\",\"msg\":\"\u9a8c\u8bc1\u5b8c\u6210\uff1a\u51711\u4e2aSMILES\uff0c1\u4e2a\u6709\u6548\uff0c0\u4e2a\u65e0\u6548\",\"valid_res\":[{\"smiles\":\"CCO\",\"is_valid\":true}]}",
+          "annotations": null,
+          "meta": null
+        }
+      ],
+      "structuredContent": {
+        "msg": "\u9a8c\u8bc1\u5b8c\u6210\uff1a\u51711\u4e2aSMILES\uff0c1\u4e2a\u6709\u6548\uff0c0\u4e2a\u65e0\u6548",
+        "status": "success",
+        "valid_res": [
+          {
+            "is_valid": true,
+            "smiles": "CCO"
+          }
+        ]
+      },
+      "isError": false
+    },
+    "elapsed": 0.96
+  },
+  {
+    "event": "request",
+    "method": "POST",
+    "payload": {
+      "method": "tools/call",
+      "params": {
+        "name": "pred_mol_admet",
+        "arguments": {
+          "smiles_list": [
+            "CCO"
+          ]
+        }
+      },
+      "jsonrpc": "2.0",
+      "id": 3
+    },
+    "elapsed": 0.96
+  },
+  {
+    "event": "response",
+    "status": 200,
+    "headers": {
+      "content-type": "application/json"
+    },
+    "elapsed": 11.47
+  },
+  {
+    "event": "tool_result",
+    "name": "pred_mol_admet",
+    "result": {
+      "meta": null,
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"status\":\"success\",\"msg\":\"ADMET\u9884\u6d4b\u5b8c\u6210\uff0c\u7ed3\u679c\u4fdd\u5b58\u81f3 /data/lwj/wll/code/DrugAgentTools/sxy_sum/source_tree/exp_data/admet_res_20261013_102114.json\",\"json_content\":[{\"smiles\":\"CCO\",\"physicochemical\":{\"molecular_weight\":46.04,\"logp\":-0.0014,\"hbd\":1,\"hba\":1,\"tpsa\":20.23,\"rotatable_bonds\":0,\"aromatic_rings\":0,\"heavy_atoms\":3},\"druglikeness\":{\"lipinski_violations\":0,\"lipinski_pass\":true,\"lipinski_detail\":\"0/4 violations (MW>ok, LogP>ok, HBD>ok, HBA>ok)\",\"veber_pass\":true,\"veber_detail\":\"TPSA=20.23\u2264140, RotBonds=0\u226410\",\"ghose_pass\":false,\"ghose_detail\":\"MW=fail, LogP=ok\"},\"admet_predictions\":{\"molecular_weight\":46.069,\"logP\":-0.0014,\"hydrogen_bond_acceptors\":1.0,\"hydrogen_bond_donors\":1.0,\"Lipinski\":4.0,\"QED\":0.406808,\"stereo_centers\":0.0,\"tpsa\":20.23,\"PAINS_alert\":0.0,\"BRENK_alert\":0.0,\"NIH_alert\":0.0,\"AMES\":0.119806,\"BBB_Martins\":0.979434,\"Bioavailability_Ma\":0.948399,\"CYP1A2_Veith\":0.061701,\"CYP2C19_Veith\":0.011122,\"CYP2C9_Substrate_CarbonMangels\":0.172203,\"CYP2C9_Veith\":0.001726,\"CYP2D6_Substrate_CarbonMangels\":0.165481,\"CYP2D6_Veith\":0.001768,\"CYP3A4_Substrate_CarbonMangels\":0.20178,\"CYP3A4_Veith\":0.000085,\"Carcinogens_Lagunin\":0.277584,\"ClinTox\":0.018932,\"DILI\":0.172905,\"HIA_Hou\":0.999876,\"NR-AR-LBD\":0.002241,\"NR-AR\":0.00443,\"NR-AhR\":0.00274,\"NR-Aromatase\":0.000805,\"NR-ER-LBD\":0.001681,\"NR-ER\":0.021961,\"NR-PPAR-gamma\":0.002176,\"PAMPA_NCATS\":0.951131,\"Pgp_Broccatelli\":0.00046,\"SR-ARE\":0.015041,\"SR-ATAD5\":0.001043,\"SR-HSE\":0.005211,\"SR-MMP\":0.001375,\"SR-p53\":0.001447,\"Skin_Reaction\":0.592744,\"hERG\":0.010121,\"Caco2_Wang\":-3.906823,\"Clearance_Hepatocyte_AZ\":51.560822,\"Clearance_Microsome_AZ\":-22.754692,\"Half_Life_Obach\":10.150722,\"HydrationFreeEnergy_FreeSolv\":-5.115928,\"LD50_Zhu\":1.647119,\"Lipophilicity_AstraZeneca\":-0.322623,\"PPBR_AZ\":10.94454,\"Solubility_AqSolDB\":0.921819,\"VDss_Lombardo\":2.236612,\"molecular_weight_drugbank_approved_percentile\":1.15993,\"logP_drugbank_approved_percentile\":22.460457,\"hydrogen_bond_acceptors_drugbank_approved_percentile\":6.85413,\"hydrogen_bond_donors_drugbank_approved_percentile\":36.59051,\"Lipinski_drugbank_approved_percentile\":63.44464,\"QED_drugbank_approved_percentile\":33.848858,\"stereo_centers_drugbank_approved_percentile\":22.601054,\"tpsa_drugbank_approved_percentile\":9.666081,\"PAINS_alert_drugbank_approved_percentile\":47.592267,\"BRENK_alert_drugbank_approved_percentile\":25.869947,\"NIH_alert_drugbank_approved_percentile\":37.188049,\"AMES_drugbank_approved_percentile\":32.02109,\"BBB_Martins_drugbank_approved_percentile\":89.70123,\"Bioavailability_Ma_drugbank_approved_percentile\":95.360281,\"CYP1A2_Veith_drugbank_approved_percentile\":49.244288,\"CYP2C19_Veith_drugbank_approved_percentile\":16.942004,\"CYP2C9_Substrate_CarbonMangels_drugbank_approved_percentile\":63.128295,\"CYP2C9_Veith_drugbank_approved_percentile\":12.372583,\"CYP2D6_Substrate_CarbonMangels_drugbank_approved_percentile\":63.268893,\"CYP2D6_Veith_drugbank_approved_percentile\":5.659051,\"CYP3A4_Substrate_CarbonMangels_drugbank_approved_percentile\":26.713533,\"CYP3A4_Veith_drugbank_approved_percentile\":4.604569,\"Carcinogens_Lagunin_drugbank_approved_percentile\":73.813708,\"ClinTox_drugbank_approved_percentile\":12.337434,\"DILI_drugbank_approved_percentile\":31.072056,\"HIA_Hou_drugbank_approved_percentile\":72.864675,\"NR-AR-LBD_drugbank_approved_percentile\":13.110721,\"NR-AR_drugbank_approved_percentile\":4.56942,\"NR-AhR_drugbank_approved_percentile\":17.891037,\"NR-Aromatase_drugbank_approved_percentile\":9.068541,\"NR-ER-LBD_drugbank_approved_percentile\":4.674868,\"NR-ER_drugbank_approved_percentile\":2.108963,\"NR-PPAR-gamma_drugbank_approved_percentile\":29.771529,\"PAMPA_NCATS_drugbank_approved_percentile\":79.332162,\"Pgp_Broccatelli_drugbank_approved_percentile\":8.963093,\"SR-ARE_drugbank_approved_percentile\":6.29174,\"SR-ATAD5_drugbank_approved_percentile\":15.887522,\"SR-HSE_drugbank_approved_percentile\":28.892794,\"SR-MMP_drugbank_approved_percentile\":15.465729,\"SR-p53_drugbank_approved_percentile\":7.311072,\"Skin_Reaction_drugbank_approved_percentile\":59.543058,\"hERG_drugbank_approved_percentile\":6.010545,\"Caco2_Wang_drugbank_approved_percentile\":99.086116,\"Clearance_Hepatocyte_AZ_drugbank_approved_percentile\":65.16696,\"Clearance_Microsome_AZ_drugbank_approved_percentile\":6.432337,\"Half_Life_Obach_drugbank_approved_percentile\":40.316344,\"HydrationFreeEnergy_FreeSolv_drugbank_approved_percentile\":93.110721,\"LD50_Zhu_drugbank_approved_percentile\":8.752197,\"Lipophilicity_AstraZeneca_drugbank_approved_percentile\":25.6942,\"PPBR_AZ_drugbank_approved_percentile\":5.202109,\"Solubility_AqSolDB_drugbank_approved_percentile\":99.261863,\"VDss_Lombardo_drugbank_approved_percentile\":57.293497}}],\"json_file\":\"/data/lwj/wll/code/DrugAgentTools/sxy_sum/source_tree/exp_data/admet_res_20261013_102114.json\",\"gpu_assignment\":{\"physical_gpu\":0,\"logical_device\":\"cuda:0\",\"reservation_mib\":1550}}",
+          "annotations": null,
+          "meta": null
+        }
+      ],
+      "structuredContent": {
+        "gpu_assignment": {
+          "logical_device": "cuda:0",
+          "physical_gpu": 0,
+          "reservation_mib": 1550
+        },
+        "json_content": [
+          {
+            "admet_predictions": {
+              "AMES": 0.119806,
+              "AMES_drugbank_approved_percentile": 32.02109,
+              "BBB_Martins": 0.979434,
+              "BBB_Martins_drugbank_approved_percentile": 89.70123,
+              "BRENK_alert": 0,
+              "BRENK_alert_drugbank_approved_percentile": 25.869947,
+              "Bioavailability_Ma": 0.948399,
+              "Bioavailability_Ma_drugbank_approved_percentile": 95.360281,
+              "CYP1A2_Veith": 0.061701,
+              "CYP1A2_Veith_drugbank_approved_percentile": 49.244288,
+              "CYP2C19_Veith": 0.011122,
+              "CYP2C19_Veith_drugbank_approved_percentile": 16.942004,
+              "CYP2C9_Substrate_CarbonMangels": 0.172203,
+              "CYP2C9_Substrate_CarbonMangels_drugbank_approved_percentile": 63.128295,
+              "CYP2C9_Veith": 0.001726,
+              "CYP2C9_Veith_drugbank_approved_percentile": 12.372583,
+              "CYP2D6_Substrate_CarbonMangels": 0.165481,
+              "CYP2D6_Substrate_CarbonMangels_drugbank_approved_percentile": 63.268893,
+              "CYP2D6_Veith": 0.001768,
+              "CYP2D6_Veith_drugbank_approved_percentile": 5.659051,
+              "CYP3A4_Substrate_CarbonMangels": 0.20178,
+              "CYP3A4_Substrate_CarbonMangels_drugbank_approved_percentile": 26.713533,
+              "CYP3A4_Veith": 8.5e-05,
+              "CYP3A4_Veith_drugbank_approved_percentile": 4.604569,
+              "Caco2_Wang": -3.906823,
+              "Caco2_Wang_drugbank_approved_percentile": 99.086116,
+              "Carcinogens_Lagunin": 0.277584,
+              "Carcinogens_Lagunin_drugbank_approved_percentile": 73.813708,
+              "Clearance_Hepatocyte_AZ": 51.560822,
+              "Clearance_Hepatocyte_AZ_drugbank_approved_percentile": 65.16696,
+              "Clearance_Microsome_AZ": -22.754692,
+              "Clearance_Microsome_AZ_drugbank_approved_percentile": 6.432337,
+              "ClinTox": 0.018932,
+              "ClinTox_drugbank_approved_percentile": 12.337434,
+              "DILI": 0.172905,
+              "DILI_drugbank_approved_percentile": 31.072056,
+              "HIA_Hou": 0.999876,
+              "HIA_Hou_drugbank_approved_percentile": 72.864675,
+              "Half_Life_Obach": 10.150722,
+              "Half_Life_Obach_drugbank_approved_percentile": 40.316344,
+              "HydrationFreeEnergy_FreeSolv": -5.115928,
+              "HydrationFreeEnergy_FreeSolv_drugbank_approved_percentile": 93.110721,
+              "LD50_Zhu": 1.647119,
+              "LD50_Zhu_drugbank_approved_percentile": 8.752197,
+              "Lipinski": 4,
+              "Lipinski_drugbank_approved_percentile": 63.44464,
+              "Lipophilicity_AstraZeneca": -0.322623,
+              "Lipophilicity_AstraZeneca_drugbank_approved_percentile": 25.6942,
+              "NIH_alert": 0,
+              "NIH_alert_drugbank_approved_percentile": 37.188049,
+              "NR-AR": 0.00443,
+              "NR-AR-LBD": 0.002241,
+              "NR-AR-LBD_drugbank_approved_percentile": 13.110721,
+              "NR-AR_drugbank_approved_percentile": 4.56942,
+              "NR-AhR": 0.00274,
+              "NR-AhR_drugbank_approved_percentile": 17.891037,
+              "NR-Aromatase": 0.000805,
+              "NR-Aromatase_drugbank_approved_percentile": 9.068541,
+              "NR-ER": 0.021961,
+              "NR-ER-LBD": 0.001681,
+              "NR-ER-LBD_drugbank_approved_percentile": 4.674868,
+              "NR-ER_drugbank_approved_percentile": 2.108963,
+              "NR-PPAR-gamma": 0.002176,
+              "NR-PPAR-gamma_drugbank_approved_percentile": 29.771529,
+              "PAINS_alert": 0,
+              "PAINS_alert_drugbank_approved_percentile": 47.592267,
+              "PAMPA_NCATS": 0.951131,
+              "PAMPA_NCATS_drugbank_approved_percentile": 79.332162,
+              "PPBR_AZ": 10.94454,
+              "PPBR_AZ_drugbank_approved_percentile": 5.202109,
+              "Pgp_Broccatelli": 0.00046,
+              "Pgp_Broccatelli_drugbank_approved_percentile": 8.963093,
+              "QED": 0.406808,
+              "QED_drugbank_approved_percentile": 33.848858,
+              "SR-ARE": 0.015041,
+              "SR-ARE_drugbank_approved_percentile": 6.29174,
+              "SR-ATAD5": 0.001043,
+              "SR-ATAD5_drugbank_approved_percentile": 15.887522,
+              "SR-HSE": 0.005211,
+              "SR-HSE_drugbank_approved_percentile": 28.892794,
+              "SR-MMP": 0.001375,
+              "SR-MMP_drugbank_approved_percentile": 15.465729,
+              "SR-p53": 0.001447,
+              "SR-p53_drugbank_approved_percentile": 7.311072,
+              "Skin_Reaction": 0.592744,
+              "Skin_Reaction_drugbank_approved_percentile": 59.543058,
+              "Solubility_AqSolDB": 0.921819,
+              "Solubility_AqSolDB_drugbank_approved_percentile": 99.261863,
+              "VDss_Lombardo": 2.236612,
+              "VDss_Lombardo_drugbank_approved_percentile": 57.293497,
+              "hERG": 0.010121,
+              "hERG_drugbank_approved_percentile": 6.010545,
+              "hydrogen_bond_acceptors": 1,
+              "hydrogen_bond_acceptors_drugbank_approved_percentile": 6.85413,
+              "hydrogen_bond_donors": 1,
+              "hydrogen_bond_donors_drugbank_approved_percentile": 36.59051,
+              "logP": -0.0014,
+              "logP_drugbank_approved_percentile": 22.460457,
+              "molecular_weight": 46.069,
+              "molecular_weight_drugbank_approved_percentile": 1.15993,
+              "stereo_centers": 0,
+              "stereo_centers_drugbank_approved_percentile": 22.601054,
+              "tpsa": 20.23,
+              "tpsa_drugbank_approved_percentile": 9.666081
+            },
+            "druglikeness": {
+              "ghose_detail": "MW=fail, LogP=ok",
+              "ghose_pass": false,
+              "lipinski_detail": "0/4 violations (MW>ok, LogP>ok, HBD>ok, HBA>ok)",
+              "lipinski_pass": true,
+              "lipinski_violations": 0,
+              "veber_detail": "TPSA=20.23\u2264140, RotBonds=0\u226410",
+              "veber_pass": true
+            },
+            "physicochemical": {
+              "aromatic_rings": 0,
+              "hba": 1,
+              "hbd": 1,
+              "heavy_atoms": 3,
+              "logp": -0.0014,
+              "molecular_weight": 46.04,
+              "rotatable_bonds": 0,
+              "tpsa": 20.23
+            },
+            "smiles": "CCO"
+          }
+        ],
+        "json_file": "/data/lwj/wll/code/DrugAgentTools/sxy_sum/source_tree/exp_data/admet_res_20261013_102114.json",
+        "msg": "ADMET\u9884\u6d4b\u5b8c\u6210\uff0c\u7ed3\u679c\u4fdd\u5b58\u81f3 /data/lwj/wll/code/DrugAgentTools/sxy_sum/source_tree/exp_data/admet_res_20261013_102114.json",
+        "status": "success"
+      },
+      "isError": false
+    },
+    "elapsed": 11.47
+  }
+]

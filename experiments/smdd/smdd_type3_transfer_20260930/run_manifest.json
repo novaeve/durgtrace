@@ -1,0 +1,14 @@
+{
+  "benchmark": "SMDD-type3",
+  "tasks": 52,
+  "model": "deepseek-v4.1-flash",
+  "enable_thinking": true,
+  "reasoning_effort": "high",
+  "started": 1790768986.519139,
+  "processes": {
+    "deepseek": 4121057,
+    "chatdrug": 4121058,
+    "agentdrug": 4121059,
+    "evaluation": 4121060
+  }
+}

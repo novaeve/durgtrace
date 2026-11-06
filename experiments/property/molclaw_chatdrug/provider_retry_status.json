@@ -1,0 +1,22 @@
+{
+  "time": 1791835050.6514955,
+  "phase": "complete",
+  "ids": [
+    "source_108_loose_013",
+    "source_106_loose_065"
+  ],
+  "active": 0,
+  "results": [
+    {
+      "id": "source_108_loose_013",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "id": "source_106_loose_065",
+      "status": "complete",
+      "error": null
+    }
+  ],
+  "execution_errors": []
+}

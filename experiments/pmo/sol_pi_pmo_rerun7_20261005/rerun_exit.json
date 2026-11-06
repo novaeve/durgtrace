@@ -1,0 +1,18 @@
+{
+  "finished": true,
+  "tasks": [
+    "gsk3b",
+    "isomers_c7h8n2o2",
+    "median2",
+    "osimertinib_mpo",
+    "ranolazine_mpo",
+    "sitagliptin_mpo",
+    "valsartan_smarts"
+  ],
+  "planned": 7,
+  "completed": 5,
+  "all_tasks_completed": false,
+  "started": 1791131335.1601188,
+  "ended": 1791135768.6493094,
+  "original_results_unchanged": true
+}

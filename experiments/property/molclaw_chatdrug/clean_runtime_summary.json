@@ -1,0 +1,169 @@
+{
+  "time": 1791863457.3540714,
+  "clean_definition": "No recorded infrastructure/protocol errors and fewer than two long sleep polling calls; excludes resumed episodes",
+  "clean": {
+    "n": 562,
+    "minutes": {
+      "0.5": 4.06,
+      "0.75": 8.11,
+      "0.9": 12.41,
+      "0.95": 16.56,
+      "0.99": 28.82,
+      "1": 57.66
+    }
+  },
+  "zero_tool_errors": {
+    "n": 317,
+    "minutes": {
+      "0.5": 3.24,
+      "0.75": 6.39,
+      "0.9": 10.82,
+      "0.95": 14.3,
+      "0.99": 22.4,
+      "1": 172.93
+    }
+  },
+  "resumed_to_finish": {
+    "n": 26,
+    "minutes": {
+      "0.5": 3.15,
+      "0.75": 5.21,
+      "0.9": 14.25,
+      "0.95": 18.01,
+      "0.99": 24.29,
+      "1": 43.43
+    }
+  },
+  "resumed_cases": [
+    {
+      "id": "source_105_loose_064",
+      "seconds": 226.90091633796692,
+      "status": "complete"
+    },
+    {
+      "id": "source_106_loose_072",
+      "seconds": 223.2494297027588,
+      "status": "complete"
+    },
+    {
+      "id": "source_105_loose_137",
+      "seconds": 312.7480788230896,
+      "status": "complete"
+    },
+    {
+      "id": "source_106_loose_098",
+      "seconds": 138.4285864830017,
+      "status": "complete"
+    },
+    {
+      "id": "source_106_loose_141",
+      "seconds": 94.22674131393433,
+      "status": "complete"
+    },
+    {
+      "id": "source_106_loose_119",
+      "seconds": 188.9343593120575,
+      "status": "complete"
+    },
+    {
+      "id": "source_201_loose_004",
+      "seconds": 124.7139663696289,
+      "status": "complete"
+    },
+    {
+      "id": "source_106_strict_129",
+      "seconds": 253.26261496543884,
+      "status": "complete"
+    },
+    {
+      "id": "source_201_loose_159",
+      "seconds": 77.65698671340942,
+      "status": "complete"
+    },
+    {
+      "id": "source_201_loose_088",
+      "seconds": 188.97527384757996,
+      "status": "complete"
+    },
+    {
+      "id": "source_108_loose_177",
+      "seconds": 369.82630157470703,
+      "status": "complete"
+    },
+    {
+      "id": "source_201_strict_112",
+      "seconds": 62.160537004470825,
+      "status": "complete"
+    },
+    {
+      "id": "source_203_loose_154",
+      "seconds": 129.97836899757385,
+      "status": "complete"
+    },
+    {
+      "id": "source_106_loose_043",
+      "seconds": 1080.3181788921356,
+      "status": "complete"
+    },
+    {
+      "id": "source_203_loose_056",
+      "seconds": 383.4389262199402,
+      "status": "complete"
+    },
+    {
+      "id": "source_204_strict_070",
+      "seconds": 100.80725860595703,
+      "status": "complete"
+    },
+    {
+      "id": "source_205_loose_062",
+      "seconds": 285.46727228164673,
+      "status": "complete"
+    },
+    {
+      "id": "source_205_loose_073",
+      "seconds": 152.1822531223297,
+      "status": "complete"
+    },
+    {
+      "id": "source_205_loose_055",
+      "seconds": 582.253867149353,
+      "status": "complete"
+    },
+    {
+      "id": "source_205_loose_126",
+      "seconds": 242.04022884368896,
+      "status": "complete"
+    },
+    {
+      "id": "source_205_loose_133",
+      "seconds": 136.73202323913574,
+      "status": "complete"
+    },
+    {
+      "id": "source_202_loose_098",
+      "seconds": 1457.1421365737915,
+      "status": "complete"
+    },
+    {
+      "id": "source_205_strict_038",
+      "seconds": 124.78537964820862,
+      "status": "complete"
+    },
+    {
+      "id": "source_205_strict_054",
+      "seconds": 173.17001247406006,
+      "status": "complete"
+    },
+    {
+      "id": "source_205_loose_185",
+      "seconds": 855.1624956130981,
+      "status": "complete"
+    },
+    {
+      "id": "source_204_strict_067",
+      "seconds": 2605.7985985279083,
+      "status": "complete"
+    }
+  ]
+}

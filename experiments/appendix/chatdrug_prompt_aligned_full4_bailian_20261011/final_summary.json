@@ -1,0 +1,1190 @@
+{
+  "expected_per_method": 5600,
+  "expected_total": 22400,
+  "reference_sha256": "d118b671cfa62b74f5366eddbd2296e3c23fb7f0ac59f1ed49e4cb62aeefdccf",
+  "methods": {
+    "MolLingo_single": {
+      "processed": 5600,
+      "complete": 5600,
+      "statuses": {
+        "complete": 5600
+      },
+      "reused": 320,
+      "success": 4274,
+      "valid": 5504,
+      "final_success_rate": 0.7632142857142857,
+      "final_audit_passed": true
+    },
+    "MolClaw": {
+      "processed": 5600,
+      "complete": 5577,
+      "statuses": {
+        "complete": 5577,
+        "error": 23
+      },
+      "reused": 320,
+      "success": 4870,
+      "valid": 5396,
+      "final_success_rate": 0.8696428571428572,
+      "final_audit_passed": true
+    },
+    "SoL-pi": {
+      "processed": 5600,
+      "complete": 5316,
+      "statuses": {
+        "complete": 5316,
+        "provider_limit": 265,
+        "timeout": 19
+      },
+      "reused": 0,
+      "success": 4975,
+      "valid": 5313,
+      "final_success_rate": 0.8883928571428571,
+      "final_audit_passed": true
+    },
+    "Codex": {
+      "processed": 5600,
+      "complete": 5436,
+      "statuses": {
+        "complete": 5436,
+        "provider_limit": 139,
+        "error": 3,
+        "timeout": 22
+      },
+      "reused": 1273,
+      "success": 4606,
+      "valid": 5424,
+      "final_success_rate": 0.8225,
+      "final_audit_passed": true
+    }
+  },
+  "time": 1791870414.23816,
+  "processed_total": 22400,
+  "all_finished": true,
+  "audits": {
+    "MolLingo_single": {
+      "method": "MolLingo_single",
+      "checked": 5600,
+      "rdkit": "2022.09.4",
+      "passed": true,
+      "issues": [],
+      "result_bytes_sha256": "3ada48a95e64034820a8aee46bfb236381d8dd3a981d297bfdf9bb0f94e2ac2b",
+      "groups": {
+        "all": {
+          "n": 5600,
+          "valid": 5504,
+          "success": 4274,
+          "rate": 0.7632142857142857
+        },
+        "101": {
+          "n": 400,
+          "valid": 394,
+          "success": 390,
+          "rate": 0.975
+        },
+        "101_loose": {
+          "n": 200,
+          "valid": 196,
+          "success": 194,
+          "rate": 0.97
+        },
+        "single": {
+          "n": 3200,
+          "valid": 3154,
+          "success": 2871,
+          "rate": 0.8971875
+        },
+        "101_strict": {
+          "n": 200,
+          "valid": 198,
+          "success": 196,
+          "rate": 0.98
+        },
+        "102": {
+          "n": 400,
+          "valid": 395,
+          "success": 386,
+          "rate": 0.965
+        },
+        "102_loose": {
+          "n": 200,
+          "valid": 198,
+          "success": 193,
+          "rate": 0.965
+        },
+        "102_strict": {
+          "n": 200,
+          "valid": 197,
+          "success": 193,
+          "rate": 0.965
+        },
+        "103": {
+          "n": 400,
+          "valid": 394,
+          "success": 239,
+          "rate": 0.5975
+        },
+        "103_loose": {
+          "n": 200,
+          "valid": 198,
+          "success": 114,
+          "rate": 0.57
+        },
+        "103_strict": {
+          "n": 200,
+          "valid": 196,
+          "success": 125,
+          "rate": 0.625
+        },
+        "104": {
+          "n": 400,
+          "valid": 400,
+          "success": 368,
+          "rate": 0.92
+        },
+        "104_loose": {
+          "n": 200,
+          "valid": 200,
+          "success": 181,
+          "rate": 0.905
+        },
+        "104_strict": {
+          "n": 200,
+          "valid": 200,
+          "success": 187,
+          "rate": 0.935
+        },
+        "105": {
+          "n": 400,
+          "valid": 388,
+          "success": 343,
+          "rate": 0.8575
+        },
+        "105_loose": {
+          "n": 200,
+          "valid": 195,
+          "success": 170,
+          "rate": 0.85
+        },
+        "105_strict": {
+          "n": 200,
+          "valid": 193,
+          "success": 173,
+          "rate": 0.865
+        },
+        "106": {
+          "n": 400,
+          "valid": 400,
+          "success": 391,
+          "rate": 0.9775
+        },
+        "106_loose": {
+          "n": 200,
+          "valid": 200,
+          "success": 196,
+          "rate": 0.98
+        },
+        "106_strict": {
+          "n": 200,
+          "valid": 200,
+          "success": 195,
+          "rate": 0.975
+        },
+        "107": {
+          "n": 400,
+          "valid": 393,
+          "success": 378,
+          "rate": 0.945
+        },
+        "107_loose": {
+          "n": 200,
+          "valid": 195,
+          "success": 186,
+          "rate": 0.93
+        },
+        "107_strict": {
+          "n": 200,
+          "valid": 198,
+          "success": 192,
+          "rate": 0.96
+        },
+        "108": {
+          "n": 400,
+          "valid": 390,
+          "success": 376,
+          "rate": 0.94
+        },
+        "108_loose": {
+          "n": 200,
+          "valid": 194,
+          "success": 189,
+          "rate": 0.945
+        },
+        "108_strict": {
+          "n": 200,
+          "valid": 196,
+          "success": 187,
+          "rate": 0.935
+        },
+        "201": {
+          "n": 400,
+          "valid": 395,
+          "success": 371,
+          "rate": 0.9275
+        },
+        "201_loose": {
+          "n": 200,
+          "valid": 199,
+          "success": 187,
+          "rate": 0.935
+        },
+        "multi": {
+          "n": 2400,
+          "valid": 2350,
+          "success": 1403,
+          "rate": 0.5845833333333333
+        },
+        "201_strict": {
+          "n": 200,
+          "valid": 196,
+          "success": 184,
+          "rate": 0.92
+        },
+        "202": {
+          "n": 400,
+          "valid": 380,
+          "success": 129,
+          "rate": 0.3225
+        },
+        "202_loose": {
+          "n": 200,
+          "valid": 190,
+          "success": 68,
+          "rate": 0.34
+        },
+        "202_strict": {
+          "n": 200,
+          "valid": 190,
+          "success": 61,
+          "rate": 0.305
+        },
+        "203": {
+          "n": 400,
+          "valid": 398,
+          "success": 384,
+          "rate": 0.96
+        },
+        "203_loose": {
+          "n": 200,
+          "valid": 200,
+          "success": 192,
+          "rate": 0.96
+        },
+        "203_strict": {
+          "n": 200,
+          "valid": 198,
+          "success": 192,
+          "rate": 0.96
+        },
+        "204": {
+          "n": 400,
+          "valid": 385,
+          "success": 108,
+          "rate": 0.27
+        },
+        "204_loose": {
+          "n": 200,
+          "valid": 192,
+          "success": 49,
+          "rate": 0.245
+        },
+        "204_strict": {
+          "n": 200,
+          "valid": 193,
+          "success": 59,
+          "rate": 0.295
+        },
+        "205": {
+          "n": 400,
+          "valid": 394,
+          "success": 24,
+          "rate": 0.06
+        },
+        "205_loose": {
+          "n": 200,
+          "valid": 197,
+          "success": 13,
+          "rate": 0.065
+        },
+        "205_strict": {
+          "n": 200,
+          "valid": 197,
+          "success": 11,
+          "rate": 0.055
+        },
+        "206": {
+          "n": 400,
+          "valid": 398,
+          "success": 387,
+          "rate": 0.9675
+        },
+        "206_loose": {
+          "n": 200,
+          "valid": 200,
+          "success": 195,
+          "rate": 0.975
+        },
+        "206_strict": {
+          "n": 200,
+          "valid": 198,
+          "success": 192,
+          "rate": 0.96
+        }
+      },
+      "time": 1791733288.8365908
+    },
+    "SoL-pi": {
+      "method": "SoL-pi",
+      "checked": 5600,
+      "rdkit": "2022.09.4",
+      "passed": true,
+      "issues": [],
+      "result_bytes_sha256": "b4ada2e22353bf624e233017097ecae4830ebb6b897cffddae16d4911f488ac3",
+      "groups": {
+        "all": {
+          "n": 5600,
+          "valid": 5313,
+          "success": 4975,
+          "rate": 0.8883928571428571
+        },
+        "101": {
+          "n": 400,
+          "valid": 396,
+          "success": 396,
+          "rate": 0.99
+        },
+        "101_loose": {
+          "n": 200,
+          "valid": 198,
+          "success": 198,
+          "rate": 0.99
+        },
+        "single": {
+          "n": 3200,
+          "valid": 2935,
+          "success": 2927,
+          "rate": 0.9146875
+        },
+        "101_strict": {
+          "n": 200,
+          "valid": 198,
+          "success": 198,
+          "rate": 0.99
+        },
+        "102": {
+          "n": 400,
+          "valid": 398,
+          "success": 398,
+          "rate": 0.995
+        },
+        "102_loose": {
+          "n": 200,
+          "valid": 199,
+          "success": 199,
+          "rate": 0.995
+        },
+        "102_strict": {
+          "n": 200,
+          "valid": 199,
+          "success": 199,
+          "rate": 0.995
+        },
+        "103": {
+          "n": 400,
+          "valid": 208,
+          "success": 208,
+          "rate": 0.52
+        },
+        "103_loose": {
+          "n": 200,
+          "valid": 111,
+          "success": 111,
+          "rate": 0.555
+        },
+        "103_strict": {
+          "n": 200,
+          "valid": 97,
+          "success": 97,
+          "rate": 0.485
+        },
+        "104": {
+          "n": 400,
+          "valid": 342,
+          "success": 342,
+          "rate": 0.855
+        },
+        "104_loose": {
+          "n": 200,
+          "valid": 174,
+          "success": 174,
+          "rate": 0.87
+        },
+        "104_strict": {
+          "n": 200,
+          "valid": 168,
+          "success": 168,
+          "rate": 0.84
+        },
+        "105": {
+          "n": 400,
+          "valid": 394,
+          "success": 387,
+          "rate": 0.9675
+        },
+        "105_loose": {
+          "n": 200,
+          "valid": 199,
+          "success": 196,
+          "rate": 0.98
+        },
+        "105_strict": {
+          "n": 200,
+          "valid": 195,
+          "success": 191,
+          "rate": 0.955
+        },
+        "106": {
+          "n": 400,
+          "valid": 398,
+          "success": 397,
+          "rate": 0.9925
+        },
+        "106_loose": {
+          "n": 200,
+          "valid": 199,
+          "success": 199,
+          "rate": 0.995
+        },
+        "106_strict": {
+          "n": 200,
+          "valid": 199,
+          "success": 198,
+          "rate": 0.99
+        },
+        "107": {
+          "n": 400,
+          "valid": 400,
+          "success": 400,
+          "rate": 1.0
+        },
+        "107_loose": {
+          "n": 200,
+          "valid": 200,
+          "success": 200,
+          "rate": 1.0
+        },
+        "107_strict": {
+          "n": 200,
+          "valid": 200,
+          "success": 200,
+          "rate": 1.0
+        },
+        "108": {
+          "n": 400,
+          "valid": 399,
+          "success": 399,
+          "rate": 0.9975
+        },
+        "108_loose": {
+          "n": 200,
+          "valid": 200,
+          "success": 200,
+          "rate": 1.0
+        },
+        "108_strict": {
+          "n": 200,
+          "valid": 199,
+          "success": 199,
+          "rate": 0.995
+        },
+        "201": {
+          "n": 400,
+          "valid": 399,
+          "success": 399,
+          "rate": 0.9975
+        },
+        "201_loose": {
+          "n": 200,
+          "valid": 199,
+          "success": 199,
+          "rate": 0.995
+        },
+        "multi": {
+          "n": 2400,
+          "valid": 2378,
+          "success": 2048,
+          "rate": 0.8533333333333334
+        },
+        "201_strict": {
+          "n": 200,
+          "valid": 200,
+          "success": 200,
+          "rate": 1.0
+        },
+        "202": {
+          "n": 400,
+          "valid": 398,
+          "success": 363,
+          "rate": 0.9075
+        },
+        "202_loose": {
+          "n": 200,
+          "valid": 199,
+          "success": 186,
+          "rate": 0.93
+        },
+        "202_strict": {
+          "n": 200,
+          "valid": 199,
+          "success": 177,
+          "rate": 0.885
+        },
+        "203": {
+          "n": 400,
+          "valid": 400,
+          "success": 400,
+          "rate": 1.0
+        },
+        "203_loose": {
+          "n": 200,
+          "valid": 200,
+          "success": 200,
+          "rate": 1.0
+        },
+        "203_strict": {
+          "n": 200,
+          "valid": 200,
+          "success": 200,
+          "rate": 1.0
+        },
+        "204": {
+          "n": 400,
+          "valid": 398,
+          "success": 328,
+          "rate": 0.82
+        },
+        "204_loose": {
+          "n": 200,
+          "valid": 199,
+          "success": 161,
+          "rate": 0.805
+        },
+        "204_strict": {
+          "n": 200,
+          "valid": 199,
+          "success": 167,
+          "rate": 0.835
+        },
+        "205": {
+          "n": 400,
+          "valid": 385,
+          "success": 161,
+          "rate": 0.4025
+        },
+        "205_loose": {
+          "n": 200,
+          "valid": 195,
+          "success": 81,
+          "rate": 0.405
+        },
+        "205_strict": {
+          "n": 200,
+          "valid": 190,
+          "success": 80,
+          "rate": 0.4
+        },
+        "206": {
+          "n": 400,
+          "valid": 398,
+          "success": 397,
+          "rate": 0.9925
+        },
+        "206_loose": {
+          "n": 200,
+          "valid": 198,
+          "success": 197,
+          "rate": 0.985
+        },
+        "206_strict": {
+          "n": 200,
+          "valid": 200,
+          "success": 200,
+          "rate": 1.0
+        }
+      },
+      "time": 1791756335.0043473
+    },
+    "Codex": {
+      "method": "Codex",
+      "checked": 5600,
+      "rdkit": "2022.09.4",
+      "passed": true,
+      "issues": [],
+      "result_bytes_sha256": "3f0983deaecc503171c60f82dd9398cf6c0921280e4d9de77d0b9982859c5f0f",
+      "groups": {
+        "all": {
+          "n": 5600,
+          "valid": 5424,
+          "success": 4606,
+          "rate": 0.8225
+        },
+        "101": {
+          "n": 400,
+          "valid": 398,
+          "success": 392,
+          "rate": 0.98
+        },
+        "101_loose": {
+          "n": 200,
+          "valid": 200,
+          "success": 199,
+          "rate": 0.995
+        },
+        "single": {
+          "n": 3200,
+          "valid": 3067,
+          "success": 2987,
+          "rate": 0.9334375
+        },
+        "101_strict": {
+          "n": 200,
+          "valid": 198,
+          "success": 193,
+          "rate": 0.965
+        },
+        "102": {
+          "n": 400,
+          "valid": 390,
+          "success": 390,
+          "rate": 0.975
+        },
+        "102_loose": {
+          "n": 200,
+          "valid": 196,
+          "success": 196,
+          "rate": 0.98
+        },
+        "102_strict": {
+          "n": 200,
+          "valid": 194,
+          "success": 194,
+          "rate": 0.97
+        },
+        "103": {
+          "n": 400,
+          "valid": 346,
+          "success": 342,
+          "rate": 0.855
+        },
+        "103_loose": {
+          "n": 200,
+          "valid": 177,
+          "success": 176,
+          "rate": 0.88
+        },
+        "103_strict": {
+          "n": 200,
+          "valid": 169,
+          "success": 166,
+          "rate": 0.83
+        },
+        "104": {
+          "n": 400,
+          "valid": 362,
+          "success": 358,
+          "rate": 0.895
+        },
+        "104_loose": {
+          "n": 200,
+          "valid": 180,
+          "success": 178,
+          "rate": 0.89
+        },
+        "104_strict": {
+          "n": 200,
+          "valid": 182,
+          "success": 180,
+          "rate": 0.9
+        },
+        "105": {
+          "n": 400,
+          "valid": 387,
+          "success": 332,
+          "rate": 0.83
+        },
+        "105_loose": {
+          "n": 200,
+          "valid": 195,
+          "success": 171,
+          "rate": 0.855
+        },
+        "105_strict": {
+          "n": 200,
+          "valid": 192,
+          "success": 161,
+          "rate": 0.805
+        },
+        "106": {
+          "n": 400,
+          "valid": 395,
+          "success": 385,
+          "rate": 0.9625
+        },
+        "106_loose": {
+          "n": 200,
+          "valid": 197,
+          "success": 193,
+          "rate": 0.965
+        },
+        "106_strict": {
+          "n": 200,
+          "valid": 198,
+          "success": 192,
+          "rate": 0.96
+        },
+        "107": {
+          "n": 400,
+          "valid": 392,
+          "success": 391,
+          "rate": 0.9775
+        },
+        "107_loose": {
+          "n": 200,
+          "valid": 198,
+          "success": 197,
+          "rate": 0.985
+        },
+        "107_strict": {
+          "n": 200,
+          "valid": 194,
+          "success": 194,
+          "rate": 0.97
+        },
+        "108": {
+          "n": 400,
+          "valid": 397,
+          "success": 397,
+          "rate": 0.9925
+        },
+        "108_loose": {
+          "n": 200,
+          "valid": 197,
+          "success": 197,
+          "rate": 0.985
+        },
+        "108_strict": {
+          "n": 200,
+          "valid": 200,
+          "success": 200,
+          "rate": 1.0
+        },
+        "201": {
+          "n": 400,
+          "valid": 390,
+          "success": 386,
+          "rate": 0.965
+        },
+        "201_loose": {
+          "n": 200,
+          "valid": 198,
+          "success": 196,
+          "rate": 0.98
+        },
+        "multi": {
+          "n": 2400,
+          "valid": 2357,
+          "success": 1619,
+          "rate": 0.6745833333333333
+        },
+        "201_strict": {
+          "n": 200,
+          "valid": 192,
+          "success": 190,
+          "rate": 0.95
+        },
+        "202": {
+          "n": 400,
+          "valid": 390,
+          "success": 260,
+          "rate": 0.65
+        },
+        "202_loose": {
+          "n": 200,
+          "valid": 193,
+          "success": 128,
+          "rate": 0.64
+        },
+        "202_strict": {
+          "n": 200,
+          "valid": 197,
+          "success": 132,
+          "rate": 0.66
+        },
+        "203": {
+          "n": 400,
+          "valid": 395,
+          "success": 395,
+          "rate": 0.9875
+        },
+        "203_loose": {
+          "n": 200,
+          "valid": 197,
+          "success": 197,
+          "rate": 0.985
+        },
+        "203_strict": {
+          "n": 200,
+          "valid": 198,
+          "success": 198,
+          "rate": 0.99
+        },
+        "204": {
+          "n": 400,
+          "valid": 394,
+          "success": 162,
+          "rate": 0.405
+        },
+        "204_loose": {
+          "n": 200,
+          "valid": 196,
+          "success": 78,
+          "rate": 0.39
+        },
+        "204_strict": {
+          "n": 200,
+          "valid": 198,
+          "success": 84,
+          "rate": 0.42
+        },
+        "205": {
+          "n": 400,
+          "valid": 392,
+          "success": 28,
+          "rate": 0.07
+        },
+        "205_loose": {
+          "n": 200,
+          "valid": 195,
+          "success": 12,
+          "rate": 0.06
+        },
+        "205_strict": {
+          "n": 200,
+          "valid": 197,
+          "success": 16,
+          "rate": 0.08
+        },
+        "206": {
+          "n": 400,
+          "valid": 396,
+          "success": 388,
+          "rate": 0.97
+        },
+        "206_loose": {
+          "n": 200,
+          "valid": 200,
+          "success": 196,
+          "rate": 0.98
+        },
+        "206_strict": {
+          "n": 200,
+          "valid": 196,
+          "success": 192,
+          "rate": 0.96
+        }
+      },
+      "time": 1791764804.306204
+    },
+    "MolClaw": {
+      "method": "MolClaw",
+      "checked": 5600,
+      "rdkit": "2022.09.4",
+      "passed": true,
+      "issues": [],
+      "result_bytes_sha256": "6fac18406615e81ce614dbce0744b6b0affe611409877d5a1ca26469f31f7b48",
+      "groups": {
+        "all": {
+          "n": 5600,
+          "valid": 5396,
+          "success": 4870,
+          "rate": 0.8696428571428572
+        },
+        "101": {
+          "n": 400,
+          "valid": 392,
+          "success": 392,
+          "rate": 0.98
+        },
+        "101_loose": {
+          "n": 200,
+          "valid": 197,
+          "success": 197,
+          "rate": 0.985
+        },
+        "single": {
+          "n": 3200,
+          "valid": 3104,
+          "success": 3033,
+          "rate": 0.9478125
+        },
+        "101_strict": {
+          "n": 200,
+          "valid": 195,
+          "success": 195,
+          "rate": 0.975
+        },
+        "102": {
+          "n": 400,
+          "valid": 391,
+          "success": 391,
+          "rate": 0.9775
+        },
+        "102_loose": {
+          "n": 200,
+          "valid": 196,
+          "success": 196,
+          "rate": 0.98
+        },
+        "102_strict": {
+          "n": 200,
+          "valid": 195,
+          "success": 195,
+          "rate": 0.975
+        },
+        "103": {
+          "n": 400,
+          "valid": 392,
+          "success": 392,
+          "rate": 0.98
+        },
+        "103_loose": {
+          "n": 200,
+          "valid": 198,
+          "success": 198,
+          "rate": 0.99
+        },
+        "103_strict": {
+          "n": 200,
+          "valid": 194,
+          "success": 194,
+          "rate": 0.97
+        },
+        "104": {
+          "n": 400,
+          "valid": 393,
+          "success": 392,
+          "rate": 0.98
+        },
+        "104_loose": {
+          "n": 200,
+          "valid": 196,
+          "success": 196,
+          "rate": 0.98
+        },
+        "104_strict": {
+          "n": 200,
+          "valid": 197,
+          "success": 196,
+          "rate": 0.98
+        },
+        "105": {
+          "n": 400,
+          "valid": 367,
+          "success": 306,
+          "rate": 0.765
+        },
+        "105_loose": {
+          "n": 200,
+          "valid": 181,
+          "success": 154,
+          "rate": 0.77
+        },
+        "105_strict": {
+          "n": 200,
+          "valid": 186,
+          "success": 152,
+          "rate": 0.76
+        },
+        "106": {
+          "n": 400,
+          "valid": 379,
+          "success": 370,
+          "rate": 0.925
+        },
+        "106_loose": {
+          "n": 200,
+          "valid": 189,
+          "success": 183,
+          "rate": 0.915
+        },
+        "106_strict": {
+          "n": 200,
+          "valid": 190,
+          "success": 187,
+          "rate": 0.935
+        },
+        "107": {
+          "n": 400,
+          "valid": 395,
+          "success": 395,
+          "rate": 0.9875
+        },
+        "107_loose": {
+          "n": 200,
+          "valid": 198,
+          "success": 198,
+          "rate": 0.99
+        },
+        "107_strict": {
+          "n": 200,
+          "valid": 197,
+          "success": 197,
+          "rate": 0.985
+        },
+        "108": {
+          "n": 400,
+          "valid": 395,
+          "success": 395,
+          "rate": 0.9875
+        },
+        "108_loose": {
+          "n": 200,
+          "valid": 198,
+          "success": 198,
+          "rate": 0.99
+        },
+        "108_strict": {
+          "n": 200,
+          "valid": 197,
+          "success": 197,
+          "rate": 0.985
+        },
+        "201": {
+          "n": 400,
+          "valid": 385,
+          "success": 384,
+          "rate": 0.96
+        },
+        "201_loose": {
+          "n": 200,
+          "valid": 190,
+          "success": 189,
+          "rate": 0.945
+        },
+        "multi": {
+          "n": 2400,
+          "valid": 2292,
+          "success": 1837,
+          "rate": 0.7654166666666666
+        },
+        "201_strict": {
+          "n": 200,
+          "valid": 195,
+          "success": 195,
+          "rate": 0.975
+        },
+        "202": {
+          "n": 400,
+          "valid": 383,
+          "success": 325,
+          "rate": 0.8125
+        },
+        "202_loose": {
+          "n": 200,
+          "valid": 187,
+          "success": 155,
+          "rate": 0.775
+        },
+        "202_strict": {
+          "n": 200,
+          "valid": 196,
+          "success": 170,
+          "rate": 0.85
+        },
+        "203": {
+          "n": 400,
+          "valid": 386,
+          "success": 385,
+          "rate": 0.9625
+        },
+        "203_loose": {
+          "n": 200,
+          "valid": 191,
+          "success": 191,
+          "rate": 0.955
+        },
+        "203_strict": {
+          "n": 200,
+          "valid": 195,
+          "success": 194,
+          "rate": 0.97
+        },
+        "204": {
+          "n": 400,
+          "valid": 379,
+          "success": 267,
+          "rate": 0.6675
+        },
+        "204_loose": {
+          "n": 200,
+          "valid": 189,
+          "success": 134,
+          "rate": 0.67
+        },
+        "204_strict": {
+          "n": 200,
+          "valid": 190,
+          "success": 133,
+          "rate": 0.665
+        },
+        "205": {
+          "n": 400,
+          "valid": 373,
+          "success": 94,
+          "rate": 0.235
+        },
+        "205_loose": {
+          "n": 200,
+          "valid": 184,
+          "success": 44,
+          "rate": 0.22
+        },
+        "205_strict": {
+          "n": 200,
+          "valid": 189,
+          "success": 50,
+          "rate": 0.25
+        },
+        "206": {
+          "n": 400,
+          "valid": 386,
+          "success": 382,
+          "rate": 0.955
+        },
+        "206_loose": {
+          "n": 200,
+          "valid": 189,
+          "success": 187,
+          "rate": 0.935
+        },
+        "206_strict": {
+          "n": 200,
+          "valid": 197,
+          "success": 195,
+          "rate": 0.975
+        }
+      },
+      "time": 1791870420.818978
+    }
+  }
+}

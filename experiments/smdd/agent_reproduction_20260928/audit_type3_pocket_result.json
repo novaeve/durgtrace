@@ -1,0 +1,579 @@
+{
+  "total": 52,
+  "ok": 52,
+  "results": [
+    {
+      "task": "smdd_003_1JVP_1",
+      "status": "ok",
+      "pocket_atoms": 440,
+      "center": [
+        4.861655172413793,
+        -8.398724137931033,
+        -8.543793103448278
+      ],
+      "protein_chains": 1
+    },
+    {
+      "task": "smdd_003_2VQM_0",
+      "status": "ok",
+      "pocket_atoms": 367,
+      "center": [
+        -0.39296153846153814,
+        -8.308076923076923,
+        14.377769230769234
+      ],
+      "protein_chains": 1
+    },
+    {
+      "task": "smdd_003_2VQM_1",
+      "status": "ok",
+      "pocket_atoms": 386,
+      "center": [
+        -17.793774193548387,
+        3.9587096774193555,
+        0.20493548387096774
+      ],
+      "protein_chains": 1
+    },
+    {
+      "task": "smdd_003_2VQM_2",
+      "status": "ok",
+      "pocket_atoms": 359,
+      "center": [
+        0.30827906976744174,
+        15.61574418604651,
+        -4.18046511627907
+      ],
+      "protein_chains": 1
+    },
+    {
+      "task": "smdd_003_3FFG_0",
+      "status": "ok",
+      "pocket_atoms": 398,
+      "center": [
+        -6.447777777777777,
+        -9.565888888888887,
+        -11.20372222222222
+      ],
+      "protein_chains": 2
+    },
+    {
+      "task": "smdd_003_3FFG_1",
+      "status": "ok",
+      "pocket_atoms": 396,
+      "center": [
+        -8.385081081081083,
+        16.817675675675673,
+        1.6227027027027026
+      ],
+      "protein_chains": 2
+    },
+    {
+      "task": "smdd_003_3FFG_2",
+      "status": "ok",
+      "pocket_atoms": 390,
+      "center": [
+        -5.631675675675676,
+        15.865675675675678,
+        -5.3011621621621625
+      ],
+      "protein_chains": 2
+    },
+    {
+      "task": "smdd_003_3GHW_0",
+      "status": "ok",
+      "pocket_atoms": 478,
+      "center": [
+        7.3919375,
+        -1.1230937500000002,
+        2.2854374999999996
+      ],
+      "protein_chains": 1
+    },
+    {
+      "task": "smdd_003_3GHW_1",
+      "status": "ok",
+      "pocket_atoms": 528,
+      "center": [
+        -0.5028333333333331,
+        7.332041666666668,
+        2.0929583333333333
+      ],
+      "protein_chains": 1
+    },
+    {
+      "task": "smdd_003_3GHW_2",
+      "status": "ok",
+      "pocket_atoms": 516,
+      "center": [
+        -5.294000000000001,
+        -4.367766666666667,
+        -2.111166666666667
+      ],
+      "protein_chains": 1
+    },
+    {
+      "task": "smdd_003_3KWZ_0",
+      "status": "ok",
+      "pocket_atoms": 368,
+      "center": [
+        -0.4403636363636366,
+        12.924454545454545,
+        -1.0956818181818182
+      ],
+      "protein_chains": 1
+    },
+    {
+      "task": "smdd_003_3KWZ_1",
+      "status": "ok",
+      "pocket_atoms": 275,
+      "center": [
+        -1.1794565217391306,
+        14.206891304347828,
+        -7.341456521739134
+      ],
+      "protein_chains": 1
+    },
+    {
+      "task": "smdd_003_3KWZ_2",
+      "status": "ok",
+      "pocket_atoms": 319,
+      "center": [
+        8.09409756097561,
+        -4.359487804878049,
+        -7.445024390243903
+      ],
+      "protein_chains": 1
+    },
+    {
+      "task": "smdd_003_3QAR_2",
+      "status": "ok",
+      "pocket_atoms": 524,
+      "center": [
+        -1.8723157894736842,
+        -15.931947368421055,
+        -11.409789473684208
+      ],
+      "protein_chains": 1
+    },
+    {
+      "task": "smdd_003_3QX5_0",
+      "status": "ok",
+      "pocket_atoms": 444,
+      "center": [
+        7.48396551724138,
+        -1.479068965517242,
+        -11.289137931034482
+      ],
+      "protein_chains": 3
+    },
+    {
+      "task": "smdd_003_3QX5_2",
+      "status": "ok",
+      "pocket_atoms": 443,
+      "center": [
+        7.565310344827586,
+        -1.506931034482759,
+        -11.229448275862069
+      ],
+      "protein_chains": 3
+    },
+    {
+      "task": "smdd_003_3WV3_0",
+      "status": "ok",
+      "pocket_atoms": 404,
+      "center": [
+        -15.306058823529414,
+        -11.77364705882353,
+        5.434911764705881
+      ],
+      "protein_chains": 2
+    },
+    {
+      "task": "smdd_003_3WV3_1",
+      "status": "ok",
+      "pocket_atoms": 381,
+      "center": [
+        -12.143566666666668,
+        -15.57023333333333,
+        1.7677666666666665
+      ],
+      "protein_chains": 2
+    },
+    {
+      "task": "smdd_003_4RRS_0",
+      "status": "ok",
+      "pocket_atoms": 471,
+      "center": [
+        7.006534883720929,
+        2.398186046511629,
+        -5.781697674418604
+      ],
+      "protein_chains": 1
+    },
+    {
+      "task": "smdd_003_4RRS_1",
+      "status": "ok",
+      "pocket_atoms": 445,
+      "center": [
+        -10.167441860465118,
+        2.0963023255813953,
+        3.0662093023255808
+      ],
+      "protein_chains": 1
+    },
+    {
+      "task": "smdd_003_4S0V_0",
+      "status": "ok",
+      "pocket_atoms": 538,
+      "center": [
+        -13.370846153846152,
+        -17.08107692307692,
+        10.907692307692306
+      ],
+      "protein_chains": 1
+    },
+    {
+      "task": "smdd_003_4S0V_1",
+      "status": "ok",
+      "pocket_atoms": 591,
+      "center": [
+        16.803615384615384,
+        -13.871730769230766,
+        8.516499999999999
+      ],
+      "protein_chains": 1
+    },
+    {
+      "task": "smdd_003_4S0V_2",
+      "status": "ok",
+      "pocket_atoms": 582,
+      "center": [
+        -4.528551724137931,
+        17.06441379310345,
+        -14.402137931034485
+      ],
+      "protein_chains": 1
+    },
+    {
+      "task": "smdd_003_4ZZO_0",
+      "status": "ok",
+      "pocket_atoms": 409,
+      "center": [
+        -5.876333333333335,
+        11.315636363636363,
+        6.93142424242424
+      ],
+      "protein_chains": 1
+    },
+    {
+      "task": "smdd_003_4ZZO_1",
+      "status": "ok",
+      "pocket_atoms": 455,
+      "center": [
+        -8.568709677419356,
+        -5.632967741935484,
+        7.107193548387098
+      ],
+      "protein_chains": 1
+    },
+    {
+      "task": "smdd_003_5A5S_1",
+      "status": "ok",
+      "pocket_atoms": 336,
+      "center": [
+        -7.70458064516129,
+        -11.381290322580645,
+        2.290516129032258
+      ],
+      "protein_chains": 1
+    },
+    {
+      "task": "smdd_003_5A9U_0",
+      "status": "ok",
+      "pocket_atoms": 407,
+      "center": [
+        10.703233333333333,
+        -1.6705000000000003,
+        -0.8317333333333334
+      ],
+      "protein_chains": 1
+    },
+    {
+      "task": "smdd_003_5A9U_1",
+      "status": "ok",
+      "pocket_atoms": 421,
+      "center": [
+        6.6236999999999995,
+        -7.887766666666666,
+        -1.9110000000000003
+      ],
+      "protein_chains": 1
+    },
+    {
+      "task": "smdd_003_5B5P_0",
+      "status": "ok",
+      "pocket_atoms": 389,
+      "center": [
+        -0.4270740740740744,
+        -18.82277777777778,
+        8.764518518518518
+      ],
+      "protein_chains": 2
+    },
+    {
+      "task": "smdd_003_5B5P_1",
+      "status": "ok",
+      "pocket_atoms": 426,
+      "center": [
+        2.0778399999999997,
+        1.2207599999999998,
+        -20.099159999999998
+      ],
+      "protein_chains": 2
+    },
+    {
+      "task": "smdd_003_5DC8_0",
+      "status": "ok",
+      "pocket_atoms": 529,
+      "center": [
+        -0.8888421052631582,
+        0.9269999999999996,
+        -3.9265263157894745
+      ],
+      "protein_chains": 4
+    },
+    {
+      "task": "smdd_003_5DC8_2",
+      "status": "ok",
+      "pocket_atoms": 506,
+      "center": [
+        -3.354772727272727,
+        -3.569363636363636,
+        -5.080818181818183
+      ],
+      "protein_chains": 4
+    },
+    {
+      "task": "smdd_003_5MW4_0",
+      "status": "ok",
+      "pocket_atoms": 508,
+      "center": [
+        1.184625,
+        7.4810937499999985,
+        -20.158749999999994
+      ],
+      "protein_chains": 2
+    },
+    {
+      "task": "smdd_003_5S7X_0",
+      "status": "ok",
+      "pocket_atoms": 438,
+      "center": [
+        -4.922531249999999,
+        -9.304062500000002,
+        13.604093749999997
+      ],
+      "protein_chains": 2
+    },
+    {
+      "task": "smdd_003_5UEN_0",
+      "status": "ok",
+      "pocket_atoms": 473,
+      "center": [
+        10.118941176470587,
+        -14.664647058823533,
+        2.9875294117647053
+      ],
+      "protein_chains": 2
+    },
+    {
+      "task": "smdd_003_5UEN_1",
+      "status": "ok",
+      "pocket_atoms": 483,
+      "center": [
+        0.4043428571428579,
+        -12.805542857142859,
+        10.189028571428572
+      ],
+      "protein_chains": 2
+    },
+    {
+      "task": "smdd_003_6L6E_0",
+      "status": "ok",
+      "pocket_atoms": 496,
+      "center": [
+        4.067076923076924,
+        4.971153846153845,
+        10.567846153846151
+      ],
+      "protein_chains": 1
+    },
+    {
+      "task": "smdd_003_6L6E_1",
+      "status": "ok",
+      "pocket_atoms": 475,
+      "center": [
+        -4.6685945945945955,
+        13.905324324324326,
+        4.681918918918917
+      ],
+      "protein_chains": 1
+    },
+    {
+      "task": "smdd_003_6L6K_0",
+      "status": "ok",
+      "pocket_atoms": 572,
+      "center": [
+        2.224620689655173,
+        -6.002793103448274,
+        4.257551724137932
+      ],
+      "protein_chains": 2
+    },
+    {
+      "task": "smdd_003_6L6K_1",
+      "status": "ok",
+      "pocket_atoms": 544,
+      "center": [
+        -10.744727272727275,
+        0.952575757575758,
+        -3.1068181818181815
+      ],
+      "protein_chains": 2
+    },
+    {
+      "task": "smdd_003_6L6K_2",
+      "status": "ok",
+      "pocket_atoms": 579,
+      "center": [
+        1.9372692307692307,
+        2.906346153846154,
+        9.735038461538462
+      ],
+      "protein_chains": 2
+    },
+    {
+      "task": "smdd_003_6ME6_0",
+      "status": "ok",
+      "pocket_atoms": 603,
+      "center": [
+        6.080782608695654,
+        17.103,
+        -13.821782608695651
+      ],
+      "protein_chains": 2
+    },
+    {
+      "task": "smdd_003_6OIN_0",
+      "status": "ok",
+      "pocket_atoms": 437,
+      "center": [
+        -6.535703703703704,
+        -1.6457037037037034,
+        -4.307074074074074
+      ],
+      "protein_chains": 1
+    },
+    {
+      "task": "smdd_003_6X8I_0",
+      "status": "ok",
+      "pocket_atoms": 305,
+      "center": [
+        23.746575757575755,
+        3.5705757575757584,
+        7.547666666666668
+      ],
+      "protein_chains": 6
+    },
+    {
+      "task": "smdd_003_7KJS_0",
+      "status": "ok",
+      "pocket_atoms": 473,
+      "center": [
+        14.596999999999998,
+        9.56948275862069,
+        -14.28237931034483
+      ],
+      "protein_chains": 2
+    },
+    {
+      "task": "smdd_003_7OKM_0",
+      "status": "ok",
+      "pocket_atoms": 180,
+      "center": [
+        -2.028088235294118,
+        10.190176470588234,
+        -6.213264705882355
+      ],
+      "protein_chains": 2
+    },
+    {
+      "task": "smdd_003_7OKM_1",
+      "status": "ok",
+      "pocket_atoms": 183,
+      "center": [
+        3.5542285714285717,
+        11.282085714285712,
+        3.6292
+      ],
+      "protein_chains": 2
+    },
+    {
+      "task": "smdd_003_7OKM_2",
+      "status": "ok",
+      "pocket_atoms": 186,
+      "center": [
+        9.362558823529413,
+        -6.279470588235295,
+        -1.9281470588235294
+      ],
+      "protein_chains": 2
+    },
+    {
+      "task": "smdd_003_8FGZ_0",
+      "status": "ok",
+      "pocket_atoms": 556,
+      "center": [
+        1.9866190476190473,
+        -0.09504761904761906,
+        -11.020047619047618
+      ],
+      "protein_chains": 1
+    },
+    {
+      "task": "smdd_003_8OKQ_0",
+      "status": "ok",
+      "pocket_atoms": 468,
+      "center": [
+        -7.00095238095238,
+        0.777904761904762,
+        -5.68
+      ],
+      "protein_chains": 1
+    },
+    {
+      "task": "smdd_003_8OKQ_1",
+      "status": "ok",
+      "pocket_atoms": 441,
+      "center": [
+        8.783310344827587,
+        3.257689655172414,
+        4.350965517241379
+      ],
+      "protein_chains": 1
+    },
+    {
+      "task": "smdd_003_8OKQ_2",
+      "status": "ok",
+      "pocket_atoms": 512,
+      "center": [
+        -1.281380952380952,
+        6.6044761904761895,
+        6.969619047619047
+      ],
+      "protein_chains": 1
+    }
+  ],
+  "test": "public inputs + existing prepare + original Pocket2Mol pdb_to_pocket_data; no generation or oracle calls"
+}

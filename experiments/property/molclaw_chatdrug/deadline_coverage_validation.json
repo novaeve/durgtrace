@@ -1,0 +1,28 @@
+{
+  "time": 1791796008.5669906,
+  "assigned": 4250,
+  "completed": 437,
+  "v2_assigned": 3363,
+  "retry_assigned": 128,
+  "cpu_transfer_assigned": 74,
+  "preserved_active_case_locks": 282,
+  "uncovered": [],
+  "v2_error": null,
+  "v2_status": {
+    "time": 1791795997.0646331,
+    "phase": "running",
+    "assigned": 3363,
+    "processed": 0,
+    "active": 239,
+    "external_native": 333,
+    "actual_native": 572,
+    "queued": 3124,
+    "total_limit": 576,
+    "recent_api_errors": 0,
+    "resource_pressure": false,
+    "available_memory_gib": 1778.5430755615234,
+    "load": 18.1259765625,
+    "proxy_ok": true,
+    "execution_exceptions": []
+  }
+}

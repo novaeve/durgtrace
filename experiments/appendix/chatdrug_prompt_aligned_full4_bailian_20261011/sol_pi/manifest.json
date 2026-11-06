@@ -1,0 +1,39 @@
+{
+  "method": "SoL-Pi",
+  "workers": 8,
+  "expected": 5600,
+  "model": "deepseek-v4.1-flash",
+  "provider": "Bailian",
+  "reference": "/data2/chenfuxin/chatdrug_prompt_aligned_bailian_20261006/cases.json",
+  "reference_sha256": "d118b671cfa62b74f5366eddbd2296e3c23fb7f0ac59f1ed49e4cb62aeefdccf",
+  "native_source": "/data/chenfuxin/sol_pi_chatdrug_molopt_20261007",
+  "frozen_sources": {
+    "run.py": "a7946e4e6368252b57e6db9eb435b708ee5cbbf8471e2d4624c6741654817a5f",
+    "relay.py": "41d13d52413781ae341747296fff31aee945ce17b9acb27bb09b6d23c5160b1f",
+    "adaptive_gate.py": "4d604ad6fc1e3dd003fbaa9e2fc65704937cd2064f13c31c2013c4aaa8d037f4"
+  },
+  "evaluation": "ChatDrug zero thresholds with Kekulize; nonempty valid final only",
+  "reuse_policy": "Only complete exact generation-protocol matches, including chemical failures; no correctness selection",
+  "case_sha256": "a635f29d76191257b6158ffa49cd94230784b3cb3beb8ac59153e0eb8006331f",
+  "supervisor_policy": "Adopt live PID; at most3 infrastructure-only delayed resumes; schema/hash/model/prompt assertions block; no correctness-based retry",
+  "next_start_wrapper_sha256": "716cfa0f6ac4aeb1e701f51e395a62ab5dd786fc3ea5eb84f2de375b8efe902c",
+  "initial_active_wrapper_sha256": "b19e60d38d3103b804392bcb3292a525270ecee61fec7411466236623c74285f",
+  "initial_driver_snapshot": "driver_initial_active.py",
+  "wrapper_revision_note": "Added stricter pilot tool/complete assertions for future infrastructure restarts only; initial live process retains initial snapshot.",
+  "execution_revisions": [
+    {
+      "time": 1791731829.84615,
+      "before_workers": 16,
+      "after_workers": 32,
+      "method": "SIGINT parent only; ThreadPool waits active native episodes; persistent disjoint completed results reused",
+      "native_budget_unchanged": true
+    }
+  ],
+  "maximum_hot_control_workers": 64,
+  "aux_workers": 24,
+  "total_target_workers": 32,
+  "auxiliary_policy": "Exclude all original28 pilot IDs; flock per case with final check; main reverse queue and aux forward queue; no old draining-parent scheduling",
+  "auxiliary_sha256": "dc83822b560c4d84b0567f240183dcdcfc22e7f77a1299b534eaa9481d8ac5d8",
+  "supervisor_sha256": "40182ec45cdb7bd272f9c6321275c178c008bd0c19efd9b7898e725c775d0128",
+  "shared_pause": "pause.request stops both queues from accepting new jobs; existing native episodes retain budget"
+}

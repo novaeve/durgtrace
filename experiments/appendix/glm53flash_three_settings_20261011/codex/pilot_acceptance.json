@@ -1,0 +1,147 @@
+{
+  "accepted": true,
+  "episodes": 20,
+  "evidence": [
+    {
+      "id": "source_101_loose_000",
+      "setting": "1_original_chatdrug",
+      "status": "complete",
+      "provider_calls": 4,
+      "tool_calls": 3
+    },
+    {
+      "id": "source_101_strict_000",
+      "setting": "1_original_chatdrug",
+      "status": "complete",
+      "provider_calls": 8,
+      "tool_calls": 3
+    },
+    {
+      "id": "source_102_loose_000",
+      "setting": "1_original_chatdrug",
+      "status": "complete",
+      "provider_calls": 3,
+      "tool_calls": 2
+    },
+    {
+      "id": "source_102_strict_000",
+      "setting": "1_original_chatdrug",
+      "status": "complete",
+      "provider_calls": 2,
+      "tool_calls": 1
+    },
+    {
+      "id": "source_103_loose_000",
+      "setting": "1_original_chatdrug",
+      "status": "complete",
+      "provider_calls": 9,
+      "tool_calls": 8
+    },
+    {
+      "id": "source_103_strict_000",
+      "setting": "1_original_chatdrug",
+      "status": "complete",
+      "provider_calls": 13,
+      "tool_calls": 12
+    },
+    {
+      "id": "source_104_loose_000",
+      "setting": "1_original_chatdrug",
+      "status": "complete",
+      "provider_calls": 3,
+      "tool_calls": 2
+    },
+    {
+      "id": "source_104_strict_000",
+      "setting": "1_original_chatdrug",
+      "status": "complete",
+      "provider_calls": 11,
+      "tool_calls": 10
+    },
+    {
+      "id": "source_101_loose_000",
+      "setting": "2_s2_prompt_chatdrug",
+      "status": "complete",
+      "provider_calls": 5,
+      "tool_calls": 4
+    },
+    {
+      "id": "source_101_strict_000",
+      "setting": "2_s2_prompt_chatdrug",
+      "status": "complete",
+      "provider_calls": 6,
+      "tool_calls": 5
+    },
+    {
+      "id": "source_102_loose_000",
+      "setting": "2_s2_prompt_chatdrug",
+      "status": "complete",
+      "provider_calls": 7,
+      "tool_calls": 6
+    },
+    {
+      "id": "source_102_strict_000",
+      "setting": "2_s2_prompt_chatdrug",
+      "status": "complete",
+      "provider_calls": 6,
+      "tool_calls": 5
+    },
+    {
+      "id": "source_103_loose_000",
+      "setting": "2_s2_prompt_chatdrug",
+      "status": "complete",
+      "provider_calls": 28,
+      "tool_calls": 23
+    },
+    {
+      "id": "source_103_strict_000",
+      "setting": "2_s2_prompt_chatdrug",
+      "status": "complete",
+      "provider_calls": 32,
+      "tool_calls": 26
+    },
+    {
+      "id": "source_104_loose_000",
+      "setting": "2_s2_prompt_chatdrug",
+      "status": "complete",
+      "provider_calls": 26,
+      "tool_calls": 20
+    },
+    {
+      "id": "source_104_strict_000",
+      "setting": "2_s2_prompt_chatdrug",
+      "status": "complete",
+      "provider_calls": 27,
+      "tool_calls": 26
+    },
+    {
+      "id": "s2_LogP_190062",
+      "setting": "3_original_s2",
+      "status": "complete",
+      "provider_calls": 27,
+      "tool_calls": 21
+    },
+    {
+      "id": "s2_LogP_21467",
+      "setting": "3_original_s2",
+      "status": "complete",
+      "provider_calls": 5,
+      "tool_calls": 4
+    },
+    {
+      "id": "s2_QED_42956",
+      "setting": "3_original_s2",
+      "status": "complete",
+      "provider_calls": 20,
+      "tool_calls": 14
+    },
+    {
+      "id": "s2_QED_209835",
+      "setting": "3_original_s2",
+      "status": "complete",
+      "provider_calls": 15,
+      "tool_calls": 11
+    }
+  ],
+  "time": 1791731818.431648
+}

@@ -1,0 +1,39 @@
+{
+  "cli_runtime": {
+    "compressed_bytes": 105450779,
+    "seconds": 98.00176405906677
+  },
+  "node": {
+    "compressed_bytes": 55098524,
+    "seconds": 47.36946773529053
+  },
+  "molclaw_source": {
+    "compressed_bytes": 2561740,
+    "seconds": 2.701018810272217
+  },
+  "proxy_env": {
+    "compressed_bytes": 185292191,
+    "seconds": 177.2926685810089
+  },
+  "upstream": {
+    "compressed_bytes": 51399,
+    "seconds": 0.19756841659545898
+  },
+  "tasks": {
+    "compressed_bytes": 185939658,
+    "seconds": 194.33784413337708
+  },
+  "rootfs": {
+    "compressed_bytes": 4095201628,
+    "seconds": 4723.772337436676
+  },
+  "boltz_cache": {
+    "verified": true,
+    "completed": 1791040909.2634819,
+    "molecules": {
+      "count": 45227,
+      "bytes": 1820698819,
+      "sha256": "3b3d38ce26aab107a66d52dd5ea84736bf34d4eac13fa0526c19d95ac90369b0"
+    }
+  }
+}

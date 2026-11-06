@@ -1,0 +1,6 @@
+{
+  "public_cases_audited": 800,
+  "synthetic_semantics_tests": 6,
+  "gold_access_forbidden": true,
+  "partial_pass_does_not_stop_agent": true
+}

@@ -1,0 +1,202 @@
+{
+  "time": 1791381001.0476227,
+  "unscored_count": 15,
+  "eligible_for_score_only": 0,
+  "reason_counts": {
+    "agent_ended_without_submission": 12,
+    "agent_budget_exhausted": 1,
+    "task_timeout": 2
+  },
+  "tasks": [
+    {
+      "task": "smdd_004_ACE_9",
+      "agent_status": "complete",
+      "reason": "agent_ended_without_submission",
+      "has_root_submission": false,
+      "has_workspace_submission": false,
+      "submitted": false,
+      "api_receipts": 9,
+      "last_finish_reason": "stop",
+      "last_provider_http": 200,
+      "resource_wait_evidence": []
+    },
+    {
+      "task": "smdd_004_Aurora_A_3",
+      "agent_status": "complete",
+      "reason": "agent_ended_without_submission",
+      "has_root_submission": false,
+      "has_workspace_submission": false,
+      "submitted": false,
+      "api_receipts": 15,
+      "last_finish_reason": "stop",
+      "last_provider_http": 200,
+      "resource_wait_evidence": []
+    },
+    {
+      "task": "smdd_004_BAZ2B_15",
+      "agent_status": "complete",
+      "reason": "agent_ended_without_submission",
+      "has_root_submission": false,
+      "has_workspace_submission": false,
+      "submitted": false,
+      "api_receipts": 22,
+      "last_finish_reason": "stop",
+      "last_provider_http": 200,
+      "resource_wait_evidence": []
+    },
+    {
+      "task": "smdd_004_BCL6_13",
+      "agent_status": "complete",
+      "reason": "agent_ended_without_submission",
+      "has_root_submission": false,
+      "has_workspace_submission": false,
+      "submitted": false,
+      "api_receipts": 16,
+      "last_finish_reason": "stop",
+      "last_provider_http": 200,
+      "resource_wait_evidence": []
+    },
+    {
+      "task": "smdd_004_BRD2_4",
+      "agent_status": "complete",
+      "reason": "agent_ended_without_submission",
+      "has_root_submission": false,
+      "has_workspace_submission": false,
+      "submitted": false,
+      "api_receipts": 19,
+      "last_finish_reason": "stop",
+      "last_provider_http": 200,
+      "resource_wait_evidence": []
+    },
+    {
+      "task": "smdd_004_BRD2_7",
+      "agent_status": "complete",
+      "reason": "agent_ended_without_submission",
+      "has_root_submission": false,
+      "has_workspace_submission": false,
+      "submitted": false,
+      "api_receipts": 9,
+      "last_finish_reason": "stop",
+      "last_provider_http": 200,
+      "resource_wait_evidence": []
+    },
+    {
+      "task": "smdd_004_BRD4_5",
+      "agent_status": "complete",
+      "reason": "agent_ended_without_submission",
+      "has_root_submission": false,
+      "has_workspace_submission": false,
+      "submitted": false,
+      "api_receipts": 9,
+      "last_finish_reason": "stop",
+      "last_provider_http": 200,
+      "resource_wait_evidence": []
+    },
+    {
+      "task": "smdd_004_CCR2_13",
+      "agent_status": "complete",
+      "reason": "agent_ended_without_submission",
+      "has_root_submission": false,
+      "has_workspace_submission": false,
+      "submitted": false,
+      "api_receipts": 12,
+      "last_finish_reason": "stop",
+      "last_provider_http": 200,
+      "resource_wait_evidence": []
+    },
+    {
+      "task": "smdd_004_CCR2_15",
+      "agent_status": "budget_exhausted",
+      "reason": "agent_budget_exhausted",
+      "has_root_submission": false,
+      "has_workspace_submission": false,
+      "submitted": false,
+      "api_receipts": 100,
+      "last_finish_reason": "tool_calls",
+      "last_provider_http": 200,
+      "resource_wait_evidence": []
+    },
+    {
+      "task": "smdd_004_Cathepsin_K_13",
+      "agent_status": "complete",
+      "reason": "agent_ended_without_submission",
+      "has_root_submission": false,
+      "has_workspace_submission": false,
+      "submitted": false,
+      "api_receipts": 21,
+      "last_finish_reason": "stop",
+      "last_provider_http": 200,
+      "resource_wait_evidence": []
+    },
+    {
+      "task": "smdd_004_Cathepsin_K_17",
+      "agent_status": "complete",
+      "reason": "agent_ended_without_submission",
+      "has_root_submission": false,
+      "has_workspace_submission": false,
+      "submitted": false,
+      "api_receipts": 13,
+      "last_finish_reason": "stop",
+      "last_provider_http": 200,
+      "resource_wait_evidence": []
+    },
+    {
+      "task": "smdd_004_DHFR_18",
+      "agent_status": "complete",
+      "reason": "agent_ended_without_submission",
+      "has_root_submission": false,
+      "has_workspace_submission": false,
+      "submitted": false,
+      "api_receipts": 10,
+      "last_finish_reason": "stop",
+      "last_provider_http": 200,
+      "resource_wait_evidence": []
+    },
+    {
+      "task": "smdd_004_DHFR_7",
+      "agent_status": "complete",
+      "reason": "agent_ended_without_submission",
+      "has_root_submission": false,
+      "has_workspace_submission": false,
+      "submitted": false,
+      "api_receipts": 4,
+      "last_finish_reason": "stop",
+      "last_provider_http": 200,
+      "resource_wait_evidence": []
+    },
+    {
+      "task": "smdd_004_EHMT2_1",
+      "agent_status": "error",
+      "reason": "task_timeout",
+      "has_root_submission": false,
+      "has_workspace_submission": false,
+      "submitted": false,
+      "api_receipts": 39,
+      "last_finish_reason": "tool_calls",
+      "last_provider_http": 200,
+      "resource_wait_evidence": [
+        {
+          "state": "waiting_disk",
+          "time": 1791344391.9981701
+        }
+      ]
+    },
+    {
+      "task": "smdd_004_EHMT2_6",
+      "agent_status": "error",
+      "reason": "task_timeout",
+      "has_root_submission": false,
+      "has_workspace_submission": false,
+      "submitted": false,
+      "api_receipts": 20,
+      "last_finish_reason": "tool_calls",
+      "last_provider_http": 200,
+      "resource_wait_evidence": [
+        {
+          "state": "waiting_disk",
+          "time": 1791346711.967413
+        }
+      ]
+    }
+  ]
+}

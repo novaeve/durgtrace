@@ -1,0 +1,623 @@
+{
+  "updated_utc": "2026-10-06T13:44:19.566034+00:00",
+  "lane": "pair",
+  "processed": {
+    "ChatDrug": 5600,
+    "DeepSeek_direct": 5600
+  },
+  "groups": [
+    {
+      "expected": 5600,
+      "processed": 5600,
+      "complete": 5600,
+      "success": 3910,
+      "method": "ChatDrug",
+      "group": "Total",
+      "success_rate_full_denominator": 0.6982142857142857
+    },
+    {
+      "expected": 800,
+      "processed": 800,
+      "complete": 800,
+      "success": 713,
+      "method": "ChatDrug",
+      "group": "LogP",
+      "success_rate_full_denominator": 0.89125
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 177,
+      "method": "ChatDrug",
+      "group": "101_loose",
+      "success_rate_full_denominator": 0.885
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 176,
+      "method": "ChatDrug",
+      "group": "101_strict",
+      "success_rate_full_denominator": 0.88
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 181,
+      "method": "ChatDrug",
+      "group": "102_loose",
+      "success_rate_full_denominator": 0.905
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 179,
+      "method": "ChatDrug",
+      "group": "102_strict",
+      "success_rate_full_denominator": 0.895
+    },
+    {
+      "expected": 800,
+      "processed": 800,
+      "complete": 800,
+      "success": 570,
+      "method": "ChatDrug",
+      "group": "QED",
+      "success_rate_full_denominator": 0.7125
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 154,
+      "method": "ChatDrug",
+      "group": "103_loose",
+      "success_rate_full_denominator": 0.77
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 127,
+      "method": "ChatDrug",
+      "group": "103_strict",
+      "success_rate_full_denominator": 0.635
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 146,
+      "method": "ChatDrug",
+      "group": "104_loose",
+      "success_rate_full_denominator": 0.73
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 143,
+      "method": "ChatDrug",
+      "group": "104_strict",
+      "success_rate_full_denominator": 0.715
+    },
+    {
+      "expected": 800,
+      "processed": 800,
+      "complete": 800,
+      "success": 591,
+      "method": "ChatDrug",
+      "group": "TPSA",
+      "success_rate_full_denominator": 0.73875
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 152,
+      "method": "ChatDrug",
+      "group": "105_loose",
+      "success_rate_full_denominator": 0.76
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 140,
+      "method": "ChatDrug",
+      "group": "105_strict",
+      "success_rate_full_denominator": 0.7
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 146,
+      "method": "ChatDrug",
+      "group": "106_loose",
+      "success_rate_full_denominator": 0.73
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 153,
+      "method": "ChatDrug",
+      "group": "106_strict",
+      "success_rate_full_denominator": 0.765
+    },
+    {
+      "expected": 800,
+      "processed": 800,
+      "complete": 800,
+      "success": 590,
+      "method": "ChatDrug",
+      "group": "HBA_HBD",
+      "success_rate_full_denominator": 0.7375
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 136,
+      "method": "ChatDrug",
+      "group": "107_loose",
+      "success_rate_full_denominator": 0.68
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 128,
+      "method": "ChatDrug",
+      "group": "107_strict",
+      "success_rate_full_denominator": 0.64
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 172,
+      "method": "ChatDrug",
+      "group": "108_loose",
+      "success_rate_full_denominator": 0.86
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 154,
+      "method": "ChatDrug",
+      "group": "108_strict",
+      "success_rate_full_denominator": 0.77
+    },
+    {
+      "expected": 2400,
+      "processed": 2400,
+      "complete": 2400,
+      "success": 1446,
+      "method": "ChatDrug",
+      "group": "Dual",
+      "success_rate_full_denominator": 0.6025
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 154,
+      "method": "ChatDrug",
+      "group": "201_loose",
+      "success_rate_full_denominator": 0.77
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 130,
+      "method": "ChatDrug",
+      "group": "201_strict",
+      "success_rate_full_denominator": 0.65
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 105,
+      "method": "ChatDrug",
+      "group": "202_loose",
+      "success_rate_full_denominator": 0.525
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 103,
+      "method": "ChatDrug",
+      "group": "202_strict",
+      "success_rate_full_denominator": 0.515
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 162,
+      "method": "ChatDrug",
+      "group": "203_loose",
+      "success_rate_full_denominator": 0.81
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 147,
+      "method": "ChatDrug",
+      "group": "203_strict",
+      "success_rate_full_denominator": 0.735
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 67,
+      "method": "ChatDrug",
+      "group": "204_loose",
+      "success_rate_full_denominator": 0.335
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 78,
+      "method": "ChatDrug",
+      "group": "204_strict",
+      "success_rate_full_denominator": 0.39
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 93,
+      "method": "ChatDrug",
+      "group": "205_loose",
+      "success_rate_full_denominator": 0.465
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 96,
+      "method": "ChatDrug",
+      "group": "205_strict",
+      "success_rate_full_denominator": 0.48
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 160,
+      "method": "ChatDrug",
+      "group": "206_loose",
+      "success_rate_full_denominator": 0.8
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 151,
+      "method": "ChatDrug",
+      "group": "206_strict",
+      "success_rate_full_denominator": 0.755
+    },
+    {
+      "expected": 5600,
+      "processed": 5600,
+      "complete": 5600,
+      "success": 2508,
+      "method": "DeepSeek_direct",
+      "group": "Total",
+      "success_rate_full_denominator": 0.44785714285714284
+    },
+    {
+      "expected": 800,
+      "processed": 800,
+      "complete": 800,
+      "success": 665,
+      "method": "DeepSeek_direct",
+      "group": "LogP",
+      "success_rate_full_denominator": 0.83125
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 167,
+      "method": "DeepSeek_direct",
+      "group": "101_loose",
+      "success_rate_full_denominator": 0.835
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 161,
+      "method": "DeepSeek_direct",
+      "group": "101_strict",
+      "success_rate_full_denominator": 0.805
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 168,
+      "method": "DeepSeek_direct",
+      "group": "102_loose",
+      "success_rate_full_denominator": 0.84
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 169,
+      "method": "DeepSeek_direct",
+      "group": "102_strict",
+      "success_rate_full_denominator": 0.845
+    },
+    {
+      "expected": 800,
+      "processed": 800,
+      "complete": 800,
+      "success": 261,
+      "method": "DeepSeek_direct",
+      "group": "QED",
+      "success_rate_full_denominator": 0.32625
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 68,
+      "method": "DeepSeek_direct",
+      "group": "103_loose",
+      "success_rate_full_denominator": 0.34
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 60,
+      "method": "DeepSeek_direct",
+      "group": "103_strict",
+      "success_rate_full_denominator": 0.3
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 68,
+      "method": "DeepSeek_direct",
+      "group": "104_loose",
+      "success_rate_full_denominator": 0.34
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 65,
+      "method": "DeepSeek_direct",
+      "group": "104_strict",
+      "success_rate_full_denominator": 0.325
+    },
+    {
+      "expected": 800,
+      "processed": 800,
+      "complete": 800,
+      "success": 186,
+      "method": "DeepSeek_direct",
+      "group": "TPSA",
+      "success_rate_full_denominator": 0.2325
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 25,
+      "method": "DeepSeek_direct",
+      "group": "105_loose",
+      "success_rate_full_denominator": 0.125
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 17,
+      "method": "DeepSeek_direct",
+      "group": "105_strict",
+      "success_rate_full_denominator": 0.085
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 70,
+      "method": "DeepSeek_direct",
+      "group": "106_loose",
+      "success_rate_full_denominator": 0.35
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 74,
+      "method": "DeepSeek_direct",
+      "group": "106_strict",
+      "success_rate_full_denominator": 0.37
+    },
+    {
+      "expected": 800,
+      "processed": 800,
+      "complete": 800,
+      "success": 513,
+      "method": "DeepSeek_direct",
+      "group": "HBA_HBD",
+      "success_rate_full_denominator": 0.64125
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 88,
+      "method": "DeepSeek_direct",
+      "group": "107_loose",
+      "success_rate_full_denominator": 0.44
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 91,
+      "method": "DeepSeek_direct",
+      "group": "107_strict",
+      "success_rate_full_denominator": 0.455
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 170,
+      "method": "DeepSeek_direct",
+      "group": "108_loose",
+      "success_rate_full_denominator": 0.85
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 164,
+      "method": "DeepSeek_direct",
+      "group": "108_strict",
+      "success_rate_full_denominator": 0.82
+    },
+    {
+      "expected": 2400,
+      "processed": 2400,
+      "complete": 2400,
+      "success": 883,
+      "method": "DeepSeek_direct",
+      "group": "Dual",
+      "success_rate_full_denominator": 0.36791666666666667
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 131,
+      "method": "DeepSeek_direct",
+      "group": "201_loose",
+      "success_rate_full_denominator": 0.655
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 133,
+      "method": "DeepSeek_direct",
+      "group": "201_strict",
+      "success_rate_full_denominator": 0.665
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 6,
+      "method": "DeepSeek_direct",
+      "group": "202_loose",
+      "success_rate_full_denominator": 0.03
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 4,
+      "method": "DeepSeek_direct",
+      "group": "202_strict",
+      "success_rate_full_denominator": 0.02
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 155,
+      "method": "DeepSeek_direct",
+      "group": "203_loose",
+      "success_rate_full_denominator": 0.775
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 151,
+      "method": "DeepSeek_direct",
+      "group": "203_strict",
+      "success_rate_full_denominator": 0.755
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 4,
+      "method": "DeepSeek_direct",
+      "group": "204_loose",
+      "success_rate_full_denominator": 0.02
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 3,
+      "method": "DeepSeek_direct",
+      "group": "204_strict",
+      "success_rate_full_denominator": 0.015
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 2,
+      "method": "DeepSeek_direct",
+      "group": "205_loose",
+      "success_rate_full_denominator": 0.01
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 4,
+      "method": "DeepSeek_direct",
+      "group": "205_strict",
+      "success_rate_full_denominator": 0.02
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 145,
+      "method": "DeepSeek_direct",
+      "group": "206_loose",
+      "success_rate_full_denominator": 0.725
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 145,
+      "method": "DeepSeek_direct",
+      "group": "206_strict",
+      "success_rate_full_denominator": 0.725
+    }
+  ],
+  "errors": []
+}

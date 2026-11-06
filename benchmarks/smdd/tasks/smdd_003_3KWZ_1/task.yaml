@@ -1,0 +1,135 @@
+id: smdd_003_3KWZ_1
+name: Scaffold Hopping for P43235 (3KWZ)
+description: 'You are given a protein-ligand complex (complex.pdb). The target ligand
+    is on chain L. A 3D reference structure of this ligand is provided in reference.sdf.
+    Your task is to design a new molecule with a significantly different scaffold
+    (the MCS atom count between the Bemis-Murcko scaffolds of your molecule and the
+    reference, divided by the larger scaffold heavy atom count, must be < 0.65; additionally,
+    overall Morgan fingerprint Tanimoto similarity must be < 0.5) to the ligand that
+    maintains the same binding interactions and has binding probability > 0.7 as calculated
+    by Boltz. The pocket is defined by residues (chain, 1-indexed SEQRES position):
+    A:19, A:22, A:23, A:24, A:25, A:26, A:63, A:64, A:65, A:66, A:67, A:68, A:133,
+    A:134, A:135, A:143, A:160, A:161, A:162, A:163, A:164, A:183, A:184, A:209. Output
+    a single SMILES string to a file titled `solution.smi`.'
+target_ligand:
+    resname: LIG
+    chain: L
+    residue_number: 1
+    insertion_code: ' '
+pocket_residues: &id001
+-   - A
+    - 19
+-   - A
+    - 22
+-   - A
+    - 23
+-   - A
+    - 24
+-   - A
+    - 25
+-   - A
+    - 26
+-   - A
+    - 63
+-   - A
+    - 64
+-   - A
+    - 65
+-   - A
+    - 66
+-   - A
+    - 67
+-   - A
+    - 68
+-   - A
+    - 133
+-   - A
+    - 134
+-   - A
+    - 135
+-   - A
+    - 143
+-   - A
+    - 160
+-   - A
+    - 161
+-   - A
+    - 162
+-   - A
+    - 163
+-   - A
+    - 164
+-   - A
+    - 183
+-   - A
+    - 184
+-   - A
+    - 209
+input_files:
+- complex.pdb
+- reference.sdf
+output_config:
+    file_path: solution.smi
+    format: smiles
+evaluation:
+-   name: Validity
+    module: metrics.chemistry
+    function: assess_smiles_file_validity
+    inputs:
+    -   source: output
+        arg: file_path
+    condition:
+        eq: true
+-   name: Tanimoto Similarity
+    module: metrics.scaffold
+    function: assess_tanimoto_similarity
+    inputs:
+    -   source: output
+        arg: agent_file_path
+    -   source: file
+        value: reference.sdf
+        arg: reference_file_path
+    condition:
+        lt: 0.5
+-   name: Scaffold MCS
+    module: metrics.scaffold
+    function: assess_scaffold_mcs
+    inputs:
+    -   source: output
+        arg: agent_file_path
+    -   source: file
+        value: reference.sdf
+        arg: reference_file_path
+    condition:
+        lt: 0.65
+-   name: Boltz Interaction Similarity
+    module: metrics.interaction
+    function: assess_boltz_all
+    result_key: interaction_similarity
+    inputs: &id002
+    -   source: output
+        arg: agent_file_path
+    -   source: file
+        value: protein.fasta
+        arg: protein_fasta_path
+    -   source: file
+        value: ground_truth_docked.sdf
+        arg: ground_truth_ligand_path
+    -   source: file
+        value: complex.pdb
+        arg: ground_truth_protein_path
+    -   source: const
+        value: *id001
+        arg: pocket_contacts
+    -   source: const
+        value: 10
+        arg: diffusion_samples
+    condition:
+        gt: 0.75
+-   name: Boltz Binding Probability
+    module: metrics.interaction
+    function: assess_boltz_all
+    result_key: binding_probability
+    inputs: *id002
+    condition:
+        gt: 0.7

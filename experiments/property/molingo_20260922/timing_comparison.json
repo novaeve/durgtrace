@@ -1,0 +1,148 @@
+{
+  "timestamp": "2026-09-24T09:23:10.875769",
+  "official_completed": 7100,
+  "bailian_completed": 5389,
+  "matched_messages": 5389,
+  "different_messages": 0,
+  "clean": {
+    "official_case_seconds_proxy": {
+      "n": 5228,
+      "mean": 7.085,
+      "median": 6.233,
+      "p90": 9.358
+    },
+    "official_response_headers_seconds_NOT_total": {
+      "n": 5228,
+      "mean": 0.167,
+      "median": 0.154,
+      "p90": 0.209
+    },
+    "bailian_generation_response_seconds": {
+      "n": 5228,
+      "mean": 15.052,
+      "median": 13.642,
+      "p90": 20.224
+    },
+    "bailian_selection_response_seconds": {
+      "n": 5098,
+      "mean": 0.862,
+      "median": 0.8,
+      "p90": 1.133
+    },
+    "bailian_case_seconds": {
+      "n": 5228,
+      "mean": 15.907,
+      "median": 14.53,
+      "p90": 21.087
+    },
+    "official_generation_output_tokens": {
+      "n": 5228,
+      "mean": 1508.962,
+      "median": 1342.0,
+      "p90": 2008
+    },
+    "bailian_generation_output_tokens": {
+      "n": 5228,
+      "mean": 1510.511,
+      "median": 1344.0,
+      "p90": 1968
+    },
+    "bailian_selection_output_tokens": {
+      "n": 5098,
+      "mean": 8.196,
+      "median": 8.0,
+      "p90": 8
+    },
+    "official_output_tokens_per_case_second_proxy": {
+      "n": 5228,
+      "mean": 216.814,
+      "median": 218.94,
+      "p90": 236.696
+    },
+    "bailian_output_tokens_per_response_second": {
+      "n": 5228,
+      "mean": 101.944,
+      "median": 98.9,
+      "p90": 128.004
+    },
+    "paired_generation_time_ratio_proxy": {
+      "n": 5228,
+      "mean": 2.307,
+      "median": 2.184,
+      "p90": 3.162
+    }
+  },
+  "similar_output_length_within_10pct": {
+    "official_case_seconds_proxy": {
+      "n": 1920,
+      "mean": 6.238,
+      "median": 5.966,
+      "p90": 7.738
+    },
+    "official_response_headers_seconds_NOT_total": {
+      "n": 1920,
+      "mean": 0.166,
+      "median": 0.154,
+      "p90": 0.209
+    },
+    "bailian_generation_response_seconds": {
+      "n": 1920,
+      "mean": 13.512,
+      "median": 13.08,
+      "p90": 17.078
+    },
+    "bailian_selection_response_seconds": {
+      "n": 1871,
+      "mean": 0.866,
+      "median": 0.812,
+      "p90": 1.14
+    },
+    "bailian_case_seconds": {
+      "n": 1920,
+      "mean": 14.37,
+      "median": 13.941,
+      "p90": 17.973
+    },
+    "official_generation_output_tokens": {
+      "n": 1920,
+      "mean": 1333.457,
+      "median": 1281.0,
+      "p90": 1617
+    },
+    "bailian_generation_output_tokens": {
+      "n": 1920,
+      "mean": 1329.924,
+      "median": 1278.0,
+      "p90": 1608
+    },
+    "bailian_selection_output_tokens": {
+      "n": 1871,
+      "mean": 8,
+      "median": 8,
+      "p90": 8
+    },
+    "official_output_tokens_per_case_second_proxy": {
+      "n": 1920,
+      "mean": 215.452,
+      "median": 217.879,
+      "p90": 235.025
+    },
+    "bailian_output_tokens_per_response_second": {
+      "n": 1920,
+      "mean": 100.551,
+      "median": 97.454,
+      "p90": 126.346
+    },
+    "paired_generation_time_ratio_proxy": {
+      "n": 1920,
+      "mean": 2.195,
+      "median": 2.195,
+      "p90": 2.713
+    }
+  },
+  "limitations": [
+    "Official streaming timer ends at response headers, not stream completion. Official case duration is used as a proxy including decomposition, PubChem lookup, reassembly, scoring, and local I/O.",
+    "Bailian non-streaming timer includes full response receipt.",
+    "Historical observational comparison, not simultaneous randomized provider benchmark."
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "method": "MolLingo",
+  "model": "deepseek-v4.1-flash",
+  "provider": "Alibaba Bailian",
+  "expected": 5600,
+  "reference": "/data2/chenfuxin/chatdrug_prompt_aligned_bailian_20261006",
+  "cases_sha256": "d118b671cfa62b74f5366eddbd2296e3c23fb7f0ac59f1ed49e4cb62aeefdccf",
+  "evaluation": "ChatDrug original evaluate_molecule with thresholds zero, original RDKit 2022.09.4; Kekulize retained",
+  "online_feedback": "Native baseline unchanged; neither method consumes benchmark evaluator score during generation",
+  "prompt": "Exact cases.json from existing ChatDrug/AgentDrug full5600 variant",
+  "workers": 24,
+  "maximum_workers": 32,
+  "native_baseline": "/data2/chenfuxin/molingo_20260922",
+  "reuse_candidate_root": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolLingo",
+  "no_chemistry_retries": true,
+  "source_hashes": {
+    "/data/chenfuxin/chatdrug_prompt_aligned_full4_bailian_20261011/molingo/driver.py": "2f00e8f08edf2dd46b07754f014d00eb874ff1522aa92a5d615e8a7f1e75195c",
+    "/data/chenfuxin/chatdrug_prompt_aligned_full4_bailian_20261011/molingo/lingo_relay.py": "f4ab8fa6ac20197f1ce30cf63b462ac6143e40bf80d31cfbcfe6863f4940ed2b",
+    "/data/chenfuxin/chatdrug_prompt_aligned_full4_bailian_20261011/molingo/common.py": "f024b91e297bb0eff21a2a80c1c4969db1add54dc4fe6dce7fc98777df2defc3",
+    "/data/chenfuxin/chatdrug_prompt_aligned_full4_bailian_20261011/molingo/lingo_native.py": "4b6c17894f02bcb0a1141710e85f4f1bb4ed8d54bb0fe3c28ab2a6564c6dcbbe",
+    "/data/chenfuxin/chatdrug_prompt_aligned_full4_bailian_20261011/molingo/validate_and_reuse.py": "8c45a986ff167a68d10d787eb96c6ba5ca500b978c6f3f58e869754e5b396250"
+  },
+  "created": 1791731400.555708
+}

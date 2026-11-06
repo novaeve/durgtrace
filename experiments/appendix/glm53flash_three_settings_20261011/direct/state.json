@@ -1,0 +1,9 @@
+{
+  "phase": "complete",
+  "processed": 4200,
+  "expected": 4200,
+  "workers": 16,
+  "generation": "independent_single_response_no_harness",
+  "model": "glm-5.3-flash",
+  "time": 1791731817.3992927
+}

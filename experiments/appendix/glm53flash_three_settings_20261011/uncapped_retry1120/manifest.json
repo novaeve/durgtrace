@@ -1,0 +1,55 @@
+{
+  "run_id": "uncapped_retry1120_1791691225175093326",
+  "created": 1791691225.1750948,
+  "expected": 1120,
+  "workers": 16,
+  "scope": {
+    "expected": 1120,
+    "source_snapshot_time": 1791689874.6933742,
+    "selection": "Earliest completed truncated receipts within each reported setting/property count",
+    "groups": [
+      {
+        "setting": "1_original_chatdrug",
+        "property": "LogP",
+        "count": 15
+      },
+      {
+        "setting": "1_original_chatdrug",
+        "property": "QED",
+        "count": 322
+      },
+      {
+        "setting": "2_s2_prompt_chatdrug",
+        "property": "LogP",
+        "count": 283
+      },
+      {
+        "setting": "2_s2_prompt_chatdrug",
+        "property": "QED",
+        "count": 499
+      },
+      {
+        "setting": "3_original_s2",
+        "property": "LogP",
+        "count": 0
+      },
+      {
+        "setting": "3_original_s2",
+        "property": "QED",
+        "count": 1
+      }
+    ]
+  },
+  "selection_only": "1120 reported provider_limit cases; no successful or scientific-failure case selected",
+  "jobs_sha256": "6a86930303af2aee8aa56f957cce46c167341aa2e96ce100a7201b7a6df708b6",
+  "helper_sha256": "66daad88820a6459494ab1557cf3fdb01e3909706bc472ec4807d5603abefd22",
+  "output_budget": "provider_default_no_client_token_cap",
+  "prompt_unchanged": true,
+  "temperature": 0,
+  "reasoning_effort": "low",
+  "no_tools": true,
+  "no_feedback": true,
+  "one_response_per_retry": true,
+  "no_scientific_retry": true,
+  "source_formal_result_root": "/data/chenfuxin/glm53flash_three_settings_20261011/direct"
+}

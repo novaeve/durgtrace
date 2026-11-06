@@ -1,0 +1,67 @@
+{
+  "retry_state": {
+    "phase": "full",
+    "processed": 520,
+    "expected": 1120,
+    "workers": 16,
+    "run_id": "uncapped_retry1120_1791691225175093326",
+    "success": 393,
+    "statuses": {
+      "complete": 520
+    },
+    "output_budget": "provider_default_no_client_token_cap",
+    "time": 1791695304.79295
+  },
+  "verified_fresh_uncapped_calls": 521,
+  "examples": [
+    {
+      "id": "source_101_loose_095",
+      "finish_reason": "stop",
+      "content_length": 44,
+      "completion_tokens": 198,
+      "reasoning_tokens": 165
+    },
+    {
+      "id": "source_101_strict_069",
+      "finish_reason": "stop",
+      "content_length": 45,
+      "completion_tokens": 79,
+      "reasoning_tokens": 47
+    },
+    {
+      "id": "source_101_loose_005",
+      "finish_reason": "stop",
+      "content_length": 51,
+      "completion_tokens": 292,
+      "reasoning_tokens": 252
+    },
+    {
+      "id": "source_101_strict_100",
+      "finish_reason": "stop",
+      "content_length": 35,
+      "completion_tokens": 2845,
+      "reasoning_tokens": 2820
+    },
+    {
+      "id": "source_101_loose_164",
+      "finish_reason": "stop",
+      "content_length": 51,
+      "completion_tokens": 2855,
+      "reasoning_tokens": 2816
+    },
+    {
+      "id": "source_101_loose_019",
+      "finish_reason": "stop",
+      "content_length": 47,
+      "completion_tokens": 7713,
+      "reasoning_tokens": 7675
+    }
+  ],
+  "calls_over_previous_2048_limit": 243,
+  "max_completion_tokens_observed": 17073,
+  "finish_reasons": {
+    "stop": 521
+  },
+  "time": 1791695332.4175777,
+  "pilot_accepted": true
+}

@@ -1,0 +1,23 @@
+{
+  "source_cases": 5600,
+  "target_cases": 1500,
+  "total_cases": 7100,
+  "source_inputs": 200,
+  "source_settings": 28,
+  "target_per_property": 500,
+  "input_hashes": {
+    "source": "6fa09f81402bebe7c14c12404c4c5edba5de32abf8d88f4f733485b992e79daa",
+    "LogP": "3eaa8ae35baadc857db95aa3cdac3864bfb8a0e2ca30a8f77af585dd4606268a",
+    "QED": "cf8288ca7ab0f2324d8f63e322981f5d39e650bd48613ebb1782efa2d08019f8",
+    "MR": "73d391699f1840e3617b70822d9071c477a1ccf7144b85ff3bea2dd3af8cca14"
+  },
+  "corpus_sha256": "35e3f1a52b1badc0697e373d73a18ad773f415936ff992f4c6baa2e067b3e6ae",
+  "excluded_unique_structures": 1695,
+  "excluded_rows": 1695,
+  "invalid_rows": 0,
+  "duplicates": 0,
+  "canonical_test_retrieval_overlap": 0,
+  "retrieval_rows": 10000,
+  "retrieval_sha256": "1afbd924a27da85debd31859ffa0574d2f1cfc418760638b3ef59d03c7a56748",
+  "note": "New full-experiment retrieval corpus excludes MR too; pilot results not pooled. MR is an adapter extension, not an original ChatDrug task."
+}

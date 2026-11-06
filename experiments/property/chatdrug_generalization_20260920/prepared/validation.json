@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "upstream_scalar_equivalence_checks": 100,
+  "cases": 120,
+  "retrieval_rows": 10000,
+  "canonical_overlap": 0
+}

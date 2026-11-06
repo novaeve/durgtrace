@@ -1,0 +1,501 @@
+index,Instruction,molecule,logP
+190062,Please optimize the molecule CC(C)(C)OC(=O)Nc1cccc(CC(=O)Nc2cccnc2Cl)c1 to have a higher LogP value.,CC(C)(C)OC(=O)Nc1cccc(CC(=O)Nc2cccnc2Cl)c1,4.263200000000003
+21467,Modify the molecule O=C(CN1C(=O)[C@H]2[C@@H]3C=C[C@@H](C3)[C@@H]2C1=O)N1CCN(c2ccccc2Cl)CC1 to have a lower LogP value.,O=C(CN1C(=O)[C@H]2[C@@H]3C=C[C@@H](C3)[C@@H]2C1=O)N1CCN(c2ccccc2Cl)CC1,1.7957
+229294,Optimize the molecule C[C@@H](NC(=O)c1ccccc1Cn1cccn1)c1cccc(C(F)(F)F)c1 to have a lower LogP value.,C[C@@H](NC(=O)c1ccccc1Cn1cccn1)c1cccc(C(F)(F)F)c1,4.441200000000004
+240024,Please modify the molecule C[C@@H](Oc1ccc(-c2ccccc2)cc1)C(=O)Nc1nc(C#N)c(C#N)[n-]1 to increase its LogP value.,C[C@@H](Oc1ccc(-c2ccccc2)cc1)C(=O)Nc1nc(C#N)c(C#N)[n-]1,2.85516
+193093,Optimize the molecule CSc1ccc2c(c1)CCC[C@H]2[NH2+][C@H]1CCCn2nc(C)nc21 to have a higher LogP value.,CSc1ccc2c(c1)CCC[C@H]2[NH2+][C@H]1CCCn2nc(C)nc21,2.784320000000001
+24073,Modify the molecule Cc1ccc(Cn2cc(C(=O)c3ccc(F)cc3)c(=O)c3cc(F)ccc32)cc1 to have a higher LogP value.,Cc1ccc(Cn2cc(C(=O)c3ccc(F)cc3)c(=O)c3cc(F)ccc32)cc1,4.867420000000004
+247646,Modify the molecule CCn1cc([C@H](C)NC(=O)c2cc3c(C(F)(F)F)nn(C)c3s2)c(C)n1 to have a higher LogP value.,CCn1cc([C@H](C)NC(=O)c2cc3c(C(F)(F)F)nn(C)c3s2)c(C)n1,3.6694200000000015
+209223,Please modify the molecule C[NH+](C)[C@H]1CCN(C(=O)C(=O)c2ccccc2)C[C@H]1CCC(=O)[O-] to decrease its LogP value.,C[NH+](C)[C@H]1CCN(C(=O)C(=O)c2ccccc2)C[C@H]1CCC(=O)[O-],-1.238999999999996
+57528,Please modify the molecule CCc1c(C)nc(SCC(=O)Nc2nc(-c3ccc(OC)cc3)cs2)[nH]c1=O to increase its LogP value.,CCc1c(C)nc(SCC(=O)Nc2nc(-c3ccc(OC)cc3)cs2)[nH]c1=O,3.503620000000001
+163762,Modify the molecule COc1ccc(N2C[C@H](C(=O)Nc3n[nH]c(-c4ccccc4OC)n3)CC2=O)cc1 to have a lower LogP value.,COc1ccc(N2C[C@H](C(=O)Nc3n[nH]c(-c4ccccc4OC)n3)CC2=O)cc1,2.4805
+59937,Please optimize the molecule Cc1ccc(NC(=O)c2n[nH]c3c2CCC3)cc1C(=O)N(C)C to have a lower LogP value.,Cc1ccc(NC(=O)c2n[nH]c3c2CCC3)cc1C(=O)N(C)C,2.16092
+95668,Please optimize the molecule CC(C)(C)NC(=O)Cn1cc(C(N)=O)c(-c2ccccc2)n1 to have a lower LogP value.,CC(C)(C)NC(=O)Cn1cc(C(N)=O)c(-c2ccccc2)n1,1.5636999999999996
+53740,Optimize the molecule O=C(NCc1ccncc1)[C@H]1CCCC[NH2+]1 to have a lower LogP value.,O=C(NCc1ccncc1)[C@H]1CCCC[NH2+]1,-0.1863
+149555,Please optimize the molecule O=C(Cn1ccc2ccc(F)cc21)N1CCN(CCc2ccccn2)CC1 to have a lower LogP value.,O=C(Cn1ccc2ccc(F)cc21)N1CCN(CCc2ccccn2)CC1,2.5623000000000005
+176144,Please modify the molecule Cc1ccccc1CNC(=O)CCc1ccc2[nH]ccc2c1 to increase its LogP value.,Cc1ccccc1CNC(=O)CCc1ccc2[nH]ccc2c1,3.7253200000000017
+241063,Modify the molecule Cc1cccc(CN(C2CC2)S(=O)(=O)c2ccc3c(c2)C(=O)N(C)C3=O)c1 to have a higher LogP value.,Cc1cccc(CN(C2CC2)S(=O)(=O)c2ccc3c(c2)C(=O)N(C)C3=O)c1,2.5741200000000006
+116784,Modify the molecule C[C@]12CCC(=O)N1[C@H](C(=O)N1CCC[C@@H]1C(=O)[O-])CS2 to have a lower LogP value.,C[C@]12CCC(=O)N1[C@H](C(=O)N1CCC[C@@H]1C(=O)[O-])CS2,-0.8186999999999993
+85156,Optimize the molecule CC(C)Oc1ccc([C@H](C)Nc2c(C#N)c(=O)n(C)c(=O)n2C)cc1 to have a higher LogP value.,CC(C)Oc1ccc([C@H](C)Nc2c(C#N)c(=O)n(C)c(=O)n2C)cc1,1.91598
+40040,Modify the molecule COc1ccc(C)cc1NC(=O)CSC1=NCCS1 to decrease its LogP value.,COc1ccc(C)cc1NC(=O)CSC1=NCCS1,2.7781200000000013
+85636,Optimize the molecule COc1ccc(OC)c(CN2CCCn3cccc3[C@H]2c2ccccc2C)c1 to have a lower LogP value.,COc1ccc(OC)c(CN2CCCn3cccc3[C@H]2c2ccccc2C)c1,4.809020000000005
+40559,Optimize the molecule C[C@H]1CC[C@@H](C)C[NH+]1CC(=O)N1CCO[C@H]2CCCC[C@@H]21 to have a lower LogP value.,C[C@H]1CC[C@@H](C)C[NH+]1CC(=O)N1CCO[C@H]2CCCC[C@@H]21,0.8597000000000006
+223709,Please modify the molecule CC[C@H](O)c1ccn(C[C@@H]2Cc3cc(F)ccc3O2)c1 to decrease its LogP value.,CC[C@H](O)c1ccn(C[C@@H]2Cc3cc(F)ccc3O2)c1,3.074300000000002
+223531,Modify the molecule C[C@H](NC(=O)c1ccc(S(=O)(=O)NC2CC2)cc1)c1ccccc1Br to increase its LogP value.,C[C@H](NC(=O)c1ccc(S(=O)(=O)NC2CC2)cc1)c1ccccc1Br,3.3808000000000025
+150268,Please optimize the molecule CCc1cnc(CCNC(=O)N2CCN(C(=O)[C@@H]3C[C@H]3C)CC2)s1 to have a higher LogP value.,CCc1cnc(CCNC(=O)N2CCN(C(=O)[C@@H]3C[C@H]3C)CC2)s1,1.7577999999999998
+183947,Optimize the molecule Cc1cscc1C(=O)Nc1cc(Cl)ccc1N to have a higher LogP value.,Cc1cscc1C(=O)Nc1cc(Cl)ccc1N,3.544420000000001
+238253,Modify the molecule C[NH+](CC(=O)Nc1cccnc1)Cc1ccc(F)c(F)c1 to decrease its LogP value.,C[NH+](CC(=O)Nc1cccnc1)Cc1ccc(F)c(F)c1,1.0132
+195282,Modify the molecule CC(C)c1cc(NC(=O)CN(C)CC(C)(C)C[NH3+])on1 to have a lower LogP value.,CC(C)c1cc(NC(=O)CN(C)CC(C)(C)C[NH3+])on1,0.9364000000000006
+62632,Please modify the molecule CC(C)([NH3+])CS[C@H]1CCOC2(CCSCC2)C1 to decrease its LogP value.,CC(C)([NH3+])CS[C@H]1CCOC2(CCSCC2)C1,2.1849000000000007
+121622,Please modify the molecule CC[C@H](NC(=O)N1CCCN(c2nccs2)CC1)c1ccc(OC)cc1 to increase its LogP value.,CC[C@H](NC(=O)N1CCCN(c2nccs2)CC1)c1ccc(OC)cc1,3.524700000000003
+20734,Please optimize the molecule Cc1cc(O)c(C(=O)c2ccccc2)cc1Cl to have a lower LogP value.,Cc1cc(O)c(C(=O)c2ccccc2)cc1Cl,3.585020000000001
+181042,Modify the molecule CCOC[C@H](C)N1CCC[NH+]2CCC[C@@H]2C1 to increase its LogP value.,CCOC[C@H](C)N1CCC[NH+]2CCC[C@@H]2C1,0.1644000000000023
+134360,Please modify the molecule C[NH+]1CCC[C@H](C(=O)NC[C@@H](C2CC2)[NH+](C)C)C1 to decrease its LogP value.,C[NH+]1CCC[C@H](C(=O)NC[C@@H](C2CC2)[NH+](C)C)C1,-2.0495999999999945
+68778,Modify the molecule Cc1c([C@@H]2C[C@H](Cl)CCO2)cnn1C to have a lower LogP value.,Cc1c([C@@H]2C[C@H](Cl)CCO2)cnn1C,2.1874199999999995
+216300,Optimize the molecule Cc1ccc(C=C2C(=O)OC3(CCCC3)OC2=O)cc1Br to have a lower LogP value.,Cc1ccc(C=C2C(=O)OC3(CCCC3)OC2=O)cc1Br,3.5112200000000025
+224276,Please optimize the molecule Cc1nc(NC(=O)c2cc3c([nH]c2=O)CCCC3)sc1-c1ccccc1 to have a lower LogP value.,Cc1nc(NC(=O)c2cc3c([nH]c2=O)CCCC3)sc1-c1ccccc1,3.9379200000000023
+70755,Modify the molecule COc1ccc2cc(/C([O-])=C(/C#N)C(=O)N3CCCC3)c(C)nc2c1 to have a lower LogP value.,COc1ccc2cc(/C([O-])=C(/C#N)C(=O)N3CCCC3)c(C)nc2c1,1.7692
+56516,Modify the molecule CC[C@H](C)c1ccc(OCC(=O)Nc2ccc(NC(C)=O)cc2)cc1 to have a higher LogP value.,CC[C@H](C)c1ccc(OCC(=O)Nc2ccc(NC(C)=O)cc2)cc1,4.176000000000003
+162013,Modify the molecule Cn1cc(C(=O)N2CCC[C@@H](Cn3ccnn3)C2)c(-c2ccccc2)n1 to have a higher LogP value.,Cn1cc(C(=O)N2CCC[C@@H](Cn3ccnn3)C2)c(-c2ccccc2)n1,2.231
+17046,Please optimize the molecule N#CCCCC(=O)c1ccccc1I to have a lower LogP value.,N#CCCCC(=O)c1ccccc1I,3.1677800000000023
+56045,Please modify the molecule Cc1cc(N)cc(C)c1S(=O)(=O)NCC1CC1 to increase its LogP value.,Cc1cc(N)cc(C)c1S(=O)(=O)NCC1CC1,1.57394
+22769,Please modify the molecule O=S(=O)(c1ccc(Br)cc1Cl)N1CCN(Cc2cc(-c3ccccc3)no2)CC1 to increase its LogP value.,O=S(=O)(c1ccc(Br)cc1Cl)N1CCN(Cc2cc(-c3ccccc3)no2)CC1,4.264000000000005
+230827,Optimize the molecule CC1=C(/C=C/C(C)=N/NC(N)=[NH2+])C(C)(C)CCC1 to have a higher LogP value.,CC1=C(/C=C/C(C)=N/NC(N)=[NH2+])C(C)(C)CCC1,1.1085
+12800,Modify the molecule Cc1c(C(=O)Nc2ccc3c(c2)COC3)cccc1[N+](=O)[O-] to increase its LogP value.,Cc1c(C(=O)Nc2ccc3c(c2)COC3)cccc1[N+](=O)[O-],3.1857200000000017
+36338,Please optimize the molecule Cc1cccc(Oc2ccc(NC(=O)C(=O)N[C@H](C)CO)cc2)c1 to have a higher LogP value.,Cc1cccc(Oc2ccc(NC(=O)C(=O)N[C@H](C)CO)cc2)c1,2.22282
+45780,Modify the molecule C[C@@H](O)[C@@H](NC(=O)CSc1ccncc1)C(=O)[O-] to have a lower LogP value.,C[C@@H](O)[C@@H](NC(=O)CSc1ccncc1)C(=O)[O-],-1.2108000000000003
+52640,Please optimize the molecule Cc1ccccc1NC(=O)[C@@H](C)Sc1nnnn1Cc1ccccc1 to have a higher LogP value.,Cc1ccccc1NC(=O)[C@@H](C)Sc1nnnn1Cc1ccccc1,3.1491200000000017
+218932,Please modify the molecule C[NH2+]Cc1cc(F)c(O[C@H]2CCCC[C@H]2O)c(F)c1 to increase its LogP value.,C[NH2+]Cc1cc(F)c(O[C@H]2CCCC[C@H]2O)c(F)c1,1.3403000000000005
+117931,Optimize the molecule CCN(Cc1ccnc(Cl)c1)Cc1cccc(C)n1 to have a lower LogP value.,CCN(Cc1ccnc(Cl)c1)Cc1cccc(C)n1,3.4605200000000025
+158217,Modify the molecule CC(C)C[C@@H](C[NH3+])c1nc2ccccc2n1CC(F)(F)F to decrease its LogP value.,CC(C)C[C@@H](C[NH3+])c1nc2ccccc2n1CC(F)(F)F,2.970200000000001
+147728,Please optimize the molecule O=S(=O)(c1ccc(F)cc1)N1CCCN(Cc2cc(-c3ccco3)on2)CC1 to have a higher LogP value.,O=S(=O)(c1ccc(F)cc1)N1CCCN(Cc2cc(-c3ccco3)on2)CC1,2.9703000000000017
+46443,Please optimize the molecule O=C(CCC(=O)N1CCOc2ccccc21)NCCCN1CCOCC1 to have a lower LogP value.,O=C(CCC(=O)N1CCOc2ccccc21)NCCCN1CCOCC1,1.0307000000000006
+107508,Please modify the molecule Cc1cnc(-c2cccc(NC(=O)C(=O)NC[C@H](C(C)C)[NH+]3CCCC3)c2)o1 to decrease its LogP value.,Cc1cnc(-c2cccc(NC(=O)C(=O)NC[C@H](C(C)C)[NH+]3CCCC3)c2)o1,1.4080199999999998
+4689,Optimize the molecule COc1ccc(-c2nc(CN3CCNC(=O)C3)c(C)o2)c2ccccc12 to have a lower LogP value.,COc1ccc(-c2nc(CN3CCNC(=O)C3)c(C)o2)c2ccccc12,2.743620000000001
+164219,Modify the molecule CC(C)c1n[nH]c(NC(=O)[C@H]2CCCN(c3ncccn3)C2)n1 to increase its LogP value.,CC(C)c1n[nH]c(NC(=O)[C@H]2CCCN(c3ncccn3)C2)n1,1.5732
+218107,Please optimize the molecule CSCc1nnc(NC(=O)c2ccc(S(=O)(=O)N3CCCCCC3)cc2)o1 to have a lower LogP value.,CSCc1nnc(NC(=O)c2ccc(S(=O)(=O)N3CCCCCC3)cc2)o1,2.749600000000001
+140271,Optimize the molecule C[C@@H](CNC(=O)c1cn(Cc2cccnc2)nn1)Cc1cccs1 to have a higher LogP value.,C[C@@H](CNC(=O)c1cn(Cc2cccnc2)nn1)Cc1cccs1,2.3915000000000006
+195546,Modify the molecule [NH3+]C1(C(=O)N2CCC3(CCC(=O)N(CCc4ccncc4)C3)CC2)CC1 to decrease its LogP value.,[NH3+]C1(C(=O)N2CCC3(CCC(=O)N(CCc4ccncc4)C3)CC2)CC1,0.6297999999999999
+4755,Modify the molecule O=C([O-])c1cc(C2CC2)nc2c(-c3ccc(Cl)cc3)cnn12 to decrease its LogP value.,O=C([O-])c1cc(C2CC2)nc2c(-c3ccc(Cl)cc3)cnn12,2.2905999999999995
+8555,Modify the molecule C#CCN(CC#C)CC(=O)NCc1ccc(OC)cc1 to have a lower LogP value.,C#CCN(CC#C)CC(=O)NCc1ccc(OC)cc1,0.8797999999999995
+218200,Please optimize the molecule Cn1nc(NC(=O)c2ccc(C(F)(F)F)cc2)c2c1NC(=O)C[C@H]2c1ccco1 to have a higher LogP value.,Cn1nc(NC(=O)c2ccc(C(F)(F)F)cc2)c2c1NC(=O)C[C@H]2c1ccco1,3.758300000000001
+220206,Modify the molecule CC1CCC(NC(=O)[C@H]2CCCN(S(=O)(=O)c3c[nH]c(C(=O)N4CCCC4)c3)C2)CC1 to have a higher LogP value.,CC1CCC(NC(=O)[C@H]2CCCN(S(=O)(=O)c3c[nH]c(C(=O)N4CCCC4)c3)C2)CC1,2.3462999999999994
+232917,Modify the molecule CC(C)[C@@H](CNC(=O)N1CCN(c2nccs2)CC1)[NH+]1CCCCCC1 to have a lower LogP value.,CC(C)[C@@H](CNC(=O)N1CCN(c2nccs2)CC1)[NH+]1CCCCCC1,1.4582000000000013
+207993,Please optimize the molecule CCOC(=O)C1=C(C)Nc2nc(SCc3ccccc3Cl)nn2[C@@H]1c1cccc(O)c1 to have a lower LogP value.,CCOC(=O)C1=C(C)Nc2nc(SCc3ccccc3Cl)nn2[C@@H]1c1cccc(O)c1,4.781400000000004
+26292,Modify the molecule C[C@@H](C(=O)Nc1ccccc1Cl)n1cc(Br)cn1 to increase its LogP value.,C[C@@H](C(=O)Nc1ccccc1Cl)n1cc(Br)cn1,3.4987000000000013
+158685,Please modify the molecule CCC[C@@H](O)c1ccn(Cc2cncn2C(C)C)c1 to decrease its LogP value.,CCC[C@@H](O)c1ccn(Cc2cncn2C(C)C)c1,3.1473000000000013
+87353,Optimize the molecule CCc1cccc(C)c1NC(=O)[C@H](C)O/N=C(/N)Cc1ccccc1C to have a higher LogP value.,CCc1cccc(C)c1NC(=O)[C@H](C)O/N=C(/N)Cc1ccccc1C,3.7243400000000015
+72080,Modify the molecule [NH3+]C1CCN(c2nc3ccsc3c(=O)n2Cc2ccc(F)cc2)CC1 to have a lower LogP value.,[NH3+]C1CCN(c2nc3ccsc3c(=O)n2Cc2ccc(F)cc2)CC1,1.8561
+144916,Optimize the molecule Cc1csc(S(=O)(=O)CC(=O)N[C@H]2CCCC[C@H]2C)n1 to have a higher LogP value.,Cc1csc(S(=O)(=O)CC(=O)N[C@H]2CCCC[C@H]2C)n1,1.92012
+185999,Optimize the molecule COc1cccc(C(=O)[C@@H]2CCC[NH+](Cc3nc(-c4cccs4)oc3C)C2)c1 to have a lower LogP value.,COc1cccc(C(=O)[C@@H]2CCC[NH+](Cc3nc(-c4cccs4)oc3C)C2)c1,3.397920000000002
+47676,Modify the molecule Cc1ccc(C(=O)C[C@]2(O)C(=O)N(C)c3ccc(Cl)cc32)c(C)c1 to decrease its LogP value.,Cc1ccc(C(=O)C[C@]2(O)C(=O)N(C)c3ccc(Cl)cc32)c(C)c1,3.3938400000000017
+62213,Modify the molecule O=C(CNC(=O)c1cnn2cc(Br)cnc12)Nc1cccnc1 to decrease its LogP value.,O=C(CNC(=O)c1cnn2cc(Br)cnc12)Nc1cccnc1,1.2552999999999996
+244953,Please modify the molecule N#C/C(=C/c1ccc(Cl)cc1)c1nc2ccccc2s1 to decrease its LogP value.,N#C/C(=C/c1ccc(Cl)cc1)c1nc2ccccc2s1,5.013880000000003
+40051,Optimize the molecule Cn1nnnc1SCC(=O)N1CCO[C@H](c2cccs2)C1 to have a higher LogP value.,Cn1nnnc1SCC(=O)N1CCO[C@H](c2cccs2)C1,0.9637999999999995
+111459,Modify the molecule CCCNC(=O)[C@@H](C)[NH+]1CCCN(S(=O)(=O)c2ccccc2)CC1 to decrease its LogP value.,CCCNC(=O)[C@@H](C)[NH+]1CCCN(S(=O)(=O)c2ccccc2)CC1,-0.1193999999999968
+191111,Modify the molecule COc1cccc(N2C[C@@H](C(=O)N(C)Cc3ccsc3)CC2=O)c1 to have a lower LogP value.,COc1cccc(N2C[C@@H](C(=O)N(C)Cc3ccsc3)CC2=O)c1,2.768200000000001
+241468,Modify the molecule CCn1c(SCc2nccn2C)nc2sc(C)c(C)c2c1=O to have a higher LogP value.,CCn1c(SCc2nccn2C)nc2sc(C)c(C)c2c1=O,3.120540000000002
+181466,Please modify the molecule c1ccc2c(c1)CC1(CC[NH2+]CC1)C2 to decrease its LogP value.,c1ccc2c(c1)CC1(CC[NH2+]CC1)C2,1.1287999999999998
+16835,Optimize the molecule CC[C@H](C)[NH+](CC)CC(=O)N(C)c1ccc(N)cc1 to have a lower LogP value.,CC[C@H](C)[NH+](CC)CC(=O)N(C)c1ccc(N)cc1,0.9349000000000012
+227566,Modify the molecule O=C(C[NH+]1CC[C@@H](O)C1)Nc1cc(F)ccc1F to have a lower LogP value.,O=C(C[NH+]1CC[C@@H](O)C1)Nc1cc(F)ccc1F,-0.4472
+221589,Modify the molecule Cc1ccccc1-n1ccnc1SC[C@@H](O)CN1CCOCC1 to increase its LogP value.,Cc1ccccc1-n1ccnc1SC[C@@H](O)CN1CCOCC1,1.96592
+154895,Optimize the molecule CCc1c(C)nc([C@H]2CN(CC)CCO2)nc1NC to have a higher LogP value.,CCc1c(C)nc([C@H]2CN(CC)CCO2)nc1NC,1.7823199999999997
+39885,Please optimize the molecule C=CCOc1c(Br)cc(/C=C(/C#N)C(=O)N(C)C)cc1I to have a lower LogP value.,C=CCOc1c(Br)cc(/C=C(/C#N)C(=O)N(C)C)cc1I,3.613680000000003
+58150,Modify the molecule Cc1cc(CNS(=O)(=O)CC(C)C)c(C)o1 to have a lower LogP value.,Cc1cc(CNS(=O)(=O)CC(C)C)c(C)o1,1.97184
+176943,Modify the molecule O=S1(=O)CC[C@H](NC(=S)N[C@H]2CCS(=O)(=O)C2)C1 to increase its LogP value.,O=S1(=O)CC[C@H](NC(=S)N[C@H]2CCS(=O)(=O)C2)C1,-1.175299999999999
+126075,Modify the molecule O=C(NCc1nnnn1-c1ccc(Cl)cc1)c1cccc2ccccc12 to have a lower LogP value.,O=C(NCc1nnnn1-c1ccc(Cl)cc1)c1cccc2ccccc12,3.398900000000002
+237801,Modify the molecule Nn1c(SCc2c(F)cccc2Cl)nnc1-c1ccc(Cl)cc1 to have a lower LogP value.,Nn1c(SCc2c(F)cccc2Cl)nnc1-c1ccc(Cl)cc1,4.397100000000002
+196853,Optimize the molecule Nc1cccc2oc(Nc3cc(Cl)ccc3F)nc12 to have a higher LogP value.,Nc1cccc2oc(Nc3cc(Cl)ccc3F)nc12,3.946100000000001
+197084,Modify the molecule C[C@H](c1cc2ccccc2o1)N(C)Cc1nnsc1Cl to decrease its LogP value.,C[C@H](c1cc2ccccc2o1)N(C)Cc1nnsc1Cl,4.130700000000003
+61683,Please modify the molecule COc1cc(CN2CCO[C@@H](c3ccc(F)c(Cl)c3)C2)c([N+](=O)[O-])cc1O to decrease its LogP value.,COc1cc(CN2CCO[C@@H](c3ccc(F)c(Cl)c3)C2)c([N+](=O)[O-])cc1O,3.675000000000003
+32981,Please modify the molecule O=c1/c(=C/c2cccc([N+](=O)[O-])c2)sc2nc(/C=C/c3ccc(F)cc3)nn12 to decrease its LogP value.,O=c1/c(=C/c2cccc([N+](=O)[O-])c2)sc2nc(/C=C/c3ccc(F)cc3)nn12,2.916400000000001
+41729,Modify the molecule COc1ccc(C(=O)Cn2nc(-c3ccc(SC)cc3)ccc2=O)cc1OC to decrease its LogP value.,COc1ccc(C(=O)Cn2nc(-c3ccc(SC)cc3)ccc2=O)cc1OC,3.532300000000002
+61805,Modify the molecule Cc1ccc(NC(=O)N2CCc3[nH]c4ccccc4c3C2)cc1C(N)=O to have a lower LogP value.,Cc1ccc(NC(=O)N2CCc3[nH]c4ccccc4c3C2)cc1C(N)=O,3.16542
+123177,Please optimize the molecule CC[NH+](CC)[C@](C)(CC)[C@@H](O)Cc1ccc2c(c1)CCC2 to have a lower LogP value.,CC[NH+](CC)[C@](C)(CC)[C@@H](O)Cc1ccc2c(c1)CCC2,2.1721000000000004
+149317,Optimize the molecule CC(C)(C)c1noc(CCC(=O)N[C@@H]2CCC[C@@H](S(C)(=O)=O)C2)n1 to have a higher LogP value.,CC(C)(C)c1noc(CCC(=O)N[C@@H]2CCC[C@@H](S(C)(=O)=O)C2)n1,1.7717
+1188,Please modify the molecule Fc1cccc(Oc2nc(-c3ccncc3)nc3c2CCC3)c1F to decrease its LogP value.,Fc1cccc(Oc2nc(-c3ccncc3)nc3c2CCC3)c1F,4.097800000000002
+3284,Optimize the molecule CCc1ccsc1CNC(=O)C(=O)Nc1cc(F)cc(F)c1 to have a higher LogP value.,CCc1ccsc1CNC(=O)C(=O)Nc1cc(F)cc(F)c1,2.8436000000000003
+95220,Modify the molecule N#Cc1cc(NC(=O)C2(O)Cc3ccccc3C2)ccc1F to decrease its LogP value.,N#Cc1cc(NC(=O)C2(O)Cc3ccccc3C2)ccc1F,2.16578
+94481,Modify the molecule COCCn1cc(NC(=O)N2CCC(Nc3cccc(OC)c3)CC2)cn1 to have a higher LogP value.,COCCn1cc(NC(=O)N2CCC(Nc3cccc(OC)c3)CC2)cn1,2.6465000000000005
+55842,Please modify the molecule O=C(NCc1ccccc1F)Nc1ccc(S(=O)(=O)C(F)F)cc1 to increase its LogP value.,O=C(NCc1ccccc1F)Nc1ccc(S(=O)(=O)C(F)F)cc1,3.143700000000001
+155064,Modify the molecule O=C(c1cccs1)C(O)O to have a lower LogP value.,O=C(c1cccs1)C(O)O,0.2414999999999998
+108602,Modify the molecule C[C@@H](CC#N)N(C)c1c(F)c(F)nc(F)c1F to decrease its LogP value.,C[C@@H](CC#N)N(C)c1c(F)c(F)nc(F)c1F,2.37638
+1050,Optimize the molecule Cc1cccc(NC(=O)[C@@H](C)[NH+]2CCC[C@H](c3nncn3C3CC3)C2)c1 to have a higher LogP value.,Cc1cccc(NC(=O)[C@@H](C)[NH+]2CCC[C@H](c3nncn3C3CC3)C2)c1,1.710919999999999
+210269,Please optimize the molecule CCS(=O)(=O)N(C)C1CCN(C(=O)[C@@H]2CCO[C@@H]2C)CC1 to have a higher LogP value.,CCS(=O)(=O)N(C)C1CCN(C(=O)[C@@H]2CCO[C@@H]2C)CC1,0.6839000000000008
+244247,Modify the molecule CC(C)n1nc(C[NH2+]CCCO)c(-c2ccccc2)n1 to decrease its LogP value.,CC(C)n1nc(C[NH2+]CCCO)c(-c2ccccc2)n1,0.9717999999999996
+38725,Modify the molecule NC(=O)c1ccc(N2CCCCC2)c(NC(=O)Cc2ccccc2)c1 to have a higher LogP value.,NC(=O)c1ccc(N2CCCCC2)c(NC(=O)Cc2ccccc2)c1,2.9570000000000016
+137945,Modify the molecule Cc1cc(C)c2[nH]c(C(=O)N3CC[C@@H](c4ccccc4F)C3)c(C)c2c1 to decrease its LogP value.,Cc1cc(C)c2[nH]c(C(=O)N3CC[C@@H](c4ccccc4F)C3)c(C)c2c1,4.861960000000004
+147748,Modify the molecule CC(C)c1cc(C(=O)N2CCSCC2)on1 to increase its LogP value.,CC(C)c1cc(C(=O)N2CCSCC2)on1,1.987
+27842,Modify the molecule O=C([C@H]1CC[C@@H]2CCCC[C@H]2C1)N1CCC(O)(C(F)(F)F)CC1 to increase its LogP value.,O=C([C@H]1CC[C@@H]2CCCC[C@H]2C1)N1CCC(O)(C(F)(F)F)CC1,3.508700000000003
+199318,Modify the molecule Cc1n[nH]c(C)c1C[C@H](C)C(=O)Nc1ccc(CN2CCOCC2)cc1 to have a higher LogP value.,Cc1n[nH]c(C)c1C[C@H](C)C(=O)Nc1ccc(CN2CCOCC2)cc1,2.6760400000000004
+197319,Modify the molecule COc1cc2c(cc1C[NH2+]C[C@H]1CCc3nncn3C1)O[C@@H](C)C2 to increase its LogP value.,COc1cc2c(cc1C[NH2+]C[C@H]1CCc3nncn3C1)O[C@@H](C)C2,0.9360999999999996
+190151,Please modify the molecule CCn1c(C)c(C(=O)NC2(C(N)=O)CCCC2)c2cc(OC)ccc21 to decrease its LogP value.,CCn1c(C)c(C(=O)NC2(C(N)=O)CCCC2)c2cc(OC)ccc21,2.50612
+40460,Optimize the molecule COc1cc(Br)c(/C=C(\C#N)C(=O)Nc2cccc(Cl)c2C)cc1OC to have a higher LogP value.,COc1cc(Br)c(/C=C(\C#N)C(=O)Nc2cccc(Cl)c2C)cc1OC,4.973800000000002
+54842,Modify the molecule CNC(=O)[C@@H](CC(C)C)N[C@H](C)C[C@@H]1CCCCC[NH2+]1 to have a higher LogP value.,CNC(=O)[C@@H](CC(C)C)N[C@H](C)C[C@@H]1CCCCC[NH2+]1,1.021300000000001
+44241,Please modify the molecule C#CCN(CC1CC1)C(=O)c1cccc(OCC(F)F)n1 to decrease its LogP value.,C#CCN(CC1CC1)C(=O)c1cccc(OCC(F)F)n1,2.2109000000000005
+212284,Please modify the molecule Cc1ccc(C2=NO[C@@H](Cn3nnc4ccccc43)C2)cc1 to decrease its LogP value.,Cc1ccc(C2=NO[C@@H](Cn3nnc4ccccc43)C2)cc1,2.932920000000001
+236434,Modify the molecule CCOC(=O)c1c(NC(=O)c2cc(=O)c3cc(C)cc(C)c3o2)sc(C)c1C to have a higher LogP value.,CCOC(=O)c1c(NC(=O)c2cc(=O)c3cc(C)cc(C)c3o2)sc(C)c1C,4.517180000000003
+19408,Please optimize the molecule Cc1ccc(N2CCC(C(=O)NCc3ccc[nH]3)CC2)[nH+]c1 to have a higher LogP value.,Cc1ccc(N2CCC(C(=O)NCc3ccc[nH]3)CC2)[nH+]c1,1.6700199999999996
+201670,Please optimize the molecule COCCn1c(C)c(C)c(S(=O)(=O)c2ccc(C)cc2)c1NC(=O)C1CCCCC1 to have a higher LogP value.,COCCn1c(C)c(C)c(S(=O)(=O)c2ccc(C)cc2)c1NC(=O)C1CCCCC1,4.411360000000004
+118238,Modify the molecule COc1ccc(S(N)(=O)=O)cc1C(=O)NC[C@@H](C)c1ccsc1 to increase its LogP value.,COc1ccc(S(N)(=O)=O)cc1C(=O)NC[C@@H](C)c1ccsc1,1.9376
+197163,Please modify the molecule O=C1c2ccccc2N[C@@H](c2ccc(OCc3cn4ccccc4n3)cc2)N1C[C@H]1CCCO1 to decrease its LogP value.,O=C1c2ccccc2N[C@@H](c2ccc(OCc3cn4ccccc4n3)cc2)N1C[C@H]1CCCO1,4.658800000000003
+74954,Please modify the molecule O=C(CCn1cccn1)N1CCSCC1 to decrease its LogP value.,O=C(CCn1cccn1)N1CCSCC1,0.8485999999999999
+75605,Modify the molecule CC(C)C[NH+](CC(C)C)[C@H]1CC[C@@](C#N)(NC2CC2)C1 to have a higher LogP value.,CC(C)C[NH+](CC(C)C)[C@H]1CC[C@@](C#N)(NC2CC2)C1,1.7501799999999994
+140766,Optimize the molecule C[C@@H](CCc1ccc(O)cc1)NC(=O)N1CCN(c2ccccc2Cl)CC1 to have a lower LogP value.,C[C@@H](CCc1ccc(O)cc1)NC(=O)N1CCN(c2ccccc2Cl)CC1,3.898500000000003
+165339,Please optimize the molecule CC1=C(C(=O)Nc2ccccc2F)[C@H](c2ccccc2F)NC(=O)N1 to have a lower LogP value.,CC1=C(C(=O)Nc2ccccc2F)[C@H](c2ccccc2F)NC(=O)N1,3.2314000000000007
+4878,Optimize the molecule COc1ccc2c(c1)CCC/C2=N\OCC(=O)NCc1ccco1 to have a lower LogP value.,COc1ccc2c(c1)CCC/C2=N\OCC(=O)NCc1ccco1,2.661600000000001
+7685,Please optimize the molecule CC(C)(C)c1cc(C(=O)[C@H](C#N)c2nc3cc(Cl)ccc3s2)[nH]n1 to have a higher LogP value.,CC(C)(C)c1cc(C(=O)[C@H](C#N)c2nc3cc(Cl)ccc3s2)[nH]n1,4.4603800000000025
+11764,Modify the molecule O=c1[nH]c([O-])nc(/C=C\C2=c3ccccc3=[NH+]C2)c1[N+](=O)[O-] to decrease its LogP value.,O=c1[nH]c([O-])nc(/C=C\C2=c3ccccc3=[NH+]C2)c1[N+](=O)[O-],-2.670399999999998
+108854,Modify the molecule O=C1NC(=O)C(=C/C=C/c2coc3ccccc3c2=O)C(=O)N1 to have a higher LogP value.,O=C1NC(=O)C(=C/C=C/c2coc3ccccc3c2=O)C(=O)N1,1.0985999999999998
+22644,Optimize the molecule CC(C)(C)N1CCN(C(=O)CCCC(=O)[O-])CC1 to have a lower LogP value.,CC(C)(C)N1CCN(C(=O)CCCC(=O)[O-])CC1,-0.1506999999999987
+247532,Please optimize the molecule N#Cc1cc(-c2ccccc2)oc1/N=C/c1ccc(Cl)cc1 to have a higher LogP value.,N#Cc1cc(-c2ccccc2)oc1/N=C/c1ccc(Cl)cc1,5.222280000000003
+245432,Optimize the molecule COc1ccc(CNC(=O)c2cn(C)nc2OC)cc1 to have a lower LogP value.,COc1ccc(CNC(=O)c2cn(C)nc2OC)cc1,1.3673
+138310,Modify the molecule CC(C)c1ccc2[nH+]c3c(cc2c1)CCN3 to have a lower LogP value.,CC(C)c1ccc2[nH+]c3c(cc2c1)CCN3,2.7453000000000003
+223430,Please optimize the molecule Cc1cc(Br)ccc1NC(=O)COc1ccc([N+](=O)[O-])cc1C to have a higher LogP value.,Cc1cc(Br)ccc1NC(=O)COc1ccc([N+](=O)[O-])cc1C,3.991640000000002
+111483,Please optimize the molecule O=C(Nc1ccccc1)C1CCN(C(=O)c2ccc(-c3nc4ccccc4s3)o2)CC1 to have a higher LogP value.,O=C(Nc1ccccc1)C1CCN(C(=O)c2ccc(-c3nc4ccccc4s3)o2)CC1,5.047200000000004
+96165,Optimize the molecule C#CCn1/c(=N/S(=O)(=O)c2ccc(OC)cc2)sc2cccc(F)c21 to have a lower LogP value.,C#CCn1/c(=N/S(=O)(=O)c2ccc(OC)cc2)sc2cccc(F)c21,2.7733000000000008
+51923,Modify the molecule C#CCCOc1ccc(CN2CCC[C@@H](CN3CCOCC3)C2)cc1 to have a lower LogP value.,C#CCCOc1ccc(CN2CCC[C@@H](CN3CCOCC3)C2)cc1,2.632900000000001
+175353,Modify the molecule C=C(C)[C@@H]1CC=C(CN2C[C@H](NC(=O)c3cc(C)nc4ccccc34)C[C@H]2C(=O)OC)CC1 to increase its LogP value.,C=C(C)[C@@H]1CC=C(CN2C[C@H](NC(=O)c3cc(C)nc4ccccc34)C[C@H]2C(=O)OC)CC1,4.191520000000003
+144959,Optimize the molecule O=[N+]([O-])c1cccc(OCc2nc(-c3ccncc3)no2)c1 to have a lower LogP value.,O=[N+]([O-])c1cccc(OCc2nc(-c3ccncc3)no2)c1,2.6188
+83725,Please modify the molecule Cc1cc(I)ccc1NC(=O)CCC(=O)N/N=C/c1ccc(N(C)C)cc1 to decrease its LogP value.,Cc1cc(I)ccc1NC(=O)CCC(=O)N/N=C/c1ccc(N(C)C)cc1,3.534620000000002
+172375,Please modify the molecule Cc1nsc(N[C@@H]2CC[NH+](C3CC3)C2)c1C#N to decrease its LogP value.,Cc1nsc(N[C@@H]2CC[NH+](C3CC3)C2)c1C#N,0.5547
+18165,Modify the molecule C[C@H]1C[C@H](NC(=O)Cn2ccnc2)CN1c1ccccc1 to decrease its LogP value.,C[C@H]1C[C@H](NC(=O)Cn2ccnc2)CN1c1ccccc1,1.666699999999999
+117849,Modify the molecule CNc1ncnc2c1[nH]c1ccccc12 to increase its LogP value.,CNc1ncnc2c1[nH]c1ccccc12,2.1528
+124291,Modify the molecule O=C1CCC[C@H]1[C@H]1CCCC[NH+]1CCC(F)(F)F to have a higher LogP value.,O=C1CCC[C@H]1[C@H]1CCCC[NH+]1CCC(F)(F)F,1.7454
+203947,Modify the molecule COc1ccc(-c2nc3c4cnn(-c5ccc(C)cc5C)c4ncn3n2)c(O)c1 to increase its LogP value.,COc1ccc(-c2nc3c4cnn(-c5ccc(C)cc5C)c4ncn3n2)c(O)c1,3.461240000000001
+112069,Please optimize the molecule Cc1cc(C)c(N(C=O)C(=O)[C@H]2[C@H](C)[C@@H]3C=C[C@H]2C32CC2)c(C)c1 to have a lower LogP value.,Cc1cc(C)c(N(C=O)C(=O)[C@H]2[C@H](C)[C@@H]3C=C[C@H]2C32CC2)c(C)c1,3.949560000000004
+161979,Modify the molecule C[C@H](Oc1ccc(Br)cc1)C(=O)Nc1cccc(S(=O)(=O)N(C)C)c1 to increase its LogP value.,C[C@H](Oc1ccc(Br)cc1)C(=O)Nc1cccc(S(=O)(=O)N(C)C)c1,3.1054000000000013
+92806,Please modify the molecule O=C(NCc1ccnc(Oc2ccc(F)cc2)c1)N1CCOC[C@H]1C1CC1 to increase its LogP value.,O=C(NCc1ccnc(Oc2ccc(F)cc2)c1)N1CCOC[C@H]1C1CC1,3.333400000000002
+182116,Please optimize the molecule Cc1cc(C)c(N/C=C(\C#N)c2nc(-c3cccc([N+](=O)[O-])c3)cs2)c(C)c1 to have a higher LogP value.,Cc1cc(C)c(N/C=C(\C#N)c2nc(-c3cccc([N+](=O)[O-])c3)cs2)c(C)c1,5.620140000000004
+46254,Modify the molecule CN(C(=O)c1ccc(-c2ccncc2)[nH]c1=O)c1ccccc1F to decrease its LogP value.,CN(C(=O)c1ccc(-c2ccncc2)[nH]c1=O)c1ccccc1F,2.8526000000000007
+169188,Optimize the molecule Cc1cc(C(=O)NCCCOc2ccccc2)no1 to have a higher LogP value.,Cc1cc(C(=O)NCCCOc2ccccc2)no1,2.18192
+23750,Optimize the molecule CCc1nn(C)cc1CNc1ccc(NC(C)=O)c(OC)c1 to have a lower LogP value.,CCc1nn(C)cc1CNc1ccc(NC(C)=O)c(OC)c1,2.5616000000000003
+239954,Please modify the molecule Oc1cccc(C[C@@H](O)c2ccc(OC(F)(F)F)cc2)c1 to decrease its LogP value.,Oc1cccc(C[C@@H](O)c2ccc(OC(F)(F)F)cc2)c1,3.5669000000000013
+111332,Modify the molecule CC(C)Oc1cccc(/C=C/C(=O)NCc2ccc[nH]2)c1 to have a lower LogP value.,CC(C)Oc1cccc(/C=C/C(=O)NCc2ccc[nH]2)c1,3.131500000000001
+220555,Optimize the molecule CCOC(=O)c1cccc(N2CCCC[C@@H](SCC)C2)n1 to have a lower LogP value.,CCOC(=O)c1cccc(N2CCCC[C@@H](SCC)C2)n1,3.370300000000002
+77537,Please optimize the molecule COc1cccc(NC(=O)[C@H](C)[NH+](C)CC(=O)N2CCOCC2)c1 to have a higher LogP value.,COc1cccc(NC(=O)[C@H](C)[NH+](C)CC(=O)N2CCOCC2)c1,-0.6042999999999976
+187929,Modify the molecule CN(C)C(=O)Nc1cccc(C[NH2+]C(C2CC2)C2CC2)c1 to decrease its LogP value.,CN(C)C(=O)Nc1cccc(C[NH2+]C(C2CC2)C2CC2)c1,2.0321
+37855,Modify the molecule C#CC[NH+]1CCC[C@H]1COC(=O)c1cnc2c(C)cccn2c1=O to increase its LogP value.,C#CC[NH+]1CCC[C@H]1COC(=O)c1cnc2c(C)cccn2c1=O,-0.1597800000000002
+71964,Modify the molecule Cc1ccc(N(Cc2ccco2)C(=O)C2CCN(S(=O)(=O)c3ccc4c(c3)OCCO4)CC2)cc1 to have a lower LogP value.,Cc1ccc(N(Cc2ccco2)C(=O)C2CCN(S(=O)(=O)c3ccc4c(c3)OCCO4)CC2)cc1,3.9933200000000033
+202409,Modify the molecule Cc1nn(C(C)C)c(C)c1NC(=O)[C@H]1CCCN(c2ncccn2)C1 to have a lower LogP value.,Cc1nn(C(C)C)c(C)c1NC(=O)[C@H]1CCCN(c2ncccn2)C1,2.7259400000000005
+189765,Modify the molecule CON(C)C(=O)c1ccc(NC(=O)[C@H]2CCCS2)cc1 to have a lower LogP value.,CON(C)C(=O)c1ccc(NC(=O)[C@H]2CCCS2)cc1,2.1541
+810,Modify the molecule O=C(Nc1ccccc1)NC1CCN(C(=O)[C@H]2CCCC[C@H]2C(F)(F)F)CC1 to have a higher LogP value.,O=C(Nc1ccccc1)NC1CCN(C(=O)[C@H]2CCCC[C@H]2C(F)(F)F)CC1,4.167800000000004
+105853,Please modify the molecule COC[C@@H](NC(=O)Cc1c[nH]c2ccccc12)c1ccc(F)c(F)c1 to increase its LogP value.,COC[C@@H](NC(=O)Cc1c[nH]c2ccccc12)c1ccc(F)c(F)c1,3.492500000000001
+139646,Please optimize the molecule NS(=O)(=O)CCNC(=O)c1cc2c(s1)CCCC2 to have a lower LogP value.,NS(=O)(=O)CCNC(=O)c1cc2c(s1)CCCC2,0.6452000000000002
+124701,Please optimize the molecule COC[C@@H](NC(=O)C[C@@H](O)c1cc(Cl)cc(Cl)c1)c1ccccc1 to have a lower LogP value.,COC[C@@H](NC(=O)C[C@@H](O)c1cc(Cl)cc(Cl)c1)c1ccccc1,3.9208000000000025
+117533,Please modify the molecule CC(=O)NC12C[C@H]3C[C@@H](C1)CC(C(=O)Nc1ccc4ccccc4n1)(C3)C2 to increase its LogP value.,CC(=O)NC12C[C@H]3C[C@@H](C1)CC(C(=O)Nc1ccc4ccccc4n1)(C3)C2,3.6484000000000014
+239825,Please optimize the molecule O=S1(=O)CC[C@@H]([NH2+]Cc2ccc3c(c2)OCO3)C1 to have a lower LogP value.,O=S1(=O)CC[C@@H]([NH2+]Cc2ccc3c(c2)OCO3)C1,-0.3341999999999989
+217895,Modify the molecule CCC[C@@H]1C[C@@]1(O)[C@@H]1CCOC1 to increase its LogP value.,CCC[C@@H]1C[C@@]1(O)[C@@H]1CCOC1,1.574
+24873,Please optimize the molecule Cc1cc(C(=O)N2CCC[C@@H]2[C@H]2CCC[C@@H]2O)ccc1F to have a higher LogP value.,Cc1cc(C(=O)N2CCC[C@@H]2[C@H]2CCC[C@@H]2O)ccc1F,2.899720000000001
+67122,Optimize the molecule CC(=O)Nc1cccc2c1CCN(C(=O)c1[nH]c3ccccc3c1Cl)C2 to have a lower LogP value.,CC(=O)Nc1cccc2c1CCN(C(=O)c1[nH]c3ccccc3c1Cl)C2,3.978200000000002
+108843,Please optimize the molecule O=C(c1csc(-c2ccsc2)n1)N1CCO[C@@H]2CCCC[C@@H]21 to have a higher LogP value.,O=C(c1csc(-c2ccsc2)n1)N1CCO[C@@H]2CCCC[C@@H]21,3.6552000000000016
+77364,Please modify the molecule Cc1noc(CCCNC(=O)N2C[C@@H](C)[C@H]2c2ccccc2)n1 to increase its LogP value.,Cc1noc(CCCNC(=O)N2C[C@@H](C)[C@H]2c2ccccc2)n1,2.7132200000000006
+188995,Modify the molecule O=C(c1cccnc1)N1CCN(CC2=c3ccccc3=[NH+]C2)CC1 to increase its LogP value.,O=C(c1cccnc1)N1CCN(CC2=c3ccccc3=[NH+]C2)CC1,-1.5958999999999968
+170125,Modify the molecule Cc1ncsc1CN(C)[C@H](C[NH3+])CC(=O)N(C)C to have a lower LogP value.,Cc1ncsc1CN(C)[C@H](C[NH3+])CC(=O)N(C)C,-0.0278799999999985
+176607,Optimize the molecule Cc1ccc(N2CCN(/N=C\c3ccc(C)o3)CC2)cc1 to have a higher LogP value.,Cc1ccc(N2CCN(/N=C\c3ccc(C)o3)CC2)cc1,3.0525400000000014
+226556,Please optimize the molecule COC(=O)c1ccc(CN2CCN(CCn3cc[nH+]c3C)CC2)cc1 to have a higher LogP value.,COC(=O)c1ccc(CN2CCN(CCn3cc[nH+]c3C)CC2)cc1,1.2150199999999998
+44670,Modify the molecule COc1ccc(N2CCN(CC(=O)NC3CCCC3)C2=O)cc1OC to increase its LogP value.,COc1ccc(N2CCN(CC(=O)NC3CCCC3)C2=O)cc1OC,2.0046
+76153,Modify the molecule CCOC(=O)c1cc(C#N)c([O-])nc1C(F)(F)F to have a lower LogP value.,CCOC(=O)c1cc(C#N)c([O-])nc1C(F)(F)F,1.22238
+189060,Please modify the molecule CN(C)S(=O)(=O)c1c[nH]c(C(=O)NCC(F)(F)F)c1 to decrease its LogP value.,CN(C)S(=O)(=O)c1c[nH]c(C(=O)NCC(F)(F)F)c1,0.5571
+120231,Please optimize the molecule CCSc1ccc([C@@H](C)NCc2sc(C)nc2C)cc1 to have a higher LogP value.,CCSc1ccc([C@@H](C)NCc2sc(C)nc2C)cc1,4.722740000000004
+7898,Modify the molecule Cc1ocnc1CNC(=O)N[C@@H]1CCCC[C@H]1CNC(=O)OC(C)(C)C to have a higher LogP value.,Cc1ocnc1CNC(=O)N[C@@H]1CCCC[C@H]1CNC(=O)OC(C)(C)C,2.8657200000000005
+131799,Please modify the molecule COCCN1C(=O)/C(=C\C=C\c2ccccc2)SC1=S to increase its LogP value.,COCCN1C(=O)/C(=C\C=C\c2ccccc2)SC1=S,3.0904000000000016
+221259,Modify the molecule CC(C)Cn1c(S[C@@H](C)C(=O)Nc2c(Cl)cc(Cl)cc2Cl)nnc1N1CCOCC1 to decrease its LogP value.,CC(C)Cn1c(S[C@@H](C)C(=O)Nc2c(Cl)cc(Cl)cc2Cl)nnc1N1CCOCC1,4.850200000000004
+64150,Modify the molecule c1ccc2c(C[NH+]3CC[C@H](Oc4cc[nH+]cc4)C3)coc2c1 to decrease its LogP value.,c1ccc2c(C[NH+]3CC[C@H](Oc4cc[nH+]cc4)C3)coc2c1,1.4830999999999992
+74529,Please modify the molecule [NH3+][C@@H]1CCC[C@H]1CCN1CCCC1=O to decrease its LogP value.,[NH3+][C@@H]1CCC[C@H]1CCN1CCCC1=O,0.4094999999999995
+141349,Modify the molecule O=C1CC[C@H](C(=O)N[C@H]2CCc3ccccc32)N1 to increase its LogP value.,O=C1CC[C@H](C(=O)N[C@H]2CCc3ccccc32)N1,1.0687000000000002
+171962,Modify the molecule CC[C@H](C)C(=O)N1Cc2ccccc2C[C@H]1C(=O)Nc1ccc(Cl)nc1 to have a lower LogP value.,CC[C@H](C)C(=O)N1Cc2ccccc2C[C@H]1C(=O)Nc1ccc(Cl)nc1,3.6731000000000025
+82142,Modify the molecule Cc1ccc(C(C)C)c2c1[C@@H]([NH2+][C@@H]1CCCN(c3cccnn3)C1)CCO2 to have a higher LogP value.,Cc1ccc(C(C)C)c2c1[C@@H]([NH2+][C@@H]1CCCN(c3cccnn3)C1)CCO2,2.9644200000000014
+239005,Modify the molecule C[C@H](NC(=O)c1ccc(CNC(=O)OC(C)(C)C)o1)c1cccc(C#N)c1 to have a higher LogP value.,C[C@H](NC(=O)c1ccc(CNC(=O)OC(C)(C)C)o1)c1cccc(C#N)c1,3.6669800000000015
+183099,Please modify the molecule CCN(Cc1ccccn1)CN1C(=O)N[C@@H](Cc2ccccc2)C1=O to decrease its LogP value.,CCN(Cc1ccccn1)CN1C(=O)N[C@@H](Cc2ccccc2)C1=O,2.0241
+226700,Please optimize the molecule CC(C)c1nc(N2CCC(C)(C)CC2)sc1C=O to have a higher LogP value.,CC(C)c1nc(N2CCC(C)(C)CC2)sc1C=O,3.7054000000000022
+43423,Modify the molecule C[C@H]([C@@H](C)S(C)(=O)=O)N(C)C(=O)C/C=C/c1ccc(F)cc1 to decrease its LogP value.,C[C@H]([C@@H](C)S(C)(=O)=O)N(C)C(=O)C/C=C/c1ccc(F)cc1,2.5090000000000003
+57926,Modify the molecule Fc1cc(Oc2ncnc3c2CCCCC3)ccc1Br to increase its LogP value.,Fc1cc(Oc2ncnc3c2CCCCC3)ccc1Br,4.439400000000003
+65995,Modify the molecule CNC(=O)[C@H]1Cc2ccccc2C[NH+]1Cc1nc(-c2ccccc2)no1 to have a higher LogP value.,CNC(=O)[C@H]1Cc2ccccc2C[NH+]1Cc1nc(-c2ccccc2)no1,0.9923999999999996
+173522,Please optimize the molecule Cc1cc2nc(SCC(=O)N3CCN(c4ccc(F)cc4)CC3)n(-c3ccc(F)cc3)c(=O)c2[nH]1 to have a higher LogP value.,Cc1cc2nc(SCC(=O)N3CCN(c4ccc(F)cc4)CC3)n(-c3ccc(F)cc3)c(=O)c2[nH]1,3.7413200000000018
+198111,Optimize the molecule C[C@@H](C(=O)NC(=O)NC(C)(C)C)N1CCN(c2ncccc2C#N)CC1 to have a lower LogP value.,C[C@@H](C(=O)NC(=O)NC(C)(C)C)N1CCN(c2ncccc2C#N)CC1,1.0880800000000002
+135060,Optimize the molecule C[C@H](c1ccncc1)[NH+](C)CC(=O)N[C@@H](c1ccc(F)cc1)C1CCCC1 to have a higher LogP value.,C[C@H](c1ccncc1)[NH+](C)CC(=O)N[C@@H](c1ccc(F)cc1)C1CCCC1,2.844100000000001
+208859,Modify the molecule CSc1ccc2cc(CN(C[C@@H]3CCCO3)C(=O)c3ccc(C)s3)c(N3CCCC3)nc2c1 to have a higher LogP value.,CSc1ccc2cc(CN(C[C@@H]3CCCO3)C(=O)c3ccc(C)s3)c(N3CCCC3)nc2c1,5.748220000000006
+227915,Modify the molecule Cc1[nH]c2ccc(C(=O)N[C@H]3CC[C@@H]([NH+](C)C)C3)cc2c1C to have a lower LogP value.,Cc1[nH]c2ccc(C(=O)N[C@H]3CC[C@@H]([NH+](C)C)C3)cc2c1C,1.58014
+60349,Please modify the molecule O=C(COC(=O)Cc1ccccc1)Nc1ccc(F)cc1 to increase its LogP value.,O=C(COC(=O)Cc1ccccc1)Nc1ccc(F)cc1,2.5501000000000005
+70362,Optimize the molecule C#CCNCC(=O)N[C@@H](C)c1cnn(C)c1C to have a higher LogP value.,C#CCNCC(=O)N[C@@H](C)c1cnn(C)c1C,0.1285199999999995
+68420,Modify the molecule CCc1cc(CNC(=O)c2cccc3[nH]ccc23)on1 to increase its LogP value.,CCc1cc(CNC(=O)c2cccc3[nH]ccc23)on1,2.6483
+97443,Modify the molecule O=C(NCCO)c1ccccc1O to have a lower LogP value.,O=C(NCCO)c1ccccc1O,0.1143
+105444,Optimize the molecule CCOc1ccc(NC(=O)[C@@H]2CC(=O)N(CCc3ccccc3)C2)c(C)c1 to have a lower LogP value.,CCOc1ccc(NC(=O)[C@@H]2CC(=O)N(CCc3ccccc3)C2)c(C)c1,3.423420000000002
+170630,Please modify the molecule CCOC(=O)c1c(NC(=O)Cn2ccc(=O)c3cccc(F)c32)sc2c1CCCC2 to increase its LogP value.,CCOC(=O)c1c(NC(=O)Cn2ccc(=O)c3cccc(F)c32)sc2c1CCCC2,3.896300000000004
+201514,Modify the molecule CS(=O)(=O)CC[NH+](Cc1ccc(N2CCCCC2)cc1)C1CC1 to increase its LogP value.,CS(=O)(=O)CC[NH+](Cc1ccc(N2CCCCC2)cc1)C1CC1,1.2688000000000013
+161922,Please optimize the molecule COc1cc(C[NH+](C)[C@@H]2CC(=O)N(c3ccc(F)cc3)C2=O)ccc1O to have a higher LogP value.,COc1cc(C[NH+](C)[C@@H]2CC(=O)N(c3ccc(F)cc3)C2=O)ccc1O,0.8866999999999996
+141762,Please optimize the molecule Cc1ccc(-c2ncco2)cc1NC(=O)N1CCOC(C)(C)C1 to have a higher LogP value.,Cc1ccc(-c2ncco2)cc1NC(=O)N1CCOC(C)(C)C1,3.292720000000002
+24122,Please modify the molecule CC[NH+](Cc1nc2cc(N)ccc2o1)C1CCCCC1 to increase its LogP value.,CC[NH+](Cc1nc2cc(N)ccc2o1)C1CCCCC1,2.1475
+70012,Modify the molecule Cc1ccc(NCCNc2ccc(C)cc2C)cc1 to increase its LogP value.,Cc1ccc(NCCNc2ccc(C)cc2C)cc1,4.135860000000003
+84897,Optimize the molecule Cc1ccc(CC(=O)N2CCC(c3c[nH]c4ncccc34)CC2)cn1 to have a higher LogP value.,Cc1ccc(CC(=O)N2CCC(c3c[nH]c4ncccc34)CC2)cn1,3.2150200000000018
+19528,Please modify the molecule CC1=N[C@@H](CNC(=O)[C@H]2C=C(C[NH+](C)Cc3ccccc3)ON2)N=C1 to decrease its LogP value.,CC1=N[C@@H](CNC(=O)[C@H]2C=C(C[NH+](C)Cc3ccccc3)ON2)N=C1,-0.5237999999999967
+144403,Please optimize the molecule C[C@@H](NC(=O)[C@@H]1CCCN(C(=O)c2ccc(F)cc2)C1)C1CCCCC1 to have a lower LogP value.,C[C@@H](NC(=O)[C@@H]1CCCN(C(=O)c2ccc(F)cc2)C1)C1CCCCC1,3.762900000000003
+88041,Modify the molecule C[C@H](NC(=O)C(=O)Nc1ccc(Cl)c(Cl)c1)c1cccc(Cl)c1 to have a higher LogP value.,C[C@H](NC(=O)C(=O)Nc1ccc(Cl)c(Cl)c1)c1cccc(Cl)c1,4.462700000000002
+194917,Modify the molecule COc1ccc2c(CC(=O)Oc3ccccc3C(F)(F)F)coc2c1 to have a higher LogP value.,COc1ccc2c(CC(=O)Oc3ccccc3C(F)(F)F)coc2c1,4.6083000000000025
+183178,Please optimize the molecule COc1ccc2c(c1)[C@H]([NH2+][C@H](C)CCN1CCOCC1)CCCO2 to have a higher LogP value.,COc1ccc2c(c1)[C@H]([NH2+][C@H](C)CCN1CCOCC1)CCCO2,1.5831000000000004
+154485,Modify the molecule O=C([O-])c1cc(NS(=O)(=O)c2cccc(F)c2)ccc1N1CCSCC1 to decrease its LogP value.,O=C([O-])c1cc(NS(=O)(=O)c2cccc(F)c2)ccc1N1CCSCC1,1.5432
+164850,Please optimize the molecule COc1ccccc1N(C)C(=O)c1cc2c([nH]c1=O)CCCC2 to have a lower LogP value.,COc1ccccc1N(C)C(=O)c1cc2c([nH]c1=O)CCCC2,2.538900000000001
+76597,Please modify the molecule CCC(CC)N1C(=O)[C@@H](C(C)(C)C)NC(=O)[C@H]1[C@H](C)CC to decrease its LogP value.,CCC(CC)N1C(=O)[C@@H](C(C)(C)C)NC(=O)[C@H]1[C@H](C)CC,2.962800000000001
+182051,Modify the molecule COc1cccc(OCc2ccc(C(N)=O)cc2N)c1 to have a lower LogP value.,COc1cccc(OCc2ccc(C(N)=O)cc2N)c1,1.9553
+81932,Please modify the molecule [O-]c1nnc(-c2ccccn2)[nH]1 to decrease its LogP value.,[O-]c1nnc(-c2ccccn2)[nH]1,-0.0597000000000002
+198115,Optimize the molecule C[C@@H](C(=O)N(C)Cc1ccc(O)cc1)S(C)(=O)=O to have a lower LogP value.,C[C@@H](C(=O)N(C)Cc1ccc(O)cc1)S(C)(=O)=O,0.7837000000000001
+234056,Please modify the molecule CCCOc1ccc(C(=O)Nc2ccccc2C(=O)NCC)cc1 to increase its LogP value.,CCCOc1ccc(C(=O)Nc2ccccc2C(=O)NCC)cc1,3.477400000000002
+132346,Please modify the molecule COc1ccc(NS(=O)(=O)c2c(C)nc3sccn3c2=O)cc1 to decrease its LogP value.,COc1ccc(NS(=O)(=O)c2c(C)nc3sccn3c2=O)cc1,1.87382
+37333,Modify the molecule Cc1ccc(S(C)(=O)=O)cc1C(=O)N1CC[C@@H](C)[C@H](O)C1 to have a higher LogP value.,Cc1ccc(S(C)(=O)=O)cc1C(=O)N1CC[C@@H](C)[C@H](O)C1,1.24142
+108536,Modify the molecule COc1cc(Cl)ccc1C(=O)NNC(=O)CC(C)(C)C to increase its LogP value.,COc1cc(Cl)ccc1C(=O)NNC(=O)CC(C)(C)C,2.5458000000000007
+192809,Optimize the molecule C[C@H](NC(=O)c1ccncc1F)c1cccc(-n2cccn2)c1 to have a higher LogP value.,C[C@H](NC(=O)c1ccncc1F)c1cccc(-n2cccn2)c1,2.897400000000001
+184014,Please modify the molecule CC(C)[C@H](C)N1C[C@H]2CCCC[NH+]2C[C@@H]1C to decrease its LogP value.,CC(C)[C@H](C)N1C[C@H]2CCCC[NH+]2C[C@@H]1C,1.1724000000000003
+196182,Modify the molecule C[C@H](NC(=O)C1CCN(S(C)(=O)=O)CC1)c1cccc(Cl)c1 to decrease its LogP value.,C[C@H](NC(=O)C1CCN(S(C)(=O)=O)CC1)c1cccc(Cl)c1,2.1888
+224014,Modify the molecule COC[C@H]1CC[NH+](Cc2ccc(C(=O)[O-])cn2)C1 to have a higher LogP value.,COC[C@H]1CC[NH+](Cc2ccc(C(=O)[O-])cn2)C1,-1.5036999999999978
+183810,Modify the molecule Cc1ccc(C[n+]2ccccc2NC(=O)c2ccnc(NC3CC3)c2)cc1 to decrease its LogP value.,Cc1ccc(C[n+]2ccccc2NC(=O)c2ccnc(NC3CC3)c2)cc1,3.552420000000001
+175167,Optimize the molecule CC(C)=CC[NH+]1CCC2(CC[C@H](CNC(=O)c3cc(C)n(C)n3)O2)CC1 to have a lower LogP value.,CC(C)=CC[NH+]1CCC2(CC[C@H](CNC(=O)c3cc(C)n(C)n3)O2)CC1,1.0210200000000014
+48061,Optimize the molecule Cc1ccc(NCc2ccccc2Br)c(C)n1 to have a higher LogP value.,Cc1ccc(NCc2ccccc2Br)c(C)n1,4.073040000000002
+119959,Please optimize the molecule CSCc1cc(F)ccc1CN[C@H](C(=O)NC(N)=O)c1ccccc1 to have a higher LogP value.,CSCc1cc(F)ccc1CN[C@H](C(=O)NC(N)=O)c1ccccc1,2.714500000000001
+140949,Please optimize the molecule CC1(C)CCC[C@@H]1NC(=O)NC[C@@H](O)C1CCCC1 to have a lower LogP value.,CC1(C)CCC[C@@H]1NC(=O)NC[C@@H](O)C1CCCC1,2.4154
+16127,Please optimize the molecule O=[N+]([O-])c1ccc(CN2CC[NH+](Cc3cccnc3)CC2)cc1 to have a lower LogP value.,O=[N+]([O-])c1ccc(CN2CC[NH+](Cc3cccnc3)CC2)cc1,0.8904999999999994
+239981,Please optimize the molecule C[C@H](Sc1nncn1C)C(=O)Nc1ccccc1SC(F)F to have a higher LogP value.,C[C@H](Sc1nncn1C)C(=O)Nc1ccccc1SC(F)F,3.249100000000001
+10631,Please modify the molecule Cc1noc(C)c1CN1CCC[NH2+][C@H](C(C)C)C1 to decrease its LogP value.,Cc1noc(C)c1CN1CCC[NH2+][C@H](C(C)C)C1,1.0851400000000004
+7354,Please optimize the molecule CC(=O)Nc1c(C)cc(NC(=O)c2cc(C)nc3c2c(=O)[nH]n3C)cc1C to have a lower LogP value.,CC(=O)Nc1c(C)cc(NC(=O)c2cc(C)nc3c2c(=O)[nH]n3C)cc1C,2.3975600000000004
+113378,Modify the molecule Cc1ccccc1[C@@H]1CCCN1CN1C(=O)C[C@]2(CCSC2)C1=O to increase its LogP value.,Cc1ccccc1[C@@H]1CCCN1CN1C(=O)C[C@]2(CCSC2)C1=O,2.971620000000001
+75665,Modify the molecule O=C(NC[C@H]1CN2CCCC[C@@H]2CO1)N1CCC(n2cccn2)CC1 to have a higher LogP value.,O=C(NC[C@H]1CN2CCCC[C@@H]2CO1)N1CCC(n2cccn2)CC1,1.482899999999999
+4047,Please modify the molecule O=C(Cc1cc2ccccc2[nH]1)N/N=C/c1c[nH]c2ccccc12 to increase its LogP value.,O=C(Cc1cc2ccccc2[nH]1)N/N=C/c1c[nH]c2ccccc12,3.3420000000000014
+183479,Modify the molecule COC[C@@H]1CCCC[C@H](Cl)C1 to increase its LogP value.,COC[C@@H]1CCCC[C@H](Cl)C1,2.820500000000001
+59011,Modify the molecule CCCc1ccc(OC(=O)C2C[C@H](C)O[C@@H](C)C2)cc1 to decrease its LogP value.,CCCc1ccc(OC(=O)C2C[C@H](C)O[C@@H](C)C2)cc1,3.748100000000002
+232235,Please optimize the molecule CN(C(=O)CC(c1ccccc1)c1ccccc1)C1(C#N)CCC1 to have a higher LogP value.,CN(C(=O)CC(c1ccccc1)c1ccccc1)C1(C#N)CCC1,4.113280000000003
+66142,Please modify the molecule Cc1ccc(S(=O)(=O)N2CCN(C(=O)NCCc3cccc(Cl)c3)CC2)cc1 to increase its LogP value.,Cc1ccc(S(=O)(=O)N2CCN(C(=O)NCCc3cccc(Cl)c3)CC2)cc1,2.907020000000001
+110043,Modify the molecule C[C@H]1CCC[C@@H](C[NH2+]CC(C)(C)C[C@@H](C)O)C1 to decrease its LogP value.,C[C@H]1CCC[C@@H](C[NH2+]CC(C)(C)C[C@@H](C)O)C1,2.1732
+3913,Optimize the molecule COC(=O)[C@@H]1CCCC[C@H]1NC(=O)c1cc(Cl)c(OC)c(Cl)c1 to have a lower LogP value.,COC(=O)[C@@H]1CCCC[C@H]1NC(=O)c1cc(Cl)c(OC)c(Cl)c1,3.4636000000000022
+165035,Modify the molecule O=C(CSc1nnc(-c2cccnc2)o1)N(C1CCCCC1)[C@@H]1CCS(=O)(=O)C1 to decrease its LogP value.,O=C(CSc1nnc(-c2cccnc2)o1)N(C1CCCCC1)[C@@H]1CCS(=O)(=O)C1,2.5721000000000007
+14937,Please modify the molecule CCCN1CC(=O)N2[C@@H](Cc3c([nH]c4ccccc34)[C@@H]2c2cccc(OC)c2OC)C1=O to decrease its LogP value.,CCCN1CC(=O)N2[C@@H](Cc3c([nH]c4ccccc34)[C@@H]2c2cccc(OC)c2OC)C1=O,3.280000000000002
+124182,Modify the molecule COc1ccc(OC)c(NC(=O)C2=C(C)NC(=O)N[C@@H]2c2ccc(O)cc2)c1 to decrease its LogP value.,COc1ccc(OC)c(NC(=O)C2=C(C)NC(=O)N[C@@H]2c2ccc(O)cc2)c1,2.676
+68533,Modify the molecule COC(=O)c1cc(CNC(=O)N[C@H]2CCC[C@@H](C(F)(F)F)C2)oc1C to decrease its LogP value.,COC(=O)c1cc(CNC(=O)N[C@H]2CCC[C@@H](C(F)(F)F)C2)oc1C,3.294920000000002
+151298,Optimize the molecule COC(=O)[C@H](C)Sc1nnc(N2CCC[C@@H](C)C2)n1Cc1ccco1 to have a lower LogP value.,COC(=O)[C@H](C)Sc1nnc(N2CCC[C@@H](C)C2)n1Cc1ccco1,2.809300000000001
+181759,Please optimize the molecule Cc1cc(C)c2nc(SCC(=O)c3ccc4c(c3)OCCO4)c(C#N)cc2c1 to have a lower LogP value.,Cc1cc(C)c2nc(SCC(=O)c3ccc4c(c3)OCCO4)c(C#N)cc2c1,4.469520000000004
+100991,Modify the molecule O=C(CCN1C(=O)c2ccccc2C1=O)N1CCN(C(=O)[C@H]2CCS(=O)(=O)C2)CC1 to increase its LogP value.,O=C(CCN1C(=O)c2ccccc2C1=O)N1CCN(C(=O)[C@H]2CCS(=O)(=O)C2)CC1,-0.221799999999998
+134608,Modify the molecule O=C([O-])[C@@H]1CCC(=O)N(CCCOC2CCCCC2)[C@H]1c1ccco1 to increase its LogP value.,O=C([O-])[C@@H]1CCC(=O)N(CCCOC2CCCCC2)[C@H]1c1ccco1,2.048599999999999
+141980,Modify the molecule Cc1nccn1C(=O)c1nn(C)c2c1COc1ccccc1-2 to decrease its LogP value.,Cc1nccn1C(=O)c1nn(C)c2c1COc1ccccc1-2,2.1729199999999995
+126012,Please optimize the molecule OC1(CNc2nc3ccc(F)cn3n2)CCCCCC1 to have a higher LogP value.,OC1(CNc2nc3ccc(F)cn3n2)CCCCCC1,2.3656000000000006
+194362,Modify the molecule NC(=O)c1ccc(NC(=O)Cn2ccc3cc(Cl)ccc32)cc1 to decrease its LogP value.,NC(=O)c1ccc(NC(=O)Cn2ccc3cc(Cl)ccc32)cc1,3.032300000000001
+241458,Please optimize the molecule CC(C)COC(=O)[C@@]12CCC(=O)N1c1ccccc1C(=O)N2CC(C)C to have a higher LogP value.,CC(C)COC(=O)[C@@]12CCC(=O)N1c1ccccc1C(=O)N2CC(C)C,2.8207000000000013
+123529,Modify the molecule Cc1csc(Sc2ccc([N+](=O)[O-])cc2C(=O)OCc2cn3cc(Cl)ccc3n2)n1 to have a lower LogP value.,Cc1csc(Sc2ccc([N+](=O)[O-])cc2C(=O)OCc2cn3cc(Cl)ccc3n2)n1,5.169020000000003
+159866,Modify the molecule CC(C)(C)c1ccc(NC(=O)c2ccc(N3C(=O)CSCC3=O)cc2)cc1 to increase its LogP value.,CC(C)(C)c1ccc(NC(=O)c2ccc(N3C(=O)CSCC3=O)cc2)cc1,3.842800000000003
+69738,Modify the molecule CN(Cc1ccccc1)C(=O)CNS(=O)(=O)c1ccc([N+](=O)[O-])cc1 to increase its LogP value.,CN(Cc1ccccc1)C(=O)CNS(=O)(=O)c1ccc([N+](=O)[O-])cc1,1.5317
+172500,Please modify the molecule CC(=O)N1CCC(NC(=O)c2c(C)nn(C)c2Cl)CC1 to increase its LogP value.,CC(=O)N1CCC(NC(=O)c2c(C)nn(C)c2Cl)CC1,1.12262
+179097,Modify the molecule O=C(c1c[nH]c2ncccc12)N1CCC[C@H]1Cn1cccn1 to increase its LogP value.,O=C(c1c[nH]c2ncccc12)N1CCC[C@H]1Cn1cccn1,2.0642
+19946,Please optimize the molecule CCc1nsc(NCC(=O)NC(C)(C)C)n1 to have a higher LogP value.,CCc1nsc(NCC(=O)NC(C)(C)C)n1,1.4271
+113610,Please modify the molecule C=C(C)[C@H](O)C1CCC(C)CC1 to decrease its LogP value.,C=C(C)[C@H](O)C1CCC(C)CC1,2.7497000000000007
+47369,Modify the molecule CC[C@@H]([NH3+])[C@H](c1ccccc1F)N1CCC(C)(C)C1 to have a higher LogP value.,CC[C@@H]([NH3+])[C@H](c1ccccc1F)N1CCC(C)(C)C1,2.6192
+23865,Optimize the molecule CSc1ccc(O[C@@H](C)C(=O)Nc2c(C)cnn2-c2ccccc2)cc1 to have a lower LogP value.,CSc1ccc(O[C@@H](C)C(=O)Nc2c(C)cnn2-c2ccccc2)cc1,4.308620000000003
+82885,Modify the molecule CN(C(=O)c1cc2ccccc2n1C)[C@@H]1CCCC[C@H]1S(C)(=O)=O to have a higher LogP value.,CN(C(=O)c1cc2ccccc2n1C)[C@@H]1CCCC[C@H]1S(C)(=O)=O,2.6061000000000005
+76569,Please optimize the molecule COc1ccc(N)c2nc(C)c(C)nc12 to have a higher LogP value.,COc1ccc(N)c2nc(C)c(C)nc12,1.83744
+195139,Modify the molecule CC(C)N(C)C(=O)NCc1ccc(C(=O)N(C)C)cc1 to have a higher LogP value.,CC(C)N(C)C(=O)NCc1ccc(C(=O)N(C)C)cc1,1.9382
+132234,Optimize the molecule CC(C)[C@@H](C#N)N1CCN(C(=O)C[NH+](C)Cc2ccc(Cl)nc2)CC1 to have a lower LogP value.,CC(C)[C@@H](C#N)N1CCN(C(=O)C[NH+](C)Cc2ccc(Cl)nc2)CC1,0.4420800000000018
+95432,Optimize the molecule CCOc1ccc(NC(=O)NCCCN2CCOCC2)cc1F to have a higher LogP value.,CCOc1ccc(NC(=O)NCCCN2CCOCC2)cc1F,2.0682
+165426,Please optimize the molecule Cn1c(=O)cc(NCCCN2CCOCC2)n(Cc2ccc(F)cc2F)c1=O to have a lower LogP value.,Cn1c(=O)cc(NCCCN2CCOCC2)n(Cc2ccc(F)cc2F)c1=O,1.0077
+212286,Modify the molecule Cc1cccc2c(CCNC(=O)N[C@@H](CO)c3ccccc3F)c[nH]c12 to decrease its LogP value.,Cc1cccc2c(CCNC(=O)N[C@@H](CO)c3ccccc3F)c[nH]c12,3.1907200000000007
+107557,Modify the molecule CC[NH2+][C@@H](c1ccc(OC)c(Br)c1)[C@@]1(C)CCCO1 to have a higher LogP value.,CC[NH2+][C@@H](c1ccc(OC)c(Br)c1)[C@@]1(C)CCCO1,2.651200000000001
+187679,Modify the molecule CC[NH2+][C@@]1(C(N)=O)CCC[C@H](N(C)[C@@H]2CCS(=O)(=O)C2)C1 to increase its LogP value.,CC[NH2+][C@@]1(C(N)=O)CCC[C@H](N(C)[C@@H]2CCS(=O)(=O)C2)C1,-1.1446999999999965
+235714,Modify the molecule CC(C)[C@@H](C[NH3+])[C@H](O)CC12CC3CC(CC(C3)C1)C2 to have a higher LogP value.,CC(C)[C@@H](C[NH3+])[C@H](O)CC12CC3CC(CC(C3)C1)C2,2.4679
+239811,Modify the molecule O=C(C[NH+]1CCCCC1)N[C@H]1CC(=O)N(Cc2cccc(F)c2)C1 to have a higher LogP value.,O=C(C[NH+]1CCCCC1)N[C@H]1CC(=O)N(Cc2cccc(F)c2)C1,0.111600000000001
+28225,Modify the molecule Cc1csc(CSCC(=O)N(C)[C@H]2CCCc3ccccc32)n1 to have a lower LogP value.,Cc1csc(CSCC(=O)N(C)[C@H]2CCCc3ccccc32)n1,4.220720000000004
+89454,Modify the molecule CCOc1cc(F)ccc1NC(=O)CC1(C(=O)[O-])CCCCC1 to have a lower LogP value.,CCOc1cc(F)ccc1NC(=O)CC1(C(=O)[O-])CCCCC1,2.2534
+232541,Optimize the molecule CCOC(=O)c1ccc(N2N=C(C)[C@@]3(Cc4ccccc4N4CCCC[C@@H]43)C2=O)cc1 to have a higher LogP value.,CCOC(=O)c1ccc(N2N=C(C)[C@@]3(Cc4ccccc4N4CCCC[C@@H]43)C2=O)cc1,4.187400000000004
+177399,Modify the molecule Cc1ccc(/C=C2\SC(=S)N(CCN3CCOCC3)C2=O)c(C)c1 to have a higher LogP value.,Cc1ccc(/C=C2\SC(=S)N(CCN3CCOCC3)C2=O)c(C)c1,2.8368400000000005
+5179,Please modify the molecule C=CCOc1ccc(/C=C(\C#N)c2nc([O-])c3ccccc3n2)cc1OC to increase its LogP value.,C=CCOc1ccc(/C=C(\C#N)c2nc([O-])c3ccccc3n2)cc1OC,3.340980000000002
+202165,Modify the molecule C[NH+](C)[C@H](CNS(=O)(=O)c1ccc(Cl)c(C(F)(F)F)c1)c1ccccc1 to decrease its LogP value.,C[NH+](C)[C@H](CNS(=O)(=O)c1ccc(Cl)c(C(F)(F)F)c1)c1ccccc1,2.5229000000000017
+142429,Please modify the molecule O=C(Nc1ccc(N2C(=O)CCCC2=O)cc1)[C@@H]1CCOc2ccccc21 to increase its LogP value.,O=C(Nc1ccc(N2C(=O)CCCC2=O)cc1)[C@@H]1CCOc2ccccc21,3.2349000000000023
+138084,Optimize the molecule Cc1ncccc1NC(=O)N[C@H](c1ccccc1)C(C)(C)C to have a higher LogP value.,Cc1ncccc1NC(=O)N[C@H](c1ccccc1)C(C)(C)C,4.2989200000000025
+144355,Please modify the molecule CCNC(=O)[C@@H](C)NC(=O)c1ccc([N+](=O)[O-])c(C)c1 to increase its LogP value.,CCNC(=O)[C@@H](C)NC(=O)c1ccc([N+](=O)[O-])c(C)c1,1.15762
+62140,Modify the molecule O=C(CCn1cncn1)N1CCC[C@H](c2[nH+]ccn2Cc2ccccc2)C1 to have a higher LogP value.,O=C(CCn1cncn1)N1CCC[C@H](c2[nH+]ccn2Cc2ccccc2)C1,1.738299999999999
+100676,Optimize the molecule N#CCN(C[C@H]1CCOC1)C1CCCC1 to have a higher LogP value.,N#CCN(C[C@H]1CCOC1)C1CCCC1,1.79108
+206629,Modify the molecule COc1ccc(C(=O)N2CCC[C@@H](C[NH3+])C2)cc1O to have a higher LogP value.,COc1ccc(C(=O)N2CCC[C@@H](C[NH3+])C2)cc1O,0.4949000000000004
+162559,Please modify the molecule CCO[n+]1ccc(-c2cc[n+](OCC)cc2)cc1 to decrease its LogP value.,CCO[n+]1ccc(-c2cc[n+](OCC)cc2)cc1,0.8255999999999997
+210645,Modify the molecule O=C(NCc1ccccc1COCc1ccccc1)c1cc2ccoc2cn1 to have a lower LogP value.,O=C(NCc1ccccc1COCc1ccccc1)c1cc2ccoc2cn1,4.474600000000004
+207495,Optimize the molecule C[C@H]1CC[NH+](CCC(=O)NCc2ccccc2Cl)C[C@@H]1O to have a lower LogP value.,C[C@H]1CC[NH+](CCC(=O)NCc2ccccc2Cl)C[C@@H]1O,0.6319000000000001
+62015,Modify the molecule C[C@H](C(=O)Nc1ncccn1)[NH+](C)Cc1ccccc1N1CCOCC1 to decrease its LogP value.,C[C@H](C(=O)Nc1ncccn1)[NH+](C)Cc1ccccc1N1CCOCC1,0.3551000000000015
+68627,Please modify the molecule COC(=O)c1cnc(NC(=O)C2CCN(c3ncc(C(F)(F)F)cc3Cl)CC2)s1 to decrease its LogP value.,COC(=O)c1cnc(NC(=O)C2CCN(c3ncc(C(F)(F)F)cc3Cl)CC2)s1,3.852000000000002
+197054,Please modify the molecule CC(C)(C)CC(C)(C)[NH2+]Cc1ncn(-c2ccccc2)n1 to increase its LogP value.,CC(C)(C)CC(C)(C)[NH2+]Cc1ncn(-c2ccccc2)n1,2.5455000000000005
+114575,Please optimize the molecule COc1ccc(NC(=O)c2ccc(C#N)cc2F)c(OC)c1 to have a higher LogP value.,COc1ccc(NC(=O)c2ccc(C#N)cc2F)c(OC)c1,2.966880000000001
+88394,Please optimize the molecule C[C@@H]1CCC[NH+](CC(=O)Nc2nc(-c3ccc(F)cc3)cs2)C1 to have a lower LogP value.,C[C@@H]1CCC[NH+](CC(=O)Nc2nc(-c3ccc(F)cc3)cs2)C1,2.2025
+138885,Modify the molecule CCNc1nc(N(CC)n2cnnc2)nc(NC(C)(C)C)[nH+]1 to increase its LogP value.,CCNc1nc(N(CC)n2cnnc2)nc(NC(C)(C)C)[nH+]1,0.8139999999999996
+69329,Please optimize the molecule CC[NH2+]Cc1cnn(-c2ccc(Cl)c(F)c2)c1C(F)(F)F to have a higher LogP value.,CC[NH2+]Cc1cnn(-c2ccc(Cl)c(F)c2)c1C(F)(F)F,2.766900000000001
+293,Modify the molecule Cc1cccc(C)c1NC(=O)C[NH+]1CCC(OCc2ccc(F)cc2)CC1 to increase its LogP value.,Cc1cccc(C)c1NC(=O)C[NH+]1CCC(OCc2ccc(F)cc2)CC1,2.6451400000000005
+197292,Please modify the molecule O=c1cn[nH]c(N/N=C/c2ccc(O)cc2)n1 to decrease its LogP value.,O=c1cn[nH]c(N/N=C/c2ccc(O)cc2)n1,0.3164999999999997
+128024,Please modify the molecule CCO[C@H](NC(=O)c1ccccc1)c1cccc2ccccc12 to increase its LogP value.,CCO[C@H](NC(=O)c1ccccc1)c1cccc2ccccc12,4.304900000000003
+22086,Modify the molecule CCOC(=O)c1sc(N/N=C/[C@H]2CC=CCC2)nc1C to have a higher LogP value.,CCOC(=O)c1sc(N/N=C/[C@H]2CC=CCC2)nc1C,3.382220000000002
+102463,Optimize the molecule CN(Cc1cccs1)C(=O)CSc1ccc2ccccc2n1 to have a higher LogP value.,CN(Cc1cccs1)C(=O)CSc1ccc2ccccc2n1,4.047000000000003
+40516,Optimize the molecule Cc1nc(C)c(C[NH2+][C@@H]2c3ccccc3C[C@H]2C)s1 to have a lower LogP value.,Cc1nc(C)c(C[NH2+][C@@H]2c3ccccc3C[C@H]2C)s1,2.7568400000000013
+18024,Please optimize the molecule Cc1cccc(S(N)(=O)=O)c1[N+](=O)[O-] to have a higher LogP value.,Cc1cccc(S(N)(=O)=O)c1[N+](=O)[O-],0.5506200000000001
+67400,Please optimize the molecule COC(=O)Cc1nn(-c2ccc(C)cc2)c2c1nnc1nc(-c3ccccc3Cl)nn12 to have a lower LogP value.,COC(=O)Cc1nn(-c2ccc(C)cc2)c2c1nnc1nc(-c3ccccc3Cl)nn12,3.2025200000000016
+154400,Modify the molecule CCC[NH2+][C@@H](c1ccc(Cl)c(Cl)c1)[C@H]1CN(CC)CCO1 to decrease its LogP value.,CCC[NH2+][C@@H](c1ccc(Cl)c(Cl)c1)[C@H]1CN(CC)CCO1,2.728600000000001
+36210,Optimize the molecule C[C@H]1C[C@@H](C)CN(C(=O)CN2CC[NH+](Cc3cccc(C(F)(F)F)c3)CC2)C1 to have a lower LogP value.,C[C@H]1C[C@@H](C)CN(C(=O)CN2CC[NH+](Cc3cccc(C(F)(F)F)c3)CC2)C1,1.9104000000000003
+29424,Optimize the molecule Cc1cc(C)n(-c2cncc(NCC(=O)N(C)CC(F)(F)F)n2)n1 to have a lower LogP value.,Cc1cc(C)n(-c2cncc(NCC(=O)N(C)CC(F)(F)F)n2)n1,1.7117399999999998
+220718,Modify the molecule CCc1c(C(=O)NC[C@@H]2COc3ccccc3O2)c(=O)cc(C)n1CC[NH+]1CCCCC1 to increase its LogP value.,CCc1c(C(=O)NC[C@@H]2COc3ccccc3O2)c(=O)cc(C)n1CC[NH+]1CCCCC1,1.357720000000001
+196808,Optimize the molecule O=C([O-])c1ccccc1C(=O)N1CCS[C@H]1c1ccccc1 to have a lower LogP value.,O=C([O-])c1ccccc1C(=O)N1CCS[C@H]1c1ccccc1,1.9379
+44755,Please modify the molecule Cn1ccnc1[C@H](O)[C@H]1CCC[NH+](Cc2cccc(-c3cccnc3)c2)C1 to increase its LogP value.,Cn1ccnc1[C@H](O)[C@H]1CCC[NH+](Cc2cccc(-c3cccnc3)c2)C1,2.0106
+41944,Modify the molecule COc1ccc(OCC(=O)Nc2cccc3nsnc23)cc1 to have a lower LogP value.,COc1ccc(OCC(=O)Nc2cccc3nsnc23)cc1,2.7174000000000005
+140907,Please optimize the molecule CC(C)C(=O)N1CCC[C@H]1C(=O)N1CCCCCCC1 to have a lower LogP value.,CC(C)C(=O)N1CCC[C@H]1C(=O)N1CCCCCCC1,2.4261
+53501,Please modify the molecule CC[NH+](CC)Cc1nc(-c2ccc(C(F)(F)F)cc2)no1 to increase its LogP value.,CC[NH+](CC)Cc1nc(-c2ccc(C(F)(F)F)cc2)no1,2.1801000000000004
+49831,Please modify the molecule C[NH+](C1CCSCC1)[C@H]1CCN(c2ccccc2)C1=O to increase its LogP value.,C[NH+](C1CCSCC1)[C@H]1CCN(c2ccccc2)C1=O,1.2022
+232878,Optimize the molecule CC1CCC(C(=O)c2ccccc2F)([NH+](C)C)CC1 to have a lower LogP value.,CC1CCC(C(=O)c2ccccc2F)([NH+](C)C)CC1,2.1018
+188374,Please modify the molecule CCC(=O)NC(=S)NNC(=O)Cc1ccccc1 to decrease its LogP value.,CCC(=O)NC(=S)NNC(=O)Cc1ccccc1,0.6609999999999997
+167501,Please optimize the molecule Cc1cccc([C@@H](CCC[C@@H]2CCCO2)C(=O)[O-])c1 to have a higher LogP value.,Cc1cccc([C@@H](CCC[C@@H]2CCCO2)C(=O)[O-])c1,2.17782
+248529,Modify the molecule O=C(Nc1cc([N+](=O)[O-])ccc1Cl)c1nc[nH]n1 to decrease its LogP value.,O=C(Nc1cc([N+](=O)[O-])ccc1Cl)c1nc[nH]n1,1.6185999999999996
+156858,Optimize the molecule Cc1c(NC(=O)c2cccc(NC(=O)[C@H]3CC=CC[C@H]3C(=O)[O-])c2)c(=O)n(-c2ccccc2)n1C to have a higher LogP value.,Cc1c(NC(=O)c2cccc(NC(=O)[C@H]3CC=CC[C@H]3C(=O)[O-])c2)c(=O)n(-c2ccccc2)n1C,2.0075199999999995
+242032,Please modify the molecule Cc1nc(C(=O)Nc2ccc(C(F)(F)F)cc2)c(C)o1 to decrease its LogP value.,Cc1nc(C(=O)Nc2ccc(C(F)(F)F)cc2)c(C)o1,3.562540000000002
+117419,Optimize the molecule O=S1(=O)CCC([NH2+][C@H]2CCC[C@H]2[C@@H]2CCC[NH2+]2)CC1 to have a higher LogP value.,O=S1(=O)CCC([NH2+][C@H]2CCC[C@H]2[C@@H]2CCC[NH2+]2)CC1,-0.9784999999999962
+4593,Please optimize the molecule COc1ccc(/C=C2\SC(=O)N(CC(=O)NCC(=O)[O-])C2=O)cc1OC to have a lower LogP value.,COc1ccc(/C=C2\SC(=O)N(CC(=O)NCC(=O)[O-])C2=O)cc1OC,-0.3937999999999997
+173451,Please optimize the molecule CCn1ccc(=O)nc1SCC(=O)NC(C)(C)CC to have a higher LogP value.,CCn1ccc(=O)nc1SCC(=O)NC(C)(C)CC,1.6600999999999997
+88141,Optimize the molecule Cc1c(N2CCCC[C@@H]2c2cn[nH]c2)cc(C#N)cc1[N+](=O)[O-] to have a lower LogP value.,Cc1c(N2CCCC[C@@H]2c2cn[nH]c2)cc(C#N)cc1[N+](=O)[O-],3.2296000000000014
+236142,Modify the molecule CC[C@H]1COCCN1C(=O)N[C@@H](C)c1ccc(S(C)(=O)=O)c(F)c1 to decrease its LogP value.,CC[C@H]1COCCN1C(=O)N[C@@H](C)c1ccc(S(C)(=O)=O)c(F)c1,2.1106000000000003
+41758,Modify the molecule C[C@H](NC(=O)C[NH+]1CC[C@H](C)[C@@H](O)C1)c1ccc2ccccc2c1 to increase its LogP value.,C[C@H](NC(=O)C[NH+]1CC[C@H](C)[C@@H](O)C1)c1ccc2ccccc2c1,1.302600000000001
+117379,Please optimize the molecule O=C(Nc1ccc(C(=O)N2CCCC2)cc1)N1C[C@@H]2CCCC[C@H]2C1 to have a lower LogP value.,O=C(Nc1ccc(C(=O)N2CCCC2)cc1)N1C[C@@H]2CCCC[C@H]2C1,3.576500000000003
+50522,Modify the molecule CC1CC[NH+]([C@@H](CNC(=O)Nc2ccc([C@H](C)N3CCOCC3)cc2)C(C)C)CC1 to increase its LogP value.,CC1CC[NH+]([C@@H](CNC(=O)Nc2ccc([C@H](C)N3CCOCC3)cc2)C(C)C)CC1,2.540700000000001
+125089,Modify the molecule CCC(=O)N(C)c1ccccc1C(=O)NCc1cccc(C#N)c1 to increase its LogP value.,CCC(=O)N(C)c1ccccc1C(=O)NCc1cccc(C#N)c1,2.861080000000001
+152366,Please modify the molecule O=C([O-])Cn1nc(-c2ccco2)ccc1=O to increase its LogP value.,O=C([O-])Cn1nc(-c2ccco2)ccc1=O,-0.7468000000000004
+96364,Optimize the molecule Cc1cccc(NC(=O)C(=O)NCC2CC[NH+](Cc3cccs3)CC2)c1 to have a higher LogP value.,Cc1cccc(NC(=O)C(=O)NCC2CC[NH+](Cc3cccs3)CC2)c1,1.6063200000000002
+71010,Optimize the molecule CC(C)c1cccc(C(C)C)c1NC(=O)C(=O)N1CCC2(C1)OCCO2 to have a higher LogP value.,CC(C)c1cccc(C(C)C)c1NC(=O)C(=O)N1CCC2(C1)OCCO2,2.8473000000000006
+82432,Please modify the molecule CCN(Cc1cccc(Cl)c1)C(=O)NCCc1cc(F)cc2c1OCOC2 to decrease its LogP value.,CCN(Cc1cccc(Cl)c1)C(=O)NCCc1cc(F)cc2c1OCOC2,4.119800000000003
+153207,Please optimize the molecule C[C@H](NC(=O)N(C)C1CCC1)c1ccc(N2CCOCC2)cc1 to have a lower LogP value.,C[C@H](NC(=O)N(C)C1CCC1)c1ccc(N2CCOCC2)cc1,2.778100000000001
+177157,Modify the molecule NC(=O)CC[NH+]1[C@@H](C(=O)[O-])CC[C@@H]2CCCC[C@H]21 to increase its LogP value.,NC(=O)CC[NH+]1[C@@H](C(=O)[O-])CC[C@@H]2CCCC[C@H]21,-1.7821999999999956
+132355,Optimize the molecule CCN1CCO[C@@H]([C@@H](CCc2ccsc2)[NH2+]C)C1 to have a higher LogP value.,CCN1CCO[C@@H]([C@@H](CCc2ccsc2)[NH2+]C)C1,0.9632000000000004
+78212,Modify the molecule COC(=O)c1occc1CSc1ccc(Cl)cc1N to have a lower LogP value.,COC(=O)c1occc1CSc1ccc(Cl)cc1N,3.594100000000002
+154695,Please modify the molecule C[C@@H]1CCCC[C@@H]1OCC[C@@H]1CCC[C@]1([NH3+])CO to increase its LogP value.,C[C@@H]1CCCC[C@@H]1OCC[C@@H]1CCC[C@]1([NH3+])CO,1.7449
+140187,Modify the molecule CC[C@@H](C)[NH2+][C@H]1CSCC(C)(C)C1 to have a higher LogP value.,CC[C@@H](C)[NH2+][C@H]1CSCC(C)(C)C1,1.88
+174430,Please optimize the molecule Cc1ccccc1C(=O)NCCC(=O)OCc1scnc1C to have a lower LogP value.,Cc1ccccc1C(=O)NCCC(=O)OCc1scnc1C,2.623240000000001
+245417,Optimize the molecule Cc1ccc(C)n1CCN1CCN(S(=O)(=O)c2cnn(C)c2)CC1 to have a lower LogP value.,Cc1ccc(C)n1CCN1CCN(S(=O)(=O)c2cnn(C)c2)CC1,0.8449400000000002
+237602,Modify the molecule c1ccc(N[C@@H]2CCC[NH+](Cc3ccc(N4CCCC4)nc3)C2)cc1 to have a lower LogP value.,c1ccc(N[C@@H]2CCC[NH+](Cc3ccc(N4CCCC4)nc3)C2)cc1,2.3412
+78271,Optimize the molecule O=C(c1cccc2c1N[C@@H](c1cccc3ccccc13)[C@H]1CC=C[C@H]21)N1CCCC1 to have a lower LogP value.,O=C(c1cccc2c1N[C@@H](c1cccc3ccccc13)[C@H]1CC=C[C@H]21)N1CCCC1,5.902300000000005
+183437,Please modify the molecule C[C@H]1CSC(SCC(=O)Nc2ccccc2[N+](=O)[O-])=N1 to decrease its LogP value.,C[C@H]1CSC(SCC(=O)Nc2ccccc2[N+](=O)[O-])=N1,2.7578000000000005
+71054,Please modify the molecule Cc1cccc(C2=CCN(C(=O)/C=C/c3ccc(C(N)=O)cc3)CC2)c1 to increase its LogP value.,Cc1cccc(C2=CCN(C(=O)/C=C/c3ccc(C(N)=O)cc3)CC2)c1,3.423020000000001
+189474,Modify the molecule Cc1ccc(-c2csc3c(=O)[nH]c(N4CCC[C@H](C(=O)NCC(C)C)C4)nc23)cc1 to increase its LogP value.,Cc1ccc(-c2csc3c(=O)[nH]c(N4CCC[C@H](C(=O)NCC(C)C)C4)nc23)cc1,3.9486200000000022
+169059,Modify the molecule c1cc2c(cc1Cc1nn3c(CN4CCOCC4)nnc3s1)CCCC2 to decrease its LogP value.,c1cc2c(cc1Cc1nn3c(CN4CCOCC4)nnc3s1)CCCC2,2.4876000000000005
+137625,Please optimize the molecule Cc1cccc(C(=O)Nc2ccccc2C(=O)OCc2cc([N+](=O)[O-])cc3c2OCOC3)c1 to have a higher LogP value.,Cc1cccc(C(=O)Nc2ccccc2C(=O)OCc2cc([N+](=O)[O-])cc3c2OCOC3)c1,4.379020000000002
+161624,Optimize the molecule c1ccc2c(c1)ccc1c3ccccc3oc21 to have a lower LogP value.,c1ccc2c(c1)ccc1c3ccccc3oc21,4.739200000000002
+98596,Modify the molecule Cc1ccc(NC(=O)N2CCC(c3nnc(C(=O)Nc4ccccc4)s3)CC2)cc1 to have a lower LogP value.,Cc1ccc(NC(=O)N2CCC(c3nnc(C(=O)Nc4ccccc4)s3)CC2)cc1,4.510320000000003
+207288,Modify the molecule O=C(N[C@H]1CCN(c2ccccc2)C1)N1CCc2cc(F)ccc2C1 to decrease its LogP value.,O=C(N[C@H]1CCN(c2ccccc2)C1)N1CCc2cc(F)ccc2C1,3.1723000000000017
+7217,Please modify the molecule C[C@@H](NC(=O)N(C)C[C@@H]1CCOC1)C(C)(C)C[NH+](C)C to increase its LogP value.,C[C@@H](NC(=O)N(C)C[C@@H]1CCOC1)C(C)(C)C[NH+](C)C,0.2235000000000029
+10503,Please modify the molecule COCCN1CCN([C@H]2CCN(c3ccc(Cl)cc3)C2=O)CC1=O to increase its LogP value.,COCCN1CCN([C@H]2CCN(c3ccc(Cl)cc3)C2=O)CC1=O,1.2358999999999996
+220845,Optimize the molecule COc1ccc2cc(-c3ccc(C(=O)Nc4ccc5[nH]ccc5c4)cc3)c(=O)oc2c1 to have a higher LogP value.,COc1ccc2cc(-c3ccc(C(=O)Nc4ccc5[nH]ccc5c4)cc3)c(=O)oc2c1,5.202200000000003
+114873,Optimize the molecule CCCc1cc(C(=O)Nc2ccc(Br)cn2)cs1 to have a lower LogP value.,CCCc1cc(C(=O)Nc2ccc(Br)cn2)cs1,4.110400000000002
+20441,Please modify the molecule C[C@H](CNC(=O)c1ccc(N)c([N+](=O)[O-])c1)Oc1ccccc1F to decrease its LogP value.,C[C@H](CNC(=O)c1ccc(N)c([N+](=O)[O-])c1)Oc1ccccc1F,2.5134000000000007
+101254,Please modify the molecule COC1CCN(C(=O)NCCC2=CCCCC2)CC1 to decrease its LogP value.,COC1CCN(C(=O)NCCC2=CCCCC2)CC1,2.697300000000001
+209754,Please modify the molecule Cc1nonc1CN(C)C(=O)c1cc(-c2cccs2)nn1C to decrease its LogP value.,Cc1nonc1CN(C)C(=O)c1cc(-c2cccs2)nn1C,2.11222
+39006,Please modify the molecule O=C([O-])[C@H]1C[C@@H]1C(=O)Nc1ccc(I)cc1 to decrease its LogP value.,O=C([O-])[C@H]1C[C@@H]1C(=O)Nc1ccc(I)cc1,0.6156999999999999
+240361,Modify the molecule COC(=O)[C@@H](c1ccccc1)[NH+]1CCN(C/C=C/c2ccccc2)CC1 to have a lower LogP value.,COC(=O)[C@@H](c1ccccc1)[NH+]1CCN(C/C=C/c2ccccc2)CC1,1.8146
+32079,Modify the molecule C[C@@H]1C[NH+](Cc2ccc(C#CC[NH3+])cc2F)C[C@H]1C to increase its LogP value.,C[C@@H]1C[NH+](Cc2ccc(C#CC[NH3+])cc2F)C[C@H]1C,0.0898000000000012
+210681,Modify the molecule O=C(NCCC(F)(F)F)Nc1ccc(F)cc1Br to have a lower LogP value.,O=C(NCCC(F)(F)F)Nc1ccc(F)cc1Br,3.6621000000000015
+16987,Modify the molecule COC(=O)/C(C(C)=O)=C(\C=C\C=C\[NH+](C)C)N(C)C to have a lower LogP value.,COC(=O)/C(C(C)=O)=C(\C=C\C=C\[NH+](C)C)N(C)C,-0.2214999999999982
+59477,Please optimize the molecule C=CCSc1ncnc2c1sc1nc(N3CCOCC3)c3c(c12)CCCC3 to have a lower LogP value.,C=CCSc1ncnc2c1sc1nc(N3CCOCC3)c3c(c12)CCCC3,4.233000000000003
+120006,Please modify the molecule O=C(C[C@H](O)c1cccc(F)c1)N1CCC[C@H]1c1cccc2c1OCCO2 to decrease its LogP value.,O=C(C[C@H](O)c1cccc(F)c1)N1CCC[C@H]1c1cccc2c1OCCO2,3.384100000000002
+209697,Please optimize the molecule CCN(Cc1cccs1)CN1C(=O)N[C@](CC)(c2ccccc2)C1=O to have a lower LogP value.,CCN(Cc1cccs1)CN1C(=O)N[C@](CC)(c2ccccc2)C1=O,3.384800000000002
+2083,Please modify the molecule O=C(C[C@H](O)c1ccccc1)N1CCN(c2ccc(Cl)cc2)CC1 to decrease its LogP value.,O=C(C[C@H](O)c1ccccc1)N1CCN(c2ccc(Cl)cc2)CC1,3.112300000000001
+134820,Please optimize the molecule O=C(Nc1ccc(Cl)cc1)c1ccc(-n2cccn2)c([N+](=O)[O-])c1 to have a lower LogP value.,O=C(Nc1ccc(Cl)cc1)c1ccc(-n2cccn2)c([N+](=O)[O-])c1,3.686200000000002
+30454,Optimize the molecule CCOC(=O)c1sc(Sc2ccc(C(F)(F)F)cc2[N+](=O)[O-])nc1C to have a lower LogP value.,CCOC(=O)c1sc(Sc2ccc(C(F)(F)F)cc2[N+](=O)[O-])nc1C,4.706420000000002
+44617,Optimize the molecule COc1ccc2c(c1)CCN(C(=O)[C@@H]1CCCN(C(=O)NCc3cccs3)C1)C2 to have a higher LogP value.,COc1ccc2c(c1)CCN(C(=O)[C@@H]1CCCN(C(=O)NCc3cccs3)C1)C2,3.263200000000002
+206776,Optimize the molecule CCc1nn(C)cc1NC(=O)N(CCO)C1CC1 to have a lower LogP value.,CCc1nn(C)cc1NC(=O)N(CCO)C1CC1,0.9711
+5875,Modify the molecule CCc1noc(CC)c1CNC(=O)[C@@H]1Cc2cccc(F)c2O1 to have a higher LogP value.,CCc1noc(CC)c1CNC(=O)[C@@H]1Cc2cccc(F)c2O1,2.5584000000000007
+11697,Optimize the molecule COCCNC(=O)c1cccc(C(=O)OC)c1 to have a lower LogP value.,COCCNC(=O)c1cccc(C(=O)OC)c1,0.8493999999999997
+203746,Please optimize the molecule CC[C@H](C)/[NH+]=C(/N)NCC(C)(C)N1CCOCC1 to have a lower LogP value.,CC[C@H](C)/[NH+]=C(/N)NCC(C)(C)N1CCOCC1,-1.1193999999999962
+156472,Please optimize the molecule CC(C)[C@@H](NC(=O)c1cnsn1)c1cccs1 to have a lower LogP value.,CC(C)[C@@H](NC(=O)c1cnsn1)c1cccs1,2.726700000000001
+232069,Modify the molecule COc1ccc(CC(=O)NCC2CCN(C(=O)c3cc4ccccc4o3)CC2)cc1OC to increase its LogP value.,COc1ccc(CC(=O)NCC2CCN(C(=O)c3cc4ccccc4o3)CC2)cc1OC,3.661100000000003
+106744,Modify the molecule C[C@H](C(=O)NN)[C@H](C)n1cc(C(F)(F)F)cn1 to have a lower LogP value.,C[C@H](C(=O)NN)[C@H](C)n1cc(C(F)(F)F)cn1,1.0889
+175574,Modify the molecule Nn1c([S-])nnc1CN1CCN(c2ccccc2)CC1 to increase its LogP value.,Nn1c([S-])nnc1CN1CCN(c2ccccc2)CC1,0.2198999999999997
+61988,Please modify the molecule C[C@H](c1ccccc1)[NH+]1CC[C@H](NC[C@](C)(O)c2ccco2)C1 to increase its LogP value.,C[C@H](c1ccccc1)[NH+]1CC[C@H](NC[C@](C)(O)c2ccco2)C1,1.4951
+136214,Modify the molecule COCCn1c(SCc2ncc(C(C)(C)C)o2)nc2ccccc21 to increase its LogP value.,COCCn1c(SCc2ncc(C(C)(C)C)o2)nc2ccccc21,4.260500000000004
+100360,Please optimize the molecule COc1ccc(C[NH2+][C@H](C)c2cccc3ccccc23)cc1O to have a higher LogP value.,COc1ccc(C[NH2+][C@H](C)c2cccc3ccccc23)cc1O,3.378600000000002
+31240,Modify the molecule O=C(NCCC[NH+]1CCCC1)C1CCN(S(=O)(=O)c2ccc(F)cc2F)CC1 to have a higher LogP value.,O=C(NCCC[NH+]1CCCC1)C1CCN(S(=O)(=O)c2ccc(F)cc2F)CC1,0.5505000000000013
+107664,Optimize the molecule CCOC(=O)c1ccc(S(=O)(=O)N2CCN(C(=O)OCC)CC2)cc1 to have a lower LogP value.,CCOC(=O)c1ccc(S(=O)(=O)N2CCN(C(=O)OCC)CC2)cc1,1.3260999999999998
+200148,Please optimize the molecule O=C(Nc1ccc2c(c1)CCC2)C(=O)NC1CC[NH+](C[C@H]2CCOC2)CC1 to have a lower LogP value.,O=C(Nc1ccc2c(c1)CCC2)C(=O)NC1CC[NH+](C[C@H]2CCOC2)CC1,0.3138000000000009
+215426,Please optimize the molecule C[C@@H]1OCC[C@H]1C(=O)N(C)Cc1nc2c(s1)CCCC2 to have a higher LogP value.,C[C@@H]1OCC[C@H]1C(=O)N(C)Cc1nc2c(s1)CCCC2,2.4053000000000004
+207365,Please modify the molecule Cn1cnc(S(=O)(=O)NC2(c3ccc(Cl)cc3)CCOCC2)c1 to decrease its LogP value.,Cn1cnc(S(=O)(=O)NC2(c3ccc(Cl)cc3)CCOCC2)c1,2.0577
+224023,Please optimize the molecule COC(=O)[C@@]1(F)CCN(c2cncc(-n3nc(C)cc3C)n2)C1 to have a lower LogP value.,COC(=O)[C@@]1(F)CCN(c2cncc(-n3nc(C)cc3C)n2)C1,1.37054
+38943,Please modify the molecule O=C(c1ccc(Cl)cc1F)N1CCC(CCc2ccc(O)cc2)CC1 to decrease its LogP value.,O=C(c1ccc(Cl)cc1F)N1CCC(CCc2ccc(O)cc2)CC1,4.669700000000003
+66837,Please modify the molecule Cc1ccc(C(=O)N2CCC[C@H](C(=O)NCc3nnc4n3CCC4)C2)cc1 to decrease its LogP value.,Cc1ccc(C(=O)N2CCC[C@H](C(=O)NCc3nnc4n3CCC4)C2)cc1,1.701319999999999
+182751,Modify the molecule O=C(Nc1cccc2ccccc12)N1CCCN2CCC[NH+]=C21 to have a lower LogP value.,O=C(Nc1cccc2ccccc12)N1CCCN2CCC[NH+]=C21,1.2196999999999996
+154105,Optimize the molecule CC(C)([C@H](N)c1ccccc1Cl)[NH+]1CCCCCC1 to have a lower LogP value.,CC(C)([C@H](N)c1ccccc1Cl)[NH+]1CCCCCC1,2.577300000000001
+98543,Optimize the molecule COc1ccccc1[C@@H](C)NC(=O)Cc1csc(-c2ccccc2)n1 to have a lower LogP value.,COc1ccccc1[C@@H](C)NC(=O)Cc1csc(-c2ccccc2)n1,4.238600000000003
+118738,Optimize the molecule CC[C@H]1CCCN(C(=O)CC2([NH3+])CCC2)C1 to have a lower LogP value.,CC[C@H]1CCCN(C(=O)CC2([NH3+])CCC2)C1,1.1897000000000002
+144895,Modify the molecule CCN(C[C@@H]1CCOC1)C(=O)c1nnn(-c2ccccc2Cl)c1C to decrease its LogP value.,CCN(C[C@@H]1CCOC1)C(=O)c1nnn(-c2ccccc2Cl)c1C,2.7277200000000006
+167852,Modify the molecule O=C(Cn1cnc2sccc2c1=O)N1N=C2/C(=C/c3ccco3)CCC[C@H]2[C@@H]1c1ccco1 to have a higher LogP value.,O=C(Cn1cnc2sccc2c1=O)N1N=C2/C(=C/c3ccco3)CCC[C@H]2[C@@H]1c1ccco1,4.467200000000004
+73694,Please optimize the molecule Cc1cc(C)n(C[C@@H](C)CNC(=O)C(=O)Nc2ccc3nc(C)oc3c2)n1 to have a higher LogP value.,Cc1cc(C)n(C[C@@H](C)CNC(=O)C(=O)Nc2ccc3nc(C)oc3c2)n1,2.34056
+185242,Modify the molecule O=C(CNC(=O)c1ccc(-c2cscn2)cc1)Nc1ccc(F)cc1 to have a lower LogP value.,O=C(CNC(=O)c1ccc(-c2cscn2)cc1)Nc1ccc(F)cc1,3.317700000000001
+131162,Optimize the molecule Cc1ccc([C@@H](C)NCc2nc(C3CC3)cs2)cc1C to have a lower LogP value.,Cc1ccc([C@@H](C)NCc2nc(C3CC3)cs2)cc1C,4.488140000000004
+155281,Optimize the molecule O=C1[C@@H](c2ccsc2)N(c2ccc(Cl)cc2)C(=O)CN1c1ccccc1F to have a higher LogP value.,O=C1[C@@H](c2ccsc2)N(c2ccc(Cl)cc2)C(=O)CN1c1ccccc1F,4.661700000000003
+16578,Modify the molecule N#Cc1nccnc1Sc1nnnn1C1CC1 to have a lower LogP value.,N#Cc1nccnc1Sc1nnnn1C1CC1,0.8208799999999998
+113425,Please optimize the molecule C[C@@H]([NH2+]Cc1ccc(-n2ccnc2)cc1)c1cccnc1 to have a lower LogP value.,C[C@@H]([NH2+]Cc1ccc(-n2ccnc2)cc1)c1cccnc1,2.0919
+131696,Modify the molecule CC[C@H](C)[C@@H](CCl)Cc1cccc(F)c1 to have a higher LogP value.,CC[C@H](C)[C@@H](CCl)Cc1cccc(F)c1,4.269300000000004
+141302,Modify the molecule Cc1cccc(C)c1NC(=O)COC(=O)C[C@@H]1Sc2ccccc2NC1=O to decrease its LogP value.,Cc1cccc(C)c1NC(=O)COC(=O)C[C@@H]1Sc2ccccc2NC1=O,3.288240000000002
+115652,Optimize the molecule Cc1ccc(F)cc1NC(=O)[C@@H](C(C)C)N1C(=O)c2ccccc2C1=O to have a lower LogP value.,Cc1ccc(F)cc1NC(=O)[C@@H](C(C)C)N1C(=O)c2ccccc2C1=O,3.3934200000000025
+64285,Please optimize the molecule Cc1cc(C)c2nc3c(cc2c1)CN(Cc1cccnc1)/C(=[NH+]/C[C@@H]1CCCO1)S3 to have a lower LogP value.,Cc1cc(C)c2nc3c(cc2c1)CN(Cc1cccnc1)/C(=[NH+]/C[C@@H]1CCCO1)S3,2.9701400000000007
+234000,Please optimize the molecule CCCCN1C[C@@H](C(=O)Nc2ccc(C(=O)NCC)cc2)CC1=O to have a lower LogP value.,CCCCN1C[C@@H](C(=O)Nc2ccc(C(=O)NCC)cc2)CC1=O,2.0234
+165348,Please optimize the molecule CC(CO)(CO)C[C@H]1Cc2ccccc2O1 to have a lower LogP value.,CC(CO)(CO)C[C@H]1Cc2ccccc2O1,1.3711
+132266,Modify the molecule CSCC[C@@H](NC(=O)C1=Cc2cc(Cl)ccc2OC1)c1nc2ccccc2[nH]1 to decrease its LogP value.,CSCC[C@@H](NC(=O)C1=Cc2cc(Cl)ccc2OC1)c1nc2ccccc2[nH]1,4.602700000000003
+139037,Optimize the molecule CC(C)(C(=O)c1cncc2ccccc12)N1CCOCC1 to have a lower LogP value.,CC(C)(C(=O)c1cncc2ccccc12)N1CCOCC1,2.5283000000000007
+156128,Modify the molecule CCn1nc(C)c(Br)c1COc1ccc(CCl)nc1 to have a lower LogP value.,CCn1nc(C)c(Br)c1COc1ccc(CCl)nc1,3.686720000000002
+186346,Modify the molecule CCn1nc(C)cc1C(=O)NCC(=O)NCc1cccnc1 to decrease its LogP value.,CCn1nc(C)cc1C(=O)NCC(=O)NCc1cccnc1,0.6526199999999993
+103102,Please modify the molecule Cc1n[nH]cc1C(=O)NNC(=O)C[NH+]1CCC[C@H]1C to decrease its LogP value.,Cc1n[nH]cc1C(=O)NNC(=O)C[NH+]1CCC[C@H]1C,-1.453679999999998
+196372,Modify the molecule C[C@H](Sc1nnc(C2CC2)n1C)C(=O)Nc1c(F)cccc1F to increase its LogP value.,C[C@H](Sc1nnc(C2CC2)n1C)C(=O)Nc1c(F)cccc1F,3.0900000000000016
+221043,Please optimize the molecule CC[C@@H](Nc1ccn(C)n1)C(=O)[O-] to have a lower LogP value.,CC[C@@H](Nc1ccn(C)n1)C(=O)[O-],-0.6395000000000004
+184803,Modify the molecule Clc1cc(N2CCC[C@H](OCc3cccnc3)C2)nc2[nH]ccc12 to decrease its LogP value.,Clc1cc(N2CCC[C@H](OCc3cccnc3)C2)nc2[nH]ccc12,3.7969000000000017
+192980,Please optimize the molecule Cc1ccc(NC(=O)c2cc(S(=O)(=O)c3ccccc3)ccc2Cl)cc1 to have a higher LogP value.,Cc1ccc(NC(=O)c2cc(S(=O)(=O)c3ccccc3)ccc2Cl)cc1,4.733520000000003
+241919,Optimize the molecule CC(C)CC(=O)C1=C([O-])C(=O)N(CC[NH3+])[C@H]1c1ccc(F)cc1 to have a higher LogP value.,CC(C)CC(=O)C1=C([O-])C(=O)N(CC[NH3+])[C@H]1c1ccc(F)cc1,0.180500000000001
+46165,Modify the molecule COC1CC[NH+](CCNC(=O)[C@H]2CCCS2)CC1 to decrease its LogP value.,COC1CC[NH+](CCNC(=O)[C@H]2CCCS2)CC1,-0.3080999999999971
+17606,Modify the molecule Cc1cc2oc(=O)cc(C[NH+]3CCN(CC(N)=O)CC3)c2cc1C to have a lower LogP value.,Cc1cc2oc(=O)cc(C[NH+]3CCN(CC(N)=O)CC3)c2cc1C,-0.4043599999999983
+44259,Optimize the molecule CCc1cccc(C)c1NC(=O)[C@H](CC)n1nc(C)c2sc3ccccc3c2c1=O to have a higher LogP value.,CCc1cccc(C)c1NC(=O)[C@H](CC)n1nc(C)c2sc3ccccc3c2c1=O,5.380240000000005
+171503,Modify the molecule CON(C)C(=O)CN(C)[C@H]1CCCN(c2ccccc2)C1 to decrease its LogP value.,CON(C)C(=O)CN(C)[C@H]1CCCN(c2ccccc2)C1,1.6069999999999989
+248639,Modify the molecule C[C@@H]([NH2+]CCN(C)C1CCCCC1)c1ccc2[nH]c(=O)[nH]c2c1 to have a higher LogP value.,C[C@@H]([NH2+]CCN(C)C1CCCCC1)c1ccc2[nH]c(=O)[nH]c2c1,1.745099999999999
+204644,Modify the molecule NC(=S)N1N=C(c2ccccc2Cl)C[C@H]1c1cccs1 to decrease its LogP value.,NC(=S)N1N=C(c2ccccc2Cl)C[C@H]1c1cccs1,3.7962000000000016
+5953,Please modify the molecule O=C(c1ccc(Cn2c(=O)[nH]c3ccccc3c2=O)cc1)N1CCN(c2ccccc2)CC1 to decrease its LogP value.,O=C(c1ccc(Cn2c(=O)[nH]c3ccccc3c2=O)cc1)N1CCN(c2ccccc2)CC1,2.700500000000001
+172291,Optimize the molecule COc1ccc(OC)c([C@H]2CCCN2CN2C(=O)C(=O)c3ccccc32)c1 to have a higher LogP value.,COc1ccc(OC)c([C@H]2CCCN2CN2C(=O)C(=O)c3ccccc32)c1,3.027700000000002
+95108,Please optimize the molecule COc1cc(C(=O)Nc2ccc3c(c2)NC(=O)[C@@H](C)O3)cc2c1OCCO2 to have a lower LogP value.,COc1cc(C(=O)Nc2ccc3c(c2)NC(=O)[C@@H](C)O3)cc2c1OCCO2,2.4381000000000004
+15165,Modify the molecule Cc1ccc(C[NH2+]CCCN2CCCCCC2=O)s1 to decrease its LogP value.,Cc1ccc(C[NH2+]CCCN2CCCCCC2=O)s1,1.91262
+121698,Please optimize the molecule CC[NH2+][C@@H](C)c1ccnc(N(C)CCO)c1 to have a higher LogP value.,CC[NH2+][C@@H](C)c1ccnc(N(C)CCO)c1,0.1544000000000001
+184948,Please optimize the molecule O=C1CN(C(=O)C[C@H]2CCCCO2)CCN1 to have a higher LogP value.,O=C1CN(C(=O)C[C@H]2CCCCO2)CCN1,-0.0959999999999995
+56376,Modify the molecule C[C@@H]1C[C@@H]1C(=O)Nc1ccc2c(c1)N(C)C(=O)CO2 to have a higher LogP value.,C[C@@H]1C[C@@H]1C(=O)Nc1ccc2c(c1)N(C)C(=O)CO2,1.6363
+73100,Please modify the molecule COC(=O)c1sc(NC(=O)OC(C)(C)C)nc1C to decrease its LogP value.,COC(=O)c1sc(NC(=O)OC(C)(C)C)nc1C,2.5851200000000008
+82460,Please optimize the molecule Cc1noc(C)c1C[NH+](C)C[C@@H]1CC(C2CCCCC2)=NO1 to have a higher LogP value.,Cc1noc(C)c1C[NH+](C)C[C@@H]1CC(C2CCCCC2)=NO1,2.03134
+35805,Please optimize the molecule COc1ccc(C(=O)NCC(=O)N/N=C/c2ccc([N+](=O)[O-])s2)cc1 to have a lower LogP value.,COc1ccc(C(=O)NCC(=O)N/N=C/c2ccc([N+](=O)[O-])s2)cc1,1.545
+189413,Modify the molecule C[C@H](SCc1cnn(-c2ccccc2)c1)C(=O)Nc1ccc2c(c1)CCC2 to have a higher LogP value.,C[C@H](SCc1cnn(-c2ccccc2)c1)C(=O)Nc1ccc2c(c1)CCC2,4.621400000000004
+8198,Optimize the molecule C[C@H](NC(=O)[C@@H](C)Oc1ccc(Cl)cc1Br)C(=O)[O-] to have a lower LogP value.,C[C@H](NC(=O)[C@@H](C)Oc1ccc(Cl)cc1Br)C(=O)[O-],1.1243999999999998
+233685,Modify the molecule CN(C)c1ncccc1NC(=O)c1ccc(NC(=O)c2ccco2)s1 to have a higher LogP value.,CN(C)c1ncccc1NC(=O)c1ccc(NC(=O)c2ccco2)s1,3.306700000000001
+28743,Please modify the molecule COC(=O)c1occc1CSc1nnc2sc3ccccc3n12 to increase its LogP value.,COC(=O)c1occc1CSc1nnc2sc3ccccc3n12,3.6159000000000026
+204648,Please modify the molecule CN(C)C(=O)C[NH+](C)CC(=O)NC1CCCCCCC1 to increase its LogP value.,CN(C)C(=O)C[NH+](C)CC(=O)NC1CCCCCCC1,-0.1815999999999975
+107858,Please optimize the molecule CN(C)CC[NH+]1CCC(NC(=O)NC[C@@H]2CN3CCCC[C@@H]3CO2)CC1 to have a lower LogP value.,CN(C)CC[NH+]1CCC(NC(=O)NC[C@@H]2CN3CCCC[C@@H]3CO2)CC1,-0.8521999999999941
+172048,Optimize the molecule CC[NH+]1CCN(c2ccc(C(=O)N[C@H](C)C(C)C)cc2)CC1 to have a lower LogP value.,CC[NH+]1CCN(c2ccc(C(=O)N[C@H](C)C(C)C)cc2)CC1,1.1857000000000018
+50822,Please optimize the molecule Cc1cc(C)n2nc(CC(=O)O[C@H](C)c3nc4ccccc4n3C)nc2n1 to have a higher LogP value.,Cc1cc(C)n2nc(CC(=O)O[C@H](C)c3nc4ccccc4n3C)nc2n1,2.4747400000000006
+43846,Optimize the molecule Cn1nnnc1SCC[NH2+]C1CCN(c2ncnc3[nH]cnc23)CC1 to have a higher LogP value.,Cn1nnnc1SCC[NH2+]C1CCN(c2ncnc3[nH]cnc23)CC1,-0.7990999999999986
+52663,Optimize the molecule CC(C)(C)[C@H](NC(=O)c1cccc(C(F)(F)F)c1F)C(N)=O to have a higher LogP value.,CC(C)(C)[C@H](NC(=O)c1cccc(C(F)(F)F)c1F)C(N)=O,2.4742999999999995
+29014,Modify the molecule C[C@H]1CCN(C(=O)c2ccc3nncn3c2)[C@@H](C)C1 to decrease its LogP value.,C[C@H]1CCN(C(=O)c2ccc3nncn3c2)[C@@H](C)C1,1.9899
+112425,Please modify the molecule C[C@H]1[NH2+]CC[C@@H]1C(=O)NC12CC3CC(CC(C3)C1)C2 to decrease its LogP value.,C[C@H]1[NH2+]CC[C@@H]1C(=O)NC12CC3CC(CC(C3)C1)C2,1.0431999999999997
+118157,Optimize the molecule Cc1oc(C(=O)NCCn2cccc2)cc1S(=O)(=O)N(C)C to have a lower LogP value.,Cc1oc(C(=O)NCCn2cccc2)cc1S(=O)(=O)N(C)C,1.06982
+210393,Please modify the molecule CC(C)(C)c1ccc(NC(=O)CN2C(=O)N[C@@](C)(c3ccccc3)C2=O)cc1 to decrease its LogP value.,CC(C)(C)c1ccc(NC(=O)CN2C(=O)N[C@@](C)(c3ccccc3)C2=O)cc1,3.389800000000002
+66125,Please optimize the molecule CC[C@@]1(c2ccc(NC(=O)c3nc(-c4ccco4)sc3C)cc2)CCC(=O)NC1=O to have a higher LogP value.,CC[C@@]1(c2ccc(NC(=O)c3nc(-c4ccco4)sc3C)cc2)CCC(=O)NC1=O,4.048220000000002
+201751,Optimize the molecule CCN(Cc1cccs1)C(=O)c1ccc(-n2cnc3ccccc32)cc1 to have a lower LogP value.,CCN(Cc1cccs1)C(=O)c1ccc(-n2cnc3ccccc32)cc1,4.749300000000003
+111117,Optimize the molecule O=C(Nc1nnc(Cc2c[nH]c3ccccc23)s1)c1ccccc1 to have a lower LogP value.,O=C(Nc1nnc(Cc2c[nH]c3ccccc23)s1)c1ccccc1,3.8625000000000016
+226282,Please optimize the molecule O=C1CC[NH2+][C@H](c2ccccc2)C1 to have a lower LogP value.,O=C1CC[NH2+][C@H](c2ccccc2)C1,0.6539999999999999
+48072,Optimize the molecule CO[C@H](CNCc1cc2ccccc2[nH]c1=O)c1ccccc1 to have a lower LogP value.,CO[C@H](CNCc1cc2ccccc2[nH]c1=O)c1ccccc1,3.0054000000000007
+91753,Please optimize the molecule O=C(CCCl)Nc1ccc(NC(=O)c2ccccc2)cc1 to have a lower LogP value.,O=C(CCCl)Nc1ccc(NC(=O)c2ccccc2)cc1,3.5063000000000013
+168749,Modify the molecule CC[C@H](C)CS(=O)(=O)Cc1nc(-c2ccco2)no1 to increase its LogP value.,CC[C@H](C)CS(=O)(=O)Cc1nc(-c2ccco2)no1,2.2905000000000006
+12864,Modify the molecule CCCOc1ccccc1C[C@H]1C(=O)Nc2ccc(C)cc21 to decrease its LogP value.,CCCOc1ccccc1C[C@H]1C(=O)Nc2ccc(C)cc21,4.062220000000004
+108233,Please optimize the molecule C[C@@H](c1ccccc1)N(C)C(=O)NCc1cc[nH+]c(N2CCCC2)c1 to have a lower LogP value.,C[C@@H](c1ccccc1)N(C)C(=O)NCc1cc[nH+]c(N2CCCC2)c1,3.0035000000000016
+210236,Modify the molecule C[C@@H]1C[C@@H]1COC(=O)[C@@H](C)N1CCc2ccccc2C1 to have a lower LogP value.,C[C@@H]1C[C@@H]1COC(=O)[C@@H](C)N1CCc2ccccc2C1,2.6324000000000014
+198333,Please modify the molecule CS(=O)(=O)N1CCC[C@H](CCc2cccc(C(F)(F)F)c2)C1 to decrease its LogP value.,CS(=O)(=O)N1CCC[C@H](CCc2cccc(C(F)(F)F)c2)C1,3.3096000000000023
+125352,Please optimize the molecule Cc1cccc2sc(NC(=O)CCNS(=O)(=O)c3ccc([N+](=O)[O-])cc3)nc12 to have a lower LogP value.,Cc1cccc2sc(NC(=O)CCNS(=O)(=O)c3ccc([N+](=O)[O-])cc3)nc12,2.8200200000000004
+203003,Modify the molecule CC[C@@H]([NH2+][C@H](c1ccccc1)C(C)C)c1nc(C)cs1 to increase its LogP value.,CC[C@@H]([NH2+][C@H](c1ccccc1)C(C)C)c1nc(C)cs1,3.8633200000000034
+221095,Please modify the molecule COc1ccc(CNC(=O)N[C@@H]2CCCC[C@@H]2C)cc1O to decrease its LogP value.,COc1ccc(CNC(=O)N[C@@H]2CCCC[C@@H]2C)cc1O,2.778700000000001
+114102,Optimize the molecule CC[C@@H]([NH2+][C@@H](COC)c1ccc(F)c(F)c1)c1cnn(C)c1 to have a lower LogP value.,CC[C@@H]([NH2+][C@@H](COC)c1ccc(F)c(F)c1)c1cnn(C)c1,2.1005
+167824,Modify the molecule CN(CC(=O)NC(C)(C)C)C(=O)c1cc(N2CCCC2=O)ccc1Cl to increase its LogP value.,CN(CC(=O)NC(C)(C)C)C(=O)c1cc(N2CCCC2=O)ccc1Cl,2.4535
+63541,Optimize the molecule C[C@@H]1C[NH+](C)CC[C@@H]1NC(=O)CCc1ccccc1 to have a lower LogP value.,C[C@@H]1C[NH+](C)CC[C@@H]1NC(=O)CCc1ccccc1,0.6585000000000012
+206956,Optimize the molecule CCN(Cc1cccc(C)c1)C(=O)CNC(=O)Cc1ccccc1 to have a lower LogP value.,CCN(Cc1cccc(C)c1)C(=O)CNC(=O)Cc1ccccc1,2.702420000000001
+76583,Modify the molecule Cc1ccc(CN2C(=O)[C@H]3CCCC[C@@H]3C2=O)cc1S(=O)(=O)Nc1cccc(Cl)c1C to have a higher LogP value.,Cc1ccc(CN2C(=O)[C@H]3CCCC[C@@H]3C2=O)cc1S(=O)(=O)Nc1cccc(Cl)c1C,4.432840000000003
+8009,Modify the molecule COc1ccc(Br)cc1-c1nnc2n(Cc3ccccc3)c3c(=O)n(C)c(=O)n(C)c3n12 to decrease its LogP value.,COc1ccc(Br)cc1-c1nnc2n(Cc3ccccc3)c3c(=O)n(C)c(=O)n(C)c3n12,2.5678
+180003,Optimize the molecule CCCCn1c([S@](=O)[C@@H](C)C(=O)Nc2cccc(C)c2C)n[nH]c1=O to have a higher LogP value.,CCCCn1c([S@](=O)[C@@H](C)C(=O)Nc2cccc(C)c2C)n[nH]c1=O,2.12314
+226817,Please modify the molecule CCC[NH+]1CCC(NC(=O)NC2(CC(=O)[O-])CCC2)CC1 to increase its LogP value.,CCC[NH+]1CCC(NC(=O)NC2(CC(=O)[O-])CCC2)CC1,-1.194399999999997
+2327,Please modify the molecule COc1ccc(-c2onc(C(=O)c3ccc([N+](=O)[O-])cc3)c2S(=O)(=O)c2ccccc2)cc1 to increase its LogP value.,COc1ccc(-c2onc(C(=O)c3ccc([N+](=O)[O-])cc3)c2S(=O)(=O)c2ccccc2)cc1,4.322200000000003
+247981,Optimize the molecule C[C@H](C(N)=O)N1C[C@@H](c2ccc(Cl)cc2)CC1=O to have a higher LogP value.,C[C@H](C(N)=O)N1C[C@@H](c2ccc(Cl)cc2)CC1=O,1.5297000000000005
+223763,Modify the molecule Cc1cccc([C@@H](C)[NH2+]C[C@@]2(O)CCOC2)c1 to decrease its LogP value.,Cc1cccc([C@@H](C)[NH2+]C[C@@]2(O)CCOC2)c1,0.7708199999999998
+240891,Modify the molecule CCOc1ccc(Br)cc1/C=C/C(=O)NCCC(=O)[O-] to have a higher LogP value.,CCOc1ccc(Br)cc1/C=C/C(=O)NCCC(=O)[O-],1.1171999999999993
+112269,Optimize the molecule CCOCc1ccccc1NC(=O)C(=O)NC[C@@H]1CCC[C@@H](O)C1 to have a lower LogP value.,CCOCc1ccccc1NC(=O)C(=O)NC[C@@H]1CCC[C@@H](O)C1,1.8289
+36650,Modify the molecule C[C@@H]1CCN(C(=O)Nc2ccccc2N2CCCCCC2)C[C@@H]1O to increase its LogP value.,C[C@@H]1CCN(C(=O)Nc2ccccc2N2CCCCCC2)C[C@@H]1O,3.3016000000000028
+177497,Please modify the molecule O=S(=O)(c1ccc(Br)cc1)N1CCN(C2CC2)C[C@@H]1c1ccccc1 to decrease its LogP value.,O=S(=O)(c1ccc(Br)cc1)N1CCN(C2CC2)C[C@@H]1c1ccccc1,3.659100000000003
+135160,Please optimize the molecule CCN(C(=O)Nc1cccnc1Cl)[C@@H](C)C(C)C to have a higher LogP value.,CCN(C(=O)Nc1cccnc1Cl)[C@@H](C)C(C)C,3.633300000000003
+174656,Modify the molecule CC(C)[NH+]1C[C@H](C)[C@@H](NCc2ccc3c(c2)OCCCO3)C1 to increase its LogP value.,CC(C)[NH+]1C[C@H](C)[C@@H](NCc2ccc3c(c2)OCCCO3)C1,1.2491000000000003
+141853,Modify the molecule O=C(CCS(=O)(=O)C1CCCC1)Nc1cccc(-n2cnnn2)c1 to decrease its LogP value.,O=C(CCS(=O)(=O)C1CCCC1)Nc1cccc(-n2cnnn2)c1,1.3482999999999998
+243859,Modify the molecule CC[C@](C)(C(=O)NC1CCCC1)N(C[C@H]1CCCO1)C(=O)c1ccc(=O)[nH]c1 to have a higher LogP value.,CC[C@](C)(C(=O)NC1CCCC1)N(C[C@H]1CCCO1)C(=O)c1ccc(=O)[nH]c1,2.2236
+84149,Please modify the molecule C#CCNC(=O)c1ccc(NC[C@H]2CCC[NH+](C)C2)nc1 to increase its LogP value.,C#CCNC(=O)c1ccc(NC[C@H]2CCC[NH+](C)C2)nc1,-0.2187999999999983
+132673,Please optimize the molecule O=C(Cc1ccc(Cl)cc1)NCc1csc(C2CC2)n1 to have a lower LogP value.,O=C(Cc1ccc(Cl)cc1)NCc1csc(C2CC2)n1,3.5328000000000017
+75170,Please optimize the molecule CCCCn1c(N)c(N(Cc2ccccc2)C(=O)c2ccc(Cl)c(Cl)c2)c(=O)[nH]c1=O to have a higher LogP value.,CCCCn1c(N)c(N(Cc2ccccc2)C(=O)c2ccc(Cl)c(Cl)c2)c(=O)[nH]c1=O,4.072700000000002
+164447,Optimize the molecule C[C@H]1C[C@@H](C)CN(C(=O)N[C@@H]2CCCc3c2cnn3C)C1 to have a higher LogP value.,C[C@H]1C[C@@H](C)CN(C(=O)N[C@@H]2CCCc3c2cnn3C)C1,2.4850000000000003
+106428,Please modify the molecule CCC[C@@H](C)[C@H]([NH2+]CC)C(C)C to decrease its LogP value.,CCC[C@@H](C)[C@H]([NH2+]CC)C(C)C,2.0304999999999995
+53207,Modify the molecule C[C@@H](NC(=O)NC[C@H](O)C1CCOCC1)c1ccccc1C(F)(F)F to have a higher LogP value.,C[C@@H](NC(=O)NC[C@H](O)C1CCOCC1)c1ccccc1C(F)(F)F,2.8531000000000013
+225729,Please modify the molecule CCOC[C@H]1CCN(C(=O)C[C@H]2c3ccccc3C=CN2C(C)=O)C1 to increase its LogP value.,CCOC[C@H]1CCN(C(=O)C[C@H]2c3ccccc3C=CN2C(C)=O)C1,2.835600000000001
+45719,Please optimize the molecule COc1ccc(CCC(=O)NCc2ccccc2Cl)cc1OC to have a higher LogP value.,COc1ccc(CCC(=O)NCc2ccccc2Cl)cc1OC,3.606200000000002
+175639,Modify the molecule Cn1c(SCCOc2cccc(Br)c2)nnc1[C@H]1CCS(=O)(=O)C1 to have a higher LogP value.,Cn1c(SCCOc2cccc(Br)c2)nnc1[C@H]1CCS(=O)(=O)C1,2.6508000000000003
+31297,Modify the molecule CC(C)(C)[C@@H](NCc1cc(=O)n2ccsc2[nH+]1)c1cccs1 to increase its LogP value.,CC(C)(C)[C@@H](NCc1cc(=O)n2ccsc2[nH+]1)c1cccs1,3.1136000000000017
+128691,Please modify the molecule CC(=O)c1ccc(NC(=O)NC[C@H]2CCC[C@@H]2O)cc1C to decrease its LogP value.,CC(=O)c1ccc(NC(=O)NC[C@H]2CCC[C@@H]2O)cc1C,2.4801200000000003
+176826,Please optimize the molecule CCCC[C@H](C(=O)[O-])[C@H](C)O to have a higher LogP value.,CCCC[C@H](C(=O)[O-])[C@H](C)O,-0.0765000000000001
+239810,Please optimize the molecule CC[C@H]([NH2+][C@@H]1CCCn2nc(C)nc21)c1ccccc1OCC(=O)N(C)C to have a lower LogP value.,CC[C@H]([NH2+][C@@H]1CCCn2nc(C)nc21)c1ccccc1OCC(=O)N(C)C,1.6031199999999992
+206994,Modify the molecule O=C([C@@H]1CCCN(C2CC[NH+](Cc3ccccc3)CC2)C1)N1CCCCCCC1 to decrease its LogP value.,O=C([C@@H]1CCCN(C2CC[NH+](Cc3ccccc3)CC2)C1)N1CCCCCCC1,2.7386000000000017
+109290,Optimize the molecule O=C([O-])c1cn2ccccc2n1 to have a lower LogP value.,O=C([O-])c1cn2ccccc2n1,-0.3022000000000004

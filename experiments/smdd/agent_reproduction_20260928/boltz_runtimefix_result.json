@@ -1,0 +1,14 @@
+{
+  "source": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_flowfix1/smdd_004_ABL1_0/oracles/boltz_18313675b2d5/input.yaml",
+  "gpu": 0,
+  "parallel_samples": 1,
+  "samples": 10,
+  "result": {
+    "affinity_pred_value": -0.9614107608795166,
+    "affinity_probability_binary": 0.5887174606323242,
+    "affinity_pred_value1": -0.6670427322387695,
+    "affinity_probability_binary1": 0.5499682426452637,
+    "affinity_pred_value2": -1.2557787895202637,
+    "affinity_probability_binary2": 0.6274667382240295
+  }
+}

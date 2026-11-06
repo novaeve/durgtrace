@@ -1,0 +1,44 @@
+{
+  "time": 1791857805.2131617,
+  "host": "/home/zlc/molclaw_chatdrug_aligned_20261012",
+  "credential_sha256_prefix": "1d51a9df68",
+  "steps": [
+    {
+      "name": "initialize",
+      "exception": "ReadTimeout",
+      "message": "The read operation timed out",
+      "seconds": 20.178601264953613
+    },
+    {
+      "name": "initialized",
+      "status": 202,
+      "headers": {
+        "server": "istio-envoy"
+      },
+      "body": "",
+      "seconds": 0.19496798515319824
+    },
+    {
+      "name": "list_tools",
+      "status": 200,
+      "headers": {
+        "content-type": "application/json",
+        "server": "istio-envoy"
+      },
+      "body": "{'code': -32602, 'message': 'Invalid params'}",
+      "tool_count": 0,
+      "relevant_tools": [],
+      "seconds": 0.05407857894897461
+    },
+    {
+      "name": "valid_smiles",
+      "status": 200,
+      "headers": {
+        "content-type": "application/json",
+        "server": "istio-envoy"
+      },
+      "body": "{\"jsonrpc\":\"2.0\",\"id\":3,\"error\":{\"code\":-32602,\"message\":\"Invalid params\"}}",
+      "seconds": 0.051511526107788086
+    }
+  ]
+}

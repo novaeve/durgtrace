@@ -1,0 +1,195 @@
+{
+  "method": "Codex (DeepSeek v4.1 Flash)",
+  "benchmark": "PMO-1K",
+  "targets": [
+    {
+      "target": "albuterol_similarity",
+      "status": "skipped_long_truncation",
+      "submissions": 110,
+      "last_top10_mean": 1.0,
+      "auc_without_tail": 0.10946639755519065,
+      "auc_with_constant_tail": 0.9994663975551906
+    },
+    {
+      "target": "amlodipine_mpo",
+      "status": "skipped_long_truncation",
+      "submissions": 618,
+      "last_top10_mean": 0.9010924265861879,
+      "auc_without_tail": 0.5424245543689198,
+      "auc_with_constant_tail": 0.8866418613248436
+    },
+    {
+      "target": "celecoxib_rediscovery",
+      "status": "skipped_long_truncation",
+      "submissions": 550,
+      "last_top10_mean": 0.881578947368421,
+      "auc_without_tail": 0.482259066467684,
+      "auc_with_constant_tail": 0.8789695927834734
+    },
+    {
+      "target": "deco_hop",
+      "status": "skipped_long_truncation",
+      "submissions": 457,
+      "last_top10_mean": 0.9520890682344698,
+      "auc_without_tail": 0.366442644789726,
+      "auc_with_constant_tail": 0.8834270088410431
+    },
+    {
+      "target": "drd2",
+      "status": "validated_finished",
+      "submissions": 1000,
+      "last_top10_mean": 0.999999940165625,
+      "auc_without_tail": 0.9816804424027965,
+      "auc_with_constant_tail": 0.9816804424027965
+    },
+    {
+      "target": "fexofenadine_mpo",
+      "status": "skipped_long_truncation",
+      "submissions": 938,
+      "last_top10_mean": 0.8957869287658122,
+      "auc_without_tail": 0.7282561226044342,
+      "auc_with_constant_tail": 0.7837949121879145
+    },
+    {
+      "target": "gsk3b",
+      "status": "validated_finished",
+      "submissions": 1000,
+      "last_top10_mean": 0.6969999999999998,
+      "auc_without_tail": 0.5705645436507909,
+      "auc_with_constant_tail": 0.5705645436507909
+    },
+    {
+      "target": "isomers_c7h8n2o2",
+      "status": "skipped_long_truncation",
+      "submissions": 13,
+      "last_top10_mean": 1.0,
+      "auc_without_tail": 0.01168729142747307,
+      "auc_with_constant_tail": 0.998687291427473
+    },
+    {
+      "target": "isomers_c9h10n2o2pf2cl",
+      "status": "validated_finished",
+      "submissions": 1000,
+      "last_top10_mean": 1.0,
+      "auc_without_tail": 0.9961498247656554,
+      "auc_with_constant_tail": 0.9961498247656554
+    },
+    {
+      "target": "jnk3",
+      "status": "skipped_long_truncation",
+      "submissions": 404,
+      "last_top10_mean": 0.508,
+      "auc_without_tail": 0.12493169444444435,
+      "auc_with_constant_tail": 0.4276996944444444
+    },
+    {
+      "target": "median1",
+      "status": "validated_finished",
+      "submissions": 1000,
+      "last_top10_mean": 0.39999999999999997,
+      "auc_without_tail": 0.3973013092838726,
+      "auc_with_constant_tail": 0.3973013092838726
+    },
+    {
+      "target": "median2",
+      "status": "validated_finished",
+      "submissions": 1000,
+      "last_top10_mean": 0.33893368414555003,
+      "auc_without_tail": 0.30113065196594874,
+      "auc_with_constant_tail": 0.30113065196594874
+    },
+    {
+      "target": "mestranol_similarity",
+      "status": "skipped_long_truncation",
+      "submissions": 267,
+      "last_top10_mean": 1.0,
+      "auc_without_tail": 0.2571299399773689,
+      "auc_with_constant_tail": 0.9901299399773689
+    },
+    {
+      "target": "osimertinib_mpo",
+      "status": "validated_finished",
+      "submissions": 1000,
+      "last_top10_mean": 0.9091507933655457,
+      "auc_without_tail": 0.8868888600493198,
+      "auc_with_constant_tail": 0.8868888600493198
+    },
+    {
+      "target": "perindopril_mpo",
+      "status": "validated_finished",
+      "submissions": 1000,
+      "last_top10_mean": 0.6197241087891391,
+      "auc_without_tail": 0.5762218159886393,
+      "auc_with_constant_tail": 0.5762218159886393
+    },
+    {
+      "target": "qed",
+      "status": "validated_finished",
+      "submissions": 1000,
+      "last_top10_mean": 0.948239346839884,
+      "auc_without_tail": 0.9374561855381369,
+      "auc_with_constant_tail": 0.9374561855381369
+    },
+    {
+      "target": "ranolazine_mpo",
+      "status": "validated_finished",
+      "submissions": 1000,
+      "last_top10_mean": 0.910724935886936,
+      "auc_without_tail": 0.8662761018158558,
+      "auc_with_constant_tail": 0.8662761018158558
+    },
+    {
+      "target": "scaffold_hop",
+      "status": "validated_finished",
+      "submissions": 1000,
+      "last_top10_mean": 1.0,
+      "auc_without_tail": 0.992785816906918,
+      "auc_with_constant_tail": 0.992785816906918
+    },
+    {
+      "target": "sitagliptin_mpo",
+      "status": "validated_finished",
+      "submissions": 1000,
+      "last_top10_mean": 0.5195053507519721,
+      "auc_without_tail": 0.44869373390453154,
+      "auc_with_constant_tail": 0.44869373390453154
+    },
+    {
+      "target": "thiothixene_rediscovery",
+      "status": "validated_finished",
+      "submissions": 1000,
+      "last_top10_mean": 0.8934189938740744,
+      "auc_without_tail": 0.884887187587776,
+      "auc_with_constant_tail": 0.884887187587776
+    },
+    {
+      "target": "troglitazon_rediscovery",
+      "status": "validated_finished",
+      "submissions": 1000,
+      "last_top10_mean": 0.9137873847773366,
+      "auc_without_tail": 0.8695723555229845,
+      "auc_with_constant_tail": 0.8695723555229845
+    },
+    {
+      "target": "valsartan_smarts",
+      "status": "skipped_long_truncation",
+      "submissions": 138,
+      "last_top10_mean": 0.9368572841323208,
+      "auc_without_tail": 0.05980065176336463,
+      "auc_with_constant_tail": 0.8673716306854252
+    },
+    {
+      "target": "zaleplon_mpo",
+      "status": "skipped_long_truncation",
+      "submissions": 1,
+      "last_top10_mean": 0.03247538596840966,
+      "auc_without_tail": 1.623769298420483e-05,
+      "auc_with_constant_tail": 0.03245914827542545
+    }
+  ],
+  "tail_fill_policy": "All stopped targets included as final reports; retain actual submission positions and initial-zero trapezoidal integration; extend final Top-10 mean as constant to submission 1000; no extra oracle calls or manufactured molecules.",
+  "sum_top10_auc": 17.45825630688583,
+  "mean_top10_auc": 0.7590546220385143,
+  "target_count": 23,
+  "time": 1791093514.3684902
+}

@@ -1,0 +1,1159 @@
+{
+  "method": "codex-cli-native/deepseek-v4.1-flash",
+  "tasks": 25,
+  "correct_points": 33,
+  "total_points": 75,
+  "point_accuracy": 0.44,
+  "fully_correct_tasks": 3,
+  "task_accuracy": 0.12,
+  "distribution": {
+    "1": 10,
+    "2": 7,
+    "3": 3,
+    "0": 5
+  },
+  "rows": [
+    {
+      "task": "smdd_002_O75874_0",
+      "retry": false,
+      "solution_path": "/data2/chenfuxin/smdd_codex_type2_bailian_20260929/run/smdd_002_O75874_0/solution.csv",
+      "evaluation": {
+        "score": 0.3333333333333333,
+        "matches": [
+          {
+            "pred_idx": 0,
+            "true_idx": 1,
+            "distance": 2.5517158858035778,
+            "pred_type": "Acceptor",
+            "true_types": [
+              "Acceptor"
+            ],
+            "success": false
+          },
+          {
+            "pred_idx": 1,
+            "true_idx": 5,
+            "distance": 2.4714174266211346,
+            "pred_type": "Donor",
+            "true_types": [
+              "Donor"
+            ],
+            "success": true
+          },
+          {
+            "pred_idx": 2,
+            "true_idx": 11,
+            "distance": 9.572353799392328,
+            "pred_type": "Hydrophobic",
+            "true_types": [
+              "Hydrophobic"
+            ],
+            "success": false
+          }
+        ],
+        "n_correct": 1,
+        "n_required": 3,
+        "n_ground_truth": 18
+      }
+    },
+    {
+      "task": "smdd_002_P00374_0",
+      "retry": false,
+      "solution_path": "/data2/chenfuxin/smdd_codex_type2_bailian_20260929/run/smdd_002_P00374_0/solution.csv",
+      "evaluation": {
+        "score": 0.6666666666666666,
+        "matches": [
+          {
+            "pred_idx": 0,
+            "true_idx": 12,
+            "distance": 0.6327925463646777,
+            "pred_type": "Acceptor",
+            "true_types": [
+              "Donor",
+              "Acceptor"
+            ],
+            "success": true
+          },
+          {
+            "pred_idx": 1,
+            "true_idx": 7,
+            "distance": 1.5630572353081147,
+            "pred_type": "Donor",
+            "true_types": [
+              "Donor",
+              "Acceptor"
+            ],
+            "success": true
+          },
+          {
+            "pred_idx": 2,
+            "true_idx": 0,
+            "distance": 7.932627165760685,
+            "pred_type": "Aromatic",
+            "true_types": [
+              "Hydrophobic"
+            ],
+            "success": false
+          }
+        ],
+        "n_correct": 2,
+        "n_required": 3,
+        "n_ground_truth": 20
+      }
+    },
+    {
+      "task": "smdd_002_P00742_0",
+      "retry": false,
+      "solution_path": "/data2/chenfuxin/smdd_codex_type2_bailian_20260929/run/smdd_002_P00742_0/solution.csv",
+      "evaluation": {
+        "score": 0.3333333333333333,
+        "matches": [
+          {
+            "pred_idx": 0,
+            "true_idx": 1,
+            "distance": 3.513212681097135,
+            "pred_type": "Cation",
+            "true_types": [
+              "Hydrophobic",
+              "Donor",
+              "Cation"
+            ],
+            "success": false
+          },
+          {
+            "pred_idx": 1,
+            "true_idx": 3,
+            "distance": 1.4193753771759396,
+            "pred_type": "Aromatic",
+            "true_types": [
+              "Cation",
+              "Donor",
+              "Hydrophobic"
+            ],
+            "success": true
+          },
+          {
+            "pred_idx": 2,
+            "true_idx": 5,
+            "distance": 5.223585846390671,
+            "pred_type": "Donor",
+            "true_types": [
+              "Acceptor",
+              "Donor"
+            ],
+            "success": false
+          }
+        ],
+        "n_correct": 1,
+        "n_required": 3,
+        "n_ground_truth": 8
+      }
+    },
+    {
+      "task": "smdd_002_P00797_0",
+      "retry": false,
+      "solution_path": "/data2/chenfuxin/smdd_codex_type2_bailian_20260929/run/smdd_002_P00797_0/solution.csv",
+      "evaluation": {
+        "score": 0.3333333333333333,
+        "matches": [
+          {
+            "pred_idx": 0,
+            "true_idx": 2,
+            "distance": 0.9030595349308219,
+            "pred_type": "Donor",
+            "true_types": [
+              "Donor",
+              "Cation"
+            ],
+            "success": true
+          },
+          {
+            "pred_idx": 1,
+            "true_idx": 1,
+            "distance": 2.845465499995592,
+            "pred_type": "Hydrophobic",
+            "true_types": [
+              "Hydrophobic"
+            ],
+            "success": false
+          },
+          {
+            "pred_idx": 2,
+            "true_idx": 0,
+            "distance": "Incompatible",
+            "pred_type": "Acceptor",
+            "true_types": [
+              "Donor",
+              "Cation"
+            ],
+            "success": false
+          }
+        ],
+        "n_correct": 1,
+        "n_required": 3,
+        "n_ground_truth": 4
+      }
+    },
+    {
+      "task": "smdd_002_P00918_0",
+      "retry": false,
+      "solution_path": "/data2/chenfuxin/smdd_codex_type2_bailian_20260929/run/smdd_002_P00918_0/solution.csv",
+      "evaluation": {
+        "score": 1.0,
+        "matches": [
+          {
+            "pred_idx": 0,
+            "true_idx": 0,
+            "distance": 0.5296887311342625,
+            "pred_type": "Donor",
+            "true_types": [
+              "Donor"
+            ],
+            "success": true
+          },
+          {
+            "pred_idx": 1,
+            "true_idx": 2,
+            "distance": 2.008522510897518,
+            "pred_type": "Acceptor",
+            "true_types": [
+              "Donor",
+              "Acceptor"
+            ],
+            "success": true
+          },
+          {
+            "pred_idx": 2,
+            "true_idx": 4,
+            "distance": 1.2724229867015198,
+            "pred_type": "Aromatic",
+            "true_types": [
+              "Hydrophobic"
+            ],
+            "success": true
+          }
+        ],
+        "n_correct": 3,
+        "n_required": 3,
+        "n_ground_truth": 5
+      }
+    },
+    {
+      "task": "smdd_002_P03372_0",
+      "retry": false,
+      "solution_path": "/data2/chenfuxin/smdd_codex_type2_bailian_20260929/run/smdd_002_P03372_0/solution.csv",
+      "evaluation": {
+        "score": 0.6666666666666666,
+        "matches": [
+          {
+            "pred_idx": 0,
+            "true_idx": 1,
+            "distance": 0.5119637521591559,
+            "pred_type": "Donor",
+            "true_types": [
+              "Donor",
+              "Acceptor"
+            ],
+            "success": true
+          },
+          {
+            "pred_idx": 1,
+            "true_idx": 2,
+            "distance": 9.45768736899768,
+            "pred_type": "Acceptor",
+            "true_types": [
+              "Acceptor",
+              "Donor"
+            ],
+            "success": false
+          },
+          {
+            "pred_idx": 2,
+            "true_idx": 0,
+            "distance": 0.6596046491274595,
+            "pred_type": "Hydrophobic",
+            "true_types": [
+              "Hydrophobic"
+            ],
+            "success": true
+          }
+        ],
+        "n_correct": 2,
+        "n_required": 3,
+        "n_ground_truth": 5
+      }
+    },
+    {
+      "task": "smdd_002_P04150_0",
+      "retry": true,
+      "solution_path": "/data2/chenfuxin/smdd_codex_type2_bailian_20260929/retries/four_errors_retry1/run/smdd_002_P04150_0/solution.csv",
+      "evaluation": {
+        "score": 0.6666666666666666,
+        "matches": [
+          {
+            "pred_idx": 0,
+            "true_idx": 7,
+            "distance": 1.7921949987599721,
+            "pred_type": "Donor",
+            "true_types": [
+              "Donor"
+            ],
+            "success": true
+          },
+          {
+            "pred_idx": 1,
+            "true_idx": 4,
+            "distance": 3.6139088130569785,
+            "pred_type": "Donor",
+            "true_types": [
+              "Donor",
+              "Acceptor"
+            ],
+            "success": false
+          },
+          {
+            "pred_idx": 2,
+            "true_idx": 3,
+            "distance": 0.6352459925685315,
+            "pred_type": "Acceptor",
+            "true_types": [
+              "Donor",
+              "Acceptor"
+            ],
+            "success": true
+          }
+        ],
+        "n_correct": 2,
+        "n_required": 3,
+        "n_ground_truth": 9
+      }
+    },
+    {
+      "task": "smdd_002_P07900_0",
+      "retry": true,
+      "solution_path": "/data2/chenfuxin/smdd_codex_type2_bailian_20260929/retries/four_errors_retry1/run/smdd_002_P07900_0/solution.csv",
+      "evaluation": {
+        "score": 0.3333333333333333,
+        "matches": [
+          {
+            "pred_idx": 0,
+            "true_idx": 0,
+            "distance": 1.8562159662566955,
+            "pred_type": "Donor",
+            "true_types": [
+              "Donor",
+              "Cation",
+              "Acceptor"
+            ],
+            "success": true
+          },
+          {
+            "pred_idx": 1,
+            "true_idx": 2,
+            "distance": 4.757234840633294,
+            "pred_type": "Acceptor",
+            "true_types": [
+              "Donor",
+              "Acceptor"
+            ],
+            "success": false
+          },
+          {
+            "pred_idx": 2,
+            "true_idx": 1,
+            "distance": 3.8140814643364607,
+            "pred_type": "Hydrophobic",
+            "true_types": [
+              "Hydrophobic",
+              "Donor",
+              "Cation"
+            ],
+            "success": false
+          }
+        ],
+        "n_correct": 1,
+        "n_required": 3,
+        "n_ground_truth": 5
+      }
+    },
+    {
+      "task": "smdd_002_P08684_0",
+      "retry": false,
+      "solution_path": "/data2/chenfuxin/smdd_codex_type2_bailian_20260929/run/smdd_002_P08684_0/solution.csv",
+      "evaluation": {
+        "score": 0.0,
+        "matches": [
+          {
+            "pred_idx": 0,
+            "true_idx": 1,
+            "distance": 8.876182610324738,
+            "pred_type": "Acceptor",
+            "true_types": [
+              "Donor",
+              "Acceptor"
+            ],
+            "success": false
+          },
+          {
+            "pred_idx": 1,
+            "true_idx": 7,
+            "distance": 9.402551126568872,
+            "pred_type": "Hydrophobic",
+            "true_types": [
+              "Hydrophobic"
+            ],
+            "success": false
+          },
+          {
+            "pred_idx": 2,
+            "true_idx": 3,
+            "distance": 5.370954997859155,
+            "pred_type": "Acceptor",
+            "true_types": [
+              "Donor",
+              "Acceptor"
+            ],
+            "success": false
+          }
+        ],
+        "n_correct": 0,
+        "n_required": 3,
+        "n_ground_truth": 9
+      }
+    },
+    {
+      "task": "smdd_002_P10275_0",
+      "retry": false,
+      "solution_path": "/data2/chenfuxin/smdd_codex_type2_bailian_20260929/run/smdd_002_P10275_0/solution.csv",
+      "evaluation": {
+        "score": 1.0,
+        "matches": [
+          {
+            "pred_idx": 0,
+            "true_idx": 1,
+            "distance": 0.7821198083771408,
+            "pred_type": "Acceptor",
+            "true_types": [
+              "Donor",
+              "Acceptor",
+              "Cation"
+            ],
+            "success": true
+          },
+          {
+            "pred_idx": 1,
+            "true_idx": 2,
+            "distance": 0.33347666130685116,
+            "pred_type": "Donor",
+            "true_types": [
+              "Donor",
+              "Acceptor"
+            ],
+            "success": true
+          },
+          {
+            "pred_idx": 2,
+            "true_idx": 0,
+            "distance": 2.149291252019963,
+            "pred_type": "Hydrophobic",
+            "true_types": [
+              "Hydrophobic",
+              "Donor",
+              "Cation",
+              "Acceptor"
+            ],
+            "success": true
+          }
+        ],
+        "n_correct": 3,
+        "n_required": 3,
+        "n_ground_truth": 4
+      }
+    },
+    {
+      "task": "smdd_002_P11473_0",
+      "retry": false,
+      "solution_path": "/data2/chenfuxin/smdd_codex_type2_bailian_20260929/run/smdd_002_P11473_0/solution.csv",
+      "evaluation": {
+        "score": 1.0,
+        "matches": [
+          {
+            "pred_idx": 0,
+            "true_idx": 4,
+            "distance": 0.24528875367775926,
+            "pred_type": "Acceptor",
+            "true_types": [
+              "Acceptor",
+              "Donor"
+            ],
+            "success": true
+          },
+          {
+            "pred_idx": 1,
+            "true_idx": 3,
+            "distance": 0.48916814830644095,
+            "pred_type": "Acceptor",
+            "true_types": [
+              "Acceptor",
+              "Donor"
+            ],
+            "success": true
+          },
+          {
+            "pred_idx": 2,
+            "true_idx": 2,
+            "distance": 1.2149423856778243,
+            "pred_type": "Donor",
+            "true_types": [
+              "Acceptor",
+              "Donor"
+            ],
+            "success": true
+          }
+        ],
+        "n_correct": 3,
+        "n_required": 3,
+        "n_ground_truth": 8
+      }
+    },
+    {
+      "task": "smdd_002_P12821_0",
+      "retry": false,
+      "solution_path": "/data2/chenfuxin/smdd_codex_type2_bailian_20260929/run/smdd_002_P12821_0/solution.csv",
+      "evaluation": {
+        "score": 0.3333333333333333,
+        "matches": [
+          {
+            "pred_idx": 0,
+            "true_idx": 0,
+            "distance": 0.8882086115322173,
+            "pred_type": "Acceptor",
+            "true_types": [
+              "Donor",
+              "Acceptor"
+            ],
+            "success": true
+          },
+          {
+            "pred_idx": 1,
+            "true_idx": 4,
+            "distance": 3.3033679336188237,
+            "pred_type": "Donor",
+            "true_types": [
+              "Donor",
+              "Acceptor"
+            ],
+            "success": false
+          },
+          {
+            "pred_idx": 2,
+            "true_idx": 3,
+            "distance": 3.1687353421830537,
+            "pred_type": "Cation",
+            "true_types": [
+              "Donor",
+              "Cation"
+            ],
+            "success": false
+          }
+        ],
+        "n_correct": 1,
+        "n_required": 3,
+        "n_ground_truth": 8
+      }
+    },
+    {
+      "task": "smdd_002_P14061_0",
+      "retry": true,
+      "solution_path": "/data2/chenfuxin/smdd_codex_type2_bailian_20260929/retries/four_errors_retry1/run/smdd_002_P14061_0/solution.csv",
+      "evaluation": {
+        "score": 0.0,
+        "matches": [
+          {
+            "pred_idx": 0,
+            "true_idx": 22,
+            "distance": 4.992809640984834,
+            "pred_type": "Aromatic",
+            "true_types": [
+              "Hydrophobic"
+            ],
+            "success": false
+          },
+          {
+            "pred_idx": 1,
+            "true_idx": 12,
+            "distance": 5.316815555792865,
+            "pred_type": "Donor",
+            "true_types": [
+              "Donor",
+              "Acceptor"
+            ],
+            "success": false
+          },
+          {
+            "pred_idx": 2,
+            "true_idx": 0,
+            "distance": 5.96291754624071,
+            "pred_type": "Cation",
+            "true_types": [
+              "Cation",
+              "Donor"
+            ],
+            "success": false
+          }
+        ],
+        "n_correct": 0,
+        "n_required": 3,
+        "n_ground_truth": 24
+      }
+    },
+    {
+      "task": "smdd_002_P18031_0",
+      "retry": false,
+      "solution_path": "/data2/chenfuxin/smdd_codex_type2_bailian_20260929/run/smdd_002_P18031_0/solution.csv",
+      "evaluation": {
+        "score": 0.3333333333333333,
+        "matches": [
+          {
+            "pred_idx": 0,
+            "true_idx": 1,
+            "distance": 2.2264800899131165,
+            "pred_type": "Acceptor",
+            "true_types": [
+              "Donor",
+              "Acceptor"
+            ],
+            "success": true
+          },
+          {
+            "pred_idx": 1,
+            "true_idx": 2,
+            "distance": 2.615273228079034,
+            "pred_type": "Donor",
+            "true_types": [
+              "Donor",
+              "Acceptor"
+            ],
+            "success": false
+          },
+          {
+            "pred_idx": 2,
+            "true_idx": 0,
+            "distance": 3.01773461962646,
+            "pred_type": "Aromatic",
+            "true_types": [
+              "Hydrophobic"
+            ],
+            "success": false
+          }
+        ],
+        "n_correct": 1,
+        "n_required": 3,
+        "n_ground_truth": 4
+      }
+    },
+    {
+      "task": "smdd_002_P22303_0",
+      "retry": false,
+      "solution_path": "/data2/chenfuxin/smdd_codex_type2_bailian_20260929/run/smdd_002_P22303_0/solution.csv",
+      "evaluation": {
+        "score": 0.3333333333333333,
+        "matches": [
+          {
+            "pred_idx": 0,
+            "true_idx": 3,
+            "distance": 1.5258665562885985,
+            "pred_type": "Acceptor",
+            "true_types": [
+              "Acceptor"
+            ],
+            "success": true
+          },
+          {
+            "pred_idx": 1,
+            "true_idx": 2,
+            "distance": 3.202546670698185,
+            "pred_type": "Donor",
+            "true_types": [
+              "Acceptor",
+              "Donor"
+            ],
+            "success": false
+          },
+          {
+            "pred_idx": 2,
+            "true_idx": 0,
+            "distance": "Incompatible",
+            "pred_type": "Aromatic",
+            "true_types": [
+              "Acceptor",
+              "Donor"
+            ],
+            "success": false
+          }
+        ],
+        "n_correct": 1,
+        "n_required": 3,
+        "n_ground_truth": 6
+      }
+    },
+    {
+      "task": "smdd_002_P24941_0",
+      "retry": false,
+      "solution_path": "/data2/chenfuxin/smdd_codex_type2_bailian_20260929/run/smdd_002_P24941_0/solution.csv",
+      "evaluation": {
+        "score": 0.3333333333333333,
+        "matches": [
+          {
+            "pred_idx": 0,
+            "true_idx": 3,
+            "distance": 8.15560205037387,
+            "pred_type": "Acceptor",
+            "true_types": [
+              "Donor",
+              "Acceptor"
+            ],
+            "success": false
+          },
+          {
+            "pred_idx": 1,
+            "true_idx": 0,
+            "distance": 2.5535871351870263,
+            "pred_type": "Donor",
+            "true_types": [
+              "Donor",
+              "Cation",
+              "Acceptor"
+            ],
+            "success": false
+          },
+          {
+            "pred_idx": 2,
+            "true_idx": 1,
+            "distance": 1.9120933545891823,
+            "pred_type": "Hydrophobic",
+            "true_types": [
+              "Hydrophobic"
+            ],
+            "success": true
+          }
+        ],
+        "n_correct": 1,
+        "n_required": 3,
+        "n_ground_truth": 4
+      }
+    },
+    {
+      "task": "smdd_002_P28482_0",
+      "retry": false,
+      "solution_path": "/data2/chenfuxin/smdd_codex_type2_bailian_20260929/run/smdd_002_P28482_0/solution.csv",
+      "evaluation": {
+        "score": 0.3333333333333333,
+        "matches": [
+          {
+            "pred_idx": 0,
+            "true_idx": 0,
+            "distance": 1.4192424730771964,
+            "pred_type": "Donor",
+            "true_types": [
+              "Donor",
+              "Cation",
+              "Hydrophobic"
+            ],
+            "success": true
+          },
+          {
+            "pred_idx": 1,
+            "true_idx": 2,
+            "distance": "Incompatible",
+            "pred_type": "Acceptor",
+            "true_types": [
+              "Cation"
+            ],
+            "success": false
+          },
+          {
+            "pred_idx": 2,
+            "true_idx": 1,
+            "distance": 2.7310410090580377,
+            "pred_type": "Hydrophobic",
+            "true_types": [
+              "Donor",
+              "Acceptor",
+              "Cation",
+              "Hydrophobic"
+            ],
+            "success": false
+          }
+        ],
+        "n_correct": 1,
+        "n_required": 3,
+        "n_ground_truth": 3
+      }
+    },
+    {
+      "task": "smdd_002_P42574_0",
+      "retry": false,
+      "solution_path": "/data2/chenfuxin/smdd_codex_type2_bailian_20260929/run/smdd_002_P42574_0/solution.csv",
+      "evaluation": {
+        "score": 0.3333333333333333,
+        "matches": [
+          {
+            "pred_idx": 0,
+            "true_idx": 0,
+            "distance": 0.5825592767623137,
+            "pred_type": "Acceptor",
+            "true_types": [
+              "Donor",
+              "Acceptor"
+            ],
+            "success": true
+          },
+          {
+            "pred_idx": 1,
+            "true_idx": 1,
+            "distance": "Incompatible",
+            "pred_type": "Anion",
+            "true_types": [
+              "Acceptor",
+              "Donor"
+            ],
+            "success": false
+          },
+          {
+            "pred_idx": 2,
+            "true_idx": 4,
+            "distance": 3.85560604428798,
+            "pred_type": "Hydrophobic",
+            "true_types": [
+              "Hydrophobic"
+            ],
+            "success": false
+          }
+        ],
+        "n_correct": 1,
+        "n_required": 3,
+        "n_ground_truth": 5
+      }
+    },
+    {
+      "task": "smdd_002_P45452_0",
+      "retry": false,
+      "solution_path": "/data2/chenfuxin/smdd_codex_type2_bailian_20260929/run/smdd_002_P45452_0/solution.csv",
+      "evaluation": {
+        "score": 0.6666666666666666,
+        "matches": [
+          {
+            "pred_idx": 0,
+            "true_idx": 1,
+            "distance": 1.9456184483774481,
+            "pred_type": "Donor",
+            "true_types": [
+              "Donor",
+              "Acceptor"
+            ],
+            "success": true
+          },
+          {
+            "pred_idx": 1,
+            "true_idx": 3,
+            "distance": 2.056264312682373,
+            "pred_type": "Acceptor",
+            "true_types": [
+              "Acceptor"
+            ],
+            "success": true
+          },
+          {
+            "pred_idx": 2,
+            "true_idx": 4,
+            "distance": 3.062447786901844,
+            "pred_type": "Hydrophobic",
+            "true_types": [
+              "Hydrophobic",
+              "Acceptor"
+            ],
+            "success": false
+          }
+        ],
+        "n_correct": 2,
+        "n_required": 3,
+        "n_ground_truth": 7
+      }
+    },
+    {
+      "task": "smdd_002_P55055_0",
+      "retry": false,
+      "solution_path": "/data2/chenfuxin/smdd_codex_type2_bailian_20260929/run/smdd_002_P55055_0/solution.csv",
+      "evaluation": {
+        "score": 0.0,
+        "matches": [
+          {
+            "pred_idx": 0,
+            "true_idx": 0,
+            "distance": 3.3387857471092364,
+            "pred_type": "Aromatic",
+            "true_types": [
+              "Hydrophobic",
+              "Donor"
+            ],
+            "success": false
+          },
+          {
+            "pred_idx": 1,
+            "true_idx": 6,
+            "distance": 4.5427710574053775,
+            "pred_type": "Acceptor",
+            "true_types": [
+              "Donor",
+              "Acceptor"
+            ],
+            "success": false
+          },
+          {
+            "pred_idx": 2,
+            "true_idx": 1,
+            "distance": "Incompatible",
+            "pred_type": "Hydrophobic",
+            "true_types": [
+              "Donor",
+              "Acceptor"
+            ],
+            "success": false
+          }
+        ],
+        "n_correct": 0,
+        "n_required": 3,
+        "n_ground_truth": 7
+      }
+    },
+    {
+      "task": "smdd_002_P56817_0",
+      "retry": false,
+      "solution_path": "/data2/chenfuxin/smdd_codex_type2_bailian_20260929/run/smdd_002_P56817_0/solution.csv",
+      "evaluation": {
+        "score": 0.0,
+        "matches": [
+          {
+            "pred_idx": 0,
+            "true_idx": 2,
+            "distance": "Incompatible",
+            "pred_type": "Acceptor",
+            "true_types": [
+              "Donor",
+              "Cation"
+            ],
+            "success": false
+          },
+          {
+            "pred_idx": 1,
+            "true_idx": 1,
+            "distance": "Incompatible",
+            "pred_type": "Acceptor",
+            "true_types": [
+              "Donor",
+              "Cation"
+            ],
+            "success": false
+          },
+          {
+            "pred_idx": 2,
+            "true_idx": 0,
+            "distance": 4.286663792389457,
+            "pred_type": "Aromatic",
+            "true_types": [
+              "Hydrophobic"
+            ],
+            "success": false
+          }
+        ],
+        "n_correct": 0,
+        "n_required": 3,
+        "n_ground_truth": 3
+      }
+    },
+    {
+      "task": "smdd_002_Q15910_0",
+      "retry": false,
+      "solution_path": "/data2/chenfuxin/smdd_codex_type2_bailian_20260929/run/smdd_002_Q15910_0/solution.csv",
+      "evaluation": {
+        "score": 0.6666666666666666,
+        "matches": [
+          {
+            "pred_idx": 0,
+            "true_idx": 0,
+            "distance": 2.3340053823845337,
+            "pred_type": "Cation",
+            "true_types": [
+              "Cation",
+              "Donor"
+            ],
+            "success": true
+          },
+          {
+            "pred_idx": 1,
+            "true_idx": 2,
+            "distance": "Incompatible",
+            "pred_type": "Acceptor",
+            "true_types": [
+              "Hydrophobic"
+            ],
+            "success": false
+          },
+          {
+            "pred_idx": 2,
+            "true_idx": 1,
+            "distance": 0.4634534483261851,
+            "pred_type": "Donor",
+            "true_types": [
+              "Cation",
+              "Donor"
+            ],
+            "success": true
+          }
+        ],
+        "n_correct": 2,
+        "n_required": 3,
+        "n_ground_truth": 5
+      }
+    },
+    {
+      "task": "smdd_002_Q92769_0",
+      "retry": false,
+      "solution_path": "/data2/chenfuxin/smdd_codex_type2_bailian_20260929/run/smdd_002_Q92769_0/solution.csv",
+      "evaluation": {
+        "score": 0.6666666666666666,
+        "matches": [
+          {
+            "pred_idx": 0,
+            "true_idx": 2,
+            "distance": "Incompatible",
+            "pred_type": "Acceptor",
+            "true_types": [
+              "Cation",
+              "Donor"
+            ],
+            "success": false
+          },
+          {
+            "pred_idx": 1,
+            "true_idx": 0,
+            "distance": 0.5372809857483896,
+            "pred_type": "Acceptor",
+            "true_types": [
+              "Donor",
+              "Acceptor",
+              "Cation"
+            ],
+            "success": true
+          },
+          {
+            "pred_idx": 2,
+            "true_idx": 1,
+            "distance": 1.3706262975639842,
+            "pred_type": "Aromatic",
+            "true_types": [
+              "Hydrophobic",
+              "Cation",
+              "Donor"
+            ],
+            "success": true
+          }
+        ],
+        "n_correct": 2,
+        "n_required": 3,
+        "n_ground_truth": 8
+      }
+    },
+    {
+      "task": "smdd_002_Q9BY41_0",
+      "retry": false,
+      "solution_path": "/data2/chenfuxin/smdd_codex_type2_bailian_20260929/run/smdd_002_Q9BY41_0/solution.csv",
+      "evaluation": {
+        "score": 0.6666666666666666,
+        "matches": [
+          {
+            "pred_idx": 0,
+            "true_idx": 1,
+            "distance": 0.5989808294474169,
+            "pred_type": "Acceptor",
+            "true_types": [
+              "Donor",
+              "Acceptor",
+              "Cation"
+            ],
+            "success": true
+          },
+          {
+            "pred_idx": 1,
+            "true_idx": 0,
+            "distance": 2.8294878673301143,
+            "pred_type": "Hydrophobic",
+            "true_types": [
+              "Hydrophobic"
+            ],
+            "success": false
+          },
+          {
+            "pred_idx": 2,
+            "true_idx": 4,
+            "distance": 1.3743216723012566,
+            "pred_type": "Aromatic",
+            "true_types": [
+              "Hydrophobic"
+            ],
+            "success": true
+          }
+        ],
+        "n_correct": 2,
+        "n_required": 3,
+        "n_ground_truth": 7
+      }
+    },
+    {
+      "task": "smdd_002_Q9Y6K1_0",
+      "retry": true,
+      "solution_path": "/data2/chenfuxin/smdd_codex_type2_bailian_20260929/retries/four_errors_retry1/run/smdd_002_Q9Y6K1_0/solution.csv",
+      "evaluation": {
+        "score": 0.0,
+        "matches": [
+          {
+            "pred_idx": 0,
+            "true_idx": 1,
+            "distance": "Incompatible",
+            "pred_type": "Aromatic",
+            "true_types": [
+              "Cation",
+              "Donor"
+            ],
+            "success": false
+          },
+          {
+            "pred_idx": 1,
+            "true_idx": 0,
+            "distance": "Incompatible",
+            "pred_type": "Anion",
+            "true_types": [
+              "Cation",
+              "Donor"
+            ],
+            "success": false
+          },
+          {
+            "pred_idx": 2,
+            "true_idx": 7,
+            "distance": 5.890642508249843,
+            "pred_type": "Hydrophobic",
+            "true_types": [
+              "Hydrophobic"
+            ],
+            "success": false
+          }
+        ],
+        "n_correct": 0,
+        "n_required": 3,
+        "n_ground_truth": 8
+      }
+    }
+  ]
+}

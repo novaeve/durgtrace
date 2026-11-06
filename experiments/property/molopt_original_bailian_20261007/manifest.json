@@ -1,0 +1,39 @@
+{
+  "created_utc": "2026-10-06T16:08:26.769650+00:00",
+  "expected_per_method": 7100,
+  "source_cases": 5600,
+  "target_cases": 1500,
+  "methods": [
+    "ChatDrug",
+    "DeepSeek_direct",
+    "AgentDrug"
+  ],
+  "source_cases_sha256": "81b3bed3ac18d3befddbd60afea5076b4ebe041226bfe3de0b9f920413066e92",
+  "retrieval_sha256": "1afbd924a27da85debd31859ffa0574d2f1cfc418760638b3ef59d03c7a56748",
+  "frozen_dependencies": {
+    "/data2/chenfuxin/chatdrug_generalization_20260920/full_case.py": "76bbb86f1f9a299a77646611f273d32db319f69a17c4491f013801721830d45f",
+    "/data2/chenfuxin/chatdrug_generalization_20260920/full_experiment.py": "0998f12f5f4da4910606d6c2aca85befe91103775c7b9f64793fea99dbf7375d",
+    "/data2/chenfuxin/chatdrug_generalization_20260920/pilot.py": "0294a4125863744543545e9de6c7665646f17ba7442c1c4d6926fb856ba52331",
+    "/data2/chenfuxin/chatdrug_generalization_20260920/deepseek_check.py": "bc3de4735708ab814b38637aa038b503c7f56abc7745902785e9788fd71d18de",
+    "/data2/chenfuxin/agentdrug_20260922/runner.py": "24aee817f4293dac507fcd66cadd5755aea290c48df968ba042d1d3a227b571c",
+    "/data2/chenfuxin/agentdrug_20260922/core_fixed.py": "27ea4dba5b24106e8ad60f42826ef7d554d523385710fb41005aa282372dfb9d"
+  },
+  "model": "deepseek-v4.1-flash",
+  "provider": "Alibaba Bailian; user-requested original-protocol rerun",
+  "temperature": 0,
+  "thinking": "disabled",
+  "workers_per_lane": 2,
+  "prompt_policy": "All 7100 cases copied byte-for-byte from the original official-API experiment; no prompt edits.",
+  "online_policy": "Original ChatDrug and AgentDrug retrieval, feedback, thresholds, stopping, parsing, and generation caps retained.",
+  "final_evaluation": "Original full_experiment.score unchanged: ChatDrug loose/strict amplitude thresholds and Kekulize retained; original S2 LogP/QED/MR directional scoring retained.",
+  "pairing": "DeepSeek direct output shares ChatDrug initial response, as in the original experiment. Independent3 is omitted.",
+  "caps": {
+    "ChatDrug_and_direct": 2048,
+    "AgentDrug": 256
+  },
+  "pilot": "34 representative cases per method; successful pilot continues automatically to all 7100 using the same saved results.",
+  "runtime_errors": "Model-output failures remain in denominator. Network failures may be retried with stored-response replay; completed cases are never regenerated.",
+  "provider_sha256": "43cfe1e754bd89b7ad521ad7f00a503f517a1defa3234650a02679da8d7ebf64",
+  "network_recovery": "Wait for temporary network recovery, preserve failed attempts, reuse completed replies, and resume only incomplete cases; scoring and prompts unchanged.",
+  "launcher_sha256": "843954b9e75272efd2cd915dddb9b886540b504cc0643e484d87557a4749fef5"
+}

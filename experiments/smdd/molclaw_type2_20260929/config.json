@@ -1,0 +1,14 @@
+{
+  "model": "deepseek-v4.1-flash",
+  "tasks": 25,
+  "workers": 2,
+  "gold_feedback": false,
+  "mode": "both",
+  "native_tools": true,
+  "hashes": {
+    "run.py": "a47fc88588fc208ab9cec8e1800df187b669e5aeabd1bb7e7ba429f42a595391",
+    "continue.sh": "fa7625a9c6e5fbf29bfc4c563795d40da7ab56f774896c5c9bcb180ca5687608",
+    "/data2/chenfuxin/molclaw_20260924/source/MolClaw-main/molclaw_run/infer/claude_agent/run_claude.py": "6dbe18799953e03b58ab6cfed96008a0164c6d0da42726255e0706ef88ba30b1",
+    "/data2/chenfuxin/smdd_type2_transfer_20260929/pharmacophore_3d.py": "65a613ed9fd545d3449aa3c6d5f99941124636f0a88995f836761ac9d57d83a5"
+  }
+}

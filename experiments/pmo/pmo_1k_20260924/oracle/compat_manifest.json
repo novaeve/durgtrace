@@ -1,0 +1,20 @@
+[
+  {
+    "name": "drd2_current",
+    "bytes": 35417622,
+    "sha256": "ef1f00e47d5e4670a45b0a4178db3c41b2e1aa9dad7113ac9d0f58e3f9d67532",
+    "source": "https://dataverse.harvard.edu/api/access/datafile/6413411?format=original"
+  },
+  {
+    "name": "gsk3b_current",
+    "bytes": 27791877,
+    "sha256": "d3a20701b80e5179c88c3ad4dc3483dd7ab35c50dc055c6773a7f5b63e89b6d5",
+    "source": "https://dataverse.harvard.edu/api/access/datafile/6413412?format=original"
+  },
+  {
+    "name": "jnk3_current",
+    "bytes": 10888961,
+    "sha256": "cde8576fb4fa3f60b9f258ff9cf1b9ff346eb50d196d5cbbe25965efc1864889",
+    "source": "https://dataverse.harvard.edu/api/access/datafile/6413420?format=original"
+  }
+]

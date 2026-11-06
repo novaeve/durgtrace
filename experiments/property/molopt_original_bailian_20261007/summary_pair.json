@@ -1,0 +1,832 @@
+{
+  "updated_utc": "2026-10-06T18:58:12.770040+00:00",
+  "lane": "pair",
+  "processed": {
+    "ChatDrug": 7100,
+    "DeepSeek_direct": 7100
+  },
+  "groups": [
+    {
+      "expected": 7100,
+      "processed": 7100,
+      "complete": 7099,
+      "success": 4832,
+      "method": "ChatDrug",
+      "group": "Total",
+      "success_rate_full_denominator": 0.6805633802816902
+    },
+    {
+      "expected": 5600,
+      "processed": 5600,
+      "complete": 5600,
+      "success": 3597,
+      "method": "ChatDrug",
+      "group": "ChatDrug",
+      "success_rate_full_denominator": 0.6423214285714286
+    },
+    {
+      "expected": 800,
+      "processed": 800,
+      "complete": 800,
+      "success": 622,
+      "method": "ChatDrug",
+      "group": "ChatDrug_LogP",
+      "success_rate_full_denominator": 0.7775
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 151,
+      "method": "ChatDrug",
+      "group": "ChatDrug_101_loose",
+      "success_rate_full_denominator": 0.755
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 150,
+      "method": "ChatDrug",
+      "group": "ChatDrug_101_strict",
+      "success_rate_full_denominator": 0.75
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 175,
+      "method": "ChatDrug",
+      "group": "ChatDrug_102_loose",
+      "success_rate_full_denominator": 0.875
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 146,
+      "method": "ChatDrug",
+      "group": "ChatDrug_102_strict",
+      "success_rate_full_denominator": 0.73
+    },
+    {
+      "expected": 800,
+      "processed": 800,
+      "complete": 800,
+      "success": 534,
+      "method": "ChatDrug",
+      "group": "ChatDrug_QED",
+      "success_rate_full_denominator": 0.6675
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 169,
+      "method": "ChatDrug",
+      "group": "ChatDrug_103_loose",
+      "success_rate_full_denominator": 0.845
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 96,
+      "method": "ChatDrug",
+      "group": "ChatDrug_103_strict",
+      "success_rate_full_denominator": 0.48
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 144,
+      "method": "ChatDrug",
+      "group": "ChatDrug_104_loose",
+      "success_rate_full_denominator": 0.72
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 125,
+      "method": "ChatDrug",
+      "group": "ChatDrug_104_strict",
+      "success_rate_full_denominator": 0.625
+    },
+    {
+      "expected": 800,
+      "processed": 800,
+      "complete": 800,
+      "success": 568,
+      "method": "ChatDrug",
+      "group": "ChatDrug_TPSA",
+      "success_rate_full_denominator": 0.71
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 136,
+      "method": "ChatDrug",
+      "group": "ChatDrug_105_loose",
+      "success_rate_full_denominator": 0.68
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 143,
+      "method": "ChatDrug",
+      "group": "ChatDrug_105_strict",
+      "success_rate_full_denominator": 0.715
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 151,
+      "method": "ChatDrug",
+      "group": "ChatDrug_106_loose",
+      "success_rate_full_denominator": 0.755
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 138,
+      "method": "ChatDrug",
+      "group": "ChatDrug_106_strict",
+      "success_rate_full_denominator": 0.69
+    },
+    {
+      "expected": 800,
+      "processed": 800,
+      "complete": 800,
+      "success": 553,
+      "method": "ChatDrug",
+      "group": "ChatDrug_HBA_HBD",
+      "success_rate_full_denominator": 0.69125
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 139,
+      "method": "ChatDrug",
+      "group": "ChatDrug_107_loose",
+      "success_rate_full_denominator": 0.695
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 108,
+      "method": "ChatDrug",
+      "group": "ChatDrug_107_strict",
+      "success_rate_full_denominator": 0.54
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 172,
+      "method": "ChatDrug",
+      "group": "ChatDrug_108_loose",
+      "success_rate_full_denominator": 0.86
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 134,
+      "method": "ChatDrug",
+      "group": "ChatDrug_108_strict",
+      "success_rate_full_denominator": 0.67
+    },
+    {
+      "expected": 2400,
+      "processed": 2400,
+      "complete": 2400,
+      "success": 1320,
+      "method": "ChatDrug",
+      "group": "ChatDrug_Dual",
+      "success_rate_full_denominator": 0.55
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 160,
+      "method": "ChatDrug",
+      "group": "ChatDrug_201_loose",
+      "success_rate_full_denominator": 0.8
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 119,
+      "method": "ChatDrug",
+      "group": "ChatDrug_201_strict",
+      "success_rate_full_denominator": 0.595
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 91,
+      "method": "ChatDrug",
+      "group": "ChatDrug_202_loose",
+      "success_rate_full_denominator": 0.455
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 76,
+      "method": "ChatDrug",
+      "group": "ChatDrug_202_strict",
+      "success_rate_full_denominator": 0.38
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 164,
+      "method": "ChatDrug",
+      "group": "ChatDrug_203_loose",
+      "success_rate_full_denominator": 0.82
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 121,
+      "method": "ChatDrug",
+      "group": "ChatDrug_203_strict",
+      "success_rate_full_denominator": 0.605
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 64,
+      "method": "ChatDrug",
+      "group": "ChatDrug_204_loose",
+      "success_rate_full_denominator": 0.32
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 42,
+      "method": "ChatDrug",
+      "group": "ChatDrug_204_strict",
+      "success_rate_full_denominator": 0.21
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 96,
+      "method": "ChatDrug",
+      "group": "ChatDrug_205_loose",
+      "success_rate_full_denominator": 0.48
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 71,
+      "method": "ChatDrug",
+      "group": "ChatDrug_205_strict",
+      "success_rate_full_denominator": 0.355
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 156,
+      "method": "ChatDrug",
+      "group": "ChatDrug_206_loose",
+      "success_rate_full_denominator": 0.78
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 160,
+      "method": "ChatDrug",
+      "group": "ChatDrug_206_strict",
+      "success_rate_full_denominator": 0.8
+    },
+    {
+      "expected": 1500,
+      "processed": 1500,
+      "complete": 1499,
+      "success": 1235,
+      "method": "ChatDrug",
+      "group": "S2-mini",
+      "success_rate_full_denominator": 0.8233333333333334
+    },
+    {
+      "expected": 500,
+      "processed": 500,
+      "complete": 500,
+      "success": 431,
+      "method": "ChatDrug",
+      "group": "S2_LogP",
+      "success_rate_full_denominator": 0.862
+    },
+    {
+      "expected": 234,
+      "processed": 234,
+      "complete": 234,
+      "success": 201,
+      "method": "ChatDrug",
+      "group": "S2_LogP_higher",
+      "success_rate_full_denominator": 0.8589743589743589
+    },
+    {
+      "expected": 266,
+      "processed": 266,
+      "complete": 266,
+      "success": 230,
+      "method": "ChatDrug",
+      "group": "S2_LogP_lower",
+      "success_rate_full_denominator": 0.8646616541353384
+    },
+    {
+      "expected": 500,
+      "processed": 500,
+      "complete": 499,
+      "success": 391,
+      "method": "ChatDrug",
+      "group": "S2_QED",
+      "success_rate_full_denominator": 0.782
+    },
+    {
+      "expected": 234,
+      "processed": 234,
+      "complete": 233,
+      "success": 178,
+      "method": "ChatDrug",
+      "group": "S2_QED_lower",
+      "success_rate_full_denominator": 0.7606837606837606
+    },
+    {
+      "expected": 266,
+      "processed": 266,
+      "complete": 266,
+      "success": 213,
+      "method": "ChatDrug",
+      "group": "S2_QED_higher",
+      "success_rate_full_denominator": 0.8007518796992481
+    },
+    {
+      "expected": 500,
+      "processed": 500,
+      "complete": 500,
+      "success": 413,
+      "method": "ChatDrug",
+      "group": "S2_MR",
+      "success_rate_full_denominator": 0.826
+    },
+    {
+      "expected": 234,
+      "processed": 234,
+      "complete": 234,
+      "success": 195,
+      "method": "ChatDrug",
+      "group": "S2_MR_higher",
+      "success_rate_full_denominator": 0.8333333333333334
+    },
+    {
+      "expected": 266,
+      "processed": 266,
+      "complete": 266,
+      "success": 218,
+      "method": "ChatDrug",
+      "group": "S2_MR_lower",
+      "success_rate_full_denominator": 0.8195488721804511
+    },
+    {
+      "expected": 7100,
+      "processed": 7100,
+      "complete": 7099,
+      "success": 2582,
+      "method": "DeepSeek_direct",
+      "group": "Total",
+      "success_rate_full_denominator": 0.3636619718309859
+    },
+    {
+      "expected": 5600,
+      "processed": 5600,
+      "complete": 5600,
+      "success": 1635,
+      "method": "DeepSeek_direct",
+      "group": "ChatDrug",
+      "success_rate_full_denominator": 0.29196428571428573
+    },
+    {
+      "expected": 800,
+      "processed": 800,
+      "complete": 800,
+      "success": 465,
+      "method": "DeepSeek_direct",
+      "group": "ChatDrug_LogP",
+      "success_rate_full_denominator": 0.58125
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 146,
+      "method": "DeepSeek_direct",
+      "group": "ChatDrug_101_loose",
+      "success_rate_full_denominator": 0.73
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 136,
+      "method": "DeepSeek_direct",
+      "group": "ChatDrug_101_strict",
+      "success_rate_full_denominator": 0.68
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 155,
+      "method": "DeepSeek_direct",
+      "group": "ChatDrug_102_loose",
+      "success_rate_full_denominator": 0.775
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 28,
+      "method": "DeepSeek_direct",
+      "group": "ChatDrug_102_strict",
+      "success_rate_full_denominator": 0.14
+    },
+    {
+      "expected": 800,
+      "processed": 800,
+      "complete": 800,
+      "success": 177,
+      "method": "DeepSeek_direct",
+      "group": "ChatDrug_QED",
+      "success_rate_full_denominator": 0.22125
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 85,
+      "method": "DeepSeek_direct",
+      "group": "ChatDrug_103_loose",
+      "success_rate_full_denominator": 0.425
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 15,
+      "method": "DeepSeek_direct",
+      "group": "ChatDrug_103_strict",
+      "success_rate_full_denominator": 0.075
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 69,
+      "method": "DeepSeek_direct",
+      "group": "ChatDrug_104_loose",
+      "success_rate_full_denominator": 0.345
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 8,
+      "method": "DeepSeek_direct",
+      "group": "ChatDrug_104_strict",
+      "success_rate_full_denominator": 0.04
+    },
+    {
+      "expected": 800,
+      "processed": 800,
+      "complete": 800,
+      "success": 120,
+      "method": "DeepSeek_direct",
+      "group": "ChatDrug_TPSA",
+      "success_rate_full_denominator": 0.15
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 15,
+      "method": "DeepSeek_direct",
+      "group": "ChatDrug_105_loose",
+      "success_rate_full_denominator": 0.075
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 10,
+      "method": "DeepSeek_direct",
+      "group": "ChatDrug_105_strict",
+      "success_rate_full_denominator": 0.05
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 52,
+      "method": "DeepSeek_direct",
+      "group": "ChatDrug_106_loose",
+      "success_rate_full_denominator": 0.26
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 43,
+      "method": "DeepSeek_direct",
+      "group": "ChatDrug_106_strict",
+      "success_rate_full_denominator": 0.215
+    },
+    {
+      "expected": 800,
+      "processed": 800,
+      "complete": 800,
+      "success": 271,
+      "method": "DeepSeek_direct",
+      "group": "ChatDrug_HBA_HBD",
+      "success_rate_full_denominator": 0.33875
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 95,
+      "method": "DeepSeek_direct",
+      "group": "ChatDrug_107_loose",
+      "success_rate_full_denominator": 0.475
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 8,
+      "method": "DeepSeek_direct",
+      "group": "ChatDrug_107_strict",
+      "success_rate_full_denominator": 0.04
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 165,
+      "method": "DeepSeek_direct",
+      "group": "ChatDrug_108_loose",
+      "success_rate_full_denominator": 0.825
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 3,
+      "method": "DeepSeek_direct",
+      "group": "ChatDrug_108_strict",
+      "success_rate_full_denominator": 0.015
+    },
+    {
+      "expected": 2400,
+      "processed": 2400,
+      "complete": 2400,
+      "success": 602,
+      "method": "DeepSeek_direct",
+      "group": "ChatDrug_Dual",
+      "success_rate_full_denominator": 0.25083333333333335
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 138,
+      "method": "DeepSeek_direct",
+      "group": "ChatDrug_201_loose",
+      "success_rate_full_denominator": 0.69
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 4,
+      "method": "DeepSeek_direct",
+      "group": "ChatDrug_201_strict",
+      "success_rate_full_denominator": 0.02
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 5,
+      "method": "DeepSeek_direct",
+      "group": "ChatDrug_202_loose",
+      "success_rate_full_denominator": 0.025
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 0,
+      "method": "DeepSeek_direct",
+      "group": "ChatDrug_202_strict",
+      "success_rate_full_denominator": 0.0
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 156,
+      "method": "DeepSeek_direct",
+      "group": "ChatDrug_203_loose",
+      "success_rate_full_denominator": 0.78
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 2,
+      "method": "DeepSeek_direct",
+      "group": "ChatDrug_203_strict",
+      "success_rate_full_denominator": 0.01
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 1,
+      "method": "DeepSeek_direct",
+      "group": "ChatDrug_204_loose",
+      "success_rate_full_denominator": 0.005
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 0,
+      "method": "DeepSeek_direct",
+      "group": "ChatDrug_204_strict",
+      "success_rate_full_denominator": 0.0
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 2,
+      "method": "DeepSeek_direct",
+      "group": "ChatDrug_205_loose",
+      "success_rate_full_denominator": 0.01
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 0,
+      "method": "DeepSeek_direct",
+      "group": "ChatDrug_205_strict",
+      "success_rate_full_denominator": 0.0
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 150,
+      "method": "DeepSeek_direct",
+      "group": "ChatDrug_206_loose",
+      "success_rate_full_denominator": 0.75
+    },
+    {
+      "expected": 200,
+      "processed": 200,
+      "complete": 200,
+      "success": 144,
+      "method": "DeepSeek_direct",
+      "group": "ChatDrug_206_strict",
+      "success_rate_full_denominator": 0.72
+    },
+    {
+      "expected": 1500,
+      "processed": 1500,
+      "complete": 1499,
+      "success": 947,
+      "method": "DeepSeek_direct",
+      "group": "S2-mini",
+      "success_rate_full_denominator": 0.6313333333333333
+    },
+    {
+      "expected": 500,
+      "processed": 500,
+      "complete": 500,
+      "success": 405,
+      "method": "DeepSeek_direct",
+      "group": "S2_LogP",
+      "success_rate_full_denominator": 0.81
+    },
+    {
+      "expected": 234,
+      "processed": 234,
+      "complete": 234,
+      "success": 189,
+      "method": "DeepSeek_direct",
+      "group": "S2_LogP_higher",
+      "success_rate_full_denominator": 0.8076923076923077
+    },
+    {
+      "expected": 266,
+      "processed": 266,
+      "complete": 266,
+      "success": 216,
+      "method": "DeepSeek_direct",
+      "group": "S2_LogP_lower",
+      "success_rate_full_denominator": 0.8120300751879699
+    },
+    {
+      "expected": 500,
+      "processed": 500,
+      "complete": 499,
+      "success": 208,
+      "method": "DeepSeek_direct",
+      "group": "S2_QED",
+      "success_rate_full_denominator": 0.416
+    },
+    {
+      "expected": 234,
+      "processed": 234,
+      "complete": 233,
+      "success": 98,
+      "method": "DeepSeek_direct",
+      "group": "S2_QED_lower",
+      "success_rate_full_denominator": 0.4188034188034188
+    },
+    {
+      "expected": 266,
+      "processed": 266,
+      "complete": 266,
+      "success": 110,
+      "method": "DeepSeek_direct",
+      "group": "S2_QED_higher",
+      "success_rate_full_denominator": 0.41353383458646614
+    },
+    {
+      "expected": 500,
+      "processed": 500,
+      "complete": 500,
+      "success": 334,
+      "method": "DeepSeek_direct",
+      "group": "S2_MR",
+      "success_rate_full_denominator": 0.668
+    },
+    {
+      "expected": 234,
+      "processed": 234,
+      "complete": 234,
+      "success": 165,
+      "method": "DeepSeek_direct",
+      "group": "S2_MR_higher",
+      "success_rate_full_denominator": 0.7051282051282052
+    },
+    {
+      "expected": 266,
+      "processed": 266,
+      "complete": 266,
+      "success": 169,
+      "method": "DeepSeek_direct",
+      "group": "S2_MR_lower",
+      "success_rate_full_denominator": 0.6353383458646616
+    }
+  ],
+  "errors": [
+    {
+      "method": "ChatDrug",
+      "id": "s2_QED_228198",
+      "error": "OUTPUT_TRUNCATED"
+    },
+    {
+      "method": "DeepSeek_direct",
+      "id": "s2_QED_228198",
+      "error": "OUTPUT_TRUNCATED"
+    }
+  ]
+}

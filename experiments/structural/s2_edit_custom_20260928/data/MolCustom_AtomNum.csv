@@ -1,0 +1,501 @@
+Instruction,carbon,oxygen,nitrogen,sulfur,fluorine,chlorine,bromine,iodine,phosphorus,boron,silicon,selenium,tellurium,arsenic,antimony,bismuth,polonium
+There is a molecule consisting of 13 carbon atoms and 2 sulfur atoms.,13,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+There is a molecule with 39 carbon atoms and 1 tellurium atom.,39,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"The molecule is composed of 3 carbon atoms, 3 selenium atoms, and 1 fluorine atom.",3,0,0,0,1,0,0,0,0,0,0,3,0,0,0,0,0
+"Please generate a molecule composed of 28 carbon atoms, 2 phosphorus atoms, 3 chlorine atoms, and 1 sulfur atom.",28,0,0,1,0,3,0,0,2,0,0,0,0,0,0,0,0
+"There is a molecule composed of 17 carbon atoms, 2 antimony atoms, and 1 oxygen atom.",17,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+"There is a molecule composed of 11 carbon atoms, 2 polonium atoms, 1 chlorine atom, 3 arsenic atoms, and 5 bromine atoms.",11,0,0,0,0,1,5,0,0,0,0,0,0,3,0,0,2
+The molecule consists of 12 carbon atoms and 1 nitrogen atom.,12,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"There is a molecule with 11 carbon atoms, 1 selenium atom, 2 oxygen atoms, and 4 iodine atoms.",11,2,0,0,0,0,0,4,0,0,0,1,0,0,0,0,0
+Please generate a molecule composed of 21 carbon atoms and 1 oxygen atom.,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Please generate a molecule with 11 carbon atoms, 1 bromine atom, 3 oxygen atoms, 2 iodine atoms, and 4 polonium atoms.",11,3,0,0,0,0,1,2,0,0,0,0,0,0,0,0,4
+"The molecule consists of 29 carbon atoms, 2 oxygen atoms, 1 sulfur atom, 4 silicon atoms, and 5 selenium atoms.",29,2,0,1,0,0,0,0,0,0,4,5,0,0,0,0,0
+"The molecule has 20 carbon atoms, 1 silicon atom, and 2 nitrogen atoms.",20,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+There is a molecule with 29 carbon atoms and 2 bismuth atoms.,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+Please generate a molecule with 7 carbon atoms and 1 oxygen atom.,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The molecule consists of 32 carbon atoms and 2 polonium atoms.,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+"There is a molecule with 21 carbon atoms, 1 boron atom, 2 iodine atoms, 5 oxygen atoms, and 3 polonium atoms.",21,5,0,0,0,0,0,2,0,1,0,0,0,0,0,0,3
+"There is a molecule with 12 carbon atoms, 1 nitrogen atom, 5 bromine atoms, 2 oxygen atoms, and 3 chlorine atoms.",12,2,1,0,0,3,5,0,0,0,0,0,0,0,0,0,0
+There is a molecule with 10 carbon atoms and 3 iodine atoms.,10,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0
+"The molecule has 13 carbon atoms, 4 silicon atoms, 2 polonium atoms, 1 selenium atom, and 3 oxygen atoms.",13,3,0,0,0,0,0,0,0,0,4,1,0,0,0,0,2
+"Please generate a molecule composed of 38 carbon atoms, 1 oxygen atom, and 4 selenium atoms.",38,1,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0
+The molecule has 32 carbon atoms and 1 oxygen atom.,32,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Please generate a molecule consisting 7 carbon atoms, 2 nitrogen atoms, 5 selenium atoms, 1 tellurium atom, and 3 bromine atoms.",7,0,2,0,0,0,3,0,0,0,0,5,1,0,0,0,0
+"The molecule consists of 29 carbon atoms, 1 silicon atom, 2 sulfur atoms, and 3 oxygen atoms.",29,3,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0
+"The molecule consists of 36 carbon atoms, 1 bismuth atom, and 3 iodine atoms.",36,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0
+Please generate a molecule consisting 30 carbon atoms and 2 phosphorus atoms.,30,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+Please generate a molecule composed of 12 carbon atoms.,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Please generate a molecule consisting 30 carbon atoms and 1 arsenic atom.,30,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Please generate a molecule consisting 30 carbon atoms and 1 chlorine atom.,30,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Please generate a molecule composed of 14 carbon atoms, 4 nitrogen atoms, 1 fluorine atom, 3 phosphorus atoms, and 5 sulfur atoms.",14,0,4,5,1,0,0,0,3,0,0,0,0,0,0,0,0
+Please generate a molecule consisting 9 carbon atoms.,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Please generate a molecule with 23 carbon atoms.,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"There is a molecule consisting of 6 carbon atoms, 2 nitrogen atoms, and 1 sulfur atom.",6,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Please generate a molecule composed of 35 carbon atoms, 1 silicon atom, 3 phosphorus atoms, 2 polonium atoms, and 4 sulfur atoms.",35,0,0,4,0,0,0,0,3,0,1,0,0,0,0,0,2
+"Please generate a molecule with 40 carbon atoms, 1 selenium atom, and 2 nitrogen atoms.",40,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Please generate a molecule with 32 carbon atoms and 1 sulfur atom.,32,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+The molecule has 32 carbon atoms and 2 fluorine atoms.,32,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+"There is a molecule consisting of 36 carbon atoms, 4 iodine atoms, 1 sulfur atom, and 3 oxygen atoms.",36,3,0,1,0,0,0,4,0,0,0,0,0,0,0,0,0
+Please generate a molecule composed of 2 carbon atoms and 2 chlorine atoms.,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+There is a molecule composed of 34 carbon atoms and 2 selenium atoms.,34,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+"The molecule consists of 39 carbon atoms, 1 iodine atom, 2 chlorine atoms, and 4 oxygen atoms.",39,4,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0
+"There is a molecule with 30 carbon atoms, 2 sulfur atoms, and 1 oxygen atom.",30,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"The molecule has 14 carbon atoms, 2 bromine atoms, 1 silicon atom, and 5 oxygen atoms.",14,5,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0
+Please generate a molecule composed of 37 carbon atoms.,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Please generate a molecule with 24 carbon atoms, 2 nitrogen atoms, 4 sulfur atoms, and 1 oxygen atom.",24,1,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Please generate a molecule composed of 33 carbon atoms.,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"The molecule has 18 carbon atoms, 1 fluorine atom, 2 nitrogen atoms, and 4 arsenic atoms.",18,0,2,0,1,0,0,0,0,0,0,0,0,4,0,0,0
+"There is a molecule composed of 15 carbon atoms, 1 silicon atom, and 3 oxygen atoms.",15,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+The molecule has 32 carbon atoms and 2 tellurium atoms.,32,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+Please generate a molecule composed of 14 carbon atoms and 2 sulfur atoms.,14,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+The molecule has 22 carbon atoms and 3 sulfur atoms.,22,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+"The molecule consists of 15 carbon atoms, 2 boron atoms, 5 oxygen atoms, and 1 bromine atom.",15,5,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0
+"There is a molecule with 19 carbon atoms, 1 selenium atom, and 2 bismuth atoms.",19,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0
+"There is a molecule consisting of 16 carbon atoms, 2 sulfur atoms, and 1 bromine atom.",16,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0
+Please generate a molecule composed of 12 carbon atoms and 1 nitrogen atom.,12,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The molecule has 23 carbon atoms and 1 chlorine atom.,23,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"There is a molecule composed of 11 carbon atoms, 1 sulfur atom, 2 iodine atoms, 5 nitrogen atoms, and 3 oxygen atoms.",11,3,5,1,0,0,0,2,0,0,0,0,0,0,0,0,0
+The molecule contains 8 carbon atoms.,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Please generate a molecule consisting 29 carbon atoms, 3 antimony atoms, and 1 oxygen atom.",29,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0
+"Please generate a molecule consisting 26 carbon atoms, 5 iodine atoms, 2 oxygen atoms, and 3 polonium atoms.",26,2,0,0,0,0,0,5,0,0,0,0,0,0,0,0,3
+The molecule consists of 2 carbon atoms and 5 selenium atoms.,2,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0
+"There is a molecule with 6 carbon atoms, 2 sulfur atoms, and 1 fluorine atom.",6,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Please generate a molecule with 27 carbon atoms, 1 chlorine atom, 2 sulfur atoms, 5 bismuth atoms, and 4 iodine atoms.",27,0,0,2,0,1,0,4,0,0,0,0,0,0,0,5,0
+There is a molecule with 21 carbon atoms and 1 nitrogen atom.,21,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"The molecule is composed of 23 carbon atoms, 1 oxygen atom, and 2 chlorine atoms.",23,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+"There is a molecule consisting of 17 carbon atoms, 2 chlorine atoms, and 3 oxygen atoms.",17,3,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+Please generate a molecule composed of 9 carbon atoms and 1 oxygen atom.,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"The molecule contains 14 carbon atoms, 1 fluorine atom, 2 chlorine atoms, and 3 bromine atoms.",14,0,0,0,1,2,3,0,0,0,0,0,0,0,0,0,0
+"The molecule contains 35 carbon atoms, 1 nitrogen atom, and 3 polonium atoms.",35,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"The molecule contains 19 carbon atoms, 1 bismuth atom, 2 nitrogen atoms, and 4 oxygen atoms.",19,4,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Please generate a molecule consisting 18 carbon atoms and 2 silicon atoms.,18,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+The molecule is composed of 12 carbon atoms and 4 bismuth atoms.,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0
+The molecule contains 28 carbon atoms and 1 sulfur atom.,28,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+There is a molecule consisting of 32 carbon atoms and 1 oxygen atom.,32,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Please generate a molecule composed of 9 carbon atoms.,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Please generate a molecule composed of 12 carbon atoms and 1 oxygen atom.,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"There is a molecule with 30 carbon atoms, 2 bromine atoms, 1 boron atom, and 3 sulfur atoms.",30,0,0,3,0,0,2,0,0,1,0,0,0,0,0,0,0
+"The molecule consists of 26 carbon atoms, 1 iodine atom, and 2 phosphorus atoms.",26,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0
+"The molecule contains 7 carbon atoms, 2 iodine atoms, and 1 fluorine atom.",7,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0
+The molecule has 30 carbon atoms and 2 oxygen atoms.,30,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+There is a molecule with 37 carbon atoms and 2 nitrogen atoms.,37,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"The molecule contains 5 carbon atoms, 1 chlorine atom, and 3 sulfur atoms.",5,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0
+"The molecule consists of 27 carbon atoms, 1 arsenic atom, 5 nitrogen atoms, and 4 bismuth atoms.",27,0,5,0,0,0,0,0,0,0,0,0,0,1,0,4,0
+"Please generate a molecule with 38 carbon atoms, 1 nitrogen atom, and 2 selenium atoms.",38,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+Please generate a molecule consisting 27 carbon atoms.,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Please generate a molecule with 3 carbon atoms and 1 chlorine atom.,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+The molecule contains 12 carbon atoms and 1 tellurium atom.,12,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+The molecule consists of 32 carbon atoms and 1 selenium atom.,32,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Please generate a molecule consisting 33 carbon atoms.,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The molecule has 4 carbon atoms and 1 chlorine atom.,4,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+There is a molecule consisting of 38 carbon atoms and 4 phosphorus atoms.,38,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+There is a molecule with 15 carbon atoms and 1 bismuth atom.,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+There is a molecule consisting of 29 carbon atoms.,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+There is a molecule consisting of 30 carbon atoms.,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The molecule contains 9 carbon atoms.,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"There is a molecule with 27 carbon atoms, 2 oxygen atoms, and 1 iodine atom.",27,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Please generate a molecule consisting 21 carbon atoms, 1 oxygen atom, and 2 polonium atoms.",21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+The molecule has 23 carbon atoms and 1 phosphorus atom.,23,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+The molecule consists of 27 carbon atoms and 2 sulfur atoms.,27,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"There is a molecule consisting of 5 carbon atoms, 1 bismuth atom, 3 oxygen atoms, 4 antimony atoms, and 5 nitrogen atoms.",5,3,5,0,0,0,0,0,0,0,0,0,0,0,4,1,0
+The molecule contains 22 carbon atoms.,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+There is a molecule composed of 31 carbon atoms and 1 phosphorus atom.,31,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+The molecule contains 14 carbon atoms and 1 sulfur atom.,14,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+The molecule is composed of 29 carbon atoms and 1 oxygen atom.,29,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The molecule contains 40 carbon atoms and 1 iodine atom.,40,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+The molecule is composed of 15 carbon atoms.,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+There is a molecule composed of 29 carbon atoms and 1 iodine atom.,29,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+There is a molecule with 20 carbon atoms.,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"The molecule is composed of 15 carbon atoms, 1 bromine atom, and 2 oxygen atoms.",15,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Please generate a molecule composed of 35 carbon atoms, 5 fluorine atoms, 1 nitrogen atom, and 4 oxygen atoms.",35,4,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0
+The molecule consists of 39 carbon atoms.,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"The molecule is composed of 26 carbon atoms, 1 oxygen atom, 2 fluorine atoms, and 5 nitrogen atoms.",26,1,5,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+The molecule has 2 carbon atoms and 2 nitrogen atoms.,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+There is a molecule composed of 18 carbon atoms and 3 fluorine atoms.,18,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+"There is a molecule composed of 33 carbon atoms, 2 fluorine atoms, and 1 oxygen atom.",33,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+There is a molecule composed of 29 carbon atoms and 2 fluorine atoms.,29,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Please generate a molecule consisting 13 carbon atoms and 5 nitrogen atoms.,13,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+There is a molecule consisting of 18 carbon atoms and 1 boron atom.,18,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+The molecule consists of 9 carbon atoms and 2 polonium atoms.,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+There is a molecule composed of 31 carbon atoms and 2 selenium atoms.,31,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+The molecule consists of 12 carbon atoms and 1 tellurium atom.,12,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Please generate a molecule consisting 19 carbon atoms and 2 oxygen atoms.,19,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The molecule consists of 20 carbon atoms and 1 oxygen atom.,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Please generate a molecule with 25 carbon atoms, 1 selenium atom, 2 fluorine atoms, 3 silicon atoms, and 4 sulfur atoms.",25,0,0,4,2,0,0,0,0,0,3,1,0,0,0,0,0
+Please generate a molecule consisting 2 carbon atoms.,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Please generate a molecule composed of 12 carbon atoms and 5 sulfur atoms.,12,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0
+The molecule has 22 carbon atoms and 2 bromine atoms.,22,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Please generate a molecule composed of 9 carbon atoms and 1 nitrogen atom.,9,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Please generate a molecule with 3 carbon atoms, 2 tellurium atoms, and 1 fluorine atom.",3,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0
+"There is a molecule with 26 carbon atoms, 3 tellurium atoms, and 1 bromine atom.",26,0,0,0,0,0,1,0,0,0,0,0,3,0,0,0,0
+"The molecule has 11 carbon atoms, 2 oxygen atoms, and 1 sulfur atom.",11,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+The molecule is composed of 2 carbon atoms and 1 phosphorus atom.,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"The molecule contains 35 carbon atoms, 1 antimony atom, and 4 fluorine atoms.",35,0,0,0,4,0,0,0,0,0,0,0,0,0,1,0,0
+Please generate a molecule consisting 11 carbon atoms and 3 bromine atoms.,11,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+"Please generate a molecule composed of 30 carbon atoms, 3 oxygen atoms, 2 silicon atoms, and 1 antimony atom.",30,3,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0
+There is a molecule consisting of 39 carbon atoms and 1 oxygen atom.,39,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"The molecule consists of 18 carbon atoms, 1 chlorine atom, and 2 boron atoms.",18,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0
+"The molecule consists of 8 carbon atoms, 1 oxygen atom, 3 tellurium atoms, 5 sulfur atoms, and 2 nitrogen atoms.",8,1,2,5,0,0,0,0,0,0,0,0,3,0,0,0,0
+"Please generate a molecule with 27 carbon atoms, 1 antimony atom, 2 chlorine atoms, 5 oxygen atoms, and 3 selenium atoms.",27,5,0,0,0,2,0,0,0,0,0,3,0,0,1,0,0
+There is a molecule composed of 7 carbon atoms and 2 oxygen atoms.,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"The molecule consists of 19 carbon atoms, 2 oxygen atoms, and 5 sulfur atoms.",19,2,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0
+"The molecule contains 39 carbon atoms, 1 sulfur atom, 2 antimony atoms, 5 nitrogen atoms, and 3 phosphorus atoms.",39,0,5,1,0,0,0,0,3,0,0,0,0,0,2,0,0
+"Please generate a molecule consisting 38 carbon atoms, 1 fluorine atom, 4 oxygen atoms, and 2 sulfur atoms.",38,4,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0
+There is a molecule with 40 carbon atoms and 1 oxygen atom.,40,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Please generate a molecule composed of 6 carbon atoms, 1 polonium atom, and 2 chlorine atoms.",6,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1
+"Please generate a molecule consisting 25 carbon atoms, 2 chlorine atoms, and 1 antimony atom.",25,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0
+"The molecule is composed of 32 carbon atoms, 1 nitrogen atom, 3 chlorine atoms, 2 boron atoms, and 4 oxygen atoms.",32,4,1,0,0,3,0,0,0,2,0,0,0,0,0,0,0
+"There is a molecule consisting of 24 carbon atoms, 2 fluorine atoms, 1 selenium atom, 5 polonium atoms, and 3 oxygen atoms.",24,3,0,0,2,0,0,0,0,0,0,1,0,0,0,0,5
+"Please generate a molecule composed of 9 carbon atoms, 2 arsenic atoms, 1 bismuth atom, and 4 antimony atoms.",9,0,0,0,0,0,0,0,0,0,0,0,0,2,4,1,0
+The molecule contains 19 carbon atoms and 1 iodine atom.,19,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"There is a molecule with 7 carbon atoms, 2 oxygen atoms, 5 polonium atoms, and 4 fluorine atoms.",7,2,0,0,4,0,0,0,0,0,0,0,0,0,0,0,5
+"The molecule is composed of 39 carbon atoms, 1 iodine atom, and 3 bromine atoms.",39,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0
+"Please generate a molecule with 19 carbon atoms, 1 selenium atom, 4 silicon atoms, 3 sulfur atoms, and 2 fluorine atoms.",19,0,0,3,2,0,0,0,0,0,4,1,0,0,0,0,0
+"The molecule contains 24 carbon atoms, 2 nitrogen atoms, 3 tellurium atoms, and 1 antimony atom.",24,0,2,0,0,0,0,0,0,0,0,0,3,0,1,0,0
+"Please generate a molecule consisting 31 carbon atoms, 1 tellurium atom, and 2 nitrogen atoms.",31,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Please generate a molecule composed of 10 carbon atoms, 1 sulfur atom, and 2 silicon atoms.",10,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0
+Please generate a molecule with 5 carbon atoms and 5 silicon atoms.,5,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0
+"Please generate a molecule with 35 carbon atoms, 1 oxygen atom, and 2 phosphorus atoms.",35,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+Please generate a molecule composed of 30 carbon atoms and 1 sulfur atom.,30,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"There is a molecule with 8 carbon atoms, 3 oxygen atoms, 4 nitrogen atoms, 1 iodine atom, and 2 bismuth atoms.",8,3,4,0,0,0,0,1,0,0,0,0,0,0,0,2,0
+There is a molecule composed of 19 carbon atoms.,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The molecule consists of 35 carbon atoms and 2 oxygen atoms.,35,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The molecule consists of 34 carbon atoms and 1 fluorine atom.,34,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Please generate a molecule composed of 30 carbon atoms.,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Please generate a molecule composed of 24 carbon atoms and 1 fluorine atom.,24,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+The molecule consists of 17 carbon atoms.,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"There is a molecule with 27 carbon atoms, 1 bismuth atom, and 4 nitrogen atoms.",27,0,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+The molecule is composed of 17 carbon atoms.,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The molecule contains 31 carbon atoms and 1 chlorine atom.,31,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Please generate a molecule with 6 carbon atoms, 1 phosphorus atom, 3 bismuth atoms, 2 iodine atoms, and 4 boron atoms.",6,0,0,0,0,0,0,2,1,4,0,0,0,0,0,3,0
+The molecule contains 26 carbon atoms and 1 boron atom.,26,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"The molecule consists of 15 carbon atoms, 2 sulfur atoms, 1 boron atom, 3 nitrogen atoms, and 5 selenium atoms.",15,0,3,2,0,0,0,0,0,1,0,5,0,0,0,0,0
+Please generate a molecule consisting 39 carbon atoms and 2 boron atoms.,39,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+"There is a molecule with 16 carbon atoms, 1 nitrogen atom, 2 arsenic atoms, and 4 bromine atoms.",16,0,1,0,0,0,4,0,0,0,0,0,0,2,0,0,0
+"There is a molecule with 28 carbon atoms, 1 selenium atom, 2 sulfur atoms, and 4 phosphorus atoms.",28,0,0,2,0,0,0,0,4,0,0,1,0,0,0,0,0
+"The molecule has 14 carbon atoms, 2 bromine atoms, and 1 chlorine atom.",14,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0
+"There is a molecule composed of 8 carbon atoms, 1 bromine atom, 2 sulfur atoms, 4 oxygen atoms, and 3 nitrogen atoms.",8,4,3,2,0,0,1,0,0,0,0,0,0,0,0,0,0
+"The molecule consists of 24 carbon atoms, 2 oxygen atoms, and 1 antimony atom.",24,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Please generate a molecule with 35 carbon atoms and 2 tellurium atoms.,35,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+Please generate a molecule consisting 27 carbon atoms and 5 oxygen atoms.,27,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The molecule is composed of 29 carbon atoms and 1 iodine atom.,29,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"There is a molecule with 13 carbon atoms, 3 fluorine atoms, and 2 oxygen atoms.",13,2,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+Please generate a molecule consisting 8 carbon atoms and 1 phosphorus atom.,8,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+The molecule consists of 26 carbon atoms and 3 phosphorus atoms.,26,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+There is a molecule consisting of 21 carbon atoms.,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Please generate a molecule consisting 15 carbon atoms, 2 fluorine atoms, 3 silicon atoms, 1 sulfur atom, and 4 iodine atoms.",15,0,0,1,2,0,0,4,0,0,3,0,0,0,0,0,0
+"Please generate a molecule composed of 9 carbon atoms, 3 silicon atoms, 1 fluorine atom, 2 phosphorus atoms, and 5 polonium atoms.",9,0,0,0,1,0,0,0,2,0,3,0,0,0,0,0,5
+"Please generate a molecule consisting 9 carbon atoms, 1 bromine atom, 3 oxygen atoms, and 2 antimony atoms.",9,3,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0
+"The molecule is composed of 38 carbon atoms, 4 arsenic atoms, 2 nitrogen atoms, 1 oxygen atom, and 5 tellurium atoms.",38,1,2,0,0,0,0,0,0,0,0,0,5,4,0,0,0
+"The molecule has 38 carbon atoms, 4 oxygen atoms, 1 boron atom, 5 sulfur atoms, and 2 arsenic atoms.",38,4,0,5,0,0,0,0,0,1,0,0,0,2,0,0,0
+The molecule is composed of 5 carbon atoms and 3 bismuth atoms.,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+Please generate a molecule consisting 19 carbon atoms and 1 chlorine atom.,19,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"There is a molecule composed of 13 carbon atoms, 2 oxygen atoms, and 1 iodine atom.",13,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"There is a molecule consisting of 23 carbon atoms, 2 chlorine atoms, and 5 sulfur atoms.",23,0,0,5,0,2,0,0,0,0,0,0,0,0,0,0,0
+"The molecule contains 3 carbon atoms, 1 oxygen atom, and 2 nitrogen atoms.",3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+There is a molecule consisting of 8 carbon atoms and 1 silicon atom.,8,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"The molecule has 32 carbon atoms, 1 chlorine atom, and 2 sulfur atoms.",32,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0
+Please generate a molecule consisting 31 carbon atoms and 2 bromine atoms.,31,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+"The molecule is composed of 31 carbon atoms, 1 nitrogen atom, 2 arsenic atoms, 4 chlorine atoms, and 3 boron atoms.",31,0,1,0,0,4,0,0,0,3,0,0,0,2,0,0,0
+"The molecule consists of 20 carbon atoms, 1 nitrogen atom, 2 polonium atoms, and 3 oxygen atoms.",20,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+"There is a molecule composed of 36 carbon atoms, 2 sulfur atoms, and 1 chlorine atom.",36,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Please generate a molecule composed of 30 carbon atoms, 1 nitrogen atom, and 2 bromine atoms.",30,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Please generate a molecule with 10 carbon atoms.,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Please generate a molecule consisting 10 carbon atoms and 1 chlorine atom.,10,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+There is a molecule composed of 29 carbon atoms and 1 selenium atom.,29,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+There is a molecule composed of 13 carbon atoms and 2 chlorine atoms.,13,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+"Please generate a molecule consisting 6 carbon atoms, 1 sulfur atom, 3 oxygen atoms, and 2 phosphorus atoms.",6,3,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0
+"There is a molecule consisting of 8 carbon atoms, 1 tellurium atom, and 2 nitrogen atoms.",8,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"The molecule contains 38 carbon atoms, 1 oxygen atom, and 2 polonium atoms.",38,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Please generate a molecule consisting 39 carbon atoms and 2 bromine atoms.,39,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Please generate a molecule with 23 carbon atoms and 1 silicon atom.,23,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"The molecule contains 20 carbon atoms, 2 iodine atoms, 1 tellurium atom, 4 oxygen atoms, and 3 phosphorus atoms.",20,4,0,0,0,0,0,2,3,0,0,0,1,0,0,0,0
+The molecule contains 11 carbon atoms.,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The molecule consists of 34 carbon atoms and 5 oxygen atoms.,34,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"The molecule consists of 14 carbon atoms, 1 chlorine atom, and 2 selenium atoms.",14,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0
+Please generate a molecule composed of 11 carbon atoms and 1 chlorine atom.,11,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+There is a molecule with 11 carbon atoms and 1 chlorine atom.,11,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+The molecule consists of 34 carbon atoms and 1 phosphorus atom.,34,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+The molecule consists of 5 carbon atoms.,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"The molecule contains 13 carbon atoms, 1 silicon atom, and 4 antimony atoms.",13,0,0,0,0,0,0,0,0,0,1,0,0,0,4,0,0
+"Please generate a molecule composed of 40 carbon atoms, 1 iodine atom, and 2 chlorine atoms.",40,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0
+"The molecule is composed of 4 carbon atoms, 1 tellurium atom, and 2 phosphorus atoms.",4,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0
+There is a molecule with 32 carbon atoms.,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Please generate a molecule with 2 carbon atoms and 1 sulfur atom.,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+There is a molecule composed of 15 carbon atoms and 2 nitrogen atoms.,15,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+There is a molecule with 12 carbon atoms and 2 sulfur atoms.,12,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"There is a molecule composed of 30 carbon atoms, 1 oxygen atom, 2 chlorine atoms, and 4 nitrogen atoms.",30,1,4,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+The molecule has 27 carbon atoms and 1 arsenic atom.,27,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"The molecule is composed of 9 carbon atoms, 1 sulfur atom, 2 polonium atoms, and 3 iodine atoms.",9,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,2
+The molecule consists of 24 carbon atoms.,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+There is a molecule with 5 carbon atoms.,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The molecule is composed of 40 carbon atoms and 1 bromine atom.,40,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"There is a molecule consisting of 20 carbon atoms, 1 chlorine atom, 2 nitrogen atoms, 5 bismuth atoms, and 4 selenium atoms.",20,0,2,0,0,1,0,0,0,0,0,4,0,0,0,5,0
+Please generate a molecule composed of 8 carbon atoms and 1 antimony atom.,8,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+The molecule contains 29 carbon atoms and 3 oxygen atoms.,29,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"There is a molecule with 5 carbon atoms, 3 oxygen atoms, 1 nitrogen atom, and 2 bismuth atoms.",5,3,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+"The molecule has 15 carbon atoms, 1 silicon atom, and 3 oxygen atoms.",15,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+The molecule contains 23 carbon atoms and 1 iodine atom.,23,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+The molecule consists of 11 carbon atoms and 2 selenium atoms.,11,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+The molecule contains 21 carbon atoms and 2 iodine atoms.,21,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+There is a molecule with 25 carbon atoms and 1 silicon atom.,25,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"The molecule contains 6 carbon atoms, 2 boron atoms, 4 oxygen atoms, and 1 bismuth atom.",6,4,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0
+There is a molecule consisting of 19 carbon atoms and 1 phosphorus atom.,19,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"There is a molecule consisting of 29 carbon atoms, 1 oxygen atom, 2 bismuth atoms, and 3 phosphorus atoms.",29,1,0,0,0,0,0,0,3,0,0,0,0,0,0,2,0
+"The molecule is composed of 27 carbon atoms, 1 iodine atom, and 2 oxygen atoms.",27,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Please generate a molecule with 33 carbon atoms, 1 nitrogen atom, and 5 phosphorus atoms.",33,0,1,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+"Please generate a molecule composed of 21 carbon atoms, 2 fluorine atoms, 1 nitrogen atom, 3 iodine atoms, and 4 sulfur atoms.",21,0,1,4,2,0,0,3,0,0,0,0,0,0,0,0,0
+"There is a molecule with 26 carbon atoms, 3 oxygen atoms, 2 iodine atoms, and 1 bromine atom.",26,3,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0
+The molecule is composed of 36 carbon atoms and 1 selenium atom.,36,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"The molecule has 23 carbon atoms, 1 fluorine atom, 2 sulfur atoms, 3 silicon atoms, and 4 chlorine atoms.",23,0,0,2,1,4,0,0,0,0,3,0,0,0,0,0,0
+Please generate a molecule consisting 19 carbon atoms and 1 oxygen atom.,19,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"There is a molecule composed of 14 carbon atoms, 2 sulfur atoms, 1 iodine atom, and 5 oxygen atoms.",14,5,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0
+"There is a molecule composed of 32 carbon atoms, 1 fluorine atom, and 5 arsenic atoms.",32,0,0,0,1,0,0,0,0,0,0,0,0,5,0,0,0
+"The molecule is composed of 19 carbon atoms, 1 oxygen atom, 3 phosphorus atoms, 2 bromine atoms, and 4 chlorine atoms.",19,1,0,0,0,4,2,0,3,0,0,0,0,0,0,0,0
+There is a molecule with 34 carbon atoms and 1 oxygen atom.,34,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Please generate a molecule with 29 carbon atoms, 3 oxygen atoms, 2 nitrogen atoms, and 1 iodine atom.",29,3,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Please generate a molecule composed of 4 carbon atoms.,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The molecule consists of 32 carbon atoms and 1 iodine atom.,32,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"There is a molecule with 5 carbon atoms, 1 bromine atom, and 2 silicon atoms.",5,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0
+There is a molecule with 12 carbon atoms.,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Please generate a molecule composed of 16 carbon atoms and 1 selenium atom.,16,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+The molecule is composed of 17 carbon atoms and 3 polonium atoms.,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"There is a molecule with 19 carbon atoms, 2 phosphorus atoms, 1 nitrogen atom, 3 antimony atoms, and 4 tellurium atoms.",19,0,1,0,0,0,0,0,2,0,0,0,4,0,3,0,0
+Please generate a molecule composed of 8 carbon atoms and 2 boron atoms.,8,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+The molecule consists of 2 carbon atoms and 1 iodine atom.,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"There is a molecule with 31 carbon atoms, 2 bromine atoms, 1 oxygen atom, 4 silicon atoms, and 3 iodine atoms.",31,1,0,0,0,0,2,3,0,0,4,0,0,0,0,0,0
+There is a molecule consisting of 29 carbon atoms and 1 antimony atom.,29,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+There is a molecule composed of 15 carbon atoms and 1 oxygen atom.,15,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The molecule is composed of 11 carbon atoms and 3 sulfur atoms.,11,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Please generate a molecule consisting 20 carbon atoms, 1 oxygen atom, 2 iodine atoms, and 3 arsenic atoms.",20,1,0,0,0,0,0,2,0,0,0,0,0,3,0,0,0
+The molecule is composed of 32 carbon atoms and 2 fluorine atoms.,32,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+"The molecule consists of 37 carbon atoms, 1 bismuth atom, and 4 oxygen atoms.",37,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Please generate a molecule with 22 carbon atoms and 2 chlorine atoms.,22,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+"Please generate a molecule with 35 carbon atoms, 2 iodine atoms, and 3 fluorine atoms.",35,0,0,0,3,0,0,2,0,0,0,0,0,0,0,0,0
+The molecule contains 5 carbon atoms and 1 chlorine atom.,5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"The molecule contains 21 carbon atoms, 2 oxygen atoms, 4 fluorine atoms, and 1 iodine atom.",21,2,0,0,4,0,0,1,0,0,0,0,0,0,0,0,0
+The molecule is composed of 5 carbon atoms and 1 nitrogen atom.,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"The molecule contains 14 carbon atoms, 3 chlorine atoms, 2 sulfur atoms, and 1 antimony atom.",14,0,0,2,0,3,0,0,0,0,0,0,0,0,1,0,0
+"The molecule has 39 carbon atoms, 1 boron atom, 5 sulfur atoms, and 2 chlorine atoms.",39,0,0,5,0,2,0,0,0,1,0,0,0,0,0,0,0
+The molecule has 17 carbon atoms and 1 nitrogen atom.,17,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Please generate a molecule composed of 39 carbon atoms and 2 iodine atoms.,39,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+"The molecule consists of 11 carbon atoms, 1 selenium atom, and 2 oxygen atoms.",11,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"There is a molecule composed of 8 carbon atoms, 1 sulfur atom, and 2 oxygen atoms.",8,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"There is a molecule composed of 12 carbon atoms, 1 phosphorus atom, 3 fluorine atoms, 2 boron atoms, and 5 oxygen atoms.",12,5,0,0,3,0,0,0,1,2,0,0,0,0,0,0,0
+There is a molecule composed of 21 carbon atoms.,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+There is a molecule composed of 21 carbon atoms and 2 oxygen atoms.,21,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The molecule contains 36 carbon atoms and 1 oxygen atom.,36,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Please generate a molecule consisting 14 carbon atoms, 1 sulfur atom, 3 tellurium atoms, and 2 iodine atoms.",14,0,0,1,0,0,0,2,0,0,0,0,3,0,0,0,0
+There is a molecule composed of 4 carbon atoms and 3 tellurium atoms.,4,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+"There is a molecule composed of 40 carbon atoms, 1 iodine atom, 2 selenium atoms, 3 bismuth atoms, and 5 oxygen atoms.",40,5,0,0,0,0,0,1,0,0,0,2,0,0,0,3,0
+"The molecule has 17 carbon atoms, 1 bromine atom, 3 oxygen atoms, and 4 silicon atoms.",17,3,0,0,0,0,1,0,0,0,4,0,0,0,0,0,0
+The molecule contains 34 carbon atoms and 1 boron atom.,34,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Please generate a molecule composed of 8 carbon atoms, 1 arsenic atom, 4 selenium atoms, 3 oxygen atoms, and 2 bismuth atoms.",8,3,0,0,0,0,0,0,0,0,0,4,0,1,0,2,0
+The molecule is composed of 4 carbon atoms and 2 silicon atoms.,4,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+"There is a molecule consisting of 11 carbon atoms, 2 iodine atoms, 1 bromine atom, and 5 selenium atoms.",11,0,0,0,0,0,1,2,0,0,0,5,0,0,0,0,0
+"There is a molecule composed of 6 carbon atoms, 2 boron atoms, 1 bromine atom, 3 fluorine atoms, and 4 chlorine atoms.",6,0,0,0,3,4,1,0,0,2,0,0,0,0,0,0,0
+There is a molecule consisting of 40 carbon atoms and 2 bromine atoms.,40,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+"Please generate a molecule with 13 carbon atoms, 1 iodine atom, 2 selenium atoms, 3 bromine atoms, and 4 oxygen atoms.",13,4,0,0,0,0,3,1,0,0,0,2,0,0,0,0,0
+"The molecule consists of 20 carbon atoms, 1 nitrogen atom, 4 bromine atoms, 2 iodine atoms, and 3 fluorine atoms.",20,0,1,0,3,0,4,2,0,0,0,0,0,0,0,0,0
+"There is a molecule consisting of 23 carbon atoms, 2 arsenic atoms, and 1 nitrogen atom.",23,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+The molecule is composed of 23 carbon atoms and 1 bromine atom.,23,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Please generate a molecule consisting 24 carbon atoms.,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The molecule contains 23 carbon atoms and 1 oxygen atom.,23,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The molecule consists of 38 carbon atoms and 3 bromine atoms.,38,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+"There is a molecule with 12 carbon atoms, 3 chlorine atoms, 1 fluorine atom, and 2 oxygen atoms.",12,2,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0
+"Please generate a molecule consisting 27 carbon atoms, 3 arsenic atoms, and 2 bromine atoms.",27,0,0,0,0,0,2,0,0,0,0,0,0,3,0,0,0
+There is a molecule composed of 2 carbon atoms and 1 arsenic atom.,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+There is a molecule with 13 carbon atoms and 1 oxygen atom.,13,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+There is a molecule consisting of 6 carbon atoms and 3 bromine atoms.,6,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+The molecule consists of 4 carbon atoms.,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"The molecule has 32 carbon atoms, 1 selenium atom, and 2 bismuth atoms.",32,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0
+"Please generate a molecule composed of 24 carbon atoms, 1 boron atom, 2 sulfur atoms, 5 antimony atoms, and 4 nitrogen atoms.",24,0,4,2,0,0,0,0,0,1,0,0,0,0,5,0,0
+"The molecule is composed of 15 carbon atoms, 1 nitrogen atom, and 2 sulfur atoms.",15,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"The molecule consists of 5 carbon atoms, 1 chlorine atom, 2 oxygen atoms, and 3 phosphorus atoms.",5,2,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0
+The molecule is composed of 34 carbon atoms and 1 tellurium atom.,34,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Please generate a molecule with 30 carbon atoms and 1 bismuth atom.,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"The molecule contains 5 carbon atoms, 4 oxygen atoms, and 1 chlorine atom.",5,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"The molecule has 37 carbon atoms, 1 arsenic atom, and 4 oxygen atoms.",37,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Please generate a molecule with 23 carbon atoms, 3 chlorine atoms, and 4 sulfur atoms.",23,0,0,4,0,3,0,0,0,0,0,0,0,0,0,0,0
+"Please generate a molecule consisting 25 carbon atoms, 1 nitrogen atom, and 5 boron atoms.",25,0,1,0,0,0,0,0,0,5,0,0,0,0,0,0,0
+"The molecule has 9 carbon atoms, 4 sulfur atoms, 1 chlorine atom, and 5 oxygen atoms.",9,5,0,4,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Please generate a molecule composed of 29 carbon atoms, 1 arsenic atom, 2 oxygen atoms, 3 polonium atoms, and 5 sulfur atoms.",29,2,0,5,0,0,0,0,0,0,0,0,0,1,0,0,3
+The molecule has 24 carbon atoms and 1 iodine atom.,24,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"The molecule is composed of 11 carbon atoms, 1 oxygen atom, 2 selenium atoms, and 4 arsenic atoms.",11,1,0,0,0,0,0,0,0,0,0,2,0,4,0,0,0
+"Please generate a molecule consisting 7 carbon atoms, 1 iodine atom, 3 tellurium atoms, and 5 sulfur atoms.",7,0,0,5,0,0,0,1,0,0,0,0,3,0,0,0,0
+The molecule has 37 carbon atoms and 2 tellurium atoms.,37,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+"There is a molecule with 19 carbon atoms, 2 bromine atoms, 1 oxygen atom, 3 fluorine atoms, and 5 iodine atoms.",19,1,0,0,3,0,2,5,0,0,0,0,0,0,0,0,0
+There is a molecule composed of 34 carbon atoms and 1 bromine atom.,34,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"The molecule is composed of 5 carbon atoms, 1 bromine atom, and 2 oxygen atoms.",5,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"There is a molecule consisting of 11 carbon atoms, 1 chlorine atom, and 5 selenium atoms.",11,0,0,0,0,1,0,0,0,0,0,5,0,0,0,0,0
+"The molecule has 31 carbon atoms, 1 fluorine atom, 2 antimony atoms, and 5 boron atoms.",31,0,0,0,1,0,0,0,0,5,0,0,0,0,2,0,0
+"Please generate a molecule composed of 14 carbon atoms, 3 selenium atoms, and 1 antimony atom.",14,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0
+"Please generate a molecule composed of 37 carbon atoms, 2 antimony atoms, 1 nitrogen atom, and 3 arsenic atoms.",37,0,1,0,0,0,0,0,0,0,0,0,0,3,2,0,0
+"Please generate a molecule consisting 19 carbon atoms, 1 chlorine atom, and 2 selenium atoms.",19,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0
+"There is a molecule with 40 carbon atoms, 3 oxygen atoms, 1 sulfur atom, and 2 bismuth atoms.",40,3,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0
+Please generate a molecule consisting 20 carbon atoms.,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+There is a molecule with 25 carbon atoms and 1 iodine atom.,25,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+There is a molecule consisting of 13 carbon atoms and 1 boron atom.,13,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+There is a molecule composed of 16 carbon atoms.,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The molecule contains 32 carbon atoms and 1 iodine atom.,32,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"The molecule has 18 carbon atoms, 2 polonium atoms, and 3 bismuth atoms.",18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2
+The molecule consists of 25 carbon atoms and 1 bismuth atom.,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Please generate a molecule composed of 2 carbon atoms and 1 bromine atom.,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+The molecule is composed of 34 carbon atoms and 2 fluorine atoms.,34,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Please generate a molecule with 4 carbon atoms and 1 iodine atom.,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+There is a molecule composed of 29 carbon atoms and 4 oxygen atoms.,29,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Please generate a molecule consisting 25 carbon atoms and 1 fluorine atom.,25,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"There is a molecule with 34 carbon atoms, 4 chlorine atoms, and 1 oxygen atom.",34,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+There is a molecule with 9 carbon atoms and 5 sulfur atoms.,9,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Please generate a molecule consisting 37 carbon atoms, 1 chlorine atom, and 5 selenium atoms.",37,0,0,0,0,1,0,0,0,0,0,5,0,0,0,0,0
+The molecule contains 33 carbon atoms and 4 bromine atoms.,33,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+"Please generate a molecule consisting 32 carbon atoms, 1 bromine atom, 3 nitrogen atoms, and 2 tellurium atoms.",32,0,3,0,0,0,1,0,0,0,0,0,2,0,0,0,0
+"The molecule is composed of 28 carbon atoms, 2 oxygen atoms, and 4 nitrogen atoms.",28,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"The molecule has 18 carbon atoms, 2 iodine atoms, and 1 bismuth atom.",18,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0
+The molecule is composed of 35 carbon atoms.,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"The molecule has 21 carbon atoms, 4 fluorine atoms, 2 bromine atoms, and 1 oxygen atom.",21,1,0,0,4,0,2,0,0,0,0,0,0,0,0,0,0
+Please generate a molecule consisting 39 carbon atoms.,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The molecule has 29 carbon atoms and 1 oxygen atom.,29,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The molecule has 34 carbon atoms and 1 oxygen atom.,34,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Please generate a molecule consisting 18 carbon atoms, 1 polonium atom, 2 tellurium atoms, and 4 nitrogen atoms.",18,0,4,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+"There is a molecule consisting of 13 carbon atoms, 2 boron atoms, 5 antimony atoms, 1 bromine atom, and 3 polonium atoms.",13,0,0,0,0,0,1,0,0,2,0,0,0,0,5,0,3
+"The molecule is composed of 40 carbon atoms, 1 phosphorus atom, and 3 oxygen atoms.",40,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+There is a molecule composed of 16 carbon atoms and 1 silicon atom.,16,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"There is a molecule consisting of 29 carbon atoms, 3 chlorine atoms, 1 selenium atom, and 4 silicon atoms.",29,0,0,0,0,3,0,0,0,0,4,1,0,0,0,0,0
+"Please generate a molecule consisting 13 carbon atoms, 2 polonium atoms, 1 nitrogen atom, 5 bromine atoms, and 4 silicon atoms.",13,0,1,0,0,0,5,0,0,0,4,0,0,0,0,0,2
+"Please generate a molecule consisting 15 carbon atoms, 1 selenium atom, and 3 tellurium atoms.",15,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0
+"Please generate a molecule with 28 carbon atoms, 2 tellurium atoms, and 1 bromine atom.",28,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0
+The molecule contains 1 carbon atom.,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"There is a molecule consisting of 6 carbon atoms, 1 polonium atom, 2 bromine atoms, and 3 oxygen atoms.",6,3,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1
+"Please generate a molecule consisting 40 carbon atoms, 2 oxygen atoms, and 1 sulfur atom.",40,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"The molecule is composed of 33 carbon atoms, 2 arsenic atoms, 1 polonium atom, 3 fluorine atoms, and 5 oxygen atoms.",33,5,0,0,3,0,0,0,0,0,0,0,0,2,0,0,1
+"The molecule contains 19 carbon atoms, 2 fluorine atoms, 1 antimony atom, and 3 sulfur atoms.",19,0,0,3,2,0,0,0,0,0,0,0,0,0,1,0,0
+The molecule has 14 carbon atoms and 1 tellurium atom.,14,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+The molecule is composed of 23 carbon atoms.,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"The molecule is composed of 24 carbon atoms, 2 oxygen atoms, 1 chlorine atom, and 4 sulfur atoms.",24,2,0,4,0,1,0,0,0,0,0,0,0,0,0,0,0
+"The molecule has 17 carbon atoms, 1 arsenic atom, and 3 sulfur atoms.",17,0,0,3,0,0,0,0,0,0,0,0,0,1,0,0,0
+"The molecule consists of 13 carbon atoms, 1 boron atom, and 2 oxygen atoms.",13,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Please generate a molecule consisting 9 carbon atoms and 2 nitrogen atoms.,9,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Please generate a molecule consisting 22 carbon atoms and 2 tellurium atoms.,22,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+"Please generate a molecule consisting 3 carbon atoms, 1 sulfur atom, and 5 silicon atoms.",3,0,0,1,0,0,0,0,0,0,5,0,0,0,0,0,0
+"Please generate a molecule with 29 carbon atoms, 1 nitrogen atom, 2 arsenic atoms, and 5 bromine atoms.",29,0,1,0,0,0,5,0,0,0,0,0,0,2,0,0,0
+Please generate a molecule with 32 carbon atoms and 1 phosphorus atom.,32,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"The molecule is composed of 18 carbon atoms, 2 iodine atoms, 4 fluorine atoms, and 1 chlorine atom.",18,0,0,0,4,1,0,2,0,0,0,0,0,0,0,0,0
+"The molecule has 21 carbon atoms, 1 bromine atom, 3 chlorine atoms, 5 oxygen atoms, and 4 iodine atoms.",21,5,0,0,0,3,1,4,0,0,0,0,0,0,0,0,0
+The molecule contains 23 carbon atoms and 4 iodine atoms.,23,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0
+"Please generate a molecule composed of 18 carbon atoms, 1 polonium atom, 3 nitrogen atoms, and 4 selenium atoms.",18,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,1
+The molecule has 38 carbon atoms and 2 chlorine atoms.,38,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+There is a molecule composed of 14 carbon atoms and 2 antimony atoms.,14,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+The molecule contains 20 carbon atoms and 1 chlorine atom.,20,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+The molecule contains 12 carbon atoms and 1 selenium atom.,12,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"There is a molecule consisting of 30 carbon atoms, 2 sulfur atoms, and 1 iodine atom.",30,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0
+"There is a molecule consisting of 11 carbon atoms, 1 chlorine atom, and 2 sulfur atoms.",11,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0
+"There is a molecule consisting of 21 carbon atoms, 3 oxygen atoms, 1 sulfur atom, 2 bromine atoms, and 4 boron atoms.",21,3,0,1,0,0,2,0,0,4,0,0,0,0,0,0,0
+"The molecule consists of 14 carbon atoms, 2 oxygen atoms, 1 arsenic atom, and 5 sulfur atoms.",14,2,0,5,0,0,0,0,0,0,0,0,0,1,0,0,0
+The molecule has 15 carbon atoms.,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"There is a molecule consisting of 23 carbon atoms, 2 nitrogen atoms, and 1 phosphorus atom.",23,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+There is a molecule with 20 carbon atoms and 1 fluorine atom.,20,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Please generate a molecule consisting 29 carbon atoms and 1 boron atom.,29,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+The molecule consists of 7 carbon atoms and 4 oxygen atoms.,7,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The molecule contains 37 carbon atoms and 1 antimony atom.,37,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"Please generate a molecule with 24 carbon atoms, 2 sulfur atoms, and 5 chlorine atoms.",24,0,0,2,0,5,0,0,0,0,0,0,0,0,0,0,0
+"There is a molecule composed of 6 carbon atoms, 2 iodine atoms, 1 fluorine atom, and 5 bismuth atoms.",6,0,0,0,1,0,0,2,0,0,0,0,0,0,0,5,0
+The molecule has 22 carbon atoms and 2 selenium atoms.,22,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+There is a molecule consisting of 13 carbon atoms and 5 bromine atoms.,13,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+"Please generate a molecule with 29 carbon atoms, 1 chlorine atom, and 2 arsenic atoms.",29,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0
+"Please generate a molecule with 22 carbon atoms, 5 nitrogen atoms, 1 iodine atom, 2 boron atoms, and 3 silicon atoms.",22,0,5,0,0,0,0,1,0,2,3,0,0,0,0,0,0
+The molecule contains 21 carbon atoms and 1 selenium atom.,21,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"Please generate a molecule composed of 31 carbon atoms, 1 iodine atom, 2 bromine atoms, 4 oxygen atoms, and 3 nitrogen atoms.",31,4,3,0,0,0,2,1,0,0,0,0,0,0,0,0,0
+There is a molecule composed of 29 carbon atoms.,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+There is a molecule consisting of 25 carbon atoms.,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Please generate a molecule composed of 9 carbon atoms, 1 fluorine atom, 2 nitrogen atoms, 4 selenium atoms, and 5 tellurium atoms.",9,0,2,0,1,0,0,0,0,0,0,4,5,0,0,0,0
+"There is a molecule composed of 13 carbon atoms, 1 polonium atom, and 3 bromine atoms.",13,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,1
+"There is a molecule composed of 35 carbon atoms, 2 oxygen atoms, 1 boron atom, 5 silicon atoms, and 3 fluorine atoms.",35,2,0,0,3,0,0,0,0,1,5,0,0,0,0,0,0
+"Please generate a molecule composed of 12 carbon atoms, 1 silicon atom, 2 bismuth atoms, and 3 tellurium atoms.",12,0,0,0,0,0,0,0,0,0,1,0,3,0,0,2,0
+"There is a molecule composed of 37 carbon atoms, 1 sulfur atom, and 2 chlorine atoms.",37,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0
+There is a molecule composed of 26 carbon atoms and 1 polonium atom.,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+The molecule has 2 carbon atoms and 1 oxygen atom.,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+There is a molecule with 18 carbon atoms.,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"There is a molecule composed of 25 carbon atoms, 1 fluorine atom, and 2 bismuth atoms.",25,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0
+"The molecule consists of 33 carbon atoms, 2 bismuth atoms, and 1 bromine atom.",33,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0
+There is a molecule consisting of 18 carbon atoms and 2 fluorine atoms.,18,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+"There is a molecule with 10 carbon atoms, 1 iodine atom, 2 silicon atoms, and 3 tellurium atoms.",10,0,0,0,0,0,0,1,0,0,2,0,3,0,0,0,0
+"The molecule contains 11 carbon atoms, 5 iodine atoms, 2 phosphorus atoms, 1 nitrogen atom, and 3 chlorine atoms.",11,0,1,0,0,3,0,5,2,0,0,0,0,0,0,0,0
+There is a molecule consisting of 34 carbon atoms and 1 iodine atom.,34,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+The molecule has 28 carbon atoms and 1 oxygen atom.,28,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The molecule contains 16 carbon atoms and 1 chlorine atom.,16,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+There is a molecule consisting of 21 carbon atoms and 2 nitrogen atoms.,21,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"The molecule has 16 carbon atoms, 1 sulfur atom, and 3 oxygen atoms.",16,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+There is a molecule with 40 carbon atoms.,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+There is a molecule consisting of 17 carbon atoms and 2 oxygen atoms.,17,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Please generate a molecule consisting 19 carbon atoms.,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"There is a molecule consisting of 8 carbon atoms, 5 arsenic atoms, 2 silicon atoms, 3 chlorine atoms, and 1 iodine atom.",8,0,0,0,0,3,0,1,0,0,2,0,0,5,0,0,0
+"The molecule is composed of 21 carbon atoms, 3 sulfur atoms, 1 oxygen atom, 2 bromine atoms, and 4 nitrogen atoms.",21,1,4,3,0,0,2,0,0,0,0,0,0,0,0,0,0
+The molecule consists of 17 carbon atoms and 1 chlorine atom.,17,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+The molecule contains 2 carbon atoms and 2 bromine atoms.,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+The molecule contains 2 carbon atoms and 5 chlorine atoms.,2,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+"Please generate a molecule consisting 26 carbon atoms, 1 sulfur atom, and 4 fluorine atoms.",26,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,0
+There is a molecule composed of 2 carbon atoms and 1 fluorine atom.,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Please generate a molecule composed of 27 carbon atoms, 1 sulfur atom, 2 selenium atoms, 5 bromine atoms, and 3 iodine atoms.",27,0,0,1,0,0,5,3,0,0,0,2,0,0,0,0,0
+The molecule is composed of 40 carbon atoms and 2 boron atoms.,40,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+There is a molecule composed of 27 carbon atoms and 2 nitrogen atoms.,27,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"There is a molecule composed of 3 carbon atoms, 1 phosphorus atom, and 5 bismuth atoms.",3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,5,0
+The molecule is composed of 8 carbon atoms and 1 iodine atom.,8,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"There is a molecule composed of 26 carbon atoms, 1 chlorine atom, 3 arsenic atoms, 2 phosphorus atoms, and 4 sulfur atoms.",26,0,0,4,0,1,0,0,2,0,0,0,0,3,0,0,0
+"Please generate a molecule with 27 carbon atoms, 3 tellurium atoms, and 1 nitrogen atom.",27,0,1,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+"There is a molecule with 7 carbon atoms, 2 oxygen atoms, and 1 fluorine atom.",7,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+There is a molecule with 34 carbon atoms and 5 antimony atoms.,34,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0
+"There is a molecule composed of 26 carbon atoms, 1 arsenic atom, 3 oxygen atoms, 4 sulfur atoms, and 2 bromine atoms.",26,3,0,4,0,0,2,0,0,0,0,0,0,1,0,0,0
+"The molecule is composed of 13 carbon atoms, 1 silicon atom, 2 polonium atoms, and 3 bromine atoms.",13,0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,2
+Please generate a molecule composed of 2 carbon atoms and 1 nitrogen atom.,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+There is a molecule composed of 34 carbon atoms.,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Please generate a molecule composed of 12 carbon atoms, 3 bismuth atoms, 1 oxygen atom, and 5 iodine atoms.",12,1,0,0,0,0,0,5,0,0,0,0,0,0,0,3,0
+"The molecule consists of 24 carbon atoms, 5 oxygen atoms, and 2 sulfur atoms.",24,5,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"The molecule is composed of 17 carbon atoms, 1 sulfur atom, and 2 chlorine atoms.",17,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0
+There is a molecule with 35 carbon atoms and 1 silicon atom.,35,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"The molecule is composed of 17 carbon atoms, 1 polonium atom, and 2 chlorine atoms.",17,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1
+"The molecule has 8 carbon atoms, 2 antimony atoms, 3 oxygen atoms, 1 iodine atom, and 4 sulfur atoms.",8,3,0,4,0,0,0,1,0,0,0,0,0,0,2,0,0
+"There is a molecule composed of 38 carbon atoms, 1 silicon atom, 2 nitrogen atoms, and 5 chlorine atoms.",38,0,2,0,0,5,0,0,0,0,1,0,0,0,0,0,0
+"Please generate a molecule consisting 14 carbon atoms, 2 oxygen atoms, and 1 chlorine atom.",14,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"There is a molecule composed of 5 carbon atoms, 5 phosphorus atoms, 1 silicon atom, 2 chlorine atoms, and 3 nitrogen atoms.",5,0,3,0,0,2,0,0,5,0,1,0,0,0,0,0,0
+There is a molecule consisting of 14 carbon atoms.,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"The molecule consists of 37 carbon atoms, 2 nitrogen atoms, and 1 sulfur atom.",37,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"The molecule contains 9 carbon atoms, 1 iodine atom, 2 oxygen atoms, and 3 sulfur atoms.",9,2,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Please generate a molecule with 8 carbon atoms, 1 bromine atom, 2 polonium atoms, and 3 selenium atoms.",8,0,0,0,0,0,1,0,0,0,0,3,0,0,0,0,2
+There is a molecule composed of 2 carbon atoms and 1 sulfur atom.,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"The molecule has 32 carbon atoms, 5 sulfur atoms, 1 arsenic atom, 4 nitrogen atoms, and 2 chlorine atoms.",32,0,4,5,0,2,0,0,0,0,0,0,0,1,0,0,0
+"Please generate a molecule consisting 7 carbon atoms, 1 iodine atom, and 2 bromine atoms.",7,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0
+"Please generate a molecule with 16 carbon atoms, 3 silicon atoms, and 1 iodine atom.",16,0,0,0,0,0,0,1,0,0,3,0,0,0,0,0,0
+"There is a molecule with 22 carbon atoms, 1 nitrogen atom, 4 iodine atoms, 2 sulfur atoms, and 3 selenium atoms.",22,0,1,2,0,0,0,4,0,0,0,3,0,0,0,0,0
+"The molecule consists of 18 carbon atoms, 5 selenium atoms, 1 fluorine atom, 2 nitrogen atoms, and 3 antimony atoms.",18,0,2,0,1,0,0,0,0,0,0,5,0,0,3,0,0
+"The molecule is composed of 26 carbon atoms, 1 chlorine atom, 3 selenium atoms, 2 silicon atoms, and 5 tellurium atoms.",26,0,0,0,0,1,0,0,0,0,2,3,5,0,0,0,0
+There is a molecule with 39 carbon atoms and 1 boron atom.,39,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"There is a molecule consisting of 5 carbon atoms, 1 phosphorus atom, 4 fluorine atoms, and 3 sulfur atoms.",5,0,0,3,4,0,0,0,1,0,0,0,0,0,0,0,0
+There is a molecule consisting of 18 carbon atoms and 2 arsenic atoms.,18,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+There is a molecule consisting of 11 carbon atoms and 2 bismuth atoms.,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+"There is a molecule consisting of 31 carbon atoms, 1 oxygen atom, and 3 boron atoms.",31,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+There is a molecule consisting of 37 carbon atoms and 2 sulfur atoms.,37,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Please generate a molecule consisting 3 carbon atoms, 2 antimony atoms, and 3 sulfur atoms.",3,0,0,3,0,0,0,0,0,0,0,0,0,0,2,0,0
+The molecule is composed of 25 carbon atoms and 1 selenium atom.,25,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+There is a molecule consisting of 23 carbon atoms and 1 phosphorus atom.,23,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+The molecule consists of 20 carbon atoms.,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"The molecule consists of 21 carbon atoms, 2 iodine atoms, 1 oxygen atom, and 3 chlorine atoms.",21,1,0,0,0,3,0,2,0,0,0,0,0,0,0,0,0
+"There is a molecule composed of 11 carbon atoms, 3 bismuth atoms, 5 boron atoms, 4 oxygen atoms, and 1 fluorine atom.",11,4,0,0,1,0,0,0,0,5,0,0,0,0,0,3,0
+"The molecule consists of 30 carbon atoms, 5 nitrogen atoms, and 3 bromine atoms.",30,0,5,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+There is a molecule composed of 18 carbon atoms and 2 oxygen atoms.,18,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"The molecule has 8 carbon atoms, 1 oxygen atom, 2 silicon atoms, and 5 fluorine atoms.",8,1,0,0,5,0,0,0,0,0,2,0,0,0,0,0,0
+There is a molecule with 15 carbon atoms and 1 oxygen atom.,15,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The molecule is composed of 12 carbon atoms and 1 arsenic atom.,12,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Please generate a molecule with 4 carbon atoms and 2 chlorine atoms.,4,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+"Please generate a molecule composed of 7 carbon atoms, 1 iodine atom, 2 silicon atoms, and 3 boron atoms.",7,0,0,0,0,0,0,1,0,3,2,0,0,0,0,0,0
+"The molecule is composed of 28 carbon atoms, 1 oxygen atom, 2 silicon atoms, and 3 antimony atoms.",28,1,0,0,0,0,0,0,0,0,2,0,0,0,3,0,0
+Please generate a molecule consisting 3 carbon atoms.,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"The molecule is composed of 4 carbon atoms, 1 oxygen atom, and 2 nitrogen atoms.",4,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"The molecule contains 32 carbon atoms, 1 iodine atom, 2 selenium atoms, 4 sulfur atoms, and 3 oxygen atoms.",32,3,0,4,0,0,0,1,0,0,0,2,0,0,0,0,0
+"The molecule has 36 carbon atoms, 2 selenium atoms, and 1 nitrogen atom.",36,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+"The molecule has 37 carbon atoms, 1 iodine atom, 2 phosphorus atoms, and 5 nitrogen atoms.",37,0,5,0,0,0,0,1,2,0,0,0,0,0,0,0,0
+"There is a molecule consisting of 30 carbon atoms, 1 oxygen atom, 4 silicon atoms, and 3 boron atoms.",30,1,0,0,0,0,0,0,0,3,4,0,0,0,0,0,0
+Please generate a molecule composed of 17 carbon atoms.,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Please generate a molecule composed of 39 carbon atoms and 1 chlorine atom.,39,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Please generate a molecule consisting 39 carbon atoms, 3 sulfur atoms, and 2 fluorine atoms.",39,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0
+"Please generate a molecule with 29 carbon atoms, 1 silicon atom, 2 bromine atoms, 3 sulfur atoms, and 4 selenium atoms.",29,0,0,3,0,0,2,0,0,0,1,4,0,0,0,0,0

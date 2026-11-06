@@ -1,0 +1,102 @@
+[
+  {
+    "task_id": "smdd_002_P00374_0",
+    "description": "You are given a protein receptor structure (receptor.pdb). The binding pocket center is located at coordinates (26.236750, 8.455563, 8.570957) in Angstroms with a pocket radius of 12 Angstroms. Your task is to identify the 3 most conserved pharmacophoric interaction points within this binding pocket. Each point should be specified by its 3D coordinates (x, y, z) and one interaction type. The valid interaction types are: Donor, Acceptor, Aromatic, Hydrophobic, Cation, Anion. Output a CSV file titled 'solution.csv' with columns x,y,z,type containing exactly 3 rows (no header)."
+  },
+  {
+    "task_id": "smdd_002_O75874_0",
+    "description": "You are given a protein receptor structure (receptor.pdb). The binding pocket center is located at coordinates (54.076771, 17.858023, -15.745606) in Angstroms with a pocket radius of 12 Angstroms. Your task is to identify the 3 most conserved pharmacophoric interaction points within this binding pocket. Each point should be specified by its 3D coordinates (x, y, z) and one interaction type. The valid interaction types are: Donor, Acceptor, Aromatic, Hydrophobic, Cation, Anion. Output a CSV file titled 'solution.csv' with columns x,y,z,type containing exactly 3 rows (no header)."
+  },
+  {
+    "task_id": "smdd_002_P00742_0",
+    "description": "You are given a protein receptor structure (receptor.pdb). The binding pocket center is located at coordinates (7.383411, 4.834118, 22.323353) in Angstroms with a pocket radius of 12 Angstroms. Your task is to identify the 3 most conserved pharmacophoric interaction points within this binding pocket. Each point should be specified by its 3D coordinates (x, y, z) and one interaction type. The valid interaction types are: Donor, Acceptor, Aromatic, Hydrophobic, Cation, Anion. Output a CSV file titled 'solution.csv' with columns x,y,z,type containing exactly 3 rows (no header)."
+  },
+  {
+    "task_id": "smdd_002_P00797_0",
+    "description": "You are given a protein receptor structure (receptor.pdb). The binding pocket center is located at coordinates (37.172020, 60.760033, 44.850658) in Angstroms with a pocket radius of 12 Angstroms. Your task is to identify the 3 most conserved pharmacophoric interaction points within this binding pocket. Each point should be specified by its 3D coordinates (x, y, z) and one interaction type. The valid interaction types are: Donor, Acceptor, Aromatic, Hydrophobic, Cation, Anion. Output a CSV file titled 'solution.csv' with columns x,y,z,type containing exactly 3 rows (no header)."
+  },
+  {
+    "task_id": "smdd_002_P00918_0",
+    "description": "You are given a protein receptor structure (receptor.pdb). The binding pocket center is located at coordinates (-4.032131, 4.466652, 14.702172) in Angstroms with a pocket radius of 12 Angstroms. Your task is to identify the 3 most conserved pharmacophoric interaction points within this binding pocket. Each point should be specified by its 3D coordinates (x, y, z) and one interaction type. The valid interaction types are: Donor, Acceptor, Aromatic, Hydrophobic, Cation, Anion. Output a CSV file titled 'solution.csv' with columns x,y,z,type containing exactly 3 rows (no header)."
+  },
+  {
+    "task_id": "smdd_002_P03372_0",
+    "description": "You are given a protein receptor structure (receptor.pdb). The binding pocket center is located at coordinates (106.730247, 15.023100, 96.615646) in Angstroms with a pocket radius of 12 Angstroms. Your task is to identify the 3 most conserved pharmacophoric interaction points within this binding pocket. Each point should be specified by its 3D coordinates (x, y, z) and one interaction type. The valid interaction types are: Donor, Acceptor, Aromatic, Hydrophobic, Cation, Anion. Output a CSV file titled 'solution.csv' with columns x,y,z,type containing exactly 3 rows (no header)."
+  },
+  {
+    "task_id": "smdd_002_P04150_0",
+    "description": "You are given a protein receptor structure (receptor.pdb). The binding pocket center is located at coordinates (30.450483, 7.071482, 13.293205) in Angstroms with a pocket radius of 12 Angstroms. Your task is to identify the 3 most conserved pharmacophoric interaction points within this binding pocket. Each point should be specified by its 3D coordinates (x, y, z) and one interaction type. The valid interaction types are: Donor, Acceptor, Aromatic, Hydrophobic, Cation, Anion. Output a CSV file titled 'solution.csv' with columns x,y,z,type containing exactly 3 rows (no header)."
+  },
+  {
+    "task_id": "smdd_002_P07900_0",
+    "description": "You are given a protein receptor structure (receptor.pdb). The binding pocket center is located at coordinates (40.445263, -46.802555, 64.476921) in Angstroms with a pocket radius of 12 Angstroms. Your task is to identify the 3 most conserved pharmacophoric interaction points within this binding pocket. Each point should be specified by its 3D coordinates (x, y, z) and one interaction type. The valid interaction types are: Donor, Acceptor, Aromatic, Hydrophobic, Cation, Anion. Output a CSV file titled 'solution.csv' with columns x,y,z,type containing exactly 3 rows (no header)."
+  },
+  {
+    "task_id": "smdd_002_P08684_0",
+    "description": "You are given a protein receptor structure (receptor.pdb). The binding pocket center is located at coordinates (-15.519976, -22.015837, -11.069442) in Angstroms with a pocket radius of 12 Angstroms. Your task is to identify the 3 most conserved pharmacophoric interaction points within this binding pocket. Each point should be specified by its 3D coordinates (x, y, z) and one interaction type. The valid interaction types are: Donor, Acceptor, Aromatic, Hydrophobic, Cation, Anion. Output a CSV file titled 'solution.csv' with columns x,y,z,type containing exactly 3 rows (no header)."
+  },
+  {
+    "task_id": "smdd_002_P10275_0",
+    "description": "You are given a protein receptor structure (receptor.pdb). The binding pocket center is located at coordinates (0.266524, 31.234953, 4.470429) in Angstroms with a pocket radius of 12 Angstroms. Your task is to identify the 3 most conserved pharmacophoric interaction points within this binding pocket. Each point should be specified by its 3D coordinates (x, y, z) and one interaction type. The valid interaction types are: Donor, Acceptor, Aromatic, Hydrophobic, Cation, Anion. Output a CSV file titled 'solution.csv' with columns x,y,z,type containing exactly 3 rows (no header)."
+  },
+  {
+    "task_id": "smdd_002_P11473_0",
+    "description": "You are given a protein receptor structure (receptor.pdb). The binding pocket center is located at coordinates (11.464900, 22.967997, 34.461933) in Angstroms with a pocket radius of 12 Angstroms. Your task is to identify the 3 most conserved pharmacophoric interaction points within this binding pocket. Each point should be specified by its 3D coordinates (x, y, z) and one interaction type. The valid interaction types are: Donor, Acceptor, Aromatic, Hydrophobic, Cation, Anion. Output a CSV file titled 'solution.csv' with columns x,y,z,type containing exactly 3 rows (no header)."
+  },
+  {
+    "task_id": "smdd_002_P12821_0",
+    "description": "You are given a protein receptor structure (receptor.pdb). The binding pocket center is located at coordinates (41.013630, 34.325207, 46.441208) in Angstroms with a pocket radius of 12 Angstroms. Your task is to identify the 3 most conserved pharmacophoric interaction points within this binding pocket. Each point should be specified by its 3D coordinates (x, y, z) and one interaction type. The valid interaction types are: Donor, Acceptor, Aromatic, Hydrophobic, Cation, Anion. Output a CSV file titled 'solution.csv' with columns x,y,z,type containing exactly 3 rows (no header)."
+  },
+  {
+    "task_id": "smdd_002_P14061_0",
+    "description": "You are given a protein receptor structure (receptor.pdb). The binding pocket center is located at coordinates (16.836435, -4.977917, 1.407834) in Angstroms with a pocket radius of 12 Angstroms. Your task is to identify the 3 most conserved pharmacophoric interaction points within this binding pocket. Each point should be specified by its 3D coordinates (x, y, z) and one interaction type. The valid interaction types are: Donor, Acceptor, Aromatic, Hydrophobic, Cation, Anion. Output a CSV file titled 'solution.csv' with columns x,y,z,type containing exactly 3 rows (no header)."
+  },
+  {
+    "task_id": "smdd_002_P18031_0",
+    "description": "You are given a protein receptor structure (receptor.pdb). The binding pocket center is located at coordinates (43.227547, 16.978638, 7.990181) in Angstroms with a pocket radius of 12 Angstroms. Your task is to identify the 3 most conserved pharmacophoric interaction points within this binding pocket. Each point should be specified by its 3D coordinates (x, y, z) and one interaction type. The valid interaction types are: Donor, Acceptor, Aromatic, Hydrophobic, Cation, Anion. Output a CSV file titled 'solution.csv' with columns x,y,z,type containing exactly 3 rows (no header)."
+  },
+  {
+    "task_id": "smdd_002_P22303_0",
+    "description": "You are given a protein receptor structure (receptor.pdb). The binding pocket center is located at coordinates (120.838921, 104.555725, -112.742851) in Angstroms with a pocket radius of 12 Angstroms. Your task is to identify the 3 most conserved pharmacophoric interaction points within this binding pocket. Each point should be specified by its 3D coordinates (x, y, z) and one interaction type. The valid interaction types are: Donor, Acceptor, Aromatic, Hydrophobic, Cation, Anion. Output a CSV file titled 'solution.csv' with columns x,y,z,type containing exactly 3 rows (no header)."
+  },
+  {
+    "task_id": "smdd_002_P24941_0",
+    "description": "You are given a protein receptor structure (receptor.pdb). The binding pocket center is located at coordinates (0.516600, 27.061600, 8.971828) in Angstroms with a pocket radius of 12 Angstroms. Your task is to identify the 3 most conserved pharmacophoric interaction points within this binding pocket. Each point should be specified by its 3D coordinates (x, y, z) and one interaction type. The valid interaction types are: Donor, Acceptor, Aromatic, Hydrophobic, Cation, Anion. Output a CSV file titled 'solution.csv' with columns x,y,z,type containing exactly 3 rows (no header)."
+  },
+  {
+    "task_id": "smdd_002_P28482_0",
+    "description": "You are given a protein receptor structure (receptor.pdb). The binding pocket center is located at coordinates (-12.975556, 13.195483, 40.561588) in Angstroms with a pocket radius of 12 Angstroms. Your task is to identify the 3 most conserved pharmacophoric interaction points within this binding pocket. Each point should be specified by its 3D coordinates (x, y, z) and one interaction type. The valid interaction types are: Donor, Acceptor, Aromatic, Hydrophobic, Cation, Anion. Output a CSV file titled 'solution.csv' with columns x,y,z,type containing exactly 3 rows (no header)."
+  },
+  {
+    "task_id": "smdd_002_P42574_0",
+    "description": "You are given a protein receptor structure (receptor.pdb). The binding pocket center is located at coordinates (37.646751, 33.565319, 27.973284) in Angstroms with a pocket radius of 12 Angstroms. Your task is to identify the 3 most conserved pharmacophoric interaction points within this binding pocket. Each point should be specified by its 3D coordinates (x, y, z) and one interaction type. The valid interaction types are: Donor, Acceptor, Aromatic, Hydrophobic, Cation, Anion. Output a CSV file titled 'solution.csv' with columns x,y,z,type containing exactly 3 rows (no header)."
+  },
+  {
+    "task_id": "smdd_002_P45452_0",
+    "description": "You are given a protein receptor structure (receptor.pdb). The binding pocket center is located at coordinates (1.082474, -2.399369, -3.762368) in Angstroms with a pocket radius of 12 Angstroms. Your task is to identify the 3 most conserved pharmacophoric interaction points within this binding pocket. Each point should be specified by its 3D coordinates (x, y, z) and one interaction type. The valid interaction types are: Donor, Acceptor, Aromatic, Hydrophobic, Cation, Anion. Output a CSV file titled 'solution.csv' with columns x,y,z,type containing exactly 3 rows (no header)."
+  },
+  {
+    "task_id": "smdd_002_P55055_0",
+    "description": "You are given a protein receptor structure (receptor.pdb). The binding pocket center is located at coordinates (62.068825, 0.191345, 92.368927) in Angstroms with a pocket radius of 12 Angstroms. Your task is to identify the 3 most conserved pharmacophoric interaction points within this binding pocket. Each point should be specified by its 3D coordinates (x, y, z) and one interaction type. The valid interaction types are: Donor, Acceptor, Aromatic, Hydrophobic, Cation, Anion. Output a CSV file titled 'solution.csv' with columns x,y,z,type containing exactly 3 rows (no header)."
+  },
+  {
+    "task_id": "smdd_002_P56817_0",
+    "description": "You are given a protein receptor structure (receptor.pdb). The binding pocket center is located at coordinates (13.534153, -2.819923, 0.504154) in Angstroms with a pocket radius of 12 Angstroms. Your task is to identify the 3 most conserved pharmacophoric interaction points within this binding pocket. Each point should be specified by its 3D coordinates (x, y, z) and one interaction type. The valid interaction types are: Donor, Acceptor, Aromatic, Hydrophobic, Cation, Anion. Output a CSV file titled 'solution.csv' with columns x,y,z,type containing exactly 3 rows (no header)."
+  },
+  {
+    "task_id": "smdd_002_Q15910_0",
+    "description": "You are given a protein receptor structure (receptor.pdb). The binding pocket center is located at coordinates (-31.235422, 75.314651, 6.862846) in Angstroms with a pocket radius of 12 Angstroms. Your task is to identify the 3 most conserved pharmacophoric interaction points within this binding pocket. Each point should be specified by its 3D coordinates (x, y, z) and one interaction type. The valid interaction types are: Donor, Acceptor, Aromatic, Hydrophobic, Cation, Anion. Output a CSV file titled 'solution.csv' with columns x,y,z,type containing exactly 3 rows (no header)."
+  },
+  {
+    "task_id": "smdd_002_Q92769_0",
+    "description": "You are given a protein receptor structure (receptor.pdb). The binding pocket center is located at coordinates (66.429176, 29.645226, 1.318500) in Angstroms with a pocket radius of 12 Angstroms. Your task is to identify the 3 most conserved pharmacophoric interaction points within this binding pocket. Each point should be specified by its 3D coordinates (x, y, z) and one interaction type. The valid interaction types are: Donor, Acceptor, Aromatic, Hydrophobic, Cation, Anion. Output a CSV file titled 'solution.csv' with columns x,y,z,type containing exactly 3 rows (no header)."
+  },
+  {
+    "task_id": "smdd_002_Q9BY41_0",
+    "description": "You are given a protein receptor structure (receptor.pdb). The binding pocket center is located at coordinates (61.332264, 73.648499, 11.759000) in Angstroms with a pocket radius of 12 Angstroms. Your task is to identify the 3 most conserved pharmacophoric interaction points within this binding pocket. Each point should be specified by its 3D coordinates (x, y, z) and one interaction type. The valid interaction types are: Donor, Acceptor, Aromatic, Hydrophobic, Cation, Anion. Output a CSV file titled 'solution.csv' with columns x,y,z,type containing exactly 3 rows (no header)."
+  },
+  {
+    "task_id": "smdd_002_Q9Y6K1_0",
+    "description": "You are given a protein receptor structure (receptor.pdb). The binding pocket center is located at coordinates (107.474083, 45.398148, -2.547500) in Angstroms with a pocket radius of 12 Angstroms. Your task is to identify the 3 most conserved pharmacophoric interaction points within this binding pocket. Each point should be specified by its 3D coordinates (x, y, z) and one interaction type. The valid interaction types are: Donor, Acceptor, Aromatic, Hydrophobic, Cation, Anion. Output a CSV file titled 'solution.csv' with columns x,y,z,type containing exactly 3 rows (no header)."
+  }
+]

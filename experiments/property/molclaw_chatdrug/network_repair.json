@@ -1,0 +1,20 @@
+{
+  "time": 1791785077.4771402,
+  "old_worker": 1941864,
+  "new_worker": 1946676,
+  "proxy_pid": 1946656,
+  "initializations_without_any_assistant_reply": 64,
+  "responses_before_repair": 0,
+  "archived_attempt": "/home/zlc/molclaw_chatdrug_aligned_20261012/infra_archive/missing_inherited_proxy_1791785072",
+  "removed_proxy_variable_names": [
+    "no_proxy",
+    "https_proxy",
+    "NO_PROXY",
+    "HTTPS_PROXY",
+    "HTTP_PROXY",
+    "http_proxy",
+    "ALL_PROXY",
+    "all_proxy"
+  ],
+  "reason": "Inherited localhost17890 proxy unavailable on A100; no model responses, infrastructure-only restart"
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "method": "MolLingo",
+    "setting": "1_original_chatdrug",
+    "root": "/data2/chenfuxin/molingo_20260922/runs/single_bailian_full",
+    "properties": {
+      "LogP": {
+        "processed": 800,
+        "success": 764
+      },
+      "QED": {
+        "processed": 800,
+        "success": 561
+      }
+    },
+    "comparable_prompt": true,
+    "prompt_policy": "Reference setting2 uses five S2 variants; this run uses the preceding ChatDrug/AgentDrug canonical S2 initializer.",
+    "detected_instruction_mismatches": 0
+  },
+  {
+    "method": "MolLingo",
+    "setting": "2_s2_prompt_chatdrug",
+    "root": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolLingo",
+    "properties": {
+      "LogP": {
+        "processed": 800,
+        "success": 776
+      },
+      "QED": {
+        "processed": 800,
+        "success": 627
+      }
+    },
+    "comparable_prompt": false,
+    "prompt_policy": "Reference setting2 uses five S2 variants; this run uses the preceding ChatDrug/AgentDrug canonical S2 initializer.",
+    "detected_instruction_mismatches": 1280
+  },
+  {
+    "method": "MolLingo",
+    "setting": "3_original_s2",
+    "root": "/data2/chenfuxin/molingo_20260922/runs/single_bailian_full",
+    "properties": {
+      "LogP": {
+        "processed": 500,
+        "success": 470
+      },
+      "QED": {
+        "processed": 500,
+        "success": 378
+      }
+    },
+    "comparable_prompt": true,
+    "prompt_policy": "Reference setting2 uses five S2 variants; this run uses the preceding ChatDrug/AgentDrug canonical S2 initializer.",
+    "detected_instruction_mismatches": 0
+  },
+  {
+    "method": "SoL-Pi",
+    "setting": "1_original_chatdrug",
+    "root": "/data/chenfuxin/sol_pi_chatdrug_molopt_20261007/runs/full",
+    "properties": {
+      "LogP": {
+        "processed": 800,
+        "success": 793
+      },
+      "QED": {
+        "processed": 800,
+        "success": 732
+      }
+    },
+    "comparable_prompt": true,
+    "prompt_policy": "Reference setting2 uses five S2 variants; this run uses the preceding ChatDrug/AgentDrug canonical S2 initializer.",
+    "detected_instruction_mismatches": 0
+  },
+  {
+    "method": "SoL-Pi",
+    "setting": "2_s2_prompt_chatdrug",
+    "root": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/SoL-Pi",
+    "properties": {
+      "LogP": {
+        "processed": 800,
+        "success": 799
+      },
+      "QED": {
+        "processed": 800,
+        "success": 631
+      }
+    },
+    "comparable_prompt": false,
+    "prompt_policy": "Reference setting2 uses five S2 variants; this run uses the preceding ChatDrug/AgentDrug canonical S2 initializer.",
+    "detected_instruction_mismatches": 1280
+  },
+  {
+    "method": "SoL-Pi",
+    "setting": "3_original_s2",
+    "root": "/data/chenfuxin/sol_pi_chatdrug_molopt_20261007/runs/full",
+    "properties": {
+      "LogP": {
+        "processed": 500,
+        "success": 499
+      },
+      "QED": {
+        "processed": 500,
+        "success": 382
+      }
+    },
+    "comparable_prompt": true,
+    "prompt_policy": "Reference setting2 uses five S2 variants; this run uses the preceding ChatDrug/AgentDrug canonical S2 initializer.",
+    "detected_instruction_mismatches": 0
+  }
+]

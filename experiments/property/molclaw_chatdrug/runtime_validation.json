@@ -1,0 +1,15 @@
+{
+  "time": 1791784733.0112832,
+  "verified_files": 13208,
+  "versions": {
+    "python": "3.10.12 (main, Aug 31 2026, 10:18:17) [GCC 11.4.0]",
+    "rdkit": "2022.09.5",
+    "ssl": "OpenSSL 3.6.3 9 Jun 2026"
+  },
+  "cli": "2.1.281 (Claude Code)",
+  "source_agent_sha": "cf0553dddce562a0aa5082769929937d1c69de027ee5b893c2ee9e224b020803",
+  "remote_agent_sha": "f3dc8c6065861ecf2be69f52467baef750bcb9cab391b2df6ad3efab68f0508c",
+  "cases_sha256": "d118b671cfa62b74f5366eddbd2296e3c23fb7f0ac59f1ed49e4cb62aeefdccf",
+  "proxy_pid": 1940983,
+  "relocations_only": true
+}

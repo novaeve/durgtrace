@@ -1,0 +1,125 @@
+{
+  "passed": true,
+  "tasks": 23,
+  "dependency_hashes_verified": true,
+  "budget_duplicate_invalid_boundary_test": true,
+  "auc_test": true,
+  "isolated_rdkit": "2023.09.6",
+  "initial_answers_verified": {
+    "albuterol_similarity": {
+      "raw": "CC(C)(C)NCC(O)c1ccc(O)c(CO)c1",
+      "score": 1.0,
+      "source_sha256": "28bdcdba2a6cece441b670a991b640bee2938d87829de85dd2597f6d2017ddda"
+    },
+    "amlodipine_mpo": {
+      "raw": "CC1=C(C(C(=O)OCC)=C(C)N1)C2=CC=CC=C2C3=CC=CC=C3",
+      "score": 0.5321520841901914,
+      "source_sha256": "3d34415d325135c39dcba710f4fd53c33008899d167b9c41fcc02ab5a7bddc51"
+    },
+    "celecoxib_rediscovery": {
+      "raw": "Cc1ccc(-c2cc(C(F)(F)F)nn2-c2ccc(S(N)(=O)=O)cc2)cc1",
+      "score": 1.0,
+      "source_sha256": "80d3781e82f20d203673c71a9fe187ad707c193c0591a73af037658dffb95c03"
+    },
+    "deco_hop": {
+      "raw": "CCOc1cc2ncnc(Nc3ccc4ncsc4c3)c2cc1",
+      "score": 0.44049298879971777,
+      "source_sha256": "f05e0dc8e88d84b1b92b1f894eb25e4fde83a7b838255f8d6350e476733ad979"
+    },
+    "drd2": {
+      "raw": "CC1(C)C2CCC(C2)C1(C)C",
+      "score": 0.007556452907475557,
+      "source_sha256": "b84389b1db06d48f34e3c4b1879b7e776e169cf6684f62c88dca005130f96a7d"
+    },
+    "fexofenadine_mpo": {
+      "raw": "CCOC(=O)C(C)(C)N1CCC(CC1)(O)c1ccccc1",
+      "score": 0.04003720848605054,
+      "source_sha256": "dbd76838bcdda19808a7ff23f960daa70650a017fdbe3bca59acc22bcda5deca"
+    },
+    "gsk3b": {
+      "raw": "CC1=C(C(=O)N(C2=CC=CC=C2)N1)C3=CC=CC=C3",
+      "score": 0.01,
+      "source_sha256": "567c35ef23900939bf2100495823f4ea54818d430c78e79a78fbd6241719c634"
+    },
+    "isomers_c7h8n2o2": {
+      "raw": "Cc1ccc([N+](=O)[O-])nc1N",
+      "score": 0.7225273536420722,
+      "source_sha256": "e6d591d3916b08a46d49f9f9eb0bd75954bc2ce2404d9ac99bb9e20cc355b06a"
+    },
+    "isomers_c9h10n2o2pf2cl": {
+      "raw": "C1=CC(=NC=C1)OP(=O)(F)F",
+      "score": 0.0036065631360157305,
+      "source_sha256": "10b18007677ac1a206867daac9b486dd413691413465d7e824fcf290e03223b8"
+    },
+    "jnk3": {
+      "raw": "CC1=C(C(=NN1)C2=CC=CC=C2)C(=O)NC3=CC=CC=C3",
+      "score": 0.01,
+      "source_sha256": "948df556a1a5ee35f929c0dffa46abad850ff51f7a7ace59bdf2bd1f8bf337ca"
+    },
+    "median1": {
+      "raw": "C[C@H]1CC[C@@H](C(C)C)[C@H](O)C1",
+      "score": 0.4,
+      "source_sha256": "4d52754389e52d40a6fc988286033cc1ce5feeb11e154bac149a85952ae0cb2c"
+    },
+    "median2": {
+      "raw": "CCOC(=O)c1ccc2c(c1)NC(=O)C2",
+      "score": 0.12169077428570287,
+      "source_sha256": "c1e66a5a0d995d8a463bc32007769aff068a6358a44a3fb9a3db6141c20765c2"
+    },
+    "mestranol_similarity": {
+      "raw": "CC1CC2=C(C=CC3=C2C(CC3)CC4=CC=CC=C4)C5=C1C=CC(=C5)O",
+      "score": 0.25879043600562585,
+      "source_sha256": "6210956db9c9a12d6c67fea16bd4404dde439c7b885e3399e9b767f33874632b"
+    },
+    "osimertinib_mpo": {
+      "raw": "CCOc1cc(N(C)C(=O)C=C)c2c(c1)C(=O)N(C2)c3ccc(cc3)NC(=O)N4CCC(C4)N5CCOCC5",
+      "score": 0.37326160808115466,
+      "source_sha256": "f2a9c5d5cdd891a58fb6896bb2b49c469c24bcf40de625d729ae8915c7b9b798"
+    },
+    "perindopril_mpo": {
+      "raw": "CCOC(=O)C(C)N(C(=O)C(C)NC(=O)C1CCCN1C(=O)C(C)(C)N)C(C)C(=O)O",
+      "score": 0.010060674540604364,
+      "source_sha256": "3981131b30fe6a68b4ca466e0429976722532a9a19d0c7d0a4fb6aa0b83cd596"
+    },
+    "qed": {
+      "raw": "C1CCN(CC1)C(=O)C2=CC=CC=C2O",
+      "score": 0.7615645960887658,
+      "source_sha256": "eb18c85fe745db80548e47271033da81deeb481e22777d1b241473b3e21fc64b"
+    },
+    "ranolazine_mpo": {
+      "raw": "COc1ccccc1OCC(O)CNC(=O)CN1CCN(CC(=O)Nc2c(C)cccc2C)CC1",
+      "score": 0.01768068188780807,
+      "source_sha256": "21ef379db3ee9ec98a4b1ba3735ce4d9ba57ff256c390e1759cca030318fe770"
+    },
+    "scaffold_hop": {
+      "raw": "CCOc1cc2ncnc(Nc3ccc4ncsc4c3)c2cc1S(=O)(=O)C(C)(C)C",
+      "score": 0.3333333333333333,
+      "source_sha256": "2ebe6decb7383323efc80f18bc453a22242cfd515415f30e4b6b2752dfed871e"
+    },
+    "sitagliptin_mpo": {
+      "raw": "C[C@H](CC(=O)N1CCn2c(C1)nnc2C(F)(F)F)N1CCn2c(C1)nnc2C(F)(F)F",
+      "score": 0.018915583813810293,
+      "source_sha256": "50ad30a1030fe0687c81d4d3931a96f08fc057c520675dac96ac0c1e5a1e0cd8"
+    },
+    "thiothixene_rediscovery": {
+      "raw": "CN(C)CCCN1c2ccccc2Sc2ccc(cc21)S(=O)(=O)C",
+      "score": 0.4205607476635514,
+      "source_sha256": "e36c88ae10044f2f062e7a6a28fa9a06abfe3bd007fa19393baee62ad656db40"
+    },
+    "troglitazon_rediscovery": {
+      "raw": "Cc1ccc(C2SC(=O)NC2=O)cc1OCC1(C)COC(c2ccc(O)cc2)O1",
+      "score": 0.344,
+      "source_sha256": "a35f1f3beaebb183b8efc962096476f758ec48bea0f035c51fcb33f4ad351f3a"
+    },
+    "valsartan_smarts": {
+      "raw": "CC(C(=O)N1CCn2c(nnc2C(F)(F)F)C1)Cc1ccc(-c2ccccc2)cc1",
+      "score": 0.0,
+      "source_sha256": "cb799e90156e9d0ac7477bd4a9ec53ac429c645356fc556e1ad9963f11555792"
+    },
+    "zaleplon_mpo": {
+      "raw": "CC(=O)N1C=CC2=C1C=CC=C2C3=CC=CC=C3",
+      "score": 0.03247538596840966,
+      "source_sha256": "7887c71e0f3b027bdba3cee9b1395993ead1c860a2c381bc782d88a09f8fa320"
+    }
+  }
+}

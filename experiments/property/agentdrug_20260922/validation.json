@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "score_equivalence_checks": 1020,
+  "coverage_settings": 34,
+  "validity_feedback_fix": true,
+  "loop_limits_checked": true,
+  "retrieved_references_satisfy_all_conditions": true,
+  "original_core_parity_scenarios": 2
+}

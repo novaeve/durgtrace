@@ -1,0 +1,14 @@
+python inference.py --llm_name $1 --data "ZINC500/single/LogP+"     --refine $2 --refine_steps 3 --hit_thres $3 --DB_size $4
+python inference.py --llm_name $1 --data "ZINC500/single/LogP-"     --refine $2 --refine_steps 3 --hit_thres $3 --DB_size $4
+python inference.py --llm_name $1 --data "ZINC500/single/TPSA+"     --refine $2 --refine_steps 3 --hit_thres $3 --DB_size $4
+python inference.py --llm_name $1 --data "ZINC500/single/TPSA-"     --refine $2 --refine_steps 3 --hit_thres $3 --DB_size $4
+python inference.py --llm_name $1 --data "ZINC500/single/QED+"      --refine $2 --refine_steps 3 --hit_thres $3 --DB_size $4
+python inference.py --llm_name $1 --data "ZINC500/single/QED-"      --refine $2 --refine_steps 3 --hit_thres $3 --DB_size $4
+python inference.py --llm_name $1 --data "ZINC500/multi/LogP+TPSA+" --refine $2 --refine_steps 4 --hit_thres $3 --DB_size $4
+python inference.py --llm_name $1 --data "ZINC500/multi/LogP+TPSA-" --refine $2 --refine_steps 4 --hit_thres $3 --DB_size $4
+python inference.py --llm_name $1 --data "ZINC500/multi/LogP-TPSA+" --refine $2 --refine_steps 4 --hit_thres $3 --DB_size $4
+python inference.py --llm_name $1 --data "ZINC500/multi/LogP-TPSA-" --refine $2 --refine_steps 4 --hit_thres $3 --DB_size $4
+python inference.py --llm_name $1 --data "ZINC500/multi/LogP+QED+"  --refine $2 --refine_steps 4 --hit_thres $3 --DB_size $4
+python inference.py --llm_name $1 --data "ZINC500/multi/LogP+QED-"  --refine $2 --refine_steps 4 --hit_thres $3 --DB_size $4
+python inference.py --llm_name $1 --data "ZINC500/multi/LogP-QED+"  --refine $2 --refine_steps 4 --hit_thres $3 --DB_size $4
+python inference.py --llm_name $1 --data "ZINC500/multi/LogP-QED-"  --refine $2 --refine_steps 4 --hit_thres $3 --DB_size $4

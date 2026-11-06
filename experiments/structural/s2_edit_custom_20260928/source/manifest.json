@@ -1,0 +1,30 @@
+{
+  "s2_properties.py": {
+    "source": "G:\\粲辰\\小分子SMDD\\outputs\\molopt-audit-20260920\\repos\\S2-TOMG-Bench\\utils\\evaluation.py",
+    "sha256": "7fb4039bd7f71be83449158bdcaae50da85dcf8f5021985599c4c27ad74617f0"
+  },
+  "s2_evaluate.py": {
+    "source": "G:\\粲辰\\小分子SMDD\\outputs\\molopt-audit-20260920\\repos\\S2-TOMG-Bench\\evaluate.py",
+    "sha256": "dc11355b5c276d3d2f9f706cbbfa43c949c4b54045d2385196113a880a246c57"
+  },
+  "chatdrug_main.py": {
+    "source": "G:\\粲辰\\小分子SMDD\\outputs\\molopt-audit-20260920\\repos\\ChatDrug\\main_ChatDrug.py",
+    "sha256": "70af6f5fa7c62d721d0dc798294a4ac672c671a1ce28ce9c0ce507932e500ba2"
+  },
+  "chatdrug_utils.py": {
+    "source": "G:\\粲辰\\小分子SMDD\\outputs\\molopt-audit-20260920\\repos\\ChatDrug\\utils.py",
+    "sha256": "de1ba9159934867fd14f7be03beaa3ec7ad755e165d0b0beb2bf1f4117cd171a"
+  },
+  "chatdrug_parser.py": {
+    "source": "G:\\粲辰\\小分子SMDD\\outputs\\molopt-audit-20260920\\repos\\ChatDrug\\ChatDrug\\task_and_evaluation\\small_molecule_editing.py",
+    "sha256": "343cab327297db6a84c51e9f92b6d8b00102b07d7753ff0835535b38100e3498"
+  },
+  "agentdrug_core.py": {
+    "source": "G:\\粲辰\\小分子SMDD\\outputs\\agentdrug-20260922\\core_fixed.py",
+    "sha256": "27ea4dba5b24106e8ad60f42826ef7d554d523385710fb41005aa282372dfb9d"
+  },
+  "agentdrug_core_original.py": {
+    "source": "G:\\粲辰\\小分子SMDD\\outputs\\agentdrug-20260922\\core_original.py",
+    "sha256": "70b1b25ba36db072f993e34e8d5cb979741d32314414bcb96b914dd536d41d83"
+  }
+}

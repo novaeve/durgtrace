@@ -1,0 +1,15 @@
+{
+  "time": 1791795117.2814498,
+  "pid": 2256028,
+  "assigned": 3760,
+  "completed_preserved": 281,
+  "started_preserved": 416,
+  "config": {
+    "initial_total": 256,
+    "maximum_total": 512,
+    "min_memory_gib": 400,
+    "max_load": 180,
+    "deadline_local": "2026-10-13 08:00 Asia/Shanghai",
+    "policy": "Disjoint untouched cases; count actual live processes instead of queued retry IDs; increase 64 slots per 120 healthy seconds; reduce 64 on pressure/errors; existing episodes unchanged"
+  }
+}

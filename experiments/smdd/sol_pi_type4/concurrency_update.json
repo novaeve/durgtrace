@@ -1,0 +1,15 @@
+{
+  "time": 1791352554.2118132,
+  "backup": "/yimin/zlc/sol_pi_type4_20261004/repairs/concurrency_20261007_055553",
+  "agent_workers": 8,
+  "prediction_slots_per_gpu": 2,
+  "total_prediction_slots": 4,
+  "memory_guard_mib": 36000,
+  "admission_interval_seconds": 90,
+  "existing_workers_preserved": true,
+  "existing_terminal_records_unchanged": true,
+  "sources": {
+    "scheduler.py": "fddace886d8ac77c1fb28b42d4dfbb376611d478f5e46e2b2f09eeee13630335",
+    "gpu_slots.py": "fe7e2b28bc63b8a2c6b41b5c86895da2f806f1c2c4753b1f6af3a0d54b54a498"
+  }
+}

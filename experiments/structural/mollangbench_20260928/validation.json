@@ -1,0 +1,4 @@
+{
+  "official_evaluator_cases": 800,
+  "public_cases_exclude_gold_fields": true
+}

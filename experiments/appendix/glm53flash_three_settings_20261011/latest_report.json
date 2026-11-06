@@ -1,0 +1,636 @@
+{
+  "model": "glm-5.3-flash",
+  "reasoning_effort": "low",
+  "expected": 29400,
+  "processed": 25823,
+  "phase": "running",
+  "evaluation": "Official S2 strict direction only, no amplitude or similarity threshold, one final molecule",
+  "task_workers": 80,
+  "api_concurrency_max": 112,
+  "allocation": {
+    "Codex": 64,
+    "GLM_direct": 16
+  },
+  "methods": {
+    "MolLingo": {
+      "processed": 4200,
+      "expected": 4200,
+      "state": {
+        "phase": "complete",
+        "processed": 4200,
+        "expected": 4200,
+        "error_count": 0,
+        "model": "glm-5.3-flash",
+        "time": 1791655244.3913884
+      },
+      "groups": [
+        {
+          "setting": "1_original_chatdrug",
+          "property": "LogP",
+          "expected": 800,
+          "processed": 800,
+          "success": 346,
+          "statuses": {
+            "complete": 800
+          }
+        },
+        {
+          "setting": "1_original_chatdrug",
+          "property": "QED",
+          "expected": 800,
+          "processed": 800,
+          "success": 282,
+          "statuses": {
+            "complete": 800
+          }
+        },
+        {
+          "setting": "2_s2_prompt_chatdrug",
+          "property": "LogP",
+          "expected": 800,
+          "processed": 800,
+          "success": 639,
+          "statuses": {
+            "complete": 800
+          }
+        },
+        {
+          "setting": "2_s2_prompt_chatdrug",
+          "property": "QED",
+          "expected": 800,
+          "processed": 800,
+          "success": 502,
+          "statuses": {
+            "complete": 800
+          }
+        },
+        {
+          "setting": "3_original_s2",
+          "property": "LogP",
+          "expected": 500,
+          "processed": 500,
+          "success": 342,
+          "statuses": {
+            "complete": 500
+          }
+        },
+        {
+          "setting": "3_original_s2",
+          "property": "QED",
+          "expected": 500,
+          "processed": 500,
+          "success": 279,
+          "statuses": {
+            "complete": 500
+          }
+        }
+      ],
+      "errors": {},
+      "host": "159.138.92.174",
+      "path": "/home/chenfuxin/glm53flash_three_settings_20261011/lingo_sol"
+    },
+    "ChatDrug": {
+      "processed": 4200,
+      "expected": 4200,
+      "state": {
+        "phase": "complete",
+        "processed": 8400,
+        "expected": 8400,
+        "model": "glm-5.3-flash",
+        "workers": 24,
+        "error_count": 0,
+        "time": 1791653091.0780382
+      },
+      "groups": [
+        {
+          "setting": "1_original_chatdrug",
+          "property": "LogP",
+          "expected": 800,
+          "processed": 800,
+          "success": 717,
+          "statuses": {
+            "complete": 800
+          }
+        },
+        {
+          "setting": "1_original_chatdrug",
+          "property": "QED",
+          "expected": 800,
+          "processed": 800,
+          "success": 637,
+          "statuses": {
+            "complete": 794,
+            "provider_limit": 6
+          }
+        },
+        {
+          "setting": "2_s2_prompt_chatdrug",
+          "property": "LogP",
+          "expected": 800,
+          "processed": 800,
+          "success": 722,
+          "statuses": {
+            "complete": 799,
+            "provider_limit": 1
+          }
+        },
+        {
+          "setting": "2_s2_prompt_chatdrug",
+          "property": "QED",
+          "expected": 800,
+          "processed": 800,
+          "success": 641,
+          "statuses": {
+            "complete": 794,
+            "provider_limit": 6
+          }
+        },
+        {
+          "setting": "3_original_s2",
+          "property": "LogP",
+          "expected": 500,
+          "processed": 500,
+          "success": 460,
+          "statuses": {
+            "complete": 499,
+            "provider_limit": 1
+          }
+        },
+        {
+          "setting": "3_original_s2",
+          "property": "QED",
+          "expected": 500,
+          "processed": 500,
+          "success": 412,
+          "statuses": {
+            "complete": 498,
+            "provider_limit": 2
+          }
+        }
+      ],
+      "errors": {},
+      "host": "123.157.219.189",
+      "path": "/data/chenfuxin/glm53flash_three_settings_20261011/agents"
+    },
+    "AgentDrug": {
+      "processed": 4200,
+      "expected": 4200,
+      "state": {
+        "phase": "complete",
+        "processed": 8400,
+        "expected": 8400,
+        "model": "glm-5.3-flash",
+        "workers": 24,
+        "error_count": 0,
+        "time": 1791653091.0780382
+      },
+      "groups": [
+        {
+          "setting": "1_original_chatdrug",
+          "property": "LogP",
+          "expected": 800,
+          "processed": 800,
+          "success": 794,
+          "statuses": {
+            "complete": 800
+          }
+        },
+        {
+          "setting": "1_original_chatdrug",
+          "property": "QED",
+          "expected": 800,
+          "processed": 800,
+          "success": 708,
+          "statuses": {
+            "complete": 800
+          }
+        },
+        {
+          "setting": "2_s2_prompt_chatdrug",
+          "property": "LogP",
+          "expected": 800,
+          "processed": 800,
+          "success": 795,
+          "statuses": {
+            "complete": 800
+          }
+        },
+        {
+          "setting": "2_s2_prompt_chatdrug",
+          "property": "QED",
+          "expected": 800,
+          "processed": 800,
+          "success": 750,
+          "statuses": {
+            "complete": 800
+          }
+        },
+        {
+          "setting": "3_original_s2",
+          "property": "LogP",
+          "expected": 500,
+          "processed": 500,
+          "success": 500,
+          "statuses": {
+            "complete": 500
+          }
+        },
+        {
+          "setting": "3_original_s2",
+          "property": "QED",
+          "expected": 500,
+          "processed": 500,
+          "success": 493,
+          "statuses": {
+            "complete": 500
+          }
+        }
+      ],
+      "errors": {},
+      "host": "123.157.219.189",
+      "path": "/data/chenfuxin/glm53flash_three_settings_20261011/agents"
+    },
+    "MolClaw": {
+      "processed": 4200,
+      "expected": 4200,
+      "state": {
+        "phase": "complete",
+        "processed": 4200,
+        "expected": 4200,
+        "error_count": 0,
+        "model": "glm-5.3-flash",
+        "time": 1791702138.3113556,
+        "upstream": "https://tok.fan/v1",
+        "provider_epoch": "relay_1791701288"
+      },
+      "groups": [
+        {
+          "setting": "1_original_chatdrug",
+          "property": "LogP",
+          "expected": 800,
+          "processed": 800,
+          "success": 798,
+          "statuses": {
+            "complete": 800
+          }
+        },
+        {
+          "setting": "1_original_chatdrug",
+          "property": "QED",
+          "expected": 800,
+          "processed": 800,
+          "success": 779,
+          "statuses": {
+            "complete": 800
+          }
+        },
+        {
+          "setting": "2_s2_prompt_chatdrug",
+          "property": "LogP",
+          "expected": 800,
+          "processed": 800,
+          "success": 800,
+          "statuses": {
+            "complete": 800
+          }
+        },
+        {
+          "setting": "2_s2_prompt_chatdrug",
+          "property": "QED",
+          "expected": 800,
+          "processed": 800,
+          "success": 796,
+          "statuses": {
+            "complete": 800
+          }
+        },
+        {
+          "setting": "3_original_s2",
+          "property": "LogP",
+          "expected": 500,
+          "processed": 500,
+          "success": 500,
+          "statuses": {
+            "complete": 500
+          }
+        },
+        {
+          "setting": "3_original_s2",
+          "property": "QED",
+          "expected": 500,
+          "processed": 500,
+          "success": 500,
+          "statuses": {
+            "complete": 500
+          }
+        }
+      ],
+      "errors": {},
+      "host": "123.157.219.189",
+      "path": "/data/chenfuxin/glm53flash_three_settings_20261011/molclaw"
+    },
+    "SoL-Pi": {
+      "processed": 4200,
+      "expected": 4200,
+      "state": {
+        "phase": "attention_required",
+        "processed": 4200,
+        "expected": 4200,
+        "error_count": 1,
+        "model": "glm-5.3-flash",
+        "time": 1791702138.3117082,
+        "upstream": "https://tok.fan/v1",
+        "provider_epoch": "relay_1791701288"
+      },
+      "groups": [
+        {
+          "setting": "1_original_chatdrug",
+          "property": "LogP",
+          "expected": 800,
+          "processed": 800,
+          "success": 794,
+          "statuses": {
+            "complete": 800
+          }
+        },
+        {
+          "setting": "1_original_chatdrug",
+          "property": "QED",
+          "expected": 800,
+          "processed": 800,
+          "success": 662,
+          "statuses": {
+            "complete": 800
+          }
+        },
+        {
+          "setting": "2_s2_prompt_chatdrug",
+          "property": "LogP",
+          "expected": 800,
+          "processed": 800,
+          "success": 800,
+          "statuses": {
+            "complete": 800
+          }
+        },
+        {
+          "setting": "2_s2_prompt_chatdrug",
+          "property": "QED",
+          "expected": 800,
+          "processed": 800,
+          "success": 796,
+          "statuses": {
+            "complete": 800
+          }
+        },
+        {
+          "setting": "3_original_s2",
+          "property": "LogP",
+          "expected": 500,
+          "processed": 500,
+          "success": 499,
+          "statuses": {
+            "complete": 500
+          }
+        },
+        {
+          "setting": "3_original_s2",
+          "property": "QED",
+          "expected": 500,
+          "processed": 500,
+          "success": 496,
+          "statuses": {
+            "complete": 499,
+            "error": 1
+          }
+        }
+      ],
+      "errors": {
+        "Provider finish_reason: sensitive": 1
+      },
+      "host": "123.157.219.189",
+      "path": "/data/chenfuxin/glm53flash_three_settings_20261011/lingo_sol"
+    },
+    "Codex": {
+      "processed": 623,
+      "expected": 4200,
+      "state": {
+        "phase": "full",
+        "model": "glm-5.3-flash",
+        "workers": 64,
+        "time": 1791702564.0694673
+      },
+      "groups": [
+        {
+          "setting": "1_original_chatdrug",
+          "property": "LogP",
+          "expected": 800,
+          "processed": 130,
+          "success": 130,
+          "statuses": {
+            "complete": 130
+          }
+        },
+        {
+          "setting": "1_original_chatdrug",
+          "property": "QED",
+          "expected": 800,
+          "processed": 126,
+          "success": 119,
+          "statuses": {
+            "complete": 126
+          }
+        },
+        {
+          "setting": "2_s2_prompt_chatdrug",
+          "property": "LogP",
+          "expected": 800,
+          "processed": 125,
+          "success": 124,
+          "statuses": {
+            "complete": 125
+          }
+        },
+        {
+          "setting": "2_s2_prompt_chatdrug",
+          "property": "QED",
+          "expected": 800,
+          "processed": 121,
+          "success": 118,
+          "statuses": {
+            "complete": 120,
+            "error": 1
+          }
+        },
+        {
+          "setting": "3_original_s2",
+          "property": "LogP",
+          "expected": 500,
+          "processed": 62,
+          "success": 62,
+          "statuses": {
+            "complete": 62
+          }
+        },
+        {
+          "setting": "3_original_s2",
+          "property": "QED",
+          "expected": 500,
+          "processed": 59,
+          "success": 58,
+          "statuses": {
+            "complete": 59
+          }
+        }
+      ],
+      "errors": {
+        "{'message': '{\"error\":{\"message\":\"litellm.BadRequestError: OpenAIException - upstream_http_400. Received Model Group=glm-5.3-flash\\\\nAvailable Model Group Fallbacks=None\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"400\"}}'}": 1
+      },
+      "host": "123.157.219.189",
+      "path": "/data/chenfuxin/glm53flash_three_settings_20261011/codex"
+    },
+    "GLM_direct": {
+      "processed": 4200,
+      "expected": 4200,
+      "state": {
+        "phase": "full",
+        "processed": 4200,
+        "expected": 4200,
+        "workers": 16,
+        "generation": "independent_single_response_no_harness",
+        "model": "glm-5.3-flash",
+        "time": 1791702138.3285654,
+        "upstream": "https://tok.fan/v1",
+        "provider_epoch": "relay_1791701288",
+        "uncapped_retry1120": {
+          "phase": "full",
+          "processed": 590,
+          "expected": 1120,
+          "workers": 16,
+          "run_id": "uncapped_retry1120_1791691225175093326",
+          "success": 462,
+          "statuses": {
+            "complete": 590
+          },
+          "output_budget": "provider_default_no_client_token_cap",
+          "time": 1791702630.397769
+        }
+      },
+      "groups": [
+        {
+          "setting": "1_original_chatdrug",
+          "property": "LogP",
+          "expected": 800,
+          "processed": 800,
+          "success": 743,
+          "statuses": {
+            "complete": 800
+          }
+        },
+        {
+          "setting": "1_original_chatdrug",
+          "property": "QED",
+          "expected": 800,
+          "processed": 800,
+          "success": 455,
+          "statuses": {
+            "complete": 800
+          }
+        },
+        {
+          "setting": "2_s2_prompt_chatdrug",
+          "property": "LogP",
+          "expected": 800,
+          "processed": 800,
+          "success": 737,
+          "statuses": {
+            "complete": 773,
+            "provider_limit": 27
+          }
+        },
+        {
+          "setting": "2_s2_prompt_chatdrug",
+          "property": "QED",
+          "expected": 800,
+          "processed": 800,
+          "success": 171,
+          "statuses": {
+            "provider_limit": 555,
+            "complete": 245
+          }
+        },
+        {
+          "setting": "3_original_s2",
+          "property": "LogP",
+          "expected": 500,
+          "processed": 500,
+          "success": 348,
+          "statuses": {
+            "complete": 382,
+            "provider_limit": 118
+          }
+        },
+        {
+          "setting": "3_original_s2",
+          "property": "QED",
+          "expected": 500,
+          "processed": 500,
+          "success": 137,
+          "statuses": {
+            "complete": 187,
+            "provider_limit": 313
+          }
+        }
+      ],
+      "errors": {},
+      "host": "123.157.219.189",
+      "path": "/data/chenfuxin/glm53flash_three_settings_20261011/direct"
+    }
+  },
+  "updated": 1791702703.6650538,
+  "attention": {
+    "SoL-Pi": {
+      "phase": "attention_required",
+      "processed": 4200,
+      "expected": 4200,
+      "error_count": 1,
+      "model": "glm-5.3-flash",
+      "time": 1791702138.3117082,
+      "upstream": "https://tok.fan/v1",
+      "provider_epoch": "relay_1791701288"
+    }
+  },
+  "gateways": {
+    "gateway_state.json": {
+      "model": "glm-5.3-flash",
+      "upstream": "https://tok.fan/v1",
+      "provider_epoch": "relay_1791701288",
+      "max_limit": 96,
+      "active": 32,
+      "limit": 64,
+      "stats": {
+        "requests": 118,
+        "http_200": 96,
+        "prompt_tokens": 601469,
+        "completion_tokens": 71080,
+        "total_tokens": 672726,
+        "dated_snapshot_alias_responses": 16,
+        "http_504": 2,
+        "provider_failures": 2
+      },
+      "halted": null,
+      "time": 1791702703.359325
+    },
+    "gateway_claw_state.json": {
+      "model": "glm-5.3-flash",
+      "upstream": "https://tok.fan/v1",
+      "provider_epoch": "relay_1791701288",
+      "max_limit": 16,
+      "active": 0,
+      "limit": 16,
+      "stats": {},
+      "halted": null,
+      "time": 1791702561.2695076
+    }
+  }
+}

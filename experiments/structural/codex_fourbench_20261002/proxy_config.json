@@ -1,0 +1,1 @@
+{"model_list": [{"model_name": "*", "litellm_params": {"model": "openai/deepseek-v4.1-flash", "use_chat_completions_api": true, "api_base": "http://127.0.0.1:34195/v1", "api_key": "local-only", "temperature": 0, "extra_body": {"enable_thinking": false}}}], "litellm_settings": {"drop_params": true, "set_verbose": false}, "general_settings": {"disable_spend_logs": true}}

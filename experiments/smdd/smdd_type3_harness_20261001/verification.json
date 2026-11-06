@@ -1,0 +1,40 @@
+{
+  "molclaw": {
+    "result": {
+      "status": "complete",
+      "method": "molclaw",
+      "task": "smdd_003_1JVP_1",
+      "exit_code": 0,
+      "calls": 2,
+      "tokens": 12640,
+      "tool_calls": 1,
+      "boltz_calls": 0,
+      "admet_calls": 0,
+      "submitted": false,
+      "boundary_error": null,
+      "started": 1790863274.1051207,
+      "ended": 1790863296.4054227
+    },
+    "verified_calls": 2,
+    "reasoning_chars": 318
+  },
+  "codex": {
+    "result": {
+      "status": "complete",
+      "method": "codex",
+      "task": "smdd_003_1JVP_1",
+      "exit_code": 0,
+      "calls": 3,
+      "tokens": 24203,
+      "tool_calls": 2,
+      "boltz_calls": 0,
+      "admet_calls": 0,
+      "submitted": false,
+      "boundary_error": null,
+      "started": 1790863272.033071,
+      "ended": 1790863301.445598
+    },
+    "verified_calls": 3,
+    "reasoning_chars": 385
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "model": "glm-5.3-flash",
+  "provider": "Official BigModel API via shared adaptive loopback gateway",
+  "methods": [
+    "ChatDrug",
+    "AgentDrug"
+  ],
+  "expected_per_method": 4200,
+  "expected_total": 8400,
+  "workers_total": 24,
+  "temperature": 0,
+  "reasoning_effort": "low",
+  "settings": {
+    "1_original_chatdrug": {
+      "count": 1600,
+      "properties": {
+        "LogP": 800,
+        "QED": 800
+      },
+      "reference_root": "/home/chenfuxin/glm53flash_three_settings_20261011/runtime/molopt_original_bailian_20261007"
+    },
+    "2_s2_prompt_chatdrug": {
+      "count": 1600,
+      "properties": {
+        "LogP": 800,
+        "QED": 800
+      },
+      "reference_root": "/home/chenfuxin/glm53flash_three_settings_20261011/runtime/chatdrug_prompt_aligned_bailian_20261006"
+    },
+    "3_original_s2": {
+      "count": 1000,
+      "properties": {
+        "LogP": 500,
+        "QED": 500
+      },
+      "reference_root": "/home/chenfuxin/glm53flash_three_settings_20261011/runtime/molopt_original_bailian_20261007"
+    }
+  },
+  "initialization": "Exact copied DeepSeek reference case dictionaries; setting2 changes only to its existing canonical S2 initialization template.",
+  "online_policy": "Preserve native ChatDrug/AgentDrug parsers, retrieval, feedback, stopping, validity handling, original thresholds and source Kekulize. S2 cases retain their native S2 initialization.",
+  "final_evaluation": "All three settings use official S2 descriptors without Kekulize; strict direction only; no amplitude or similarity cutoff; one final agent-selected molecule.",
+  "caps": {
+    "ChatDrug": 2048,
+    "AgentDrug": 256
+  },
+  "chatdrug_rounds": 3,
+  "agentdrug_refine_steps_single": 3,
+  "discarded_unrequested_arm": "Independent-three postprocessing removed after native ChatDrug final output; shared first-response metadata retained without extra calls.",
+  "pilot": "20 cases per agent: 8 original source, 8 aligned source, 4 S2 direction/property representatives; reuse in full.",
+  "jobs_sha256": "51920261683856cf9c2883005f20ed3b754a6af2e9c4e79d27d9975b7249b9c9",
+  "common_sha256": "b5472772b9cd5295b1964a616448e8594c5daa8b0fd18da963692b0b60f7be1c",
+  "native_chat_sha256": "04157f6986af2a201c841b2add7b4bcaf7454ff1f4763eda8c13fa0a26724f0c",
+  "frozen_dependencies": {
+    "/data2/chenfuxin/chatdrug_generalization_20260920/full_case.py": "76bbb86f1f9a299a77646611f273d32db319f69a17c4491f013801721830d45f",
+    "/data2/chenfuxin/chatdrug_generalization_20260920/full_experiment.py": "0998f12f5f4da4910606d6c2aca85befe91103775c7b9f64793fea99dbf7375d",
+    "/data2/chenfuxin/chatdrug_generalization_20260920/pilot.py": "0294a4125863744543545e9de6c7665646f17ba7442c1c4d6926fb856ba52331",
+    "/data2/chenfuxin/chatdrug_generalization_20260920/deepseek_check.py": "bc3de4735708ab814b38637aa038b503c7f56abc7745902785e9788fd71d18de",
+    "/data2/chenfuxin/agentdrug_20260922/runner.py": "24aee817f4293dac507fcd66cadd5755aea290c48df968ba042d1d3a227b571c",
+    "/data2/chenfuxin/agentdrug_20260922/core_fixed.py": "27ea4dba5b24106e8ad60f42826ef7d554d523385710fb41005aa282372dfb9d"
+  },
+  "retrieval_sha256": "1afbd924a27da85debd31859ffa0574d2f1cfc418760638b3ef59d03c7a56748",
+  "code_hashes": {
+    "setup.py": "3a9c612164434c9ff1c09b4dbf4aee2ac2115381c01d493bfd8835c632ca725a",
+    "test_provider.py": "205921458aacc4781fec0cc74d5c7d63545c2fb5d83dc6c18781184a87ab34a8",
+    "chat_native.py": "04157f6986af2a201c841b2add7b4bcaf7454ff1f4763eda8c13fa0a26724f0c",
+    "provider.py": "6e83a25d05fd36e6fc6ad39eb5857d6b4f867918ace77cbecff707684240bea3",
+    "common.py": "b5472772b9cd5295b1964a616448e8594c5daa8b0fd18da963692b0b60f7be1c",
+    "run.py": "327f4b7c60feacdbbf914bf813989f5ad7a68b614ba1a21c1d9afb34631fb722"
+  },
+  "source_manifest": {
+    "model": "glm-5.3-flash",
+    "provider": "tok.fan; previously user-authorized key",
+    "methods": [
+      "ChatDrug",
+      "AgentDrug"
+    ],
+    "expected_per_method": 4200,
+    "expected_total": 8400,
+    "workers_total": 8,
+    "temperature": 0,
+    "reasoning_effort": "none",
+    "settings": {
+      "1_original_chatdrug": {
+        "count": 1600,
+        "properties": {
+          "LogP": 800,
+          "QED": 800
+        },
+        "reference_root": "/home/chenfuxin/glm53flash_three_settings_20261011/runtime/molopt_original_bailian_20261007"
+      },
+      "2_s2_prompt_chatdrug": {
+        "count": 1600,
+        "properties": {
+          "LogP": 800,
+          "QED": 800
+        },
+        "reference_root": "/home/chenfuxin/glm53flash_three_settings_20261011/runtime/chatdrug_prompt_aligned_bailian_20261006"
+      },
+      "3_original_s2": {
+        "count": 1000,
+        "properties": {
+          "LogP": 500,
+          "QED": 500
+        },
+        "reference_root": "/home/chenfuxin/glm53flash_three_settings_20261011/runtime/molopt_original_bailian_20261007"
+      }
+    },
+    "initialization": "Exact copied DeepSeek reference case dictionaries; setting2 changes only to its existing canonical S2 initialization template.",
+    "online_policy": "Preserve native ChatDrug/AgentDrug parsers, retrieval, feedback, stopping, validity handling, original thresholds and source Kekulize. S2 cases retain their native S2 initialization.",
+    "final_evaluation": "All three settings use official S2 descriptors without Kekulize; strict direction only; no amplitude or similarity cutoff; one final agent-selected molecule.",
+    "caps": {
+      "ChatDrug": 2048,
+      "AgentDrug": 256
+    },
+    "chatdrug_rounds": 3,
+    "agentdrug_refine_steps_single": 3,
+    "discarded_unrequested_arm": "Independent-three postprocessing removed after native ChatDrug final output; shared first-response metadata retained without extra calls.",
+    "pilot": "20 cases per agent: 8 original source, 8 aligned source, 4 S2 direction/property representatives; reuse in full.",
+    "jobs_sha256": "51920261683856cf9c2883005f20ed3b754a6af2e9c4e79d27d9975b7249b9c9",
+    "common_sha256": "b5472772b9cd5295b1964a616448e8594c5daa8b0fd18da963692b0b60f7be1c",
+    "native_chat_sha256": "04157f6986af2a201c841b2add7b4bcaf7454ff1f4763eda8c13fa0a26724f0c",
+    "frozen_dependencies": {
+      "/home/chenfuxin/glm53flash_three_settings_20261011/runtime/chatdrug_generalization_20260920/full_case.py": "76bbb86f1f9a299a77646611f273d32db319f69a17c4491f013801721830d45f",
+      "/home/chenfuxin/glm53flash_three_settings_20261011/runtime/chatdrug_generalization_20260920/full_experiment.py": "0998f12f5f4da4910606d6c2aca85befe91103775c7b9f64793fea99dbf7375d",
+      "/home/chenfuxin/glm53flash_three_settings_20261011/runtime/chatdrug_generalization_20260920/pilot.py": "0294a4125863744543545e9de6c7665646f17ba7442c1c4d6926fb856ba52331",
+      "/home/chenfuxin/glm53flash_three_settings_20261011/runtime/chatdrug_generalization_20260920/deepseek_check.py": "bc3de4735708ab814b38637aa038b503c7f56abc7745902785e9788fd71d18de",
+      "/home/chenfuxin/glm53flash_three_settings_20261011/runtime/agentdrug_20260922/runner.py": "24aee817f4293dac507fcd66cadd5755aea290c48df968ba042d1d3a227b571c",
+      "/home/chenfuxin/glm53flash_three_settings_20261011/runtime/agentdrug_20260922/core_fixed.py": "27ea4dba5b24106e8ad60f42826ef7d554d523385710fb41005aa282372dfb9d"
+    },
+    "retrieval_sha256": "1afbd924a27da85debd31859ffa0574d2f1cfc418760638b3ef59d03c7a56748",
+    "code_hashes": {
+      "setup.py": "06b55d0fcfd51b6e57f6c5d2d5ef49ba58f67084deabb3963e0312f05dee6cb5",
+      "chat_native.py": "04157f6986af2a201c841b2add7b4bcaf7454ff1f4763eda8c13fa0a26724f0c",
+      "test_provider.py": "3b38d970722e0377a15ba779e5e16b86abd96eb3ee5ecdec85aac64acc857a08",
+      "common.py": "b5472772b9cd5295b1964a616448e8594c5daa8b0fd18da963692b0b60f7be1c",
+      "run.py": "d0c847973c2598fd74eb6744efd19353e8978962dac34cb0312e7501451d5164",
+      "provider.py": "f67e041690ade66a6ecbcb05bb01aee142a1480ac70a94e25127d53fb7675f11"
+    }
+  },
+  "workers": 16,
+  "cpu_host": "159.138.92.174",
+  "migration": "Only runtime paths, model/provider and concurrency changed; native parsers, budgets, cases and evaluation retained.",
+  "sandbox_migration": "CPU AppArmor disallows unprivileged Bubblewrap. SoL-Pi uses a read-only Ubuntu24 Docker container, same allowlisted code/library mounts, private workdir, no API keys/evaluators/reference results. 1 CPU, 2GiB, all capabilities dropped.",
+  "host": "123.157.219.189",
+  "executor": "24 independent fork worker processes; native execution unchanged; completed CPU checkpoints preserved."
+}

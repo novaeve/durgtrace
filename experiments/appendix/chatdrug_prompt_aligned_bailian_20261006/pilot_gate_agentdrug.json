@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "cases_per_method": 28,
+  "methods": [
+    "AgentDrug"
+  ],
+  "prompt_checked_in_real_requests": true,
+  "failures": [],
+  "updated_utc": "2026-10-06T12:57:57.010746+00:00"
+}

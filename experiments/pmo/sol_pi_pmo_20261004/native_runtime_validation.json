@@ -1,0 +1,69 @@
+{
+  "accepted": true,
+  "proofs": [
+    {
+      "task": "qed",
+      "provider": "pmo-deepseek",
+      "model": "deepseek-v4.1-flash",
+      "flags": {
+        "version": 1,
+        "actionFusion": true,
+        "observationPack": true,
+        "evidencePreservingReducer": true,
+        "onlineContextCompact": true,
+        "evidencePreservingReducerProvider": "pmo-deepseek",
+        "evidencePreservingReducerModel": "deepseek-v4.1-flash",
+        "cacheWriteReadRatio": 12.5
+      },
+      "edit_then_run": true,
+      "write_then_run": true,
+      "obs_recall": true,
+      "native_plan": true,
+      "provider_responses_checked": 6,
+      "all_response_models_matched": true
+    },
+    {
+      "task": "amlodipine_mpo",
+      "provider": "pmo-deepseek",
+      "model": "deepseek-v4.1-flash",
+      "flags": {
+        "version": 1,
+        "actionFusion": true,
+        "observationPack": true,
+        "evidencePreservingReducer": true,
+        "onlineContextCompact": true,
+        "evidencePreservingReducerProvider": "pmo-deepseek",
+        "evidencePreservingReducerModel": "deepseek-v4.1-flash",
+        "cacheWriteReadRatio": 12.5
+      },
+      "edit_then_run": true,
+      "write_then_run": true,
+      "obs_recall": true,
+      "native_plan": true,
+      "provider_responses_checked": 8,
+      "all_response_models_matched": true
+    },
+    {
+      "task": "celecoxib_rediscovery",
+      "provider": "pmo-deepseek",
+      "model": "deepseek-v4.1-flash",
+      "flags": {
+        "version": 1,
+        "actionFusion": true,
+        "observationPack": true,
+        "evidencePreservingReducer": true,
+        "onlineContextCompact": true,
+        "evidencePreservingReducerProvider": "pmo-deepseek",
+        "evidencePreservingReducerModel": "deepseek-v4.1-flash",
+        "cacheWriteReadRatio": 12.5
+      },
+      "edit_then_run": true,
+      "write_then_run": true,
+      "obs_recall": true,
+      "native_plan": true,
+      "provider_responses_checked": 5,
+      "all_response_models_matched": true
+    }
+  ],
+  "time": 1791104704.669267
+}

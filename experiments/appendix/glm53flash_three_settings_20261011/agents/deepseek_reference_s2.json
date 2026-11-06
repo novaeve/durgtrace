@@ -1,0 +1,98 @@
+[
+  {
+    "method": "ChatDrug",
+    "setting": "1_original_chatdrug",
+    "property": "LogP",
+    "expected": 800,
+    "success": 629,
+    "rate": 0.78625
+  },
+  {
+    "method": "ChatDrug",
+    "setting": "1_original_chatdrug",
+    "property": "QED",
+    "expected": 800,
+    "success": 585,
+    "rate": 0.73125
+  },
+  {
+    "method": "ChatDrug",
+    "setting": "2_s2_prompt_chatdrug",
+    "property": "LogP",
+    "expected": 800,
+    "success": 701,
+    "rate": 0.87625
+  },
+  {
+    "method": "ChatDrug",
+    "setting": "2_s2_prompt_chatdrug",
+    "property": "QED",
+    "expected": 800,
+    "success": 570,
+    "rate": 0.7125
+  },
+  {
+    "method": "ChatDrug",
+    "setting": "3_original_s2",
+    "property": "LogP",
+    "expected": 500,
+    "success": 431,
+    "rate": 0.862
+  },
+  {
+    "method": "ChatDrug",
+    "setting": "3_original_s2",
+    "property": "QED",
+    "expected": 500,
+    "success": 391,
+    "rate": 0.782
+  },
+  {
+    "method": "AgentDrug",
+    "setting": "1_original_chatdrug",
+    "property": "LogP",
+    "expected": 800,
+    "success": 580,
+    "rate": 0.725
+  },
+  {
+    "method": "AgentDrug",
+    "setting": "1_original_chatdrug",
+    "property": "QED",
+    "expected": 800,
+    "success": 672,
+    "rate": 0.84
+  },
+  {
+    "method": "AgentDrug",
+    "setting": "2_s2_prompt_chatdrug",
+    "property": "LogP",
+    "expected": 800,
+    "success": 607,
+    "rate": 0.75875
+  },
+  {
+    "method": "AgentDrug",
+    "setting": "2_s2_prompt_chatdrug",
+    "property": "QED",
+    "expected": 800,
+    "success": 663,
+    "rate": 0.82875
+  },
+  {
+    "method": "AgentDrug",
+    "setting": "3_original_s2",
+    "property": "LogP",
+    "expected": 500,
+    "success": 421,
+    "rate": 0.842
+  },
+  {
+    "method": "AgentDrug",
+    "setting": "3_original_s2",
+    "property": "QED",
+    "expected": 500,
+    "success": 448,
+    "rate": 0.896
+  }
+]

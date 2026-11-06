@@ -1,0 +1,733 @@
+[
+  {
+    "bundle": "chatdrug_generalization_20260920",
+    "entry": "full_experiment.py",
+    "path": "experiments/property/chatdrug_generalization_20260920/full_experiment.py",
+    "declared_cli_arguments": [
+      "action"
+    ],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "agentdrug_20260922",
+    "entry": "runner.py",
+    "path": "experiments/property/agentdrug_20260922/runner.py",
+    "declared_cli_arguments": [
+      "stage"
+    ],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "molingo_20260922",
+    "entry": "single_bailian_runner.py",
+    "path": "experiments/property/molingo_20260922/single_bailian_runner.py",
+    "declared_cli_arguments": [
+      "stage"
+    ],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "molingo_20260922",
+    "entry": "single_runner.py",
+    "path": "experiments/property/molingo_20260922/single_runner.py",
+    "declared_cli_arguments": [
+      "stage"
+    ],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "molclaw_20260924",
+    "entry": "benchmark_runner.py",
+    "path": "experiments/property/molclaw_20260924/benchmark_runner.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "molclaw_chatdrug",
+    "entry": "worker.py",
+    "path": "experiments/property/molclaw_chatdrug/worker.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "molclaw_chatdrug",
+    "entry": "claw_agent.py",
+    "path": "experiments/property/molclaw_chatdrug/claw_agent.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "sol_pi_chatdrug_molopt_20261007",
+    "entry": "pipeline.py",
+    "path": "experiments/property/sol_pi_chatdrug_molopt_20261007/pipeline.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "sol_pi_chatdrug_molopt_20261007",
+    "entry": "run.py",
+    "path": "experiments/property/sol_pi_chatdrug_molopt_20261007/run.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "codex_chatdrug_s2init_bailian_20261010",
+    "entry": "driver.py",
+    "path": "experiments/property/codex_chatdrug_s2init_bailian_20261010/driver.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "codex_chatdrug_s2init_bailian_20261010",
+    "entry": "offline.py",
+    "path": "experiments/property/codex_chatdrug_s2init_bailian_20261010/offline.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "molopt_original_bailian_20261007",
+    "entry": "run.py",
+    "path": "experiments/property/molopt_original_bailian_20261007/run.py",
+    "declared_cli_arguments": [
+      "command",
+      "--lane",
+      "--workers"
+    ],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "s2_edit_custom_20260928",
+    "entry": "runner.py",
+    "path": "experiments/structural/s2_edit_custom_20260928/runner.py",
+    "declared_cli_arguments": [
+      "stage",
+      "method",
+      "--workers"
+    ],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "s2_edit_custom_20260928",
+    "entry": "benchmark.py",
+    "path": "experiments/structural/s2_edit_custom_20260928/benchmark.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "mollangbench_20260928",
+    "entry": "no_rules_v2/run_agents.py",
+    "path": "experiments/structural/mollangbench_20260928/no_rules_v2/run_agents.py",
+    "declared_cli_arguments": [
+      "stage",
+      "method"
+    ],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "mollangbench_20260928",
+    "entry": "run_direct.py",
+    "path": "experiments/structural/mollangbench_20260928/run_direct.py",
+    "declared_cli_arguments": [
+      "stage"
+    ],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "mollangbench_20260928",
+    "entry": "score.py",
+    "path": "experiments/structural/mollangbench_20260928/score.py",
+    "declared_cli_arguments": [
+      "stage",
+      "--method"
+    ],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "molclaw_fourbench_20260929",
+    "entry": "run.py",
+    "path": "experiments/structural/molclaw_fourbench_20260929/run.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "molclaw_fourbench_20260929",
+    "entry": "score.py",
+    "path": "experiments/structural/molclaw_fourbench_20260929/score.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "codex_fourbench_20261002",
+    "entry": "run.py",
+    "path": "experiments/structural/codex_fourbench_20261002/run.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "codex_fourbench_20261002",
+    "entry": "score.py",
+    "path": "experiments/structural/codex_fourbench_20261002/score.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "sol_pi_fourbench_20261005",
+    "entry": "pipeline.py",
+    "path": "experiments/structural/sol_pi_fourbench_20261005/pipeline.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "sol_pi_fourbench_20261005",
+    "entry": "run.py",
+    "path": "experiments/structural/sol_pi_fourbench_20261005/run.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "pmo_1k_20260924",
+    "entry": "run_pmo.py",
+    "path": "experiments/pmo/pmo_1k_20260924/run_pmo.py",
+    "declared_cli_arguments": [
+      "action",
+      "--method",
+      "--task",
+      "--seed",
+      "--stage",
+      "--budget"
+    ],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "pmo_submission_20260925",
+    "entry": "run_direct.py",
+    "path": "experiments/pmo/pmo_submission_20260925/run_direct.py",
+    "declared_cli_arguments": [
+      "action",
+      "--task"
+    ],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "pmo_submission_20260925",
+    "entry": "run_editors.py",
+    "path": "experiments/pmo/pmo_submission_20260925/run_editors.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "pmo_submission_20260925",
+    "entry": "audit_top10_auc.py",
+    "path": "experiments/pmo/pmo_submission_20260925/audit_top10_auc.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "pmo_reference_free_1k_20261004",
+    "entry": "continuous.py",
+    "path": "experiments/pmo/pmo_reference_free_1k_20261004/continuous.py",
+    "declared_cli_arguments": [
+      "action",
+      "--method",
+      "--task",
+      "--stage",
+      "--budget",
+      "--quantum",
+      "--workers"
+    ],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "molclaw_pmo_20260929_v3",
+    "entry": "trajectory.py",
+    "path": "experiments/pmo/molclaw_pmo_20260929_v3/trajectory.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "codex_pmo_20261003",
+    "entry": "run.py",
+    "path": "experiments/pmo/codex_pmo_20261003/run.py",
+    "declared_cli_arguments": [
+      "stage"
+    ],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "codex_pmo_20261003",
+    "entry": "aggregate_auc_tailfilled.py",
+    "path": "experiments/pmo/codex_pmo_20261003/aggregate_auc_tailfilled.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "sol_pi_pmo_20261004",
+    "entry": "run.py",
+    "path": "experiments/pmo/sol_pi_pmo_20261004/run.py",
+    "declared_cli_arguments": [
+      "stage"
+    ],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "sol_pi_pmo_rerun7_20261005",
+    "entry": "run.py",
+    "path": "experiments/pmo/sol_pi_pmo_rerun7_20261005/run.py",
+    "declared_cli_arguments": [
+      "stage"
+    ],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "sol_pi_pmo_rerun7_20261005",
+    "entry": "segment_policy.py",
+    "path": "experiments/pmo/sol_pi_pmo_rerun7_20261005/segment_policy.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "smdd_type2_transfer_20260929",
+    "entry": "run_experiment.py",
+    "path": "experiments/smdd/smdd_type2_transfer_20260929/run_experiment.py",
+    "declared_cli_arguments": [
+      "method",
+      "--pilot"
+    ],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "smdd_type2_transfer_20260929",
+    "entry": "score.py",
+    "path": "experiments/smdd/smdd_type2_transfer_20260929/score.py",
+    "declared_cli_arguments": [
+      "method"
+    ],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "smdd_codex_type2_bailian_20260929",
+    "entry": "run_batch.py",
+    "path": "experiments/smdd/smdd_codex_type2_bailian_20260929/run_batch.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "molclaw_type2_20260929",
+    "entry": "run.py",
+    "path": "experiments/smdd/molclaw_type2_20260929/run.py",
+    "declared_cli_arguments": [
+      "stage"
+    ],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "smdd_type3_transfer_20260930",
+    "entry": "run_experiment.py",
+    "path": "experiments/smdd/smdd_type3_transfer_20260930/run_experiment.py",
+    "declared_cli_arguments": [
+      "method",
+      "--pilot"
+    ],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "smdd_type3_transfer_20260930",
+    "entry": "evaluate.py",
+    "path": "experiments/smdd/smdd_type3_transfer_20260930/evaluate.py",
+    "declared_cli_arguments": [
+      "--once",
+      "--method"
+    ],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "smdd_type3_harness_20261001",
+    "entry": "run.py",
+    "path": "experiments/smdd/smdd_type3_harness_20261001/run.py",
+    "declared_cli_arguments": [
+      "method",
+      "--smoke",
+      "--pilot"
+    ],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "smdd_type3_harness_20261001",
+    "entry": "score.py",
+    "path": "experiments/smdd/smdd_type3_harness_20261001/score.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "smdd_type4_full340_bailian_20260929",
+    "entry": "agentdrug_smdd.py",
+    "path": "experiments/smdd/smdd_type4_full340_bailian_20260929/agentdrug_smdd.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "smdd_type4_full340_bailian_20260929",
+    "entry": "batch.py",
+    "path": "experiments/smdd/smdd_type4_full340_bailian_20260929/batch.py",
+    "declared_cli_arguments": [
+      "method",
+      "--gpu",
+      "--task",
+      "--index"
+    ],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "type4_full340_bailian_20260929",
+    "entry": "batch.py",
+    "path": "experiments/smdd/type4_full340_bailian_20260929/batch.py",
+    "declared_cli_arguments": [
+      "method",
+      "--gpu",
+      "--task",
+      "--index"
+    ],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "smdd_deepseek_codex_type4_20261004",
+    "entry": "run.py",
+    "path": "experiments/smdd/smdd_deepseek_codex_type4_20261004/run.py",
+    "declared_cli_arguments": [
+      "method",
+      "--task",
+      "--smoke"
+    ],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "smdd_deepseek_codex_type4_20261004",
+    "entry": "worker.py",
+    "path": "experiments/smdd/smdd_deepseek_codex_type4_20261004/worker.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "smdd_deepseek_codex_type4_20261004",
+    "entry": "evaluate.py",
+    "path": "experiments/smdd/smdd_deepseek_codex_type4_20261004/evaluate.py",
+    "declared_cli_arguments": [
+      "task",
+      "output"
+    ],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "agent_reproduction_20260928",
+    "entry": "run_type3_batch.py",
+    "path": "experiments/smdd/agent_reproduction_20260928/run_type3_batch.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "agent_reproduction_20260928",
+    "entry": "run_type4_batch.py",
+    "path": "experiments/smdd/agent_reproduction_20260928/run_type4_batch.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "agent_reproduction_20260928",
+    "entry": "run_liddia_type4.py",
+    "path": "experiments/smdd/agent_reproduction_20260928/run_liddia_type4.py",
+    "declared_cli_arguments": [
+      "--task",
+      "--run",
+      "--gpu",
+      "--resume"
+    ],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "liddia_smdd_type3_20261004",
+    "entry": "source/run_type3_batch.py",
+    "path": "experiments/smdd/liddia_smdd_type3_20261004/source/run_type3_batch.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "liddia_smdd_type3_20261004",
+    "entry": "source/run_liddia_type3.py",
+    "path": "experiments/smdd/liddia_smdd_type3_20261004/source/run_liddia_type3.py",
+    "declared_cli_arguments": [
+      "--task",
+      "--run",
+      "--gpu",
+      "--resume"
+    ],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "liddia_smdd_type3_20261004",
+    "entry": "source/evaluate_liddia_type3.py",
+    "path": "experiments/smdd/liddia_smdd_type3_20261004/source/evaluate_liddia_type3.py",
+    "declared_cli_arguments": [
+      "task",
+      "output",
+      "--gpu"
+    ],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "sol_pi_smdd_type2_type3_20261006",
+    "entry": "run.py",
+    "path": "experiments/smdd/sol_pi_smdd_type2_type3_20261006/run.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "sol_pi_smdd_type2_type3_20261006",
+    "entry": "group_pipeline.py",
+    "path": "experiments/smdd/sol_pi_smdd_type2_type3_20261006/group_pipeline.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "sol_pi_type2_rerun11_20261007",
+    "entry": "controller.py",
+    "path": "experiments/smdd/sol_pi_type2_rerun11_20261007/controller.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "sol_pi_type2_rerun11_20261007",
+    "entry": "case_worker.py",
+    "path": "experiments/smdd/sol_pi_type2_rerun11_20261007/case_worker.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "molclaw_type4",
+    "entry": "run.py",
+    "path": "experiments/smdd/molclaw_type4/run.py",
+    "declared_cli_arguments": [
+      "--task",
+      "--index",
+      "--smoke"
+    ],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "molclaw_type4",
+    "entry": "evaluate.py",
+    "path": "experiments/smdd/molclaw_type4/evaluate.py",
+    "declared_cli_arguments": [
+      "--once",
+      "--method"
+    ],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "sol_pi_type4",
+    "entry": "run.py",
+    "path": "experiments/smdd/sol_pi_type4/run.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "sol_pi_type4",
+    "entry": "evaluate.py",
+    "path": "experiments/smdd/sol_pi_type4/evaluate.py",
+    "declared_cli_arguments": [
+      "task",
+      "output"
+    ],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "smdd_type3",
+    "entry": "a100_boltz_backend.py",
+    "path": "experiments/smdd/smdd_type3/a100_boltz_backend.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "trace-harness-v1.2-remote-baseline-20260904",
+    "entry": "agent_harness/run.py",
+    "path": "experiments/smdd/trace-harness-v1.2-remote-baseline-20260904/agent_harness/run.py",
+    "declared_cli_arguments": [
+      "--run-name",
+      "--tasks-dir",
+      "--results-dir",
+      "--tasks",
+      "--task-file",
+      "--model",
+      "--gpus",
+      "--workers"
+    ],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "trace-harness-v1.2",
+    "entry": "agent_harness/run.py",
+    "path": "experiments/smdd/trace-harness-v1.2/agent_harness/run.py",
+    "declared_cli_arguments": [
+      "--run-name",
+      "--tasks-dir",
+      "--results-dir",
+      "--tasks",
+      "--task-file",
+      "--model",
+      "--gpus",
+      "--workers"
+    ],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "chatdrug_amplitude_ablation_20261005",
+    "entry": "rescore.py",
+    "path": "experiments/appendix/chatdrug_amplitude_ablation_20261005/rescore.py",
+    "declared_cli_arguments": [
+      "--base",
+      "--out"
+    ],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "chatdrug_amplitude_ablation_20261005",
+    "entry": "rescore_additional.py",
+    "path": "experiments/appendix/chatdrug_amplitude_ablation_20261005/rescore_additional.py",
+    "declared_cli_arguments": [
+      "--base",
+      "--out"
+    ],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "chatdrug_prompt_aligned_bailian_20261006",
+    "entry": "run.py",
+    "path": "experiments/appendix/chatdrug_prompt_aligned_bailian_20261006/run.py",
+    "declared_cli_arguments": [
+      "command",
+      "--lane",
+      "--workers"
+    ],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "chatdrug_prompt_aligned_bailian_20261006",
+    "entry": "rescore_harmonized.py",
+    "path": "experiments/appendix/chatdrug_prompt_aligned_bailian_20261006/rescore_harmonized.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "chatdrug_prompt_aligned_full4_bailian_20261011",
+    "entry": "aggregate.py",
+    "path": "experiments/appendix/chatdrug_prompt_aligned_full4_bailian_20261011/aggregate.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "chatdrug_prompt_aligned_full4_bailian_20261011",
+    "entry": "molclaw/driver.py",
+    "path": "experiments/appendix/chatdrug_prompt_aligned_full4_bailian_20261011/molclaw/driver.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "chatdrug_prompt_aligned_full4_bailian_20261011",
+    "entry": "molingo/driver.py",
+    "path": "experiments/appendix/chatdrug_prompt_aligned_full4_bailian_20261011/molingo/driver.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "chatdrug_prompt_aligned_full4_bailian_20261011",
+    "entry": "sol_pi/driver.py",
+    "path": "experiments/appendix/chatdrug_prompt_aligned_full4_bailian_20261011/sol_pi/driver.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "chatdrug_prompt_aligned_full4_bailian_20261011",
+    "entry": "codex/driver.py",
+    "path": "experiments/appendix/chatdrug_prompt_aligned_full4_bailian_20261011/codex/driver.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "sol_pi_chatdrug_amplitude_ablation_20261008",
+    "entry": "rescore.py",
+    "path": "experiments/appendix/sol_pi_chatdrug_amplitude_ablation_20261008/rescore.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "sol_pi_logp_qed_s2_common_eval_20261008",
+    "entry": "rescore.py",
+    "path": "experiments/appendix/sol_pi_logp_qed_s2_common_eval_20261008/rescore.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "codex_logp_s2_common_eval_20261011",
+    "entry": "rescore.py",
+    "path": "experiments/appendix/codex_logp_s2_common_eval_20261011/rescore.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "codex_chatdrug_amplitude_ablation_20261011",
+    "entry": "rescore.py",
+    "path": "experiments/appendix/codex_chatdrug_amplitude_ablation_20261011/rescore.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "glm53flash_three_settings_20261011",
+    "entry": "agents/run.py",
+    "path": "experiments/appendix/glm53flash_three_settings_20261011/agents/run.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "glm53flash_three_settings_20261011",
+    "entry": "direct_independent.py",
+    "path": "experiments/appendix/glm53flash_three_settings_20261011/direct_independent.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "glm53flash_three_settings_20261011",
+    "entry": "codex_benchmark.py",
+    "path": "experiments/appendix/glm53flash_three_settings_20261011/codex_benchmark.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "glm53flash_three_settings_20261011",
+    "entry": "rescore_direct_chatdrug_setting1.py",
+    "path": "experiments/appendix/glm53flash_three_settings_20261011/rescore_direct_chatdrug_setting1.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "SMDD-Bench",
+    "entry": "agent_harness/run.py",
+    "path": "benchmarks/smdd/agent_harness/run.py",
+    "declared_cli_arguments": [
+      "--run-name",
+      "--tasks-dir",
+      "--results-dir",
+      "--tasks",
+      "--task-file",
+      "--model",
+      "--gpus",
+      "--workers"
+    ],
+    "status": "source_indexed_not_regenerated"
+  },
+  {
+    "bundle": "SMDD-Bench",
+    "entry": "evaluator/eval_entrypoint.py",
+    "path": "benchmarks/smdd/evaluator/eval_entrypoint.py",
+    "declared_cli_arguments": [],
+    "status": "source_indexed_not_regenerated"
+  }
+]

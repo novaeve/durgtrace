@@ -1,0 +1,50 @@
+[
+  {
+    "setting": "1_original_chatdrug",
+    "root": "/data2/chenfuxin/molclaw_20260924/runs/full",
+    "properties": {
+      "LogP": {
+        "processed": 800,
+        "success": 672
+      },
+      "QED": {
+        "processed": 800,
+        "success": 555
+      }
+    },
+    "prompt_comparable": true,
+    "note": "Original task instruction reused."
+  },
+  {
+    "setting": "2_s2_prompt_chatdrug",
+    "root": "/data2/chenfuxin/molecule_s2_prompt_eval_20261007/runs/MolClaw",
+    "properties": {
+      "LogP": {
+        "processed": 800,
+        "success": 798
+      },
+      "QED": {
+        "processed": 800,
+        "success": 791
+      }
+    },
+    "prompt_comparable": false,
+    "note": "Reference aligned MolClaw uses five S2 wording variants; current setting2 matches the preceding GPT6-luna agents canonical initializer."
+  },
+  {
+    "setting": "3_original_s2",
+    "root": "/data2/chenfuxin/molclaw_20260924/runs/full",
+    "properties": {
+      "LogP": {
+        "processed": 500,
+        "success": 485
+      },
+      "QED": {
+        "processed": 500,
+        "success": 483
+      }
+    },
+    "prompt_comparable": true,
+    "note": "Original task instruction reused."
+  }
+]

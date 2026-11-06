@@ -1,0 +1,962 @@
+[
+  {
+    "task": "cd28",
+    "benchmark": "ChatDrug-MolEdit-28",
+    "n": 5600,
+    "metric": "success_percent",
+    "method": "Baseline",
+    "bundle": "chatdrug_generalization_20260920",
+    "source_path": "experiments/property/chatdrug_generalization_20260920",
+    "entrypoints": [
+      "full_experiment.py"
+    ],
+    "paper_table": "2",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "cd28",
+    "benchmark": "ChatDrug-MolEdit-28",
+    "n": 5600,
+    "metric": "success_percent",
+    "method": "ChatDrug",
+    "bundle": "chatdrug_generalization_20260920",
+    "source_path": "experiments/property/chatdrug_generalization_20260920",
+    "entrypoints": [
+      "full_experiment.py"
+    ],
+    "paper_table": "2",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "cd28",
+    "benchmark": "ChatDrug-MolEdit-28",
+    "n": 5600,
+    "metric": "success_percent",
+    "method": "AgentDrug",
+    "bundle": "agentdrug_20260922",
+    "source_path": "experiments/property/agentdrug_20260922",
+    "entrypoints": [
+      "runner.py"
+    ],
+    "paper_table": "2",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "cd28",
+    "benchmark": "ChatDrug-MolEdit-28",
+    "n": 5600,
+    "metric": "success_percent",
+    "method": "MolLingo",
+    "bundle": "molingo_20260922",
+    "source_path": "experiments/property/molingo_20260922",
+    "entrypoints": [
+      "single_bailian_runner.py",
+      "single_runner.py"
+    ],
+    "paper_table": "2",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "cd28",
+    "benchmark": "ChatDrug-MolEdit-28",
+    "n": 5600,
+    "metric": "success_percent",
+    "method": "MolClaw",
+    "bundle": "molclaw_20260924",
+    "source_path": "experiments/property/molclaw_20260924",
+    "entrypoints": [
+      "benchmark_runner.py"
+    ],
+    "paper_table": "2",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "cd28",
+    "benchmark": "ChatDrug-MolEdit-28",
+    "n": 5600,
+    "metric": "success_percent",
+    "method": "SoL-Pi",
+    "bundle": "sol_pi_chatdrug_molopt_20261007",
+    "source_path": "experiments/property/sol_pi_chatdrug_molopt_20261007",
+    "entrypoints": [
+      "pipeline.py",
+      "run.py"
+    ],
+    "paper_table": "2",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "cd28",
+    "benchmark": "ChatDrug-MolEdit-28",
+    "n": 5600,
+    "metric": "success_percent",
+    "method": "Codex",
+    "bundle": "codex_chatdrug_s2init_bailian_20261010",
+    "source_path": "experiments/property/codex_chatdrug_s2init_bailian_20261010",
+    "entrypoints": [
+      "driver.py",
+      "offline.py"
+    ],
+    "paper_table": "2",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "s2_molopt",
+    "benchmark": "S2-miniMolOpt",
+    "n": 1500,
+    "metric": "success_percent",
+    "method": "Baseline",
+    "bundle": "molopt_original_bailian_20261007",
+    "source_path": "experiments/property/molopt_original_bailian_20261007",
+    "entrypoints": [
+      "run.py"
+    ],
+    "paper_table": "2",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "s2_molopt",
+    "benchmark": "S2-miniMolOpt",
+    "n": 1500,
+    "metric": "success_percent",
+    "method": "ChatDrug",
+    "bundle": "molopt_original_bailian_20261007",
+    "source_path": "experiments/property/molopt_original_bailian_20261007",
+    "entrypoints": [
+      "run.py"
+    ],
+    "paper_table": "2",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "s2_molopt",
+    "benchmark": "S2-miniMolOpt",
+    "n": 1500,
+    "metric": "success_percent",
+    "method": "AgentDrug",
+    "bundle": "molopt_original_bailian_20261007",
+    "source_path": "experiments/property/molopt_original_bailian_20261007",
+    "entrypoints": [
+      "run.py"
+    ],
+    "paper_table": "2",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "s2_molopt",
+    "benchmark": "S2-miniMolOpt",
+    "n": 1500,
+    "metric": "success_percent",
+    "method": "MolLingo",
+    "bundle": "molingo_20260922",
+    "source_path": "experiments/property/molingo_20260922",
+    "entrypoints": [
+      "single_bailian_runner.py",
+      "single_runner.py"
+    ],
+    "paper_table": "2",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "s2_molopt",
+    "benchmark": "S2-miniMolOpt",
+    "n": 1500,
+    "metric": "success_percent",
+    "method": "MolClaw",
+    "bundle": "molclaw_20260924",
+    "source_path": "experiments/property/molclaw_20260924",
+    "entrypoints": [
+      "benchmark_runner.py"
+    ],
+    "paper_table": "2",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "s2_molopt",
+    "benchmark": "S2-miniMolOpt",
+    "n": 1500,
+    "metric": "success_percent",
+    "method": "SoL-Pi",
+    "bundle": "sol_pi_chatdrug_molopt_20261007",
+    "source_path": "experiments/property/sol_pi_chatdrug_molopt_20261007",
+    "entrypoints": [
+      "pipeline.py",
+      "run.py"
+    ],
+    "paper_table": "2",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "s2_molopt",
+    "benchmark": "S2-miniMolOpt",
+    "n": 1500,
+    "metric": "success_percent",
+    "method": "Codex",
+    "bundle": "codex_chatdrug_s2init_bailian_20261010",
+    "source_path": "experiments/property/codex_chatdrug_s2init_bailian_20261010",
+    "entrypoints": [
+      "driver.py",
+      "offline.py"
+    ],
+    "paper_table": "2",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "s2_edit",
+    "benchmark": "S2-MolEdit",
+    "n": 1500,
+    "metric": "success_percent",
+    "method": "Baseline",
+    "bundle": "s2_edit_custom_20260928",
+    "source_path": "experiments/structural/s2_edit_custom_20260928",
+    "entrypoints": [
+      "runner.py",
+      "benchmark.py"
+    ],
+    "paper_table": "2",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "s2_edit",
+    "benchmark": "S2-MolEdit",
+    "n": 1500,
+    "metric": "success_percent",
+    "method": "ChatDrug",
+    "bundle": "s2_edit_custom_20260928",
+    "source_path": "experiments/structural/s2_edit_custom_20260928",
+    "entrypoints": [
+      "runner.py",
+      "benchmark.py"
+    ],
+    "paper_table": "2",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "s2_edit",
+    "benchmark": "S2-MolEdit",
+    "n": 1500,
+    "metric": "success_percent",
+    "method": "AgentDrug",
+    "bundle": "s2_edit_custom_20260928",
+    "source_path": "experiments/structural/s2_edit_custom_20260928",
+    "entrypoints": [
+      "runner.py",
+      "benchmark.py"
+    ],
+    "paper_table": "2",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "s2_edit",
+    "benchmark": "S2-MolEdit",
+    "n": 1500,
+    "metric": "success_percent",
+    "method": "MolClaw",
+    "bundle": "molclaw_fourbench_20260929",
+    "source_path": "experiments/structural/molclaw_fourbench_20260929",
+    "entrypoints": [
+      "run.py",
+      "score.py"
+    ],
+    "paper_table": "2",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "s2_edit",
+    "benchmark": "S2-MolEdit",
+    "n": 1500,
+    "metric": "success_percent",
+    "method": "SoL-Pi",
+    "bundle": "sol_pi_fourbench_20261005",
+    "source_path": "experiments/structural/sol_pi_fourbench_20261005",
+    "entrypoints": [
+      "pipeline.py",
+      "run.py"
+    ],
+    "paper_table": "2",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "s2_edit",
+    "benchmark": "S2-MolEdit",
+    "n": 1500,
+    "metric": "success_percent",
+    "method": "Codex",
+    "bundle": "codex_fourbench_20261002",
+    "source_path": "experiments/structural/codex_fourbench_20261002",
+    "entrypoints": [
+      "run.py",
+      "score.py"
+    ],
+    "paper_table": "2",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "s2_custom",
+    "benchmark": "S2-MolCustom",
+    "n": 1500,
+    "metric": "success_percent",
+    "method": "Baseline",
+    "bundle": "s2_edit_custom_20260928",
+    "source_path": "experiments/structural/s2_edit_custom_20260928",
+    "entrypoints": [
+      "runner.py",
+      "benchmark.py"
+    ],
+    "paper_table": "2",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "s2_custom",
+    "benchmark": "S2-MolCustom",
+    "n": 1500,
+    "metric": "success_percent",
+    "method": "ChatDrug",
+    "bundle": "s2_edit_custom_20260928",
+    "source_path": "experiments/structural/s2_edit_custom_20260928",
+    "entrypoints": [
+      "runner.py",
+      "benchmark.py"
+    ],
+    "paper_table": "2",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "s2_custom",
+    "benchmark": "S2-MolCustom",
+    "n": 1500,
+    "metric": "success_percent",
+    "method": "AgentDrug",
+    "bundle": "s2_edit_custom_20260928",
+    "source_path": "experiments/structural/s2_edit_custom_20260928",
+    "entrypoints": [
+      "runner.py",
+      "benchmark.py"
+    ],
+    "paper_table": "2",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "s2_custom",
+    "benchmark": "S2-MolCustom",
+    "n": 1500,
+    "metric": "success_percent",
+    "method": "MolClaw",
+    "bundle": "molclaw_fourbench_20260929",
+    "source_path": "experiments/structural/molclaw_fourbench_20260929",
+    "entrypoints": [
+      "run.py",
+      "score.py"
+    ],
+    "paper_table": "2",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "s2_custom",
+    "benchmark": "S2-MolCustom",
+    "n": 1500,
+    "metric": "success_percent",
+    "method": "SoL-Pi",
+    "bundle": "sol_pi_fourbench_20261005",
+    "source_path": "experiments/structural/sol_pi_fourbench_20261005",
+    "entrypoints": [
+      "pipeline.py",
+      "run.py"
+    ],
+    "paper_table": "2",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "s2_custom",
+    "benchmark": "S2-MolCustom",
+    "n": 1500,
+    "metric": "success_percent",
+    "method": "Codex",
+    "bundle": "codex_fourbench_20261002",
+    "source_path": "experiments/structural/codex_fourbench_20261002",
+    "entrypoints": [
+      "run.py",
+      "score.py"
+    ],
+    "paper_table": "2",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "mollang_edit",
+    "benchmark": "MolLangBench Editing",
+    "n": 400,
+    "metric": "exact_match_percent",
+    "method": "Baseline",
+    "bundle": "mollangbench_20260928",
+    "source_path": "experiments/structural/mollangbench_20260928",
+    "entrypoints": [
+      "no_rules_v2/run_agents.py",
+      "run_direct.py",
+      "score.py"
+    ],
+    "paper_table": "2",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "mollang_edit",
+    "benchmark": "MolLangBench Editing",
+    "n": 400,
+    "metric": "exact_match_percent",
+    "method": "ChatDrug",
+    "bundle": "mollangbench_20260928",
+    "source_path": "experiments/structural/mollangbench_20260928",
+    "entrypoints": [
+      "no_rules_v2/run_agents.py",
+      "run_direct.py",
+      "score.py"
+    ],
+    "paper_table": "2",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "mollang_edit",
+    "benchmark": "MolLangBench Editing",
+    "n": 400,
+    "metric": "exact_match_percent",
+    "method": "AgentDrug",
+    "bundle": "mollangbench_20260928",
+    "source_path": "experiments/structural/mollangbench_20260928",
+    "entrypoints": [
+      "no_rules_v2/run_agents.py",
+      "run_direct.py",
+      "score.py"
+    ],
+    "paper_table": "2",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "mollang_edit",
+    "benchmark": "MolLangBench Editing",
+    "n": 400,
+    "metric": "exact_match_percent",
+    "method": "MolClaw",
+    "bundle": "molclaw_fourbench_20260929",
+    "source_path": "experiments/structural/molclaw_fourbench_20260929",
+    "entrypoints": [
+      "run.py",
+      "score.py"
+    ],
+    "paper_table": "2",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "mollang_edit",
+    "benchmark": "MolLangBench Editing",
+    "n": 400,
+    "metric": "exact_match_percent",
+    "method": "SoL-Pi",
+    "bundle": "sol_pi_fourbench_20261005",
+    "source_path": "experiments/structural/sol_pi_fourbench_20261005",
+    "entrypoints": [
+      "pipeline.py",
+      "run.py"
+    ],
+    "paper_table": "2",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "mollang_edit",
+    "benchmark": "MolLangBench Editing",
+    "n": 400,
+    "metric": "exact_match_percent",
+    "method": "Codex",
+    "bundle": "codex_fourbench_20261002",
+    "source_path": "experiments/structural/codex_fourbench_20261002",
+    "entrypoints": [
+      "run.py",
+      "score.py"
+    ],
+    "paper_table": "2",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "mollang_generation",
+    "benchmark": "MolLangBench Generation",
+    "n": 400,
+    "metric": "exact_match_percent",
+    "method": "Baseline",
+    "bundle": "mollangbench_20260928",
+    "source_path": "experiments/structural/mollangbench_20260928",
+    "entrypoints": [
+      "no_rules_v2/run_agents.py",
+      "run_direct.py",
+      "score.py"
+    ],
+    "paper_table": "2",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "mollang_generation",
+    "benchmark": "MolLangBench Generation",
+    "n": 400,
+    "metric": "exact_match_percent",
+    "method": "ChatDrug",
+    "bundle": "mollangbench_20260928",
+    "source_path": "experiments/structural/mollangbench_20260928",
+    "entrypoints": [
+      "no_rules_v2/run_agents.py",
+      "run_direct.py",
+      "score.py"
+    ],
+    "paper_table": "2",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "mollang_generation",
+    "benchmark": "MolLangBench Generation",
+    "n": 400,
+    "metric": "exact_match_percent",
+    "method": "AgentDrug",
+    "bundle": "mollangbench_20260928",
+    "source_path": "experiments/structural/mollangbench_20260928",
+    "entrypoints": [
+      "no_rules_v2/run_agents.py",
+      "run_direct.py",
+      "score.py"
+    ],
+    "paper_table": "2",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "mollang_generation",
+    "benchmark": "MolLangBench Generation",
+    "n": 400,
+    "metric": "exact_match_percent",
+    "method": "MolClaw",
+    "bundle": "molclaw_fourbench_20260929",
+    "source_path": "experiments/structural/molclaw_fourbench_20260929",
+    "entrypoints": [
+      "run.py",
+      "score.py"
+    ],
+    "paper_table": "2",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "mollang_generation",
+    "benchmark": "MolLangBench Generation",
+    "n": 400,
+    "metric": "exact_match_percent",
+    "method": "SoL-Pi",
+    "bundle": "sol_pi_fourbench_20261005",
+    "source_path": "experiments/structural/sol_pi_fourbench_20261005",
+    "entrypoints": [
+      "pipeline.py",
+      "run.py"
+    ],
+    "paper_table": "2",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "mollang_generation",
+    "benchmark": "MolLangBench Generation",
+    "n": 400,
+    "metric": "exact_match_percent",
+    "method": "Codex",
+    "bundle": "codex_fourbench_20261002",
+    "source_path": "experiments/structural/codex_fourbench_20261002",
+    "entrypoints": [
+      "run.py",
+      "score.py"
+    ],
+    "paper_table": "2",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "pmo",
+    "benchmark": "PMO-1K",
+    "n": 23,
+    "metric": "mean_top10_auc",
+    "method": "Baseline",
+    "bundle": "pmo_submission_20260925",
+    "source_path": "experiments/pmo/pmo_submission_20260925",
+    "entrypoints": [
+      "run_direct.py",
+      "run_editors.py",
+      "audit_top10_auc.py"
+    ],
+    "paper_table": "3",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "pmo",
+    "benchmark": "PMO-1K",
+    "n": 23,
+    "metric": "mean_top10_auc",
+    "method": "ChatDrug",
+    "bundle": "pmo_submission_20260925",
+    "source_path": "experiments/pmo/pmo_submission_20260925",
+    "entrypoints": [
+      "run_direct.py",
+      "run_editors.py",
+      "audit_top10_auc.py"
+    ],
+    "paper_table": "3",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "pmo",
+    "benchmark": "PMO-1K",
+    "n": 23,
+    "metric": "mean_top10_auc",
+    "method": "AgentDrug",
+    "bundle": "pmo_submission_20260925",
+    "source_path": "experiments/pmo/pmo_submission_20260925",
+    "entrypoints": [
+      "run_direct.py",
+      "run_editors.py",
+      "audit_top10_auc.py"
+    ],
+    "paper_table": "3",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "pmo",
+    "benchmark": "PMO-1K",
+    "n": 23,
+    "metric": "mean_top10_auc",
+    "method": "MolClaw",
+    "bundle": "molclaw_pmo_20260929_v3",
+    "source_path": "experiments/pmo/molclaw_pmo_20260929_v3",
+    "entrypoints": [
+      "trajectory.py"
+    ],
+    "paper_table": "3",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "pmo",
+    "benchmark": "PMO-1K",
+    "n": 23,
+    "metric": "mean_top10_auc",
+    "method": "SoL-Pi",
+    "bundle": "sol_pi_pmo_rerun7_20261005",
+    "source_path": "experiments/pmo/sol_pi_pmo_rerun7_20261005",
+    "entrypoints": [
+      "run.py",
+      "segment_policy.py"
+    ],
+    "paper_table": "3",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "pmo",
+    "benchmark": "PMO-1K",
+    "n": 23,
+    "metric": "mean_top10_auc",
+    "method": "Codex",
+    "bundle": "codex_pmo_20261003",
+    "source_path": "experiments/pmo/codex_pmo_20261003",
+    "entrypoints": [
+      "run.py",
+      "aggregate_auc_tailfilled.py"
+    ],
+    "paper_table": "3",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "smdd2",
+    "benchmark": "SMDD Type2",
+    "n": 25,
+    "metric": "point_percent_75_points",
+    "method": "Baseline",
+    "bundle": "smdd_type2_transfer_20260929",
+    "source_path": "experiments/smdd/smdd_type2_transfer_20260929",
+    "entrypoints": [
+      "run_experiment.py",
+      "score.py"
+    ],
+    "paper_table": "3",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "smdd2",
+    "benchmark": "SMDD Type2",
+    "n": 25,
+    "metric": "point_percent_75_points",
+    "method": "ChatDrug",
+    "bundle": "smdd_type2_transfer_20260929",
+    "source_path": "experiments/smdd/smdd_type2_transfer_20260929",
+    "entrypoints": [
+      "run_experiment.py",
+      "score.py"
+    ],
+    "paper_table": "3",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "smdd2",
+    "benchmark": "SMDD Type2",
+    "n": 25,
+    "metric": "point_percent_75_points",
+    "method": "AgentDrug",
+    "bundle": "smdd_type2_transfer_20260929",
+    "source_path": "experiments/smdd/smdd_type2_transfer_20260929",
+    "entrypoints": [
+      "run_experiment.py",
+      "score.py"
+    ],
+    "paper_table": "3",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "smdd2",
+    "benchmark": "SMDD Type2",
+    "n": 25,
+    "metric": "point_percent_75_points",
+    "method": "MolClaw",
+    "bundle": "molclaw_type2_20260929",
+    "source_path": "experiments/smdd/molclaw_type2_20260929",
+    "entrypoints": [
+      "run.py"
+    ],
+    "paper_table": "3",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "smdd2",
+    "benchmark": "SMDD Type2",
+    "n": 25,
+    "metric": "point_percent_75_points",
+    "method": "SoL-Pi",
+    "bundle": "sol_pi_smdd_type2_type3_20261006",
+    "source_path": "experiments/smdd/sol_pi_smdd_type2_type3_20261006",
+    "entrypoints": [
+      "run.py",
+      "group_pipeline.py"
+    ],
+    "paper_table": "3",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "smdd2",
+    "benchmark": "SMDD Type2",
+    "n": 25,
+    "metric": "point_percent_75_points",
+    "method": "Codex",
+    "bundle": "smdd_codex_type2_bailian_20260929",
+    "source_path": "experiments/smdd/smdd_codex_type2_bailian_20260929",
+    "entrypoints": [
+      "run_batch.py"
+    ],
+    "paper_table": "3",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "smdd3",
+    "benchmark": "SMDD Type3",
+    "n": 52,
+    "metric": "success_percent",
+    "method": "Baseline",
+    "bundle": "smdd_type3_transfer_20260930",
+    "source_path": "experiments/smdd/smdd_type3_transfer_20260930",
+    "entrypoints": [
+      "run_experiment.py",
+      "evaluate.py"
+    ],
+    "paper_table": "3",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "smdd3",
+    "benchmark": "SMDD Type3",
+    "n": 52,
+    "metric": "success_percent",
+    "method": "ChatDrug",
+    "bundle": "smdd_type3_transfer_20260930",
+    "source_path": "experiments/smdd/smdd_type3_transfer_20260930",
+    "entrypoints": [
+      "run_experiment.py",
+      "evaluate.py"
+    ],
+    "paper_table": "3",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "smdd3",
+    "benchmark": "SMDD Type3",
+    "n": 52,
+    "metric": "success_percent",
+    "method": "AgentDrug",
+    "bundle": "smdd_type3_transfer_20260930",
+    "source_path": "experiments/smdd/smdd_type3_transfer_20260930",
+    "entrypoints": [
+      "run_experiment.py",
+      "evaluate.py"
+    ],
+    "paper_table": "3",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "smdd3",
+    "benchmark": "SMDD Type3",
+    "n": 52,
+    "metric": "success_percent",
+    "method": "MolClaw",
+    "bundle": "smdd_type3_harness_20261001",
+    "source_path": "experiments/smdd/smdd_type3_harness_20261001",
+    "entrypoints": [
+      "run.py",
+      "score.py"
+    ],
+    "paper_table": "3",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "smdd3",
+    "benchmark": "SMDD Type3",
+    "n": 52,
+    "metric": "success_percent",
+    "method": "SoL-Pi",
+    "bundle": "sol_pi_smdd_type2_type3_20261006",
+    "source_path": "experiments/smdd/sol_pi_smdd_type2_type3_20261006",
+    "entrypoints": [
+      "run.py",
+      "group_pipeline.py"
+    ],
+    "paper_table": "3",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "smdd3",
+    "benchmark": "SMDD Type3",
+    "n": 52,
+    "metric": "success_percent",
+    "method": "Codex",
+    "bundle": "smdd_type3_harness_20261001",
+    "source_path": "experiments/smdd/smdd_type3_harness_20261001",
+    "entrypoints": [
+      "run.py",
+      "score.py"
+    ],
+    "paper_table": "3",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "smdd3",
+    "benchmark": "SMDD Type3",
+    "n": 52,
+    "metric": "success_percent",
+    "method": "LIDDIA",
+    "bundle": "liddia_smdd_type3_20261004",
+    "source_path": "experiments/smdd/liddia_smdd_type3_20261004",
+    "entrypoints": [
+      "source/run_type3_batch.py",
+      "source/run_liddia_type3.py",
+      "source/evaluate_liddia_type3.py"
+    ],
+    "paper_table": "3",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "smdd4",
+    "benchmark": "SMDD Type4",
+    "n": 340,
+    "metric": "success_percent",
+    "method": "Baseline",
+    "bundle": "smdd_deepseek_codex_type4_20261004",
+    "source_path": "experiments/smdd/smdd_deepseek_codex_type4_20261004",
+    "entrypoints": [
+      "run.py",
+      "worker.py",
+      "evaluate.py"
+    ],
+    "paper_table": "3",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "smdd4",
+    "benchmark": "SMDD Type4",
+    "n": 340,
+    "metric": "success_percent",
+    "method": "ChatDrug",
+    "bundle": "type4_full340_bailian_20260929",
+    "source_path": "experiments/smdd/type4_full340_bailian_20260929",
+    "entrypoints": [
+      "batch.py"
+    ],
+    "paper_table": "3",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "smdd4",
+    "benchmark": "SMDD Type4",
+    "n": 340,
+    "metric": "success_percent",
+    "method": "AgentDrug",
+    "bundle": "type4_full340_bailian_20260929",
+    "source_path": "experiments/smdd/type4_full340_bailian_20260929",
+    "entrypoints": [
+      "batch.py"
+    ],
+    "paper_table": "3",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "smdd4",
+    "benchmark": "SMDD Type4",
+    "n": 340,
+    "metric": "success_percent",
+    "method": "MolClaw",
+    "bundle": "molclaw_type4",
+    "source_path": "experiments/smdd/molclaw_type4",
+    "entrypoints": [
+      "run.py",
+      "evaluate.py"
+    ],
+    "paper_table": "3",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "smdd4",
+    "benchmark": "SMDD Type4",
+    "n": 340,
+    "metric": "success_percent",
+    "method": "SoL-Pi",
+    "bundle": "sol_pi_type4",
+    "source_path": "experiments/smdd/sol_pi_type4",
+    "entrypoints": [
+      "run.py",
+      "evaluate.py"
+    ],
+    "paper_table": "3",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "smdd4",
+    "benchmark": "SMDD Type4",
+    "n": 340,
+    "metric": "success_percent",
+    "method": "Codex",
+    "bundle": "smdd_deepseek_codex_type4_20261004",
+    "source_path": "experiments/smdd/smdd_deepseek_codex_type4_20261004",
+    "entrypoints": [
+      "run.py",
+      "worker.py",
+      "evaluate.py"
+    ],
+    "paper_table": "3",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  },
+  {
+    "task": "smdd4",
+    "benchmark": "SMDD Type4",
+    "n": 340,
+    "metric": "success_percent",
+    "method": "LIDDIA",
+    "bundle": "agent_reproduction_20260928",
+    "source_path": "experiments/smdd/agent_reproduction_20260928",
+    "entrypoints": [
+      "run_type3_batch.py",
+      "run_type4_batch.py",
+      "run_liddia_type4.py"
+    ],
+    "paper_table": "3",
+    "verification": "source located; submitted values recorded; no full regeneration"
+  }
+]

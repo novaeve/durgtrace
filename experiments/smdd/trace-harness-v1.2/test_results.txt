@@ -1,0 +1,77 @@
+输出目录: /tmp/trace_test_fzq40q8r
+
+=== 1. 超过 2000 字符的工具输出 ===
+  合成输出长度: 10027 字符
+
+=== 2. LLM 调用（合成 response，无真实请求）===
+
+=== 3. submit 事件 ===
+
+=== 4. summary ===
+
+=== 5. run manifest ===
+
+=== 校验 ===
+  PASS  JSONL 每行均可解析  [5 个事件]
+  PASS  事件类型齐全  [llm_call,submit,summary,task_start,tool_call]
+  PASS  官方字段保留 tool_call.event
+  PASS  官方字段保留 tool_call.turn
+  PASS  官方字段保留 tool_call.tool
+  PASS  官方字段保留 tool_call.input
+  PASS  官方字段保留 tool_call.output_truncated
+  PASS  官方字段保留 tool_call.duration_s
+  PASS  官方字段保留 llm_call.event
+  PASS  官方字段保留 llm_call.turn
+  PASS  官方字段保留 llm_call.model
+  PASS  官方字段保留 llm_call.input_tokens
+  PASS  官方字段保留 llm_call.output_tokens
+  PASS  官方字段保留 llm_call.cache_read_tokens
+  PASS  官方字段保留 llm_call.cache_creation_tokens
+  PASS  官方字段保留 llm_call.tool_calls
+  PASS  官方字段保留 llm_call.assistant_text
+  PASS  官方字段保留 summary.status
+  PASS  官方字段保留 summary.total_turns
+  PASS  官方字段保留 summary.total_input_tokens
+  PASS  官方字段保留 summary.total_output_tokens
+  PASS  官方字段保留 summary.boltz_calls
+  PASS  官方字段保留 summary.admet_calls
+  PASS  官方字段保留 summary.wall_time_s
+  PASS  官方 truncation 行为不变（预览仍被截断）  [预览 2030 字符]
+  PASS  新增 output_full 描述符
+  PASS  artifact 文件存在  [artifacts/tool-python-out-38275ba9a0af4d2c.txt]
+  PASS  完整输出可恢复（与原文逐字符相同）  [10027 vs 10027 字符]
+  PASS  被官方预览丢弃的中段内容已保住
+  PASS  SHA-256 与原文一致  [38275ba9a0af4d2c...]
+  PASS  bytes 字段与实际一致
+  PASS  output_is_truncated_preview 标记正确
+  PASS  新增 input_full 描述符
+  PASS  新增 wall_time_s  [3.142]
+  PASS  新增 response_id
+  PASS  新增 actual_model
+  PASS  新增 finish_reason
+  PASS  新增 usage_detail  [{"cache_creation_input_tokens": 120, "cache_read_input_tokens": 800, "]
+  PASS  LiteLLM 内部重试标为 unavailable（不猜测）
+  PASS  trace schema 版本已记录
+  PASS  submit 保留官方 content 字段（1000 预览）
+  PASS  submit 新增 content_full
+  PASS  submit 完整内容可恢复
+  PASS  未写入 sk- 明文密钥
+  PASS  未写入 sk-leak-me
+  PASS  未写入 Bearer 明文 token
+  PASS  redact() 对 sk- 生效
+  PASS  redact_obj 按键名屏蔽
+  PASS  manifest 字段 trace_schema_version
+  PASS  manifest 字段 created_utc
+  PASS  manifest 字段 task_id
+  PASS  manifest 字段 model
+  PASS  manifest 字段 agent_config
+  PASS  manifest 字段 repo_sha
+  PASS  manifest 字段 agent_image_id
+  PASS  manifest 记录仓库 SHA
+  PASS  manifest 含完整 AgentConfig
+  PASS  manifest 中敏感 extra 已屏蔽
+  PASS  transcript.md 已生成且含官方结构
+  PASS  测试期间未发生真实网络请求
+
+=== 结果: 60 PASS / 0 FAIL ===
+  全部通过。

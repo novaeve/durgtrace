@@ -1,0 +1,92 @@
+{
+  "stage": "pilot",
+  "planned": 3,
+  "finished": 3,
+  "completed": 3,
+  "tasks": {
+    "celecoxib_rediscovery": {
+      "method": "sol-pi",
+      "model": "deepseek-v4.1-flash",
+      "task": "celecoxib_rediscovery",
+      "seed": 0,
+      "status": "completed",
+      "complete": true,
+      "oracle_submissions": 10,
+      "submission_budget": 10,
+      "unique_valid": 9,
+      "invalid": 0,
+      "duplicates": 1,
+      "auc_top10": 0.8152907473811872,
+      "auc_top10_observed": 0.8152907473811872,
+      "auc_area_divided_by_1000": 0.8152907473811872,
+      "auc_protocol": "MolClaw v3 unique-valid top10 trapezoid from zero; incomplete results have no fabricated tail",
+      "final_answer": "Cc1ccc(-c2cc(C(F)(F)F)nn2-c2ccc(S(N)(=O)=O)cc2)cc1",
+      "best_observed_answer": "Cc1ccc(-c2cc(C(F)(F)F)nn2-c2ccc(S(N)(=O)=O)cc2)cc1",
+      "best_observed_score": 1.0,
+      "llm_requests": 5,
+      "provider_usage": {
+        "prompt_tokens": 23649,
+        "total_tokens": 24944,
+        "completion_tokens": 1295
+      },
+      "reason": null,
+      "time": 1791104558.5637662
+    },
+    "qed": {
+      "method": "sol-pi",
+      "model": "deepseek-v4.1-flash",
+      "task": "qed",
+      "seed": 0,
+      "status": "completed",
+      "complete": true,
+      "oracle_submissions": 10,
+      "submission_budget": 10,
+      "unique_valid": 10,
+      "invalid": 0,
+      "duplicates": 0,
+      "auc_top10": 0.7147494763384395,
+      "auc_top10_observed": 0.7147494763384395,
+      "auc_area_divided_by_1000": 0.7147494763384395,
+      "auc_protocol": "MolClaw v3 unique-valid top10 trapezoid from zero; incomplete results have no fabricated tail",
+      "final_answer": "O=C(c1ccccc1O)N1CCCCCC1",
+      "best_observed_answer": "O=C(c1ccccc1O)N1CCCCCC1",
+      "best_observed_score": 0.7875635570281884,
+      "llm_requests": 6,
+      "provider_usage": {
+        "prompt_tokens": 27795,
+        "total_tokens": 29680,
+        "completion_tokens": 1885
+      },
+      "reason": null,
+      "time": 1791104543.66258
+    },
+    "amlodipine_mpo": {
+      "method": "sol-pi",
+      "model": "deepseek-v4.1-flash",
+      "task": "amlodipine_mpo",
+      "seed": 0,
+      "status": "completed",
+      "complete": true,
+      "oracle_submissions": 10,
+      "submission_budget": 10,
+      "unique_valid": 10,
+      "invalid": 0,
+      "duplicates": 0,
+      "auc_top10": 0.6329837793324848,
+      "auc_top10_observed": 0.6329837793324848,
+      "auc_area_divided_by_1000": 0.6329837793324848,
+      "auc_protocol": "MolClaw v3 unique-valid top10 trapezoid from zero; incomplete results have no fabricated tail",
+      "final_answer": "CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC2CC2)C1c1ccccc1Cl",
+      "best_observed_answer": "CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC2CC2)C1c1ccccc1Cl",
+      "best_observed_score": 0.7677718959499145,
+      "llm_requests": 8,
+      "provider_usage": {
+        "prompt_tokens": 43057,
+        "total_tokens": 45669,
+        "completion_tokens": 2612
+      },
+      "reason": null,
+      "time": 1791104548.530579
+    }
+  }
+}

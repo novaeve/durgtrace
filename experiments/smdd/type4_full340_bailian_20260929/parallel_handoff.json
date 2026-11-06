@@ -1,0 +1,36 @@
+{
+  "created": 1790870528.2879589,
+  "old_supervisors": {
+    "chatdrug": 4803,
+    "agentdrug": 4804
+  },
+  "adopted": {
+    "chatdrug": [
+      {
+        "task": "smdd_004_ALK_8",
+        "index": 36,
+        "gpu": 7,
+        "pid": 34724,
+        "identity": "373529",
+        "started": 1790870484.7397497
+      }
+    ],
+    "agentdrug": [
+      {
+        "task": "smdd_004_Aurora_A_1",
+        "index": 48,
+        "gpu": 6,
+        "pid": 34132,
+        "identity": "366542",
+        "started": 1790870414.861957
+      }
+    ]
+  },
+  "gpu_pool": [
+    0,
+    5,
+    7
+  ],
+  "concurrency_per_method": 2,
+  "backup": "/home/chenfuxin/smdd-migration/smdd-assets/experiments/type4_full340_bailian_20260929/recovery_attempts/gpu_pool_20261001T160207Z"
+}

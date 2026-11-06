@@ -1,0 +1,21 @@
+{
+  "dataset": {
+    "repo": "ChemFM/MolLangBench",
+    "revision": "859cb8337b49c1d9646e504ca2813c49339c180f"
+  },
+  "source_archive_sha256": "ec3c5c5dbeb804f9ee817f6ec07c32204c4c97f40f444f30f9dff0b0713d6465",
+  "files": {
+    "edit_test.parquet": "e4ea547cac82eb8868a26e9d682a4a34fada9665025379c22c2f25ed0dfdfd5a",
+    "edit_extended.parquet": "3547c20f94e7bcf3983a6e3e58cac0f195c66beee2badd817fa56c00b4cf3114",
+    "generation_test.parquet": "9ea8201b2d3e2210f7a8fd9876b0b1253d31f14fe26c2c74c3b4fc70ac9e64d1",
+    "generation_extended.parquet": "e105ee9e19d2e9d63d7736a19d7b3d3482f91618d15000895e83dc8e0aa2fc9b"
+  },
+  "splits": {
+    "edit/test": 200,
+    "edit/extended": 200,
+    "generation/test": 200,
+    "generation/extended": 200
+  },
+  "public_cases_sha256": "ef9295613e43aaaea25e862c2f6a77b80206fb3b31e0ef7046e89ac225cb4055",
+  "answers_sha256": "8a446af689c850a2d42386197e95777ab3973ac7f519c8d2512dce4f104da650"
+}

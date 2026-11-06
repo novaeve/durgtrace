@@ -1,0 +1,11 @@
+{
+  "status": "runtime_error",
+  "error": "Traceback (most recent call last):\n  File \"/data2/chenfuxin/agent_reproduction_20260928/run_liddia_type4.py\", line 195, in main\n    df,meta=code_action(agent,{k:memory.stream[k]['data'] for k in inputs},desc,out)\n            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/data2/chenfuxin/agent_reproduction_20260928/run_liddia_type4.py\", line 97, in code_action\n    raise RuntimeError('CODE failed three attempts: '+str(errors))\nRuntimeError: CODE failed three attempts: ['Traceback (most recent call last):\\n  File \"/worker.py\", line 15, in <module>\\n    raise ValueError(\\'CODE imports are restricted to local data/chemistry libraries\\')\\nValueError: CODE imports are restricted to local data/chemistry libraries\\n', 'Traceback (most recent call last):\\n  File \"/worker.py\", line 15, in <module>\\n    raise ValueError(\\'CODE imports are restricted to local data/chemistry libraries\\')\\nValueError: CODE imports are restricted to local data/chemistry libraries\\n', 'Traceback (most recent call last):\\n  File \"/worker.py\", line 18, in <module>\\n    result=_function(data)\\n           ^^^^^^^^^^^^^^^\\n  File \"generated_code\", line 52, in _function\\nValueError: Reference molecule MOL007 not found in the input data.\\n']\n",
+  "llm_calls": 6,
+  "tokens": 14247,
+  "budget_used": {
+    "admet": 15,
+    "boltz": 0
+  },
+  "vina_calls": 0
+}

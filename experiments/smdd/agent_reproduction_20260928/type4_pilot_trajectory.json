@@ -1,0 +1,108 @@
+[
+  {
+    "step": 0,
+    "action": "GENERATE000",
+    "input": [
+      "POCKET006"
+    ],
+    "output": "MOL008",
+    "metadata": {
+      "seed": 686579304,
+      "run_seed": 42,
+      "requested": 100,
+      "generated_valid": 103,
+      "job": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/pilot/smdd_004_ABL1_1/generation/pocket_2e42db33b8ce",
+      "center": [
+        14.809954545454543,
+        -6.87540909090909,
+        14.304409090909092
+      ],
+      "beam_size": 300,
+      "device": "cuda",
+      "gpu": 3,
+      "vina_calls": 0
+    },
+    "budget_used": {
+      "admet": 0,
+      "boltz": 0
+    }
+  },
+  {
+    "step": 1,
+    "action": "CODE002",
+    "input": [
+      "MOL007",
+      "MOL008",
+      "Select molecules from MOL007 and the 100 rows in MOL008 that satisfy the hard constraints when calculable: MW < 600, LogP -1 to 5, TPSA < 140, HBD <= 5, HBA <= 10, rotatable bonds <= 10, formal charge -2 to +2, SA score < 4.5, PAINS/Brenk/NIH pass, and Tanimoto similarity >= 0.7 to the MOL007 reference ligand. This will produce a smaller candidate set for subsequent ADMET and Boltz evaluation while ensuring the reference molecule MOL007 is retained if it passes."
+    ],
+    "output": "MOL009",
+    "metadata": {
+      "code_job": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/pilot/smdd_004_ABL1_1/code_5991190cf5eb",
+      "errors": [
+        "Traceback (most recent call last):\n  File \"/worker.py\", line 15, in <module>\n    raise ValueError('CODE imports are restricted to local data/chemistry libraries')\nValueError: CODE imports are restricted to local data/chemistry libraries\n",
+        "Traceback (most recent call last):\n  File \"/worker.py\", line 10, in <module>\n    tree=ast.parse(source)\n         ^^^^^^^^^^^^^^^^^\n  File \"/data2/chenfuxin/agent_reproduction_20260928/envs/agentd/lib/python3.11/ast.py\", line 50, in parse\n    return compile(source, filename, mode, flags,\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"<unknown>\", line 8\n    def _function(Dict[str, pd.DataFrame]) -> pd.DataFrame:\n                      ^\nSyntaxError: invalid syntax\n"
+      ]
+    },
+    "budget_used": {
+      "admet": 0,
+      "boltz": 0
+    }
+  },
+  {
+    "step": 2,
+    "action": "OPTIMIZE001",
+    "input": [
+      "MOL009",
+      "clearance"
+    ],
+    "output": "MOL010",
+    "metadata": {
+      "seed": 686579304,
+      "run_seed": 42,
+      "objective": "clearance",
+      "score_calls": 15,
+      "score_cap": 500,
+      "stop": "budget_exhausted:admet",
+      "scores": {
+        "Nc1ncnc2c1c(-c1ccc(Cl)c(O)c1)nn2C1CCC1": 0.49999921866166513,
+        "Oc1cc(-c2ccc(Cl)c(O)c2)ccc1Cl": 0.0018118146259906095,
+        "NC1=C(c2nn(C3CCC3)c3ncnc(N)c23)CNc2c1c(-c1ccc(Cl)c(O)c1)nn2C1CCC1": 0.9999999914563357,
+        "Nc1ccc(-c2nn(C3CCC3)c3ncnc(N)c23)cc1O": 0.990904756520746,
+        "Oc1ccccc1Cl": 4.230198311015646e-06,
+        "Nc1ncnc2c1c(-c1ccc(Cl)c(C3CCC3)c1)nn2C1CCC1": 0.9999989219787273,
+        "Nc1[nH]nc2c1c(-c1ccc(Cl)c(O)c1)nn2C1CCC1": 0.95498783523288,
+        "NC1NCNC2=C(Cl)C(O)=C(c3ccc(Cl)c(O)c3)C21": 0.9999665421474485,
+        "NC1NCNC2=CCC=C21": 0.9999999989386299,
+        "Nc1cc(-c2nn(C3CCC3)c3ncnc(N)c23)ccc1Cl": 0.9999705103098104,
+        "Nc1ncnc2c1c(C1=CC=C(c3nn(C4CCC4)c4ncnc(N)c34)C1)nn2C1CCC1": 0.9999999772588409,
+        "Nc1ncnc2c1c(-c1ccc(O)c(O)c1)nn2C1CCC1": 0.9980033697122538,
+        "NC1NCNC2C1=CC=NN2C1CCC1": 0.9999999758210635,
+        "Oc1cc(-c2ncnc3c2c(-c2ccc(Cl)c(O)c2)nn3C2CCC2)ccc1Cl": 0.9999139521110681,
+        "Oc1cc(-c2nn(C3CCC3)c3ncnc(O)c23)ccc1Cl": 0.17375763773685504
+      },
+      "vina_calls": 0
+    },
+    "budget_used": {
+      "admet": 15,
+      "boltz": 0
+    }
+  },
+  {
+    "step": 3,
+    "action": "CODE002",
+    "input": [
+      "MOL007",
+      "MOL010",
+      "Filter the single reference MOL007 and the 15 rows in MOL010 to remove invalid or failing hard constraints, especially Tanimoto similarity >= 0.7 to MOL007, then rank remaining candidates by predicted clearance decrease while considering lower ppb, cyp3a4, and bbb and solubility close to -4.1132. Select one or two promising zero-based row indices from MOL010 for ADMET/Boltz evaluation."
+    ],
+    "output": "MOL011",
+    "metadata": {
+      "code_job": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/pilot/smdd_004_ABL1_1/code_4be7560e3df2",
+      "errors": []
+    },
+    "budget_used": {
+      "admet": 15,
+      "boltz": 0
+    }
+  }
+]

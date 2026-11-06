@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "single_seed_jobs": 92,
+  "cached_truncation_counted_once": true,
+  "native_256_cap_excluded": true,
+  "no_progress_100_continues": true,
+  "three_truncations_skip": true,
+  "round_robin_yields_without_ending_search": true
+}

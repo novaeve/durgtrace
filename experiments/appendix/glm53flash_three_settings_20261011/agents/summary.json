@@ -1,0 +1,173 @@
+{
+  "processed": 8400,
+  "expected": 8400,
+  "workers": 24,
+  "groups": [
+    {
+      "method": "ChatDrug",
+      "setting": "1_original_chatdrug",
+      "property": "LogP",
+      "expected": 800,
+      "processed": 800,
+      "success": 717,
+      "success_rate_full": 0.89625,
+      "success_rate_processed": 0.89625,
+      "statuses": {
+        "complete": 800
+      }
+    },
+    {
+      "method": "ChatDrug",
+      "setting": "1_original_chatdrug",
+      "property": "QED",
+      "expected": 800,
+      "processed": 800,
+      "success": 637,
+      "success_rate_full": 0.79625,
+      "success_rate_processed": 0.79625,
+      "statuses": {
+        "complete": 794,
+        "provider_limit": 6
+      }
+    },
+    {
+      "method": "ChatDrug",
+      "setting": "2_s2_prompt_chatdrug",
+      "property": "LogP",
+      "expected": 800,
+      "processed": 800,
+      "success": 722,
+      "success_rate_full": 0.9025,
+      "success_rate_processed": 0.9025,
+      "statuses": {
+        "complete": 799,
+        "provider_limit": 1
+      }
+    },
+    {
+      "method": "ChatDrug",
+      "setting": "2_s2_prompt_chatdrug",
+      "property": "QED",
+      "expected": 800,
+      "processed": 800,
+      "success": 641,
+      "success_rate_full": 0.80125,
+      "success_rate_processed": 0.80125,
+      "statuses": {
+        "complete": 794,
+        "provider_limit": 6
+      }
+    },
+    {
+      "method": "ChatDrug",
+      "setting": "3_original_s2",
+      "property": "LogP",
+      "expected": 500,
+      "processed": 500,
+      "success": 460,
+      "success_rate_full": 0.92,
+      "success_rate_processed": 0.92,
+      "statuses": {
+        "complete": 499,
+        "provider_limit": 1
+      }
+    },
+    {
+      "method": "ChatDrug",
+      "setting": "3_original_s2",
+      "property": "QED",
+      "expected": 500,
+      "processed": 500,
+      "success": 412,
+      "success_rate_full": 0.824,
+      "success_rate_processed": 0.824,
+      "statuses": {
+        "complete": 498,
+        "provider_limit": 2
+      }
+    },
+    {
+      "method": "AgentDrug",
+      "setting": "1_original_chatdrug",
+      "property": "LogP",
+      "expected": 800,
+      "processed": 800,
+      "success": 794,
+      "success_rate_full": 0.9925,
+      "success_rate_processed": 0.9925,
+      "statuses": {
+        "complete": 800
+      }
+    },
+    {
+      "method": "AgentDrug",
+      "setting": "1_original_chatdrug",
+      "property": "QED",
+      "expected": 800,
+      "processed": 800,
+      "success": 708,
+      "success_rate_full": 0.885,
+      "success_rate_processed": 0.885,
+      "statuses": {
+        "complete": 800
+      }
+    },
+    {
+      "method": "AgentDrug",
+      "setting": "2_s2_prompt_chatdrug",
+      "property": "LogP",
+      "expected": 800,
+      "processed": 800,
+      "success": 795,
+      "success_rate_full": 0.99375,
+      "success_rate_processed": 0.99375,
+      "statuses": {
+        "complete": 800
+      }
+    },
+    {
+      "method": "AgentDrug",
+      "setting": "2_s2_prompt_chatdrug",
+      "property": "QED",
+      "expected": 800,
+      "processed": 800,
+      "success": 750,
+      "success_rate_full": 0.9375,
+      "success_rate_processed": 0.9375,
+      "statuses": {
+        "complete": 800
+      }
+    },
+    {
+      "method": "AgentDrug",
+      "setting": "3_original_s2",
+      "property": "LogP",
+      "expected": 500,
+      "processed": 500,
+      "success": 500,
+      "success_rate_full": 1.0,
+      "success_rate_processed": 1.0,
+      "statuses": {
+        "complete": 500
+      }
+    },
+    {
+      "method": "AgentDrug",
+      "setting": "3_original_s2",
+      "property": "QED",
+      "expected": 500,
+      "processed": 500,
+      "success": 493,
+      "success_rate_full": 0.986,
+      "success_rate_processed": 0.986,
+      "statuses": {
+        "complete": 500
+      }
+    }
+  ],
+  "per_method": {
+    "AgentDrug": 4200,
+    "ChatDrug": 4200
+  },
+  "updated": 1791653090.7613747
+}

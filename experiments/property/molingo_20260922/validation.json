@@ -1,0 +1,1328 @@
+{
+  "input_cases": 7100,
+  "unique_inputs": 1695,
+  "roundtrip": {
+    "exact_roundtrip": 1366,
+    "changed_roundtrip": 329
+  },
+  "issues": [
+    {
+      "input": "C[C@H](NC(=O)CCN1c2ccccc2Sc2ccccc21)C1CC1",
+      "rebuilt": "C[C@@H](NC(=O)CCN1c2ccccc2Sc2ccccc21)C1CC1"
+    },
+    {
+      "input": "O=C(N[C@@H](c1ccccc1)C1CC1)N1CCC(OCc2ccccc2F)CC1",
+      "rebuilt": "O=C(N1CCC(OCc2ccccc2F)CC1)N1CCC(C2CC2)CC1"
+    },
+    {
+      "input": "O=C(NC[C@H](O)c1ccco1)[C@@H]1C[C@@H]1c1ccccc1F",
+      "rebuilt": "O=C(NC[C@H](O)c1ccco1)[C@@H]1C[C@H]1c1ccccc1F"
+    },
+    {
+      "input": "C[C@@H](CNC(=O)CC1(O)CCCC1)c1ccsc1",
+      "rebuilt": "C[C@H](CNC(=O)CC1(O)CCCC1)c1ccsc1"
+    },
+    {
+      "input": "Cc1ccccc1NC(=O)/C(C#N)=C\\c1cc(C)n(-c2ccc(C)c([N+](=O)[O-])c2)c1C",
+      "rebuilt": "Cc1ccccc1NC(=O)C(C#N)Cc1cc(C)n(-c2ccc(C)c([N+](=O)[O-])c2)c1C"
+    },
+    {
+      "input": "CCc1nncn1CCNC(=O)N1CCC[C@H]1c1ccccc1Cl",
+      "rebuilt": "CCc1nncn1CCNC(=O)N1CCC[C@@H]1c1ccccc1Cl"
+    },
+    {
+      "input": "Cc1ccc(-c2cc(C(=O)N3CCC[C@H](CNS(C)(=O)=O)C3)on2)cc1",
+      "rebuilt": "Cc1ccc(-c2cc(C(=O)N3CCC[C@@H](CNS(C)(=O)=O)C3)on2)cc1"
+    },
+    {
+      "input": "C[C@@H](C(=O)N(C)CCC#N)n1cnc2c1c(=O)n(C)c(=O)n2C",
+      "rebuilt": "C[C@H](C(=O)N(C)CCC#N)n1cnc2c1c(=O)n(C)c(=O)n2C"
+    },
+    {
+      "input": "COCc1cc(C(=O)N2CCC[C@@H](COC)C2)no1",
+      "rebuilt": "COCc1cc(C(=O)N2CCC[C@H](COC)C2)no1"
+    },
+    {
+      "input": "COc1ccc2ccc(OC)c(/C=C3\\NC(=O)NC3=O)c2c1",
+      "rebuilt": "COc1ccc2ccc(OC)c(CC3NC(=O)NC3=O)c2c1"
+    },
+    {
+      "input": "CC[C@H](C)Oc1ccccc1/C=C/C(=O)NCC1(O)CCOCC1",
+      "rebuilt": "CC[C@H](C)Oc1ccccc1CCC(=O)NCC1(O)CCOCC1"
+    },
+    {
+      "input": "CCN(CC(=O)NC(C)C)C(=O)COc1ccccc1",
+      "rebuilt": "CCN(C(=O)CNC(C)C)C(=O)COc1ccccc1"
+    },
+    {
+      "input": "O=C(/C=C/c1cccs1)N(Cc1ccc(Cl)cc1)C[C@@H]1CCCO1",
+      "rebuilt": "O=C(CCc1cccs1)N(Cc1ccc(Cl)cc1)C[C@@H]1CCCO1"
+    },
+    {
+      "input": "COCCNC(=O)c1ccc(N2CCC[C@@H]2C2CCCC2)nc1",
+      "rebuilt": "COCCNC(=O)c1ccc(N2CCC[C@H]2C2CCCC2)nc1"
+    },
+    {
+      "input": "CCC[C@@H](C)NC(=O)[C@H](C)Sc1ccc(OC)cc1",
+      "rebuilt": "CCC[C@@H](C)NC(=O)[C@@H](C)Sc1ccc(OC)cc1"
+    },
+    {
+      "input": "O=C(c1cnc(-c2ccccc2)[nH]c1=O)N(CCO)CCO",
+      "rebuilt": "O=C(N(CCO)CCO)N(CCO)c1ccccc1"
+    },
+    {
+      "input": "C[C@@H](C(=O)NC(c1cccs1)c1cccs1)n1cccn1",
+      "rebuilt": "C[C@H](C(=O)NC(c1cccs1)c1cccs1)n1cccn1"
+    },
+    {
+      "input": "CC[C@@H](NC(=O)NCC1(O)CCCCC1)c1c(C)nn(C)c1C",
+      "rebuilt": "CC[C@H](NC(=O)NCC1(O)CCCCC1)c1c(C)nn(C)c1C"
+    },
+    {
+      "input": "CCNC(=O)CNC(=O)/C=C/c1ccco1",
+      "rebuilt": "CCNC(=O)CNC(=O)CCc1ccco1"
+    },
+    {
+      "input": "C[C@H](c1ccc(Cl)cc1)N(C(=O)CN1C(=O)CSc2ccccc21)C1CC1",
+      "rebuilt": "C[C@@H](c1ccc(Cl)cc1)N(C(=O)CN1C(=O)CSc2ccccc21)C1CC1"
+    },
+    {
+      "input": "CC[C@H](c1ccccc1)c1nnc(NC(=O)N(C[C@@H](C)O)C(C)C)s1",
+      "rebuilt": "CC[C@@H](c1ccccc1)c1nnc(NC(=O)N(C[C@@H](C)O)C(C)C)s1"
+    },
+    {
+      "input": "CCOc1ccc(N(Cc2nnc3n2CCCCC3)C(=O)Nc2cccc(Cl)c2)cc1",
+      "rebuilt": "CCOc1ccc(N(Cc2nnc3n2CCCCC3)c2ccc(Oc3cccc(Cl)c3)cc2)cc1"
+    },
+    {
+      "input": "C[C@@H](Cn1cccn1)NC(=O)NCc1cccnc1OC1CCCC1",
+      "rebuilt": "C[C@H](Cn1cccn1)NC(=O)NCc1cccnc1OC1CCCC1"
+    },
+    {
+      "input": "COc1cccc(/C=C/C(=O)c2cccnc2)c1OC",
+      "rebuilt": "COc1cccc(CCC(=O)c2cccnc2)c1OC"
+    },
+    {
+      "input": "Cc1ccc(N2CCN(C(=O)[C@H](O)c3ccc4ccccc4c3)CC2=O)cc1",
+      "rebuilt": "Cc1ccc(N2CCN(C(=O)[C@@H](O)c3ccc4ccccc4c3)CC2=O)cc1"
+    },
+    {
+      "input": "Cc1ccc(C(=O)N2CCN([C@H](C#N)c3ccccc3)CC2)c(=O)[nH]1",
+      "rebuilt": "Cc1ccc(C(=O)N2CCN([C@@H](C#N)c3ccccc3)CC2)c(=O)[nH]1"
+    },
+    {
+      "input": "CC(C)C[C@H](CNC(=O)c1cc2c([nH]c1=O)CCCC2)N1CCOCC1",
+      "rebuilt": "CC(C)C[C@@H](CNC(=O)c1cc2c([nH]c1=O)CCCC2)N1CCOCC1"
+    },
+    {
+      "input": "C[C@@H](NC(=O)c1ccccc1Cn1cccn1)c1cccc(C(F)(F)F)c1",
+      "rebuilt": "C[C@@H](NC(=O)c1ccccc1Cn1cccn1)NC(=O)C(F)(F)F"
+    },
+    {
+      "input": "C[C@]12CCC(=O)N1[C@H](C(=O)N1CCC[C@@H]1C(=O)[O-])CS2",
+      "rebuilt": "C[C@]12CCC(=O)N1[C@H](C(=O)N1CCC[C@H]1C(=O)[O-])CS2"
+    },
+    {
+      "input": "C[C@H](NC(=O)c1ccc(S(=O)(=O)NC2CC2)cc1)c1ccccc1Br",
+      "rebuilt": "C[C@@H](NC(=O)c1ccc(S(=O)(=O)NC2CC2)cc1)c1ccccc1Br"
+    },
+    {
+      "input": "CC[C@H](NC(=O)N1CCCN(c2nccs2)CC1)c1ccc(OC)cc1",
+      "rebuilt": "CC[C@@H](NC(=O)OC)NC(=O)N1CCCN(c2nccs2)CC1"
+    },
+    {
+      "input": "C[NH+]1CCC[C@H](C(=O)NC[C@@H](C2CC2)[NH+](C)C)C1",
+      "rebuilt": "C[NH+]1CCC[C@H](C(=O)NC[C@H](C2CC2)[NH+](C)C)C1"
+    },
+    {
+      "input": "Cc1ccc(C=C2C(=O)OC3(CCCC3)OC2=O)cc1Br",
+      "rebuilt": "Cc1ccc(CC2C(=O)OC3(CCCC3)OC2=O)cc1Br"
+    },
+    {
+      "input": "COc1ccc2cc(/C([O-])=C(/C#N)C(=O)N3CCCC3)c(C)nc2c1",
+      "rebuilt": "COc1ccc2cc(C([O-])C(C#N)C(=O)N3CCCC3)c(C)nc2c1"
+    },
+    {
+      "input": "Cn1cc(C(=O)N2CCC[C@@H](Cn3ccnn3)C2)c(-c2ccccc2)n1",
+      "rebuilt": "Cn1cc(C(=O)N2CCC[C@H](Cn3ccnn3)C2)c(-c2ccccc2)n1"
+    },
+    {
+      "input": "CC1=C(/C=C/C(C)=N/NC(N)=[NH2+])C(C)(C)CCC1",
+      "rebuilt": "CC1=C(CC/C(C)=N/NC(N)=[NH2+])C(C)(C)CCC1"
+    },
+    {
+      "input": "Cc1ccccc1NC(=O)[C@@H](C)Sc1nnnn1Cc1ccccc1",
+      "rebuilt": "Cc1ccccc1NC(=O)[C@H](C)Sc1nnnn1Cc1ccccc1"
+    },
+    {
+      "input": "Cc1cnc(-c2cccc(NC(=O)C(=O)NC[C@H](C(C)C)[NH+]3CCCC3)c2)o1",
+      "rebuilt": "Cc1cnc(-c2cccc(NC(=O)C(=O)NC[C@@H](C(C)C)[NH+]3CCCC3)c2)o1"
+    },
+    {
+      "input": "C[C@@H](C(=O)Nc1ccccc1Cl)n1cc(Br)cn1",
+      "rebuilt": "C[C@H](C(=O)Nc1ccccc1Cl)n1cc(Br)cn1"
+    },
+    {
+      "input": "CCc1cccc(C)c1NC(=O)[C@H](C)O/N=C(/N)Cc1ccccc1C",
+      "rebuilt": "CCc1cccc(C)c1NC(=O)[C@@H](C)O/N=C(/N)Cc1ccccc1C"
+    },
+    {
+      "input": "N#C/C(=C/c1ccc(Cl)cc1)c1nc2ccccc2s1",
+      "rebuilt": "N#CC(Cc1ccc(Cl)cc1)c1nc2ccccc2s1"
+    },
+    {
+      "input": "Cn1nnnc1SCC(=O)N1CCO[C@H](c2cccs2)C1",
+      "rebuilt": "Cn1nnnc1SCC(=O)N1CCO[C@@H](c2cccs2)C1"
+    },
+    {
+      "input": "CCCNC(=O)[C@@H](C)[NH+]1CCCN(S(=O)(=O)c2ccccc2)CC1",
+      "rebuilt": "CCCNC(=O)[C@H](C)[NH+]1CCCN(S(=O)(=O)c2ccccc2)CC1"
+    },
+    {
+      "input": "COc1cccc(N2C[C@@H](C(=O)N(C)Cc3ccsc3)CC2=O)c1",
+      "rebuilt": "COc1cccc(N2C[C@H](C(=O)N(C)Cc3ccsc3)CC2=O)c1"
+    },
+    {
+      "input": "C=CCOc1c(Br)cc(/C=C(/C#N)C(=O)N(C)C)cc1I",
+      "rebuilt": "C=CCOc1c(Br)cc(CC(C#N)C(=O)N(C)C)cc1I"
+    },
+    {
+      "input": "COc1cc(CN2CCO[C@@H](c3ccc(F)c(Cl)c3)C2)c([N+](=O)[O-])cc1O",
+      "rebuilt": "COc1cc(CN2CCO[C@H](c3ccc(F)c(Cl)c3)C2)c([N+](=O)[O-])cc1O"
+    },
+    {
+      "input": "O=c1/c(=C/c2cccc([N+](=O)[O-])c2)sc2nc(/C=C/c3ccc(F)cc3)nn12",
+      "rebuilt": "O=c1/c(=C/c2cccc([N+](=O)[O-])c2)sc2nc(CCc3ccc(F)cc3)nn12"
+    },
+    {
+      "input": "CC[NH+](CC)[C@](C)(CC)[C@@H](O)Cc1ccc2c(c1)CCC2",
+      "rebuilt": "CC[NH+](CC)[C@@](C)(CC)[C@@H](O)Cc1ccc2c(c1)CCC2"
+    },
+    {
+      "input": "Cc1cccc(NC(=O)[C@@H](C)[NH+]2CCC[C@H](c3nncn3C3CC3)C2)c1",
+      "rebuilt": "Cc1cccc(NC(=O)[C@H](C)[NH+]2CCC[C@@H](c3nncn3C3CC3)C2)c1"
+    },
+    {
+      "input": "Cc1cc(C)c2[nH]c(C(=O)N3CC[C@@H](c4ccccc4F)C3)c(C)c2c1",
+      "rebuilt": "Cc1cc(C)c2[nH]c(C(=O)N3CC[C@H](c4ccccc4F)C3)c(C)c2c1"
+    },
+    {
+      "input": "COc1cc(Br)c(/C=C(\\C#N)C(=O)Nc2cccc(Cl)c2C)cc1OC",
+      "rebuilt": "COc1cc(Br)c(CC(C#N)C(=O)Nc2cccc(Cl)c2C)cc1OC"
+    },
+    {
+      "input": "CNC(=O)[C@@H](CC(C)C)N[C@H](C)C[C@@H]1CCCCC[NH2+]1",
+      "rebuilt": "CNC(=O)[C@H](CC(C)C)N[C@H](C)C[C@@H]1CCCCC[NH2+]1"
+    },
+    {
+      "input": "COc1ccc(S(N)(=O)=O)cc1C(=O)NC[C@@H](C)c1ccsc1",
+      "rebuilt": "COc1ccc(S(N)(=O)=O)cc1C(=O)NC[C@H](C)c1ccsc1"
+    },
+    {
+      "input": "C[C@@H](CCc1ccc(O)cc1)NC(=O)N1CCN(c2ccccc2Cl)CC1",
+      "rebuilt": "C[C@H](CCc1ccc(O)cc1)NC(=O)N1CCN(c2ccccc2Cl)CC1"
+    },
+    {
+      "input": "CC1=C(C(=O)Nc2ccccc2F)[C@H](c2ccccc2F)NC(=O)N1",
+      "rebuilt": "CC1=C(C(=O)Nc2ccccc2F)[C@@H](c2ccccc2F)NC(=O)N1"
+    },
+    {
+      "input": "O=c1[nH]c([O-])nc(/C=C\\C2=c3ccccc3=[NH+]C2)c1[N+](=O)[O-]",
+      "rebuilt": "O=c1[nH]c([O-])nc(CCC2=c3ccccc3=[NH+]C2)c1[N+](=O)[O-]"
+    },
+    {
+      "input": "O=C1NC(=O)C(=C/C=C/c2coc3ccccc3c2=O)C(=O)N1",
+      "rebuilt": "O=C1NC(=O)C(C/C=C/c2coc3ccccc3c2=O)C(=O)N1"
+    },
+    {
+      "input": "C#CCCOc1ccc(CN2CCC[C@@H](CN3CCOCC3)C2)cc1",
+      "rebuilt": "C#CCCOc1ccc(CN2CCC[C@H](CN3CCOCC3)C2)cc1"
+    },
+    {
+      "input": "O=C(NCc1ccnc(Oc2ccc(F)cc2)c1)N1CCOC[C@H]1C1CC1",
+      "rebuilt": "O=C(N1CCOC[C@@H]1C1CC1)N1CCOC[C@H]1Oc1ccc(F)cc1"
+    },
+    {
+      "input": "Oc1cccc(C[C@@H](O)c2ccc(OC(F)(F)F)cc2)c1",
+      "rebuilt": "Oc1cccc(C[C@H](O)c2ccc(OC(F)(F)F)cc2)c1"
+    },
+    {
+      "input": "CC(C)Oc1cccc(/C=C/C(=O)NCc2ccc[nH]2)c1",
+      "rebuilt": "CC(C)Oc1cccc(CCC(=O)NCc2ccc[nH]2)c1"
+    },
+    {
+      "input": "CCOC(=O)c1cccc(N2CCCC[C@@H](SCC)C2)n1",
+      "rebuilt": "CCOC(=O)c1cccc(N2CCCC[C@H](SCC)C2)n1"
+    },
+    {
+      "input": "COc1cccc(NC(=O)[C@H](C)[NH+](C)CC(=O)N2CCOCC2)c1",
+      "rebuilt": "COc1cccc(NC(=O)[C@@H](C)[NH+](C)CC(=O)N2CCOCC2)c1"
+    },
+    {
+      "input": "C#CC[NH+]1CCC[C@H]1COC(=O)c1cnc2c(C)cccn2c1=O",
+      "rebuilt": "C#CC[NH+]1CCC[C@@H]1COC(=O)c1cnc2c(C)cccn2c1=O"
+    },
+    {
+      "input": "COC[C@@H](NC(=O)Cc1c[nH]c2ccccc12)c1ccc(F)c(F)c1",
+      "rebuilt": "COC[C@H](NC(=O)Cc1c[nH]c2ccccc12)c1ccc(F)c(F)c1"
+    },
+    {
+      "input": "COC[C@@H](NC(=O)C[C@@H](O)c1cc(Cl)cc(Cl)c1)c1ccccc1",
+      "rebuilt": "COC[C@H](NC(=O)C[C@@H](O)c1cc(Cl)cc(Cl)c1)c1ccccc1"
+    },
+    {
+      "input": "Cc1cc(C(=O)N2CCC[C@@H]2[C@H]2CCC[C@@H]2O)ccc1F",
+      "rebuilt": "Cc1cc(C(=O)N2CCC[C@H]2[C@H]2CCC[C@@H]2O)ccc1F"
+    },
+    {
+      "input": "Cc1noc(CCCNC(=O)N2C[C@@H](C)[C@H]2c2ccccc2)n1",
+      "rebuilt": "Cc1noc(CCCNC(=O)N2C[C@@H](C)[C@@H]2c2ccccc2)n1"
+    },
+    {
+      "input": "Cc1ocnc1CNC(=O)N[C@@H]1CCCC[C@H]1CNC(=O)OC(C)(C)C",
+      "rebuilt": "Cc1ocnc1CNC(=O)N[C@@H]1CCCC[C@@H]1CNC(=O)OC(C)(C)C"
+    },
+    {
+      "input": "COCCN1C(=O)/C(=C\\C=C\\c2ccccc2)SC1=S",
+      "rebuilt": "COCCN1C(=O)C(C/C=C/c2ccccc2)SC1=S"
+    },
+    {
+      "input": "CC[C@H](C)C(=O)N1Cc2ccccc2C[C@H]1C(=O)Nc1ccc(Cl)nc1",
+      "rebuilt": "CC[C@H](C)C(=O)N1Cc2ccccc2C[C@@H]1C(=O)Nc1ccc(Cl)nc1"
+    },
+    {
+      "input": "C[C@H](NC(=O)c1ccc(CNC(=O)OC(C)(C)C)o1)c1cccc(C#N)c1",
+      "rebuilt": "C[C@@H](NC(=O)c1ccc(CNC(=O)OC(C)(C)C)o1)c1cccc(C#N)c1"
+    },
+    {
+      "input": "CCN(Cc1ccccn1)CN1C(=O)N[C@@H](Cc2ccccc2)C1=O",
+      "rebuilt": "CCN(Cc1ccccn1)CN1C(=O)N[C@H](Cc2ccccc2)C1=O"
+    },
+    {
+      "input": "C[C@H]([C@@H](C)S(C)(=O)=O)N(C)C(=O)C/C=C/c1ccc(F)cc1",
+      "rebuilt": "C[C@H]([C@@H](C)S(C)(=O)=O)N(C)C(=O)CCCc1ccc(F)cc1"
+    },
+    {
+      "input": "C[C@@H](C(=O)NC(=O)NC(C)(C)C)N1CCN(c2ncccc2C#N)CC1",
+      "rebuilt": "C[C@H](C(=O)NC(=O)NC(C)(C)C)N1CCN(c2ncccc2C#N)CC1"
+    },
+    {
+      "input": "Cc1[nH]c2ccc(C(=O)N[C@H]3CC[C@@H]([NH+](C)C)C3)cc2c1C",
+      "rebuilt": "Cc1[nH]c2ccc(C(=O)N[C@H]3CC[C@H]([NH+](C)C)C3)cc2c1C"
+    },
+    {
+      "input": "C[C@@H](NC(=O)[C@@H]1CCCN(C(=O)c2ccc(F)cc2)C1)C1CCCCC1",
+      "rebuilt": "C[C@H](NC(=O)[C@@H]1CCCN(C(=O)c2ccc(F)cc2)C1)C1CCCCC1"
+    },
+    {
+      "input": "C[C@H](NC(=O)C(=O)Nc1ccc(Cl)c(Cl)c1)c1cccc(Cl)c1",
+      "rebuilt": "C[C@@H](NC(=O)C(=O)Nc1ccc(Cl)c(Cl)c1)c1cccc(Cl)c1"
+    },
+    {
+      "input": "CCC(CC)N1C(=O)[C@@H](C(C)(C)C)NC(=O)[C@H]1[C@H](C)CC",
+      "rebuilt": "CCC(CC)N1C(=O)[C@@H](C(C)(C)C)NC(=O)[C@@H]1[C@H](C)CC"
+    },
+    {
+      "input": "C[C@H](NC(=O)c1ccncc1F)c1cccc(-n2cccn2)c1",
+      "rebuilt": "C[C@@H](NC(=O)c1ccncc1F)c1cccc(-n2cccn2)c1"
+    },
+    {
+      "input": "C[C@H](NC(=O)C1CCN(S(C)(=O)=O)CC1)c1cccc(Cl)c1",
+      "rebuilt": "C[C@@H](NC(=O)C1CCN(S(C)(=O)=O)CC1)c1cccc(Cl)c1"
+    },
+    {
+      "input": "CC(C)=CC[NH+]1CCC2(CC[C@H](CNC(=O)c3cc(C)n(C)n3)O2)CC1",
+      "rebuilt": "Cc1cc(C(=O)NC[C@@H]2CCC3(CC[NH+](CCC(C)C)CC3)O2)nn1C"
+    },
+    {
+      "input": "CC1(C)CCC[C@@H]1NC(=O)NC[C@@H](O)C1CCCC1",
+      "rebuilt": "CC1(C)CCC[C@@H]1NC(=O)NC[C@H](O)C1CCCC1"
+    },
+    {
+      "input": "Cc1noc(C)c1CN1CCC[NH2+][C@H](C(C)C)C1",
+      "rebuilt": "Cc1noc(C)c1CN1CCC[NH2+][C@@H](C(C)C)C1"
+    },
+    {
+      "input": "COC(=O)[C@@H]1CCCC[C@H]1NC(=O)c1cc(Cl)c(OC)c(Cl)c1",
+      "rebuilt": "COC(=O)[C@@H]1CCCC[C@@H]1NC(=O)c1cc(Cl)c(OC)c(Cl)c1"
+    },
+    {
+      "input": "COc1ccc(OC)c(NC(=O)C2=C(C)NC(=O)N[C@@H]2c2ccc(O)cc2)c1",
+      "rebuilt": "COc1ccc(OC)c(NC(=O)C2=C(C)NC(=O)N[C@H]2c2ccc(O)cc2)c1"
+    },
+    {
+      "input": "COC(=O)c1cc(CNC(=O)N[C@H]2CCC[C@@H](C(F)(F)F)C2)oc1C",
+      "rebuilt": "COC(=O)c1cc(CNC(=O)N[C@H]2CCC[C@H](C(F)(F)F)C2)oc1C"
+    },
+    {
+      "input": "COC(=O)[C@H](C)Sc1nnc(N2CCC[C@@H](C)C2)n1Cc1ccco1",
+      "rebuilt": "COC(=O)[C@@H](C)Sc1nnc(N2CCC[C@@H](C)C2)n1Cc1ccco1"
+    },
+    {
+      "input": "CC(C)COC(=O)[C@@]12CCC(=O)N1c1ccccc1C(=O)N2CC(C)C",
+      "rebuilt": "CC(C)COC(=O)[C@]12CCC(=O)N1c1ccccc1C(=O)N2CC(C)C"
+    },
+    {
+      "input": "CC[C@@H]([NH3+])[C@H](c1ccccc1F)N1CCC(C)(C)C1",
+      "rebuilt": "CC[C@@H]([NH3+])[C@@H](c1ccccc1F)N1CCC(C)(C)C1"
+    },
+    {
+      "input": "Cc1cccc2c(CCNC(=O)N[C@@H](CO)c3ccccc3F)c[nH]c12",
+      "rebuilt": "Cc1cccc2c(CCNC(=O)N[C@H](CO)c3ccccc3F)c[nH]c12"
+    },
+    {
+      "input": "CC[NH2+][C@@]1(C(N)=O)CCC[C@H](N(C)[C@@H]2CCS(=O)(=O)C2)C1",
+      "rebuilt": "CC[NH2+][C@@]1(C(N)=O)CCC[C@@H](N(C)[C@@H]2CCS(=O)(=O)C2)C1"
+    },
+    {
+      "input": "Cc1ccc(/C=C2\\SC(=S)N(CCN3CCOCC3)C2=O)c(C)c1",
+      "rebuilt": "Cc1ccc(CC2SC(=S)N(CCN3CCOCC3)C2=O)c(C)c1"
+    },
+    {
+      "input": "C=CCOc1ccc(/C=C(\\C#N)c2nc([O-])c3ccccc3n2)cc1OC",
+      "rebuilt": "C=CCOc1ccc(CC(C#N)c2nc([O-])c3ccccc3n2)cc1OC"
+    },
+    {
+      "input": "O=C(CCn1cncn1)N1CCC[C@H](c2[nH+]ccn2Cc2ccccc2)C1",
+      "rebuilt": "O=C(CCn1cncn1)N1CCC[C@@H](c2[nH+]ccn2Cc2ccccc2)C1"
+    },
+    {
+      "input": "COc1ccc(C(=O)N2CCC[C@@H](C[NH3+])C2)cc1O",
+      "rebuilt": "COc1ccc(C(=O)N2CCC[C@H](C[NH3+])C2)cc1O"
+    },
+    {
+      "input": "C[C@H](C(=O)Nc1ncccn1)[NH+](C)Cc1ccccc1N1CCOCC1",
+      "rebuilt": "C[C@@H](C(=O)Nc1ncccn1)[NH+](C)Cc1ccccc1N1CCOCC1"
+    },
+    {
+      "input": "CCC[NH2+][C@@H](c1ccc(Cl)c(Cl)c1)[C@H]1CN(CC)CCO1",
+      "rebuilt": "CCC[NH2+][C@H](c1ccc(Cl)c(Cl)c1)[C@H]1CN(CC)CCO1"
+    },
+    {
+      "input": "O=C([O-])c1ccccc1C(=O)N1CCS[C@H]1c1ccccc1",
+      "rebuilt": "O=C([O-])c1ccccc1C(=O)N1CCS[C@@H]1c1ccccc1"
+    },
+    {
+      "input": "Cc1c(NC(=O)c2cccc(NC(=O)[C@H]3CC=CC[C@H]3C(=O)[O-])c2)c(=O)n(-c2ccccc2)n1C",
+      "rebuilt": "Cc1c(NC(=O)c2cccc(NC(=O)[C@H]3CC=CC[C@@H]3C(=O)[O-])c2)c(=O)n(-c2ccccc2)n1C"
+    },
+    {
+      "input": "O=S1(=O)CCC([NH2+][C@H]2CCC[C@H]2[C@@H]2CCC[NH2+]2)CC1",
+      "rebuilt": "O=S1(=O)CCC([NH2+][C@H]2CCC[C@@H]2[C@@H]2CCC[NH2+]2)CC1"
+    },
+    {
+      "input": "COc1ccc(/C=C2\\SC(=O)N(CC(=O)NCC(=O)[O-])C2=O)cc1OC",
+      "rebuilt": "COc1ccc(CC2SC(=O)N(CC(=O)NCC(=O)[O-])C2=O)cc1OC"
+    },
+    {
+      "input": "C[C@H](NC(=O)C[NH+]1CC[C@H](C)[C@@H](O)C1)c1ccc2ccccc2c1",
+      "rebuilt": "C[C@@H](NC(=O)C[NH+]1CC[C@H](C)[C@@H](O)C1)c1ccc2ccccc2c1"
+    },
+    {
+      "input": "C[C@H](NC(=O)N(C)C1CCC1)c1ccc(N2CCOCC2)cc1",
+      "rebuilt": "C[C@@H](NC(=O)N(C)C1CCC1)c1ccc(N2CCOCC2)cc1"
+    },
+    {
+      "input": "Cc1cccc(C2=CCN(C(=O)/C=C/c3ccc(C(N)=O)cc3)CC2)c1",
+      "rebuilt": "Cc1cccc(C2=CCN(C(=O)CCc3ccc(C(N)=O)cc3)CC2)c1"
+    },
+    {
+      "input": "Cc1ccc(-c2csc3c(=O)[nH]c(N4CCC[C@H](C(=O)NCC(C)C)C4)nc23)cc1",
+      "rebuilt": "Cc1ccc(-c2csc3c(=O)[nH]c(N4CCC[C@@H](C(=O)NCC(C)C)C4)nc23)cc1"
+    },
+    {
+      "input": "C[C@H](CNC(=O)c1ccc(N)c([N+](=O)[O-])c1)Oc1ccccc1F",
+      "rebuilt": "C[C@@H](CNC(=O)c1ccc(N)c([N+](=O)[O-])c1)Oc1ccccc1F"
+    },
+    {
+      "input": "COC(=O)[C@@H](c1ccccc1)[NH+]1CCN(C/C=C/c2ccccc2)CC1",
+      "rebuilt": "COC(=O)[C@H](c1ccccc1)[NH+]1CCN(C/C=C/c2ccccc2)CC1"
+    },
+    {
+      "input": "COC(=O)/C(C(C)=O)=C(\\C=C\\C=C\\[NH+](C)C)N(C)C",
+      "rebuilt": "COC(=O)C(C(C)=O)C(/C=C/C=C/[NH+](C)C)N(C)C"
+    },
+    {
+      "input": "O=C(C[C@H](O)c1cccc(F)c1)N1CCC[C@H]1c1cccc2c1OCCO2",
+      "rebuilt": "O=C(C[C@H](O)c1cccc(F)c1)N1CCC[C@@H]1c1cccc2c1OCCO2"
+    },
+    {
+      "input": "CC(C)[C@@H](NC(=O)c1cnsn1)c1cccs1",
+      "rebuilt": "CC(C)[C@H](NC(=O)c1cnsn1)c1cccs1"
+    },
+    {
+      "input": "C[C@H](c1ccccc1)[NH+]1CC[C@H](NC[C@](C)(O)c2ccco2)C1",
+      "rebuilt": "C[C@H](c1ccccc1)[NH+]1CC[C@H](NC[C@@](C)(O)c2ccco2)C1"
+    },
+    {
+      "input": "O=C(NCCC[NH+]1CCCC1)C1CCN(S(=O)(=O)c2ccc(F)cc2F)CC1",
+      "rebuilt": "O=C(C1CCN([NH+]2CCCC2)CC1)C1CCN(S(=O)(=O)c2ccc(F)cc2F)CC1"
+    },
+    {
+      "input": "Cc1ccc(C(=O)N2CCC[C@H](C(=O)NCc3nnc4n3CCC4)C2)cc1",
+      "rebuilt": "Cc1ccc(C(=O)N2CCC[C@@H](C(=O)NCc3nnc4n3CCC4)C2)cc1"
+    },
+    {
+      "input": "O=C(Cn1cnc2sccc2c1=O)N1N=C2/C(=C/c3ccco3)CCC[C@H]2[C@@H]1c1ccco1",
+      "rebuilt": "O=C(Cn1cnc2sccc2c1=O)N1N=C2C(Cc3ccco3)CCC[C@H]2[C@@H]1c1ccco1"
+    },
+    {
+      "input": "C[C@@H]([NH2+]Cc1ccc(-n2ccnc2)cc1)c1cccnc1",
+      "rebuilt": "C[C@H]([NH2+]Cc1ccc(-n2ccnc2)cc1)c1cccnc1"
+    },
+    {
+      "input": "Cc1ccc(F)cc1NC(=O)[C@@H](C(C)C)N1C(=O)c2ccccc2C1=O",
+      "rebuilt": "Cc1ccc(F)cc1NC(=O)[C@H](C(C)C)N1C(=O)c2ccccc2C1=O"
+    },
+    {
+      "input": "CCCCN1C[C@@H](C(=O)Nc2ccc(C(=O)NCC)cc2)CC1=O",
+      "rebuilt": "CCCCN1C[C@H](C(=O)Nc2ccc(C(=O)NCC)cc2)CC1=O"
+    },
+    {
+      "input": "CCc1cccc(C)c1NC(=O)[C@H](CC)n1nc(C)c2sc3ccccc3c2c1=O",
+      "rebuilt": "CCc1cccc(C)c1NC(=O)[C@@H](CC)n1nc(C)c2sc3ccccc3c2c1=O"
+    },
+    {
+      "input": "C[C@@H]([NH2+]CCN(C)C1CCCCC1)c1ccc2[nH]c(=O)[nH]c2c1",
+      "rebuilt": "C[C@H]([NH2+]CCN(C)C1CCCCC1)c1ccc2[nH]c(=O)[nH]c2c1"
+    },
+    {
+      "input": "O=C(c1ccc(Cn2c(=O)[nH]c3ccccc3c2=O)cc1)N1CCN(c2ccccc2)CC1",
+      "rebuilt": "O=C(N1CCN(Cn2c(=O)[nH]c3ccccc3c2=O)CC1)N1CCN(c2ccccc2)CC1"
+    },
+    {
+      "input": "Cc1cc(C)n2nc(CC(=O)O[C@H](C)c3nc4ccccc4n3C)nc2n1",
+      "rebuilt": "Cc1cc(C)n2nc(CC(=O)O[C@@H](C)c3nc4ccccc4n3C)nc2n1"
+    },
+    {
+      "input": "CC[C@@]1(c2ccc(NC(=O)c3nc(-c4ccco4)sc3C)cc2)CCC(=O)NC1=O",
+      "rebuilt": "CC[C@]1(c2ccc(NC(=O)c3nc(-c4ccco4)sc3C)cc2)CCC(=O)NC1=O"
+    },
+    {
+      "input": "CO[C@H](CNCc1cc2ccccc2[nH]c1=O)c1ccccc1",
+      "rebuilt": "CO[C@@H](CNCc1cc2ccccc2[nH]c1=O)c1ccccc1"
+    },
+    {
+      "input": "CS(=O)(=O)N1CCC[C@H](CCc2cccc(C(F)(F)F)c2)C1",
+      "rebuilt": "CS(=O)(=O)N1CCC[C@@H](CCc2cccc(C(F)(F)F)c2)C1"
+    },
+    {
+      "input": "CC[C@@H]([NH2+][C@@H](COC)c1ccc(F)c(F)c1)c1cnn(C)c1",
+      "rebuilt": "CC[C@H]([NH2+][C@@H](COC)c1ccc(F)c(F)c1)c1cnn(C)c1"
+    },
+    {
+      "input": "CN(CC(=O)NC(C)(C)C)C(=O)c1cc(N2CCCC2=O)ccc1Cl",
+      "rebuilt": "CN(C(=O)c1cc(NC(C)(C)C)ccc1Cl)C(=O)c1cc(N2CCCC2=O)ccc1Cl"
+    },
+    {
+      "input": "CCOc1ccc(Br)cc1/C=C/C(=O)NCCC(=O)[O-]",
+      "rebuilt": "CCOc1ccc(Br)cc1CCC(=O)NCCC(=O)[O-]"
+    },
+    {
+      "input": "C[C@@H](NC(=O)NC[C@H](O)C1CCOCC1)c1ccccc1C(F)(F)F",
+      "rebuilt": "C[C@H](NC(=O)NC[C@H](O)C1CCOCC1)c1ccccc1C(F)(F)F"
+    },
+    {
+      "input": "N#Cc1ccc(-c2noc(/C=C/c3ccccc3OC(F)(F)F)n2)nc1",
+      "rebuilt": "N#Cc1ccc(-c2noc(CCc3ccccc3OC(F)(F)F)n2)nc1"
+    },
+    {
+      "input": "COC(=O)ON1C(=O)c2ccccc2N[C@H]1c1ccccc1[N+](=O)[O-]",
+      "rebuilt": "COC(=O)ON1C(=O)c2ccccc2N[C@@H]1c1ccccc1[N+](=O)[O-]"
+    },
+    {
+      "input": "CCNC(=O)[C@@]1(Cc2cc(-c3ccccc3)no2)CCCN(C(=O)Cc2cccc(C)c2)C1",
+      "rebuilt": "CCNC(=O)[C@]1(Cc2cc(-c3ccccc3)no2)CCCN(C(=O)Cc2cccc(C)c2)C1"
+    },
+    {
+      "input": "C[C@@H](CNC(=O)N[C@@H]1CCN(c2cccc(Cl)c2)C1=O)[NH+](C)C1CC1",
+      "rebuilt": "C[C@H](CNC(=O)N[C@@H]1CCN(c2cccc(Cl)c2)C1=O)[NH+](C)C1CC1"
+    },
+    {
+      "input": "C[C@H](NC(=O)N[C@@H]1C[C@H]1C)c1ccc(S(=O)(=O)N(C)C)cc1",
+      "rebuilt": "C[C@@H]1C[C@H]1NC(=O)N[C@H](C)c1ccc(S(=O)(=O)N(C)C)cc1"
+    },
+    {
+      "input": "COC(=O)c1ccccc1NC(=O)N1CCC[C@H]1c1nc2ccccc2s1",
+      "rebuilt": "COC(=O)c1ccccc1NC(=O)N1CCC[C@@H]1c1nc2ccccc2s1"
+    },
+    {
+      "input": "Cc1noc(C)c1CCC(=O)N1CCC[C@@H](c2ncc3c(n2)CC[NH+](C)C3)C1",
+      "rebuilt": "Cc1noc(C)c1CCC(=O)N1CCC[C@H](c2ncc3c(n2)CC[NH+](C)C3)C1"
+    },
+    {
+      "input": "C[C@@]1(Cc2ccccc2)CC[NH2+]C[C@@H]1c1ccc(F)cc1",
+      "rebuilt": "C[C@]1(Cc2ccccc2)CC[NH2+]C[C@@H]1c1ccc(F)cc1"
+    },
+    {
+      "input": "COC(=O)c1cc(S(=O)(=O)N[C@H](C)c2nc3ccccc3[nH]2)oc1C",
+      "rebuilt": "COC(=O)c1cc(S(=O)(=O)N[C@@H](C)c2nc3ccccc3[nH]2)oc1C"
+    },
+    {
+      "input": "CC(C)CCOCC[NH+]1CC[C@@H](C(=O)[O-])[C@@H]1C",
+      "rebuilt": "CC(C)CCOCC[NH+]1CC[C@H](C(=O)[O-])[C@@H]1C"
+    },
+    {
+      "input": "O=C(NC[C@H](O)c1ccc2ccccc2c1)[C@@H]1C[C@@H]1c1ccco1",
+      "rebuilt": "O=C(NC[C@H](O)c1ccc2ccccc2c1)[C@@H]1C[C@H]1c1ccco1"
+    },
+    {
+      "input": "O=C(Oc1ccc2c(c1)O/C(=C\\c1ccco1)C2=O)c1ccccc1Br",
+      "rebuilt": "O=C(Oc1ccc2c(c1)OC(Cc1ccco1)C2=O)c1ccccc1Br"
+    },
+    {
+      "input": "CCOC(=O)c1ccc(NC(=O)[C@H](C)NC(=O)C(C)(C)C)cc1",
+      "rebuilt": "CCOC(=O)c1ccc(NC(=O)[C@@H](C)NC(=O)C(C)(C)C)cc1"
+    },
+    {
+      "input": "C[C@@H](Cc1cccs1)[NH2+][C@H](C)[C@@H](C)C(=O)[O-]",
+      "rebuilt": "C[C@H](Cc1cccs1)[NH2+][C@H](C)[C@@H](C)C(=O)[O-]"
+    },
+    {
+      "input": "Cc1ccc2c(c1)N(C)C(=O)[C@@](C)(C(=O)N1CCc3ccccc3C1)O2",
+      "rebuilt": "Cc1ccc2c(c1)N(C)C(=O)[C@](C)(C(=O)N1CCc3ccccc3C1)O2"
+    },
+    {
+      "input": "C[NH2+][C@H]1c2cc(OC)ccc2C[C@@H]1n1cc(C)cn1",
+      "rebuilt": "C[NH2+][C@H]1c2cc(OC)ccc2C[C@H]1n1cc(C)cn1"
+    },
+    {
+      "input": "C[NH+](C)[C@H]1CC[C@H](NS(=O)(=O)c2ccc(F)cc2C(F)(F)F)C1",
+      "rebuilt": "C[NH+](C)[C@H]1CC[C@@H](NS(=O)(=O)c2ccc(F)cc2C(F)(F)F)C1"
+    },
+    {
+      "input": "C[C@@H]1CC([NH+]2CCC[C@H](c3nnc4ccc(C(F)(F)F)cn34)C2)C[C@@H](C)O1",
+      "rebuilt": "C[C@@H]1CC([NH+]2CCC[C@@H](c3nnc4ccc(C(F)(F)F)cn34)C2)C[C@@H](C)O1"
+    },
+    {
+      "input": "CN(CCOCC1CC1)C(=O)c1cnn2c(-c3ccccc3)ccnc12",
+      "rebuilt": "CN(C(=O)c1cnn2c(CC3CC3)ccnc12)C(=O)c1cnn2c(-c3ccccc3)ccnc12"
+    },
+    {
+      "input": "C=C[C@]1(C)C[C@H]([C@@]2(C)C3=C(CC[C@@H]2C)CCC32SCCS2)OC1=O",
+      "rebuilt": "C=C[C@]1(C)C[C@H]([C@]2(C)C3=C(CC[C@@H]2C)CCC32SCCS2)OC1=O"
+    },
+    {
+      "input": "CO[C@H]1CCCC[C@@H]1NC(=O)NNC(=O)c1ccccc1Cl",
+      "rebuilt": "CO[C@H]1CCCC[C@H]1NC(=O)NNC(=O)c1ccccc1Cl"
+    },
+    {
+      "input": "CN1C(=O)C(=Cc2ccsc2)C(=O)N(C)C1=S",
+      "rebuilt": "CN1C(=O)C(Cc2ccsc2)C(=O)N(C)C1=S"
+    },
+    {
+      "input": "CCCN1C(=O)c2ccccc2N[C@H]1c1ccccc1OC[C@@H]1CCCO1",
+      "rebuilt": "CCCN1C(=O)c2ccccc2N[C@@H]1c1ccccc1OC[C@@H]1CCCO1"
+    },
+    {
+      "input": "CCc1cc2c(NCC(=O)N[C@@H](c3ccc(C)cc3)c3cccnc3)ncnc2s1",
+      "rebuilt": "CCc1cc2c(NCC(=O)N[C@H](c3ccc(C)cc3)c3cccnc3)ncnc2s1"
+    },
+    {
+      "input": "C[C@H](SCc1cccc(C(N)=O)c1)C(=O)N[C@H](C)c1ccccc1",
+      "rebuilt": "C[C@H](SCc1cccc(C(N)=O)c1)C(=O)N[C@@H](C)c1ccccc1"
+    },
+    {
+      "input": "CC[NH2+][C@H](C)c1cc(F)ccc1O[C@@H](C)c1ccccc1",
+      "rebuilt": "CC[NH2+][C@@H](C)c1cc(F)ccc1O[C@H](C)c1ccccc1"
+    },
+    {
+      "input": "CCC[NH2+]CC/C=C/c1cnccc1C",
+      "rebuilt": "CCC[NH2+]CCCCc1cnccc1C"
+    },
+    {
+      "input": "CC[C@H]1CC(=O)N(C[C@@H]([NH3+])c2ccc(OC(C)C)cc2)C1",
+      "rebuilt": "CC[C@H]1CC(=O)N(C[C@H]([NH3+])c2ccc(OC(C)C)cc2)C1"
+    },
+    {
+      "input": "C[C@H](Cc1ccsc1)[NH2+][C@H]1CCCC[C@@H]1[C@@H]1CCC[NH2+]1",
+      "rebuilt": "C[C@@H](Cc1ccsc1)[NH2+][C@H]1CCCC[C@H]1[C@@H]1CCC[NH2+]1"
+    },
+    {
+      "input": "CC[C@H](C(=O)OC1CN(c2nc3ccc(F)cc3s2)C1)c1ccccc1",
+      "rebuilt": "CC[C@@H](C(=O)OC1CN(c2nc3ccc(F)cc3s2)C1)c1ccccc1"
+    },
+    {
+      "input": "CCCN[C@]1(C#N)CCC[C@H](Sc2ccccc2C)C1",
+      "rebuilt": "CCCN[C@]1(C#N)CCC[C@@H](Sc2ccccc2C)C1"
+    },
+    {
+      "input": "COc1cccc(C(=O)NC[C@H](C)N(C)c2ccccc2)c1F",
+      "rebuilt": "COc1cccc(C(=O)NC[C@@H](C)N(C)c2ccccc2)c1F"
+    },
+    {
+      "input": "COC(=O)[C@]1([NH2+]C2CC2)CCC[C@@H](OCC(F)(F)F)C1",
+      "rebuilt": "COC(=O)[C@@]1([NH2+]C2CC2)CCC[C@H](OCC(F)(F)F)C1"
+    },
+    {
+      "input": "C[C@H]1SCCC[C@]1(C[NH3+])N1CC[C@H]([NH+]2CCCC2)C1",
+      "rebuilt": "C[C@H]1SCCC[C@@]1(C[NH3+])N1CC[C@@H]([NH+]2CCCC2)C1"
+    },
+    {
+      "input": "COc1ccc(N2C[C@H](C(=O)Nc3cccc(-n4c(C)c[nH]c4=O)c3)CC2=O)cc1",
+      "rebuilt": "COc1ccc(N2C[C@@H](C(=O)Nc3cccc(-n4c(C)c[nH]c4=O)c3)CC2=O)cc1"
+    },
+    {
+      "input": "Cc1noc(C)c1C[C@H](C)N[C@H](C)c1nc2ccc(Cl)cc2n1C",
+      "rebuilt": "Cc1noc(C)c1C[C@@H](C)N[C@@H](C)c1nc2ccc(Cl)cc2n1C"
+    },
+    {
+      "input": "C[C@H](CCc1ccc(O)cc1)NC(=O)N(C)CCc1ccccn1",
+      "rebuilt": "C[C@@H](CCc1ccc(O)cc1)NC(=O)N(C)CCc1ccccn1"
+    },
+    {
+      "input": "CC(C)C[C@@H](C(=O)Nc1cccc([S@@](C)=O)c1)N1CCCCC1=O",
+      "rebuilt": "CC(C)C[C@H](C(=O)Nc1cccc([S@@](C)=O)c1)N1CCCCC1=O"
+    },
+    {
+      "input": "N=C1/C(=C\\c2ccc(O)c(Br)c2)C(=O)N=C2SC(N3CCCC3)=NN12",
+      "rebuilt": "N=C1C(Cc2ccc(O)c(Br)c2)C(=O)N=C2SC(N3CCCC3)=NN12"
+    },
+    {
+      "input": "C[C@]1(C(=O)[O-])[C@H]2CC[C@H](C2)[C@H]1C(=O)[O-]",
+      "rebuilt": "C[C@@]1(C(=O)[O-])[C@H]2CC[C@H](C2)[C@H]1C(=O)[O-]"
+    },
+    {
+      "input": "NC(=O)NCc1ccc(NC(=O)[C@H](Oc2ccccc2)c2ccccc2)cc1",
+      "rebuilt": "NC(=O)NCc1ccc(NC(=O)[C@@H](Oc2ccccc2)c2ccccc2)cc1"
+    },
+    {
+      "input": "C[C@@H](CNC(=O)c1cc2cc(C(F)(F)F)ccc2n1C)N1CCOCC1",
+      "rebuilt": "C[C@H](CNC(=O)c1cc2cc(C(F)(F)F)ccc2n1C)N1CCOCC1"
+    },
+    {
+      "input": "COc1ccc2nc(N(CCN3CCOCC3)C(=O)/C=C/c3ccccc3)sc2c1",
+      "rebuilt": "COc1ccc2nc(N(CCN3CCOCC3)C(=O)CCc3ccccc3)sc2c1"
+    },
+    {
+      "input": "CCOC(=O)/C(C#N)=C\\N[C@]1(C)CCS(=O)(=O)C1",
+      "rebuilt": "CCOC(=O)/C(C#N)=C\\N[C@@]1(C)CCS(=O)(=O)C1"
+    },
+    {
+      "input": "CC[C@@H](C)N(C)C(=O)N[C@H](C)c1ccc(OCC(F)(F)F)cc1",
+      "rebuilt": "CC[C@@H](C)N(C)C(=O)N[C@@H](C)c1ccc(OCC(F)(F)F)cc1"
+    },
+    {
+      "input": "CC(C)[C@H](C(=O)NCc1ccccn1)c1ccc(Cl)cc1",
+      "rebuilt": "CC(C)[C@@H](C(=O)NCc1ccccn1)c1ccc(Cl)cc1"
+    },
+    {
+      "input": "COC(=O)c1c(NC(=O)C=CC(=O)[O-])sc(C)c1C",
+      "rebuilt": "COC(=O)c1c(NC(=O)CCC(=O)[O-])sc(C)c1C"
+    },
+    {
+      "input": "CC[C@H]1CCCC[C@@H]1NC(=O)C(=O)Nc1cccc(Oc2ccccn2)c1",
+      "rebuilt": "CC[C@H]1CCCC[C@H]1NC(=O)C(=O)Nc1cccc(Oc2ccccn2)c1"
+    },
+    {
+      "input": "COCC(=O)N1CC[C@@H](c2c(C(=O)N(C)C)sc3ncccc23)C1",
+      "rebuilt": "COCC(=O)N1CC[C@H](c2c(C(=O)N(C)C)sc3ncccc23)C1"
+    },
+    {
+      "input": "C[C@H](C(=O)Nc1cccc(-c2ccc3c(c2)CCO3)c1)n1cccn1",
+      "rebuilt": "C[C@@H](C(=O)Nc1cccc(-c2ccc3c(c2)CCO3)c1)n1cccn1"
+    },
+    {
+      "input": "O=C(CCOc1ccccc1)N1CCC[C@H](C(=O)N2CCC(O)CC2)C1",
+      "rebuilt": "O=C(CCOc1ccccc1)N1CCC[C@@H](C(=O)N2CCC(O)CC2)C1"
+    },
+    {
+      "input": "C[C@@H]([NH2+][C@@H]1CC[C@H]([NH+](C)C)C1)[C@H](C)c1ccccc1",
+      "rebuilt": "C[C@@H]([NH2+][C@@H]1CC[C@H]([NH+](C)C)C1)[C@@H](C)c1ccccc1"
+    },
+    {
+      "input": "CCC[C@@H](C(=O)NNC(=O)[C@@H]1COc2ccccc2O1)c1ccccc1",
+      "rebuilt": "CCC[C@H](C(=O)NNC(=O)[C@@H]1COc2ccccc2O1)c1ccccc1"
+    },
+    {
+      "input": "CC(C)[C@@H](NC(=O)CN1CCS(=O)(=O)CC1)c1nc2ccccc2[nH]1",
+      "rebuilt": "CC(C)[C@H](NC(=O)CN1CCS(=O)(=O)CC1)c1nc2ccccc2[nH]1"
+    },
+    {
+      "input": "CC(=O)N1CCc2cc(C(=O)O[C@H](c3ccccc3)c3ccncc3)ccc21",
+      "rebuilt": "CC(=O)N1CCc2cc(C(=O)O[C@@H](c3ccccc3)c3ccncc3)ccc21"
+    },
+    {
+      "input": "C[C@@H]1CC(C(=O)N[C@@H](C#N)c2ccc(C(C)(C)C)cc2)C[C@@H](C)O1",
+      "rebuilt": "C[C@@H]1CC(C(=O)N[C@H](C#N)c2ccc(C(C)(C)C)cc2)C[C@@H](C)O1"
+    },
+    {
+      "input": "CC1(C)CCC[C@]1([NH3+])CCO",
+      "rebuilt": "CC1(C)CCC[C@@]1([NH3+])CCO"
+    },
+    {
+      "input": "C[NH+](C)C[C@H]1COc2ccccc2CN1C(=O)[C@H](Cc1ccccc1)NC(=O)C(C)(C)C",
+      "rebuilt": "C[NH+](C)C[C@H]1COc2ccccc2CN1C(=O)[C@@H](Cc1ccccc1)NC(=O)C(C)(C)C"
+    },
+    {
+      "input": "Cc1cc(S(=O)(=O)N2CCO[C@@H](c3ccsc3)C2)sc1C",
+      "rebuilt": "Cc1cc(S(=O)(=O)N2CCO[C@H](c3ccsc3)C2)sc1C"
+    },
+    {
+      "input": "COc1ccccc1/C=C/C(=O)OCC(=O)c1ccc2c(c1)OCCO2",
+      "rebuilt": "COc1ccccc1CCC(=O)OCC(=O)c1ccc2c(c1)OCCO2"
+    },
+    {
+      "input": "O=C(NCCCc1ccccc1)C1CCN(c2ccc(-c3ccc(F)cc3)nn2)CC1",
+      "rebuilt": "O=C(C1CCN(c2ccccc2)CC1)C1CCN(c2ccc(-c3ccc(F)cc3)nn2)CC1"
+    },
+    {
+      "input": "CN(C)C(=O)N1CCC(C(=O)N[C@@H]2CC[C@H]([NH+](C)C)C2)CC1",
+      "rebuilt": "CN(C)C(=O)N1CCC(C(=O)N[C@@H]2CC[C@@H]([NH+](C)C)C2)CC1"
+    },
+    {
+      "input": "C[C@H](C(=O)Nc1cc(Cl)ccc1Cl)n1cc(Br)cn1",
+      "rebuilt": "C[C@@H](C(=O)Nc1cc(Cl)ccc1Cl)n1cc(Br)cn1"
+    },
+    {
+      "input": "CC/C(=C/C(=O)Nc1ccc(CS(C)(=O)=O)cc1)c1ccccc1",
+      "rebuilt": "CCC(CC(=O)Nc1ccc(CS(C)(=O)=O)cc1)c1ccccc1"
+    },
+    {
+      "input": "CC[C@@H](NC(=O)COc1ccc2c(c1)CCC(=O)N2)c1ccc(OC)cc1",
+      "rebuilt": "CC[C@H](NC(=O)COc1ccc2c(c1)CCC(=O)N2)c1ccc(OC)cc1"
+    },
+    {
+      "input": "C[C@@H](NC(=O)CCn1cc(Cl)cn1)C12CC3CC(CC(C3)C1)C2",
+      "rebuilt": "C[C@H](NC(=O)CCn1cc(Cl)cn1)C12CC3CC(CC(C3)C1)C2"
+    },
+    {
+      "input": "C[C@@H](NC(=O)Cc1cccc(C(F)(F)F)c1)c1cccc(Cl)c1",
+      "rebuilt": "C[C@H](NC(=O)Cc1cccc(C(F)(F)F)c1)c1cccc(Cl)c1"
+    },
+    {
+      "input": "COc1ccc([C@H](C)[NH+]2CC[C@H](C(=O)[O-])[C@@H]2C)cc1",
+      "rebuilt": "COc1ccc([C@H](C)[NH+]2CC[C@@H](C(=O)[O-])[C@@H]2C)cc1"
+    },
+    {
+      "input": "O=C(Cc1cccs1)N1CCC[C@H](OCc2cccnc2)C1",
+      "rebuilt": "O=C(Cc1cccs1)N1CCC[C@@H](OCc2cccnc2)C1"
+    },
+    {
+      "input": "COC1CCC(CC(=O)N[C@@H]2CC[NH+](C)[C@H]2c2ccc(Cl)cc2)CC1",
+      "rebuilt": "COC1CCC(CC(=O)N[C@@H]2CC[NH+](C)[C@@H]2c2ccc(Cl)cc2)CC1"
+    },
+    {
+      "input": "CCNC(=O)COC(=O)/C=C/c1ccccc1Cl",
+      "rebuilt": "CCNC(=O)COC(=O)CCc1ccccc1Cl"
+    },
+    {
+      "input": "O=C(NCC1(c2ccc(Cl)cc2)CCOCC1)N[C@@H]1CCC[C@H]1CO",
+      "rebuilt": "O=C(NCC1(c2ccc(Cl)cc2)CCOCC1)N[C@@H]1CCC[C@@H]1CO"
+    },
+    {
+      "input": "C[NH+](C)[C@H]1CCN(C(=O)c2ccncc2/C=C/C(=O)[O-])C1",
+      "rebuilt": "C[NH+](C)[C@H]1CCN(C(=O)c2ccncc2CCC(=O)[O-])C1"
+    },
+    {
+      "input": "O=c1[nH]c([O-])nc(C=Cc2c[nH]c3ccccc23)c1[N+](=O)[O-]",
+      "rebuilt": "O=c1[nH]c([O-])nc(CCc2c[nH]c3ccccc23)c1[N+](=O)[O-]"
+    },
+    {
+      "input": "CCn1nc(C)c(CN2CCO[C@H](CC(=O)OC)C2)c1C",
+      "rebuilt": "CCn1nc(C)c(CN2CCO[C@@H](CC(=O)OC)C2)c1C"
+    },
+    {
+      "input": "Cc1cccc(CN(Cc2cccc(C)n2)C(=O)[C@@H]2C[C@H]2c2ccccc2)n1",
+      "rebuilt": "Cc1cccc(CN(Cc2cccc(C)n2)C(=O)[C@@H]2C[C@@H]2c2ccccc2)n1"
+    },
+    {
+      "input": "CC(C)C[NH+]1CCC[C@@H]1CNC(=O)N(C)C[C@@H](C)O",
+      "rebuilt": "CC(C)C[NH+]1CCC[C@H]1CNC(=O)N(C)C[C@@H](C)O"
+    },
+    {
+      "input": "CCOC(=O)N1CCN([C@H](c2ccc(CC)cc2)c2sc3nc(CC)nn3c2O)CC1",
+      "rebuilt": "CCOC(=O)N1CCN([C@H](c2ccc(CC)cc2)N2CCN(CC)CC2)CC1"
+    },
+    {
+      "input": "Cc1cc(CN2CCN(C(=O)/C=C/c3ccc(C)o3)CC2)no1",
+      "rebuilt": "Cc1cc(CN2CCN(C(=O)CCc3ccc(C)o3)CC2)no1"
+    },
+    {
+      "input": "CC(=O)N1CCCC[C@@H]1C(=O)NCc1cccc(-c2n[nH]c(C)n2)c1",
+      "rebuilt": "CC(=O)N1CCCC[C@H]1C(=O)NCc1cccc(-c2n[nH]c(C)n2)c1"
+    },
+    {
+      "input": "Cc1ccc(C(=O)C2=C([O-])C(=O)N(c3cccnc3)[C@@H]2c2ccc(O)cc2)cc1",
+      "rebuilt": "Cc1ccc(C(=O)C2=C([O-])C(=O)N(c3cccnc3)[C@H]2c2ccc(O)cc2)cc1"
+    },
+    {
+      "input": "O=C(NCc1ccc(-n2cncn2)cc1)N1CCOC[C@H]1C1CC1",
+      "rebuilt": "O=C(N1CCOC[C@@H]1C1CC1)N1CCOC[C@H]1n1cncn1"
+    },
+    {
+      "input": "C[C@H](NC(=O)c1c(Cl)cccc1Cl)c1cccc(Cl)c1",
+      "rebuilt": "C[C@@H](NC(=O)c1c(Cl)cccc1Cl)c1cccc(Cl)c1"
+    },
+    {
+      "input": "COc1ccc(F)cc1NC(=O)NC[C@H](O)C1CCOCC1",
+      "rebuilt": "COc1ccc(F)cc1NC(=O)NC[C@@H](O)C1CCOCC1"
+    },
+    {
+      "input": "C[C@H](NC(=O)CCCN1C(=O)c2ccccc2C1=O)c1ccc(F)cc1",
+      "rebuilt": "C[C@@H](NC(=O)CCCN1C(=O)c2ccccc2C1=O)c1ccc(F)cc1"
+    },
+    {
+      "input": "CCc1ccc([C@@H]2OCC[C@H]2CO)o1",
+      "rebuilt": "CCc1ccc([C@@H]2OCC[C@@H]2CO)o1"
+    },
+    {
+      "input": "O=C([O-])[C@@H](c1ccc(NC(=O)N2CCCC2)cc1)[NH+]1CCCCCCC1",
+      "rebuilt": "O=C([O-])[C@H](c1ccc(NC(=O)N2CCCC2)cc1)[NH+]1CCCCCCC1"
+    },
+    {
+      "input": "CN(CC(C)(C)O)C(=O)/C=C/c1ccc(O)cc1",
+      "rebuilt": "CN(CC(C)(C)O)C(=O)CCc1ccc(O)cc1"
+    },
+    {
+      "input": "CCc1nn(C)cc1/C=C(/C#N)C(=O)c1cc(C)cc(C)c1",
+      "rebuilt": "CCc1nn(C)cc1CC(C#N)C(=O)c1cc(C)cc(C)c1"
+    },
+    {
+      "input": "C[C@@H](C(=O)Nc1ccc(OCC(F)(F)F)c(C#N)c1)[NH+](C)C",
+      "rebuilt": "C[C@H](C(=O)Nc1ccc(OCC(F)(F)F)c(C#N)c1)[NH+](C)C"
+    },
+    {
+      "input": "CSc1ccc(-c2nc(CN3CCO[C@H](C[NH3+])C3)c(C)o2)cc1",
+      "rebuilt": "CSc1ccc(-c2nc(CN3CCO[C@@H](C[NH3+])C3)c(C)o2)cc1"
+    },
+    {
+      "input": "COc1ccc(C(=O)C2=C([O-])C(=O)N(C)[C@H]2c2ccc(Cl)cc2Cl)cc1OC",
+      "rebuilt": "COc1ccc(C(=O)C2=C([O-])C(=O)N(C)[C@@H]2c2ccc(Cl)cc2Cl)cc1OC"
+    },
+    {
+      "input": "CC(C)(C)[C@@H]1OCC[C@@H]1CNC(=O)NC[C@@H]1CCC[C@H](O)C1",
+      "rebuilt": "CC(C)(C)[C@@H]1OCC[C@H]1CNC(=O)NC[C@@H]1CCC[C@H](O)C1"
+    },
+    {
+      "input": "CC[C@@H](c1ccccc1)c1nc2cc(C(F)(F)F)ccc2n1CCO",
+      "rebuilt": "CC[C@H](c1ccccc1)c1nc2cc(C(F)(F)F)ccc2n1CCO"
+    },
+    {
+      "input": "Cc1cccc(OCCNC(=O)N2CCC[C@@H]([NH+](C)C)C2)c1",
+      "rebuilt": "Cc1cccc(OCCNC(=O)N2CCC[C@H]([NH+](C)C)C2)c1"
+    },
+    {
+      "input": "COc1ccc(S(=O)(=O)N2CCCC[C@@H]2C(=O)[O-])cc1C",
+      "rebuilt": "COc1ccc(S(=O)(=O)N2CCCC[C@H]2C(=O)[O-])cc1C"
+    },
+    {
+      "input": "C/C(=C\\c1ccc2ncccc2c1)C[NH3+]",
+      "rebuilt": "CC(C[NH3+])Cc1ccc2ncccc2c1"
+    },
+    {
+      "input": "O=C(CN1C(=O)CCC1=O)NC[C@@H](O)c1ccc(C(F)(F)F)cc1",
+      "rebuilt": "O=C(CN1C(=O)CCC1=O)NC[C@H](O)c1ccc(C(F)(F)F)cc1"
+    },
+    {
+      "input": "CC(C)(C)N1C[C@@H](NC(=O)N[C@@H](CC(F)(F)F)c2ccc(F)cc2)CC1=O",
+      "rebuilt": "CC(C)(C)N1C[C@H](NC(=O)N[C@H](CC(F)(F)F)c2ccc(F)cc2)CC1=O"
+    },
+    {
+      "input": "COc1ccc(C[NH+](C)CC(=O)N(C)[C@H](C)c2ccc(F)c(F)c2)cc1",
+      "rebuilt": "COc1ccc(C[NH+](C)CC(=O)N(C)[C@@H](C)c2ccc(F)c(F)c2)cc1"
+    },
+    {
+      "input": "COc1ccc(/C=C2/C(=O)NC(=O)N(c3ccccc3)C2=O)cc1Cl",
+      "rebuilt": "COc1ccc(CC2C(=O)NC(=O)N(c3ccccc3)C2=O)cc1Cl"
+    },
+    {
+      "input": "CC[C@@](C)(CO)NC(=O)Nc1cc(F)c(OC)cc1OC",
+      "rebuilt": "CC[C@](C)(CO)NC(=O)Nc1cc(F)c(OC)cc1OC"
+    },
+    {
+      "input": "Cc1nc2ccc(NC(=O)[C@H](C)Sc3ccccn3)cc2o1",
+      "rebuilt": "Cc1nc2ccc(NC(=O)[C@@H](C)Sc3ccccn3)cc2o1"
+    },
+    {
+      "input": "Cc1nn(C(C)(C)C)cc1[C@@H](C)[NH2+][C@@H](CC(F)(F)F)c1ccc(F)cc1",
+      "rebuilt": "Cc1nn(C(C)(C)C)cc1[C@@H](C)[NH2+][C@H](CC(F)(F)F)c1ccc(F)cc1"
+    },
+    {
+      "input": "O=C(/C=C/c1ccc(-n2ccnc2)cc1)N1CCC[C@H]1CN1CCOCC1",
+      "rebuilt": "O=C(CCc1ccc(-n2ccnc2)cc1)N1CCC[C@@H]1CN1CCOCC1"
+    },
+    {
+      "input": "N#CC1=C(SCC(=O)Nc2ccccc2)NC(=O)C[C@@H]1c1ccccc1",
+      "rebuilt": "N#CC1=C(SCC(=O)Nc2ccccc2)NC(=O)C[C@H]1c1ccccc1"
+    },
+    {
+      "input": "CCC(=O)N1CCCC[C@H]1C(=O)NCc1cccc(OCC(F)F)n1",
+      "rebuilt": "CCC(=O)N1CCCC[C@@H]1C(=O)NCc1cccc(OCC(F)F)n1"
+    },
+    {
+      "input": "CCN(CC(=O)N[C@H]1CCS(=O)(=O)C1)C(=O)Cc1cccc2ccccc12",
+      "rebuilt": "CCN(C(=O)CN[C@H]1CCS(=O)(=O)C1)C(=O)Cc1cccc2ccccc12"
+    },
+    {
+      "input": "CCOc1c(OC)cc(C[NH+]2CCNC(=O)[C@@H]2CC)cc1OC",
+      "rebuilt": "CCOc1c(OC)cc(C[NH+]2CCNC(=O)[C@H]2CC)cc1OC"
+    },
+    {
+      "input": "CC[C@]1(C(=O)[O-])CC[NH+](Cc2ccc(CC(C)C)cc2)C1",
+      "rebuilt": "CC[C@@]1(C(=O)[O-])CC[NH+](Cc2ccc(CC(C)C)cc2)C1"
+    },
+    {
+      "input": "CC(=O)Nc1cccc(C(=O)N2Cc3ccccc3C[C@@H]2C(N)=O)c1",
+      "rebuilt": "CC(=O)Nc1cccc(C(=O)N2Cc3ccccc3C[C@H]2C(N)=O)c1"
+    },
+    {
+      "input": "CCNC(=O)c1ccc(CNC(=O)NC[C@H](C)c2ccsc2)cc1",
+      "rebuilt": "CCNC(=O)c1ccc(CNC(=O)NC[C@@H](C)c2ccsc2)cc1"
+    },
+    {
+      "input": "C[C@H](Sc1nnc(Nc2ccccc2)s1)c1nnnn1-c1ccccc1",
+      "rebuilt": "C[C@@H](Sc1nnc(Nc2ccccc2)s1)c1nnnn1-c1ccccc1"
+    },
+    {
+      "input": "CC[C@]1(C)NC(=O)CCN(C[C@]2(C)CCCO2)C1=O",
+      "rebuilt": "CC[C@@]1(C)NC(=O)CCN(C[C@]2(C)CCCO2)C1=O"
+    },
+    {
+      "input": "CC(C)[C@@H](CO)NC(=O)N[C@H]1CCO[C@H]1c1ccc(Cl)c(F)c1",
+      "rebuilt": "CC(C)[C@@H](CO)NC(=O)N[C@H]1CCO[C@@H]1c1ccc(Cl)c(F)c1"
+    },
+    {
+      "input": "O=C1/C(=C\\c2ccc(-c3cccc([N+](=O)[O-])c3)o2)SC(=S)N1c1cccc(F)c1",
+      "rebuilt": "O=C1C(Cc2ccc(-c3cccc([N+](=O)[O-])c3)o2)SC(=S)N1c1cccc(F)c1"
+    },
+    {
+      "input": "CCn1nc(C)c(NC(=O)C(=O)N2CCC[C@H](Nc3ccccc3)C2)c1C",
+      "rebuilt": "CCn1nc(C)c(NC(=O)C(=O)N2CCC[C@@H](Nc3ccccc3)C2)c1C"
+    },
+    {
+      "input": "CCC[C@@](C)(CO)NC(=O)Nc1ccc(N2CCc3sccc3C2)cc1",
+      "rebuilt": "CCC[C@](C)(CO)NC(=O)Nc1ccc(N2CCc3sccc3C2)cc1"
+    },
+    {
+      "input": "COc1cccc(NC(=O)C2=C(C)NC(=S)N[C@H]2c2ccccc2F)c1",
+      "rebuilt": "COc1cccc(NC(=O)C2=C(C)NC(=S)N[C@@H]2c2ccccc2F)c1"
+    },
+    {
+      "input": "COC(=O)Cc1n[nH]c(/N=C(\\[O-])C/C=C/c2ccc(C)cc2)n1",
+      "rebuilt": "COC(=O)Cc1n[nH]c(/N=C(\\[O-])CCCc2ccc(C)cc2)n1"
+    },
+    {
+      "input": "C[C@H](CNC(=O)Nc1ccccc1N1CC[NH+](C)CC1)N(C)c1ccccc1",
+      "rebuilt": "C[C@@H](CNC(=O)Nc1ccccc1N1CC[NH+](C)CC1)N(C)c1ccccc1"
+    },
+    {
+      "input": "C1=C[C@@H]2c3cccc(OCc4ccccc4)c3N[C@H](c3cccnc3)[C@H]2C1",
+      "rebuilt": "C1=C[C@@H]2c3cccc(OCc4ccccc4)c3N[C@@H](c3cccnc3)[C@H]2C1"
+    },
+    {
+      "input": "O=C(C/C=C/c1ccc(F)cc1)N1CCC[C@@H](COc2ccccc2)C1",
+      "rebuilt": "O=C(CCCc1ccc(F)cc1)N1CCC[C@H](COc2ccccc2)C1"
+    },
+    {
+      "input": "C[C@H](O)CCC(=O)N[C@@H](C)c1ccc(NC(N)=O)cc1",
+      "rebuilt": "C[C@H](O)CCC(=O)N[C@H](C)c1ccc(NC(N)=O)cc1"
+    },
+    {
+      "input": "C[C@@H](C(=O)NCCc1cccs1)N1CCN(C(=O)C2CC2)CC1",
+      "rebuilt": "C[C@H](C(=O)NCCc1cccs1)N1CCN(C(=O)C2CC2)CC1"
+    },
+    {
+      "input": "CCS(=O)(=O)CCN(C)C(=O)[C@H](C)Oc1ccc(Cl)c(Cl)c1",
+      "rebuilt": "CCS(=O)(=O)CCN(C)C(=O)[C@@H](C)Oc1ccc(Cl)c(Cl)c1"
+    },
+    {
+      "input": "CCn1cnnc1CNC(=O)N1CCC[C@H]1c1nc2ccccc2[nH]1",
+      "rebuilt": "CCn1cnnc1CNC(=O)N1CCC[C@@H]1c1nc2ccccc2[nH]1"
+    },
+    {
+      "input": "CC/C(=C/C(=O)N(C)C[C@H](C)C(=O)NC)c1ccc(C)cc1",
+      "rebuilt": "CCC(CC(=O)N(C)C[C@H](C)C(=O)NC)c1ccc(C)cc1"
+    },
+    {
+      "input": "C[C@@H](NC(=O)CN1CCCC1=O)c1cccc2ccccc12",
+      "rebuilt": "C[C@H](NC(=O)CN1CCCC1=O)c1cccc2ccccc12"
+    },
+    {
+      "input": "C[C@H](CC[NH+]1CCN(c2ccccc2)CC1)NC(=O)N1CCC(N2CCNC2=O)CC1",
+      "rebuilt": "C[C@@H](CC[NH+]1CCN(c2ccccc2)CC1)NC(=O)N1CCC(N2CCNC2=O)CC1"
+    },
+    {
+      "input": "CC(C)N1C[C@@]23C=C[C@@H](O2)[C@H](C(=O)Nc2ccc(N4CCCC4)c(F)c2)[C@@H]3C1=O",
+      "rebuilt": "CC(C)N1C[C@@]23C=C[C@@H](O2)[C@@H](C(=O)Nc2ccc(N4CCCC4)c(F)c2)[C@@H]3C1=O"
+    },
+    {
+      "input": "COC(=O)[C@@H]1C[C@@H](NC(=O)c2ccccc2-n2cccn2)CN1C1Cc2ccccc2C1",
+      "rebuilt": "COC(=O)[C@@H]1C[C@H](NC(=O)c2ccccc2-n2cccn2)CN1C1Cc2ccccc2C1"
+    },
+    {
+      "input": "COC[C@H](NC(=O)CC1(O)CCCCC1)c1ccc(F)c(F)c1",
+      "rebuilt": "COC[C@@H](NC(=O)CC1(O)CCCCC1)c1ccc(F)c(F)c1"
+    },
+    {
+      "input": "O=C(NN1C(=O)/C(=C\\c2cccc3ccccc23)SC1=S)c1ccccc1",
+      "rebuilt": "O=C(NN1C(=O)C(Cc2cccc3ccccc23)SC1=S)c1ccccc1"
+    },
+    {
+      "input": "CC[C@@H]([NH2+][C@@H]1CCc2c(OC)cccc21)[C@H]1CCCO1",
+      "rebuilt": "CC[C@H]([NH2+][C@@H]1CCc2c(OC)cccc21)[C@H]1CCCO1"
+    },
+    {
+      "input": "C[C@@H](c1nnc(SCC(=O)Nc2sccc2C#N)n1-c1ccc(Cl)cc1)[NH+](C)C",
+      "rebuilt": "C[C@H](c1nnc(SCC(=O)Nc2sccc2C#N)n1-c1ccc(Cl)cc1)[NH+](C)C"
+    },
+    {
+      "input": "Cc1ccc(C(=O)NC2CCN(C(=O)[C@@H](C)c3ccsc3)CC2)s1",
+      "rebuilt": "Cc1ccc(C(=O)NC2CCN(C(=O)[C@H](C)c3ccsc3)CC2)s1"
+    },
+    {
+      "input": "CCOC(=O)CNC(=O)C1CC[NH+]([C@H]2CC[C@@H](CC)C2)CC1",
+      "rebuilt": "CCOC(=O)CNC(=O)C1CC[NH+]([C@H]2CC[C@H](CC)C2)CC1"
+    },
+    {
+      "input": "Cc1nn(C)c(Oc2cccnc2)c1CN1CCCC[C@H]([NH+]2CCCC2)C1",
+      "rebuilt": "Cc1nn(C)c(Oc2cccnc2)c1CN1CCCC[C@@H]([NH+]2CCCC2)C1"
+    },
+    {
+      "input": "CCCNC(=O)/C=C/c1c(C)nn(Cc2ccccc2Cl)c1C",
+      "rebuilt": "CCCNC(=O)CCc1c(C)nn(Cc2ccccc2Cl)c1C"
+    },
+    {
+      "input": "[NH3+]C[C@@H](Cc1nccs1)c1cccc(Cl)c1",
+      "rebuilt": "[NH3+]C[C@H](Cc1nccs1)c1cccc(Cl)c1"
+    },
+    {
+      "input": "C[C@H](Cc1ccc(Cl)cc1)[NH2+]C1CCN(CC[NH+](C)C)CC1",
+      "rebuilt": "C[C@@H](Cc1ccc(Cl)cc1)[NH2+]C1CCN(CC[NH+](C)C)CC1"
+    },
+    {
+      "input": "COc1nccnc1N1CCC[C@@H](N2CCCC2=O)C1",
+      "rebuilt": "COc1nccnc1N1CCC[C@H](N2CCCC2=O)C1"
+    },
+    {
+      "input": "C[NH+](C)[C@@H]1CC[C@@H](NC(=O)COc2ccccc2C=O)C1",
+      "rebuilt": "C[NH+](C)[C@@H]1CC[C@H](NC(=O)COc2ccccc2C=O)C1"
+    },
+    {
+      "input": "C[NH2+]C[C@@H](C)OCc1cccnc1OC",
+      "rebuilt": "C[NH2+]C[C@H](C)OCc1cccnc1OC"
+    },
+    {
+      "input": "CC(=O)N1N/C(=C2/C(=O)NC(=O)N(c3cc(C)cc(C)c3)C2=O)C[C@H]1c1cccs1",
+      "rebuilt": "CC(=O)N1NC(C2C(=O)NC(=O)N(c3cc(C)cc(C)c3)C2=O)C[C@H]1c1cccs1"
+    },
+    {
+      "input": "CC(C)CCn1cnc2sc3c(c2c1=O)CC[C@H]([NH+](C)CCc1cnn(C)c1)C3",
+      "rebuilt": "CC(C)CCn1cnc2sc3c(c2c1=O)CC[C@@H]([NH+](C)CCc1cnn(C)c1)C3"
+    },
+    {
+      "input": "CC(C)NC(=O)[C@@H]1OCC(=O)N(C)[C@H]1c1cccc(F)c1",
+      "rebuilt": "CC(C)NC(=O)[C@@H]1OCC(=O)N(C)[C@@H]1c1cccc(F)c1"
+    },
+    {
+      "input": "Cc1n[nH]c(S[C@@H](C)c2nc(-c3cccs3)no2)n1",
+      "rebuilt": "Cc1n[nH]c(S[C@H](C)c2nc(-c3cccs3)no2)n1"
+    },
+    {
+      "input": "C[C@@H](OC(=O)c1scnc1C1CC1)c1cccc(F)c1",
+      "rebuilt": "C[C@H](OC(=O)c1scnc1C1CC1)c1cccc(F)c1"
+    },
+    {
+      "input": "C[C@H](Cn1cccn1)NC(=O)[C@@H]1CC(=O)N(Cc2ccco2)C1",
+      "rebuilt": "C[C@@H](Cn1cccn1)NC(=O)[C@@H]1CC(=O)N(Cc2ccco2)C1"
+    },
+    {
+      "input": "C[C@@H](CNC(=O)c1ccccc1)Nc1ccccc1",
+      "rebuilt": "C[C@H](CNC(=O)c1ccccc1)Nc1ccccc1"
+    },
+    {
+      "input": "CCCc1cc(=O)[nH]c(SCC(=O)N(C)[C@@H](C)c2nc3ccccc3s2)n1",
+      "rebuilt": "CCCc1cc(=O)[nH]c(SCC(=O)N(C)[C@H](C)c2nc3ccccc3s2)n1"
+    },
+    {
+      "input": "CC(C)Cc1nnc(NC(=O)N2CCC[C@H](C)[C@@H]2CO)s1",
+      "rebuilt": "CC(C)Cc1nnc(NC(=O)N2CCC[C@H](C)[C@H]2CO)s1"
+    },
+    {
+      "input": "C[C@H]1C[C@@H]1c1ccc(CN2CCOC[C@@H]2C[C@H](O)c2cccs2)o1",
+      "rebuilt": "C[C@H]1C[C@@H]1c1ccc(CN2CCOC[C@H]2C[C@@H](O)c2cccs2)o1"
+    },
+    {
+      "input": "CCC[C@H](C)NC(=O)[C@H](C)N1CCN(C(=O)c2ccco2)CC1",
+      "rebuilt": "CCC[C@H](C)NC(=O)[C@@H](C)N1CCN(C(=O)c2ccco2)CC1"
+    },
+    {
+      "input": "CC/C=C(\\C)[C@@H](O)[C@H](C)C(N)=O",
+      "rebuilt": "CCCC(C)[C@@H](O)[C@H](C)C(N)=O"
+    },
+    {
+      "input": "O=C(CC1C[C@@H]2CC[C@H](C1)[NH2+]2)N1CCCC[C@H]1CCO",
+      "rebuilt": "O=C(CC1C[C@H]2CC[C@@H](C1)[NH2+]2)N1CCCC[C@@H]1CCO"
+    },
+    {
+      "input": "O=C1/C(=C/C2=NC=CC2)c2ccccc2N1c1ccccc1",
+      "rebuilt": "O=C1C(CC2=NC=CC2)c2ccccc2N1c1ccccc1"
+    },
+    {
+      "input": "N#Cc1c(NC(=O)c2cnn3c2N[C@@H](c2ccco2)C[C@H]3C(F)(F)F)sc2c1CCC2",
+      "rebuilt": "N#Cc1c(NC(=O)c2cnn3c2N[C@H](c2ccco2)C[C@H]3C(F)(F)F)sc2c1CCC2"
+    },
+    {
+      "input": "CCOc1ccc(C(=O)N(C)C)cc1NC(=O)N[C@H]1C[C@H]1c1ccccc1",
+      "rebuilt": "CCOc1ccc(C(=O)N(C)C)cc1NC(=O)N[C@H]1C[C@@H]1c1ccccc1"
+    },
+    {
+      "input": "NC(=O)C[C@H](NS(=O)(=O)c1cccc2nsnc12)C1CCCCC1",
+      "rebuilt": "NC(=O)C[C@@H](NS(=O)(=O)c1cccc2nsnc12)C1CCCCC1"
+    },
+    {
+      "input": "COC(=O)[C@]1(N)CCC[C@@H]1CCSc1cccc(C)c1",
+      "rebuilt": "COC(=O)[C@]1(N)CCC[C@H]1CCSc1cccc(C)c1"
+    },
+    {
+      "input": "COc1cc(OC)cc(N2C[C@H](C(=O)N(C)Cc3ccccc3)CC2=O)c1",
+      "rebuilt": "COc1cc(OC)cc(N2C[C@@H](C(=O)N(C)Cc3ccccc3)CC2=O)c1"
+    },
+    {
+      "input": "Cc1nccn1-c1cncc(N[C@@H]2CCCC[C@H]2n2cccn2)n1",
+      "rebuilt": "Cc1nccn1-c1cncc(N[C@@H]2CCCC[C@@H]2n2cccn2)n1"
+    },
+    {
+      "input": "O=C1N[C@@H](c2ccc3c(c2)OCO3)[C@@H](C(=O)c2cccnc2)[C@@](O)(C(F)(F)F)N1",
+      "rebuilt": "O=C1N[C@@H](c2ccc3c(c2)OCO3)[C@H](C(=O)c2cccnc2)[C@@](O)(C(F)(F)F)N1"
+    },
+    {
+      "input": "Cc1ccc([C@]2(c3ccccc3)NC(=O)N(CN3CCN(C(=O)C4CC4)CC3)C2=O)cc1C",
+      "rebuilt": "Cc1ccc([C@@]2(c3ccccc3)NC(=O)N(CN3CCN(C(=O)C4CC4)CC3)C2=O)cc1C"
+    },
+    {
+      "input": "C[C@@H](CC(=O)Nc1cccc(F)c1)[NH2+]C[C@H](O)c1c(F)cccc1F",
+      "rebuilt": "C[C@H](CC(=O)Nc1cccc(F)c1)[NH2+]C[C@@H](O)c1c(F)cccc1F"
+    },
+    {
+      "input": "C[C@H](NC(=O)c1ccc2c(c1)C(=O)N(C[C@@H]1CCCO1)C2=O)c1cccc2ccccc12",
+      "rebuilt": "C[C@@H](NC(=O)c1ccc2c(c1)C(=O)N(C[C@@H]1CCCO1)C2=O)c1cccc2ccccc12"
+    },
+    {
+      "input": "C[C@]1(c2ccc(F)cc2F)NC(=O)N(CCOc2ccccc2)C1=O",
+      "rebuilt": "C[C@@]1(c2ccc(F)cc2F)NC(=O)N(CCOc2ccccc2)C1=O"
+    },
+    {
+      "input": "CCOC(=O)C1=C(C(F)(F)F)NC(=O)C[C@@H]1c1ccc([N+](=O)[O-])cc1",
+      "rebuilt": "CCOC(=O)C1=C(C(F)(F)F)NC(=O)C[C@H]1c1ccc([N+](=O)[O-])cc1"
+    },
+    {
+      "input": "COc1ccccc1C[C@@H](C)NCc1cc(C(N)=O)cs1",
+      "rebuilt": "COc1ccccc1C[C@H](C)NCc1cc(C(N)=O)cs1"
+    },
+    {
+      "input": "C[NH2+][C@@]1(C(=O)[O-])CCC[C@H]([NH+]2CCCCCC2)C1",
+      "rebuilt": "C[NH2+][C@]1(C(=O)[O-])CCC[C@H]([NH+]2CCCCCC2)C1"
+    },
+    {
+      "input": "CC(C)[C@@H]([NH2+]C[C@H](C)CO)c1cccc(C(F)(F)F)c1",
+      "rebuilt": "CC(C)[C@H]([NH2+]C[C@H](C)CO)c1cccc(C(F)(F)F)c1"
+    },
+    {
+      "input": "C[C@@H](C(=O)N1CCC(NC(N)=O)CC1)c1ccc2ccccc2c1",
+      "rebuilt": "C[C@H](C(=O)N1CCC(NC(N)=O)CC1)c1ccc2ccccc2c1"
+    },
+    {
+      "input": "CCCCn1ncc(C(=O)N[C@@H](CO)c2ccco2)c1C",
+      "rebuilt": "CCCCn1ncc(C(=O)N[C@H](CO)c2ccco2)c1C"
+    },
+    {
+      "input": "Cc1c2c(cc3c1O/C(=C\\c1ccccc1Cl)C3=O)CN(Cc1cccnc1)CO2",
+      "rebuilt": "Cc1c2c(cc3c1OC(Cc1ccccc1Cl)C3=O)CN(Cc1cccnc1)CO2"
+    },
+    {
+      "input": "CCS[C@@H]1CCC[C@@H]1NC(=O)c1ccc(OCC(F)F)nc1",
+      "rebuilt": "CCS[C@@H]1CCC[C@H]1NC(=O)c1ccc(OCC(F)F)nc1"
+    },
+    {
+      "input": "C[NH+](C)[C@@H]1CC[C@H](NC(=O)Nc2cnn(C(C)(C)C)c2)C1",
+      "rebuilt": "C[NH+](C)[C@@H]1CC[C@@H](NC(=O)Nc2cnn(C(C)(C)C)c2)C1"
+    },
+    {
+      "input": "N#C[C@H]1COCCN1C(=O)[C@@H]1C[C@@H]1c1ccc(C(F)(F)F)cc1",
+      "rebuilt": "N#C[C@H]1COCCN1C(=O)[C@@H]1C[C@H]1c1ccc(C(F)(F)F)cc1"
+    },
+    {
+      "input": "CCNC(=O)C1CCN(C(=O)/C=C(/C)c2cccc(C(F)(F)F)c2)CC1",
+      "rebuilt": "CCNC(=O)C1CCN(C(=O)CC(C)c2cccc(C(F)(F)F)c2)CC1"
+    },
+    {
+      "input": "C[C@H](C(=O)N(Cc1ccccn1)c1ccc(Cl)cc1)n1cncn1",
+      "rebuilt": "C[C@@H](C(=O)N(Cc1ccccn1)c1ccc(Cl)cc1)n1cncn1"
+    },
+    {
+      "input": "CCC1(CC)[C@@H]([NH2+]Cc2ccc(C(=O)NC)cc2)[C@H](C)[C@@H]1OC",
+      "rebuilt": "CCC1(CC)[C@H]([NH2+]Cc2ccc(C(=O)NC)cc2)[C@H](C)[C@@H]1OC"
+    },
+    {
+      "input": "C[C@H](NC(=O)N(CCC(F)(F)F)C1CCCC1)c1nc2ccccc2[nH]1",
+      "rebuilt": "C[C@@H](NC(=O)N(CCC(F)(F)F)C1CCCC1)c1nc2ccccc2[nH]1"
+    },
+    {
+      "input": "C=CCS(=O)(=O)/N=C([O-])/C=C/c1ccc(-c2ccc(F)cc2)s1",
+      "rebuilt": "C=CCS(=O)(=O)/N=C(\\[O-])CCc1ccc(-c2ccc(F)cc2)s1"
+    },
+    {
+      "input": "CC(=O)N1CCNC[C@@H]1c1ccc(C(=O)[O-])cc1",
+      "rebuilt": "CC(=O)N1CCNC[C@H]1c1ccc(C(=O)[O-])cc1"
+    },
+    {
+      "input": "COC(=O)/C(Br)=C/c1cccc(/C=C(\\Br)C(=O)OC)c1",
+      "rebuilt": "COC(=O)C(Br)Cc1cccc(CC(Br)C(=O)OC)c1"
+    },
+    {
+      "input": "c1ccc(Cn2nnnc2[C@@H](c2ccccc2)N2CC[NH+](Cc3ccncc3)CC2)cc1",
+      "rebuilt": "c1ccc([C@H](N2CC[NH+](Cc3ccncc3)CC2)N2CC[NH+](c3ccccc3)CC2)cc1"
+    },
+    {
+      "input": "CCC[C@H](C)NC(=O)[C@H](C)Nc1ccc(N2CCCC2)c(F)c1",
+      "rebuilt": "CCC[C@H](C)NC(=O)[C@@H](C)Nc1ccc(N2CCCC2)c(F)c1"
+    },
+    {
+      "input": "N#Cc1ccc(F)c(CN2CCC[C@H]2c2ccc3c(c2)OCCO3)c1",
+      "rebuilt": "N#Cc1ccc(F)c(CN2CCC[C@@H]2c2ccc3c(c2)OCCO3)c1"
+    },
+    {
+      "input": "COCCN1C[C@H](C(=O)Nc2ccc(-c3cc[nH]n3)cc2)CC1=O",
+      "rebuilt": "COCCN1C[C@@H](C(=O)Nc2ccc(-c3cc[nH]n3)cc2)CC1=O"
+    },
+    {
+      "input": "CCS(=O)(=O)c1cccc(NC(=O)/C=C(/C)C(C)(C)C)c1",
+      "rebuilt": "CCS(=O)(=O)c1cccc(NC(=O)CC(C)C(C)(C)C)c1"
+    },
+    {
+      "input": "O[C@]1(C(F)(F)F)CC[NH+](Cc2c[nH]nc2-c2cccc(Cl)c2)C1",
+      "rebuilt": "O[C@@]1(C(F)(F)F)CC[NH+](Cc2c[nH]nc2-c2cccc(Cl)c2)C1"
+    },
+    {
+      "input": "CC(C)c1csc(/C(C#N)=C\\c2csc(-c3ccc(F)cc3)n2)n1",
+      "rebuilt": "CC(C)c1csc(C(C#N)Cc2csc(-c3ccc(F)cc3)n2)n1"
+    },
+    {
+      "input": "C#CCOc1ccc2ccccc2c1C[NH+]1CCCC[C@H]1c1ncon1",
+      "rebuilt": "C#CCOc1ccc2ccccc2c1C[NH+]1CCCC[C@@H]1c1ncon1"
+    },
+    {
+      "input": "Cc1cc(F)ccc1CCNC(=O)NC[C@H]1CCO[C@@H]1C(C)(C)C",
+      "rebuilt": "Cc1cc(F)ccc1CCNC(=O)NC[C@H]1CCO[C@H]1C(C)(C)C"
+    },
+    {
+      "input": "CCOc1ccc(N2C(=O)S/C(=C/c3ccc(-c4ccccc4[N+](=O)[O-])o3)C2=O)cc1",
+      "rebuilt": "CCOc1ccc(N2C(=O)SC(Cc3ccc(-c4ccccc4[N+](=O)[O-])o3)C2=O)cc1"
+    },
+    {
+      "input": "C[C@H](NC(=O)Cn1cc(-c2ccccc2)nn1)c1ccc(Cl)s1",
+      "rebuilt": "C[C@@H](NC(=O)Cn1cc(-c2ccccc2)nn1)c1ccc(Cl)s1"
+    },
+    {
+      "input": "CCc1nc(CC(=O)N2CCOC[C@H]2c2ncon2)cs1",
+      "rebuilt": "CCc1nc(CC(=O)N2CCOC[C@@H]2c2ncon2)cs1"
+    },
+    {
+      "input": "CCS[C@@H]1CC[C@H](NC(=O)Nc2ccccc2-n2nc(C)nc2C)C1",
+      "rebuilt": "CCS[C@@H]1CC[C@@H](NC(=O)Nc2ccccc2-n2nc(C)nc2C)C1"
+    }
+  ],
+  "parser_tests": 4,
+  "original_core_equivalence_tests": 6
+}

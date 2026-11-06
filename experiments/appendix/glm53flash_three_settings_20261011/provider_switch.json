@@ -1,0 +1,9 @@
+{
+  "epoch": "official_1791769965735541873",
+  "upstream": "https://open.bigmodel.cn/api/paas/v4",
+  "time": 1791770040.932909,
+  "model": "glm-5.3-flash",
+  "reason": "User requested official key",
+  "previous_results_preserved": true,
+  "scientific_workers_stopped": 0
+}

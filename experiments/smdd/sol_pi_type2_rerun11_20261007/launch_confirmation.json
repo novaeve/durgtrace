@@ -1,0 +1,21 @@
+{
+  "started": true,
+  "pid": 692631,
+  "expected": 11,
+  "workers": 2,
+  "phase": "full",
+  "original_results_unchanged": true,
+  "active_tasks": [
+    {
+      "task": "smdd_002_P00742_0",
+      "worker_pid": 694119,
+      "api_calls": 47
+    },
+    {
+      "task": "smdd_002_P22303_0",
+      "worker_pid": 694142,
+      "api_calls": 24
+    }
+  ],
+  "time": 1791383676.701852
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "method": "chatdrug",
+    "task": "smdd_004_ABL1_6",
+    "original_output": "/home/chenfuxin/smdd-migration/smdd-assets/experiments/type4_full340_bailian_20260929/chatdrug/run/smdd_004_ABL1_6",
+    "original_result": "/home/chenfuxin/smdd-migration/smdd-assets/experiments/type4_full340_bailian_20260929/chatdrug/evaluator/smdd_004_ABL1_6/result.json",
+    "output": "/data2/chenfuxin/smdd_rescore_20261004/jobs/chatdrug/smdd_004_ABL1_6",
+    "solution_sha256": "51614ab41614650325581ccccd5d68a21df0e0117abb17c3154b68c9d51099e1"
+  },
+  {
+    "method": "chatdrug",
+    "task": "smdd_004_CYP1B1_0",
+    "original_output": "/home/chenfuxin/smdd-migration/smdd-assets/experiments/type4_full340_bailian_20260929/chatdrug/run/smdd_004_CYP1B1_0",
+    "original_result": "/home/chenfuxin/smdd-migration/smdd-assets/experiments/type4_full340_bailian_20260929/chatdrug/evaluator/smdd_004_CYP1B1_0/result.json",
+    "output": "/data2/chenfuxin/smdd_rescore_20261004/jobs/chatdrug/smdd_004_CYP1B1_0",
+    "solution_sha256": "292d1f895f2b335e7acd93ed8686572e08c00356fde9dc836433dcdfb8364e73"
+  },
+  {
+    "method": "chatdrug",
+    "task": "smdd_004_CYP1B1_17",
+    "original_output": "/home/chenfuxin/smdd-migration/smdd-assets/experiments/type4_full340_bailian_20260929/chatdrug/run/smdd_004_CYP1B1_17",
+    "original_result": "/home/chenfuxin/smdd-migration/smdd-assets/experiments/type4_full340_bailian_20260929/chatdrug/evaluator/smdd_004_CYP1B1_17/result.json",
+    "output": "/data2/chenfuxin/smdd_rescore_20261004/jobs/chatdrug/smdd_004_CYP1B1_17",
+    "solution_sha256": "1de90ec4dcde68ecc5cd2a9f9c9fde52d1f6c03416504f9b54ecacae10654aac"
+  },
+  {
+    "method": "agentdrug",
+    "task": "smdd_004_DHFR_22",
+    "original_output": "/home/chenfuxin/smdd-migration/smdd-assets/experiments/type4_full340_bailian_20260929/agentdrug/run/smdd_004_DHFR_22",
+    "original_result": "/home/chenfuxin/smdd-migration/smdd-assets/experiments/type4_full340_bailian_20260929/agentdrug/evaluator/smdd_004_DHFR_22/result.json",
+    "output": "/data2/chenfuxin/smdd_rescore_20261004/jobs/agentdrug/smdd_004_DHFR_22",
+    "solution_sha256": "00c27163f309dc8c380a1053f13c18d239233a473f1d08d5c72c316ef79533a7"
+  },
+  {
+    "method": "agentdrug",
+    "task": "smdd_004_DHODH_14",
+    "original_output": "/home/chenfuxin/smdd-migration/smdd-assets/experiments/type4_full340_bailian_20260929/agentdrug/run/smdd_004_DHODH_14",
+    "original_result": "/home/chenfuxin/smdd-migration/smdd-assets/experiments/type4_full340_bailian_20260929/agentdrug/evaluator/smdd_004_DHODH_14/result.json",
+    "output": "/data2/chenfuxin/smdd_rescore_20261004/jobs/agentdrug/smdd_004_DHODH_14",
+    "solution_sha256": "ac7c65f22814cbbeffb61df72af99fb11f25a0516bfa0f8fa5f56a3532ad88e3"
+  },
+  {
+    "method": "liddia",
+    "task": "smdd_004_ABL1_11",
+    "original_output": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_ABL1_11",
+    "original_result": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_ABL1_11/evaluation/result.json",
+    "output": "/data2/chenfuxin/smdd_rescore_20261004/jobs/liddia/smdd_004_ABL1_11",
+    "solution_sha256": "91c233234dd825d3706312965aeae0032f9db195a5c5e6e592aadd0306a1281e"
+  },
+  {
+    "method": "liddia",
+    "task": "smdd_004_ACE_6",
+    "original_output": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_ACE_6",
+    "original_result": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_waitresume3/smdd_004_ACE_6/evaluation/result.json",
+    "output": "/data2/chenfuxin/smdd_rescore_20261004/jobs/liddia/smdd_004_ACE_6",
+    "solution_sha256": "fda7d97e408fab99a12405ec3a89fa6e8d10c6e8d00dd9e0e613c858aa6163fa"
+  },
+  {
+    "method": "liddia",
+    "task": "smdd_004_CA2_17",
+    "original_output": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_parallel3/smdd_004_CA2_17",
+    "original_result": "/data2/chenfuxin/liddia_smdd_type4_20260928/runs/full_type4_parallel3/smdd_004_CA2_17/evaluation/result.json",
+    "output": "/data2/chenfuxin/smdd_rescore_20261004/jobs/liddia/smdd_004_CA2_17",
+    "solution_sha256": "24b28491f403d82d5323dc1280d10947dd1a8fca49da225e380c2382970b6fd8"
+  }
+]

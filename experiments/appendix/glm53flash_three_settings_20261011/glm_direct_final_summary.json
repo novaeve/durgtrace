@@ -1,0 +1,72 @@
+{
+  "method": "GLM_direct",
+  "processed": 4200,
+  "expected": 4200,
+  "groups": [
+    {
+      "setting": "1_original_chatdrug",
+      "property": "LogP",
+      "expected": 800,
+      "processed": 800,
+      "success": 743,
+      "statuses": {
+        "complete": 800
+      }
+    },
+    {
+      "setting": "1_original_chatdrug",
+      "property": "QED",
+      "expected": 800,
+      "processed": 800,
+      "success": 455,
+      "statuses": {
+        "complete": 800
+      }
+    },
+    {
+      "setting": "2_s2_prompt_chatdrug",
+      "property": "LogP",
+      "expected": 800,
+      "processed": 800,
+      "success": 764,
+      "statuses": {
+        "complete": 800
+      }
+    },
+    {
+      "setting": "2_s2_prompt_chatdrug",
+      "property": "QED",
+      "expected": 800,
+      "processed": 800,
+      "success": 460,
+      "statuses": {
+        "provider_limit": 61,
+        "complete": 739
+      }
+    },
+    {
+      "setting": "3_original_s2",
+      "property": "LogP",
+      "expected": 500,
+      "processed": 500,
+      "success": 348,
+      "statuses": {
+        "complete": 382,
+        "provider_limit": 118
+      }
+    },
+    {
+      "setting": "3_original_s2",
+      "property": "QED",
+      "expected": 500,
+      "processed": 500,
+      "success": 138,
+      "statuses": {
+        "complete": 188,
+        "provider_limit": 312
+      }
+    }
+  ],
+  "uncapped_retry_cases": 1120,
+  "updated": 1791772384.4434268
+}

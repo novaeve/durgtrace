@@ -1,0 +1,12 @@
+{
+  "base_url": "https://tok.fan/v1",
+  "model": "glm-5.3-flash",
+  "epoch": "relay_1791701288",
+  "time": 1791701300.328022,
+  "main_max_concurrency": 96,
+  "main_initial_concurrency": 64,
+  "codex_workers": 64,
+  "reasoning_effort": "low",
+  "key_kept_only_on_cpu": true,
+  "finished_results_preserved": true
+}

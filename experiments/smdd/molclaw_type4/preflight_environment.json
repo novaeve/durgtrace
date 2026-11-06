@@ -1,0 +1,10 @@
+{
+  "started": 1791044055.736208,
+  "tasks": 340,
+  "model_api_called": false,
+  "gpu": "0, NVIDIA A100-SXM4-80GB, 81920 MiB, 81152 MiB\n1, NVIDIA A100-SXM4-80GB, 81920 MiB, 81152 MiB\n",
+  "node": "v22.23.2\n",
+  "claude": "2.1.281 (Claude Code)\n",
+  "gpu_python": "2.13.0+cu130 /yimin/zlc/molclaw_type4_20261003/rootfs/opt/conda/lib/python3.10/site-packages/boltz/__init__.py\nNVIDIA A100-SXM4-80GB\nNVIDIA A100-SXM4-80GB\n",
+  "ended": 1791044063.0076938
+}

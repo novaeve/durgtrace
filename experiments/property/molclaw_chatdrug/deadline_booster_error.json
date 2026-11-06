@@ -1,0 +1,4 @@
+{
+  "time": 1791864887.859176,
+  "traceback": "Traceback (most recent call last):\n  File \"/home/zlc/molclaw_chatdrug_aligned_20261012/deadline_booster.py\", line 56, in <module>\n    try:main()\n  File \"/home/zlc/molclaw_chatdrug_aligned_20261012/deadline_booster.py\", line 27, in main\n    cfg=json.loads((R/'deadline_control.json').read_text());now=time.time()\n  File \"/home/zlc/molclaw_chatdrug_aligned_20261012/bundle/pythonroot/lib/python3.10/pathlib.py\", line 1134, in read_text\n    with self.open(mode='r', encoding=encoding, errors=errors) as f:\n  File \"/home/zlc/molclaw_chatdrug_aligned_20261012/bundle/pythonroot/lib/python3.10/pathlib.py\", line 1119, in open\n    return self._accessor.open(self, mode, buffering, encoding, errors,\nOSError: [Errno 24] Too many open files: '/home/zlc/molclaw_chatdrug_aligned_20261012/deadline_control.json'\n"
+}

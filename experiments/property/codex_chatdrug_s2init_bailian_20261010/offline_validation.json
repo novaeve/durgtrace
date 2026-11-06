@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "cases": 1600,
+  "pilot_cases": 8,
+  "native_cli": "codex-cli 0.149.0",
+  "sandbox": {
+    "rdkit": "2022.09.4",
+    "logp": -0.0014000000000000123,
+    "qed": 0.40680796565539457,
+    "hidden_files_absent": true
+  },
+  "directional_controls_passed": true,
+  "amplitude_ignored_control_passed": true,
+  "single_submission_parser_verified": true,
+  "loop_guard_verified": true,
+  "provider": "Bailian",
+  "model": "deepseek-v4.1-flash",
+  "provider_host": "ws-ucxu0ixh6lwfu9m0.cn-beijing.maas.aliyuncs.com"
+}
